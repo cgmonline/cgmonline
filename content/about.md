@@ -13,7 +13,19 @@ menu: [main, top]
 
 Chinese Genomics online Meet-up (CGM) was launched by several young Chinese scientists living in North America in January 2017.  The goal of CGM is to promote the communication and cooperation among the Chinese researchers whose primary research interest focusing on plant genomics. We welcome Chinese undergraduate, graduate students, postdocs, and young faculties working on Plant Molecular Biology, Genetics, Genomics, Bioinformatics, Biostatistics and Evolutionary Biology to join us. CGM is a bi-weekly activity in Chinese, you can follow us by subscribe our email-list or follow us on YouTube. 
 
+# 视频和PPT要求：
+
+- 要求提供视频讲座的同学提供一个200字以内的简单介绍。
+- 建议10-15分钟，最长不超过半个小时。
+- ppt内容要求可以共享。如果存在未发表数据，请谨慎。
+- 汇报中英文皆可。提问和讨论推荐以中文为主。
+- 如何设置你的直播：[直播说明](ttps://docs.google.com/document/d/1fxmuZwoLearelWj2G1jK_wGcFdSQQ_0wVWC1YwgjkcM/edit?usp=sharing)
+- 给演讲者的指导建议：[链接](https://docs.google.com/document/d/1pGoB_LCvdC84P2ZpEXBKeUES1g2rDvC2EmfOPRo-KiI/edit?usp=sharing)
 
 # 联系我们
 
-- Email：contact@cosx.org
+- Email: yangjl0930@gmail.com 或 qxs718@gmail.com
+
+
+
+

@@ -25,7 +25,7 @@ footnotereturnlinkcontents = "↩"
 
 [[menu.top]]
   name = "预告"
-  url = "/coming"
+  url = "/coming/"
   weight = 3
 
 [[menu.top]]
@@ -63,11 +63,10 @@ footnotereturnlinkcontents = "↩"
   title_tags = "关键词列表"
 
 [params]
-	copyright = "统计之都 版权所有 2006 - 2017"
-	description = "中国统计学门户网站，免费统计学服务平台"
+	copyright = "北美华人基因组学在线沙龙 2017"
+	description = "基因组学在线讨论平台"
 
-  summary_length = 200
-  github_edit = "https://github.com/cosname/cosx.org/edit/master/content/"
-  comment_url = "https://d.cosx.org/d/"
-  comment_embed_url = "https://d.cosx.org/embed/"
-  footer = "&copy; [统计之都](https://cosx.org) 2006 - 2017 | [Github](https://github.com/cosname) | [Twitter](https://twitter.com/cos_name) | [Google+](https://plus.google.com/110727350576315935180) | [LinkedIn](https://www.linkedin.com/groups/4564122)"
+  summary_length = 100
+  github_edit = "https://github.com/cgmonline/cgmonline/edit/master/content/"
+
+  footer = "&copy; 北美华人基因组学在线沙龙 2017 | [Github](https://github.com/cgmonline) | [YouTuBe](https://www.youtube.com/channel/UCk4tsPZOzGkP2IaU4YvUG_g)"
