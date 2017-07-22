@@ -8,7 +8,7 @@ tags: [maize, deleterious, GWAS, GS]
 
 - 时间：2017年三月一号（星期三），美西时间下午六点
 - 地点：Youtube live stream
-- 主讲人：[杨金良](http://jyanglab.com)（Univ. of Nebraska-Lincoln助理教授）
+- 主讲人：[杨金良](http://jyanglab.com)
 
 # 摘要：
 中文摘要，于是可以搞得文艺一点。   
