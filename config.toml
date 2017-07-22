@@ -1,0 +1,68 @@
+baseurl = "/"
+languageCode = "zh-CN"
+title = "北美华人基因组学在线沙龙"
+theme = "hugo-xmag"
+disqusShortname = ""
+googleAnalytics = ""
+paginate = 6
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+hasCJKLanguage = true
+enableEmoji = true
+preserveTaxonomyNames = true
+footnotereturnlinkcontents = "↩"
+
+[blackfriday]
+  extensionsmask = ["noIntraEmphasis"]
+
+[permalinks]
+  post = "/:year/:month/:slug/"
+
+
+[[menu.top]]
+  name = "首页"
+  url = "/"
+  weight = 1
+
+[[menu.top]]
+  name = "论坛"
+  url = "https://d.cosx.org"
+  weight = 3
+
+[[menu.top]]
+  name = "投稿"
+  url = "/contribute/"
+  weight = 4
+
+[params.banner]
+  src = "/img/logo.png"
+  alt = "统计之都 标志"
+
+[[params.banner.source]]
+  media = "(min-width: 715px)"
+  srcset = "/img/logo-wide.png"
+
+[[params.banner.source]]
+  media = "(max-width: 380px)"
+  srcset = "/img/logo-80.png"
+
+[params.text]
+  about_author = "关于作者"
+  author_delimiter = " / "
+  back = "&larr; 返回首页"
+  edit = "编辑本页 &rarr;"
+  tags = "关键词："
+  comment = "发表/查看评论"
+  truncated = "&hellip;&hellip;"
+  uncategorized = "未分类"
+  title_categories = "栏目分类"
+  title_tags = "关键词列表"
+
+[params]
+	copyright = "统计之都 版权所有 2006 - 2017"
+	description = "中国统计学门户网站，免费统计学服务平台"
+
+  summary_length = 200
+  github_edit = "https://github.com/cosname/cosx.org/edit/master/content/"
+  comment_url = "https://d.cosx.org/d/"
+  comment_embed_url = "https://d.cosx.org/embed/"
+  footer = "&copy; [统计之都](https://cosx.org) 2006 - 2017 | [Github](https://github.com/cosname) | [Twitter](https://twitter.com/cos_name) | [Google+](https://plus.google.com/110727350576315935180) | [LinkedIn](https://www.linkedin.com/groups/4564122)"
