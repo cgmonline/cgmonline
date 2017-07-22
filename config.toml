@@ -24,18 +24,23 @@ footnotereturnlinkcontents = "↩"
   weight = 1
 
 [[menu.top]]
-  name = "论坛"
-  url = "https://d.cosx.org"
+  name = "预告"
+  url = "/coming"
   weight = 3
 
 [[menu.top]]
-  name = "投稿"
+  name = "征集志愿者"
   url = "/contribute/"
+  weight = 4
+
+[[menu.top]]
+  name = "注册"
+  url = "/subscribe/"
   weight = 4
 
 [params.banner]
   src = "/img/logo.png"
-  alt = "统计之都 标志"
+  alt = "CGM标志"
 
 [[params.banner.source]]
   media = "(min-width: 715px)"
