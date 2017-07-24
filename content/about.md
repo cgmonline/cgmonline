@@ -27,5 +27,4 @@ Chinese Genomics online Meet-up (CGM) was launched by several young Chinese scie
 - Email: yangjl0930@gmail.com 或 qxs718@gmail.com
 
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=582o5mju62q&amp;m=0&amp;s=220&amp;c=ff00ff&amp;cr1=ffffff&amp;f=arial&amp;l=0" async="async"></script>
-
+{{< importPartial "visitor.html" >}}
