@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/about/</loc>
+    <lastmod>2017-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/search/</loc>
+  </url>
+  
+  <url>
+    <loc>/coming/</loc>
+  </url>
+  
+  <url>
+    <loc>/contribute/</loc>
+    <lastmod>2017-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/subscribe/</loc>
+    <lastmod>2017-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/salon/</loc>
+    <lastmod>2017-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/07/cgm-%E7%AC%AC10%E6%9C%9Funbiased-k-mer-analysis-for-comparative-genomics/</loc>
+    <lastmod>2017-07-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/members/</loc>
+    <lastmod>2017-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/07/cgm-%E7%AC%AC9%E6%9C%9Fthe-cause-and-consequence-of-alternative-splicing-in-maize-and-across-species/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/06/cgm-%E7%AC%AC8%E6%9C%9F%E6%80%8E%E6%A0%B7%E6%8F%90%E9%AB%98%E8%8B%B1%E6%96%87%E7%A7%91%E6%8A%80%E8%AE%BA%E6%96%87%E7%9A%84%E5%86%99%E4%BD%9C/</loc>
+    <lastmod>2017-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/05/cgm-%E7%AC%AC7%E6%9C%9Frapidly-define-crop-gene-functions-using-setaria-viridis-as-a-model/</loc>
+    <lastmod>2017-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/05/cgm-%E7%AC%AC6%E6%9C%9F%E5%9F%BA%E4%BA%8E%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%8F%8A%E6%B5%81%E7%A8%8B%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2017-05-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/04/cgm-%E7%AC%AC5%E6%9C%9F%E7%99%BD%E8%8F%9C%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F/</loc>
+    <lastmod>2017-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/04/cgm-%E7%AC%AC4%E6%9C%9Fcomparative-genomics-approaches-accurately-predict-deleterious-variants-in-plants/</loc>
+    <lastmod>2017-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/03/cgm-%E7%AC%AC3%E6%9C%9F%E6%A4%8D%E7%89%A9%E7%9A%84%E5%BE%AE%E7%94%9F%E7%89%A9%E4%B8%96%E7%95%8C/</loc>
+    <lastmod>2017-03-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/03/cgm-%E7%AC%AC2%E6%9C%9F%E4%BD%9C%E7%89%A9%E9%A9%AF%E5%8C%96%E7%9A%84%E8%BF%9B%E5%8C%96%E9%81%97%E4%BC%A0%E5%AD%A6%E5%B1%95%E6%9C%9B/</loc>
+    <lastmod>2017-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/03/cgm-%E7%AC%AC1%E6%9C%9F%E4%BB%A5%E6%A4%8D%E7%89%A9%E8%BF%9B%E5%8C%96%E5%8F%B2%E4%B8%BA%E9%89%B4%E9%A2%84%E6%B5%8B%E6%9C%AA%E6%9D%A5%E4%BC%98%E8%89%AF%E4%BD%9C%E7%89%A9/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bigdata/</loc>
+    <lastmod>2017-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/biology/</loc>
+    <lastmod>2017-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/computation/</loc>
+    <lastmod>2017-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/deleterious/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/discuss/</loc>
+    <lastmod>2017-06-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/domestication/</loc>
+    <lastmod>2017-04-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/evolution/</loc>
+    <lastmod>2017-04-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/function/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/gs/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/gwas/</loc>
+    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/github/</loc>
+    <lastmod>2017-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/k-mer/</loc>
+    <lastmod>2017-07-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/laternative-splicing/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/maize/</loc>
+    <lastmod>2017-07-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mapping/</loc>
+    <lastmod>2017-07-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/microbiome/</loc>
+    <lastmod>2017-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ngs/</loc>
+    <lastmod>2017-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/paper/</loc>
+    <lastmod>2017-06-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/plants/</loc>
+    <lastmod>2017-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2017-07-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rapa/</loc>
+    <lastmod>2017-04-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/repeats/</loc>
+    <lastmod>2017-07-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/setaria/</loc>
+    <lastmod>2017-05-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2017-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/writing/</loc>
+    <lastmod>2017-06-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/%E4%B8%93%E9%A2%98%E8%AE%A8%E8%AE%BA/</loc>
+    <lastmod>2017-06-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2017-07-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</loc>
+    <lastmod>2017-07-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/archives/</loc>
+  </url>
+  
+</urlset>
