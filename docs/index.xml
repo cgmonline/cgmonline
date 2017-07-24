@@ -157,12 +157,12 @@
     </item>
     
     <item>
-      <title>文章列表</title>
+      <title>讨论列表</title>
       <link>/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/archives/</guid>
-      <description>统计之都所有历史文章汇总如下： 2017 2017/07/16 CGM 第10期：Unbiased k-mer Analysis for Comparative Genomics 2017/07/05 CGM 第9期：The cause and consequence of alternative splicing in maize and across species 2017/06/21 CGM 第8期：怎样提高英文科技</description>
+      <description>北美华人基因组学在线沙龙所有历史讨论章汇总如下： 2017 2017/07/16 CGM 第10期：Unbiased k-mer Analysis for Comparative Genomics 2017/07/05 CGM 第9期：The cause and consequence of alternative splicing in maize and across species 2017/06/21 CGM 第8期</description>
     </item>
     
   </channel>
