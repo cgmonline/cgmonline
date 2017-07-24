@@ -10,6 +10,7 @@ hasCJKLanguage = true
 enableEmoji = true
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
+publishDir = "docs"
 
 [blackfriday]
   extensionsmask = ["noIntraEmphasis"]
