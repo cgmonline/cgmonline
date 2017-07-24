@@ -1,0 +1,27 @@
+https://master--cosx.netlify.com/*   https://cosx.org/:splat  301!
+
+/flarum/*                          https://d.cosx.org/:splat
+
+/2017/05/work-with-cos/            /contribute/
+/2008/11/how-to-work-with-cos-2/   /contribute/
+/2008/11/how-to-work-with-cos/     /contribute/
+/2017/02/a-new-r-markdown-ppt-tool/   /2017/02/xaringan-presentation/
+
+/2013/12/the-250th-anniversary-of-bayes-theorem-1st-bayesian-statistics-meeting/    /2013/12/1st-bayesian-statistics-meeting/
+
+/page/:slug/        /
+
+/tag/:slug/*         /tags/:slug
+/category/:slug/*    /categories/:slug
+
+/:year/             /archives/
+/:year/:month/      /archives/
+/:year/:month/page/*  /archives/
+
+/wiki/htest/start      /archives/
+/wiki/doe/start      /archives/
+/wiki/biostat/start      /archives/
+/wiki/nonparametric/start      /archives/
+
+/training/*      /training/
+/videos/:slug/      /videos/
