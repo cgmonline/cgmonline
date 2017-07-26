@@ -95,6 +95,27 @@ blockquote { margin: auto; }
     opacity: 1;
   }
 }
+
+/* modify the layout */
+.list section {
+  flex: 1 0 500px;
+  box-sizing: border-box;
+  box-shadow: 0 0 8px #ccc;
+  margin: 1em 0 0 15px;
+  padding: 1em;
+  overflow-x: hidden;
+}
+@media (max-width: 380px) {
+  .list section { flex: auto; }
+}
+@media (min-width: 715px) {
+  .list section { max-width: calc(50% - 15px); }
+}
+@media (min-width: 1080px) {
+  .list section { max-width: calc(50% - 15px); }
+}
+/* modify the layout */
+
 @media (max-width: 715px) {
   .banner img {
     max-height: 5.5em;

@@ -4,7 +4,7 @@ title = "北美华人基因组学在线沙龙"
 theme = "hugo-xmag"
 disqusShortname = ""
 googleAnalytics = ""
-paginate = 6
+paginate = 4
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 hasCJKLanguage = true
 enableEmoji = true
@@ -67,7 +67,7 @@ publishDir = "docs"
 	copyright = "北美华人基因组学在线沙龙 2017"
 	description = "基因组学在线讨论平台"
 
-  summary_length = 100
+  summary_length = 200
   github_edit = "https://github.com/cgmonline/cgmonline/edit/master/content/"
 
   footer = "&copy; 北美华人基因组学在线沙龙 2017 | [Github](https://github.com/cgmonline) | [YouTube](https://www.youtube.com/channel/UCk4tsPZOzGkP2IaU4YvUG_g)"
