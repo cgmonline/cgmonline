@@ -70,4 +70,4 @@ publishDir = "docs"
   summary_length = 100
   github_edit = "https://github.com/cgmonline/cgmonline/edit/master/content/"
 
-  footer = "&copy; 北美华人基因组学在线沙龙 2017 | [Github](https://github.com/cgmonline) | [YouTuBe](https://www.youtube.com/channel/UCk4tsPZOzGkP2IaU4YvUG_g)"
+  footer = "&copy; 北美华人基因组学在线沙龙 2017 | [Github](https://github.com/cgmonline) | [YouTube](https://www.youtube.com/channel/UCk4tsPZOzGkP2IaU4YvUG_g)"
