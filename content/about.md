@@ -24,6 +24,7 @@ Chinese Genomics online Meet-up (CGM) was launched by several young Chinese scie
 
 # 联系我们
 
+本站所有视频、PPT均为演讲者和主持人所有。 如需转载，请联系:
 - Email: yangjl0930@gmail.com 或 qxs718@gmail.com
 
 
