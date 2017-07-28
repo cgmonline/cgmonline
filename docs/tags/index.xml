@@ -2,229 +2,229 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 北美华人基因组学在线沙龙</title>
-    <link>http://cgmonline.co/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on 北美华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>北美华人基因组学在线沙龙 2017</copyright>
     <lastBuildDate>Wed, 10 May 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://cgmonline.co/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bigdata</title>
-      <link>http://cgmonline.co/tags/bigdata/</link>
+      <link>/tags/bigdata/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/bigdata/</guid>
+      <guid>/tags/bigdata/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Biology</title>
-      <link>http://cgmonline.co/tags/biology/</link>
+      <link>/tags/biology/</link>
       <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/biology/</guid>
+      <guid>/tags/biology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computation</title>
-      <link>http://cgmonline.co/tags/computation/</link>
+      <link>/tags/computation/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/computation/</guid>
+      <guid>/tags/computation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deleterious</title>
-      <link>http://cgmonline.co/tags/deleterious/</link>
+      <link>/tags/deleterious/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/deleterious/</guid>
+      <guid>/tags/deleterious/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discuss</title>
-      <link>http://cgmonline.co/tags/discuss/</link>
+      <link>/tags/discuss/</link>
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/discuss/</guid>
+      <guid>/tags/discuss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Domestication</title>
-      <link>http://cgmonline.co/tags/domestication/</link>
+      <link>/tags/domestication/</link>
       <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/domestication/</guid>
+      <guid>/tags/domestication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolution</title>
-      <link>http://cgmonline.co/tags/evolution/</link>
+      <link>/tags/evolution/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/evolution/</guid>
+      <guid>/tags/evolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Function</title>
-      <link>http://cgmonline.co/tags/function/</link>
+      <link>/tags/function/</link>
       <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/function/</guid>
+      <guid>/tags/function/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GS</title>
-      <link>http://cgmonline.co/tags/gs/</link>
+      <link>/tags/gs/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/gs/</guid>
+      <guid>/tags/gs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GWAS</title>
-      <link>http://cgmonline.co/tags/gwas/</link>
+      <link>/tags/gwas/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/gwas/</guid>
+      <guid>/tags/gwas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Github</title>
-      <link>http://cgmonline.co/tags/github/</link>
+      <link>/tags/github/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/github/</guid>
+      <guid>/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Job</title>
-      <link>http://cgmonline.co/tags/job/</link>
+      <link>/tags/job/</link>
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/job/</guid>
+      <guid>/tags/job/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K-mer</title>
-      <link>http://cgmonline.co/tags/k-mer/</link>
+      <link>/tags/k-mer/</link>
       <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/k-mer/</guid>
+      <guid>/tags/k-mer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Laternative splicing</title>
-      <link>http://cgmonline.co/tags/laternative-splicing/</link>
+      <link>/tags/laternative-splicing/</link>
       <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/laternative-splicing/</guid>
+      <guid>/tags/laternative-splicing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Maize</title>
-      <link>http://cgmonline.co/tags/maize/</link>
+      <link>/tags/maize/</link>
       <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/maize/</guid>
+      <guid>/tags/maize/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mapping</title>
-      <link>http://cgmonline.co/tags/mapping/</link>
+      <link>/tags/mapping/</link>
       <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/mapping/</guid>
+      <guid>/tags/mapping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microbiome</title>
-      <link>http://cgmonline.co/tags/microbiome/</link>
+      <link>/tags/microbiome/</link>
       <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/microbiome/</guid>
+      <guid>/tags/microbiome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NGS</title>
-      <link>http://cgmonline.co/tags/ngs/</link>
+      <link>/tags/ngs/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/ngs/</guid>
+      <guid>/tags/ngs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Paper</title>
-      <link>http://cgmonline.co/tags/paper/</link>
+      <link>/tags/paper/</link>
       <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/paper/</guid>
+      <guid>/tags/paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Plants</title>
-      <link>http://cgmonline.co/tags/plants/</link>
+      <link>/tags/plants/</link>
       <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/plants/</guid>
+      <guid>/tags/plants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rapa</title>
-      <link>http://cgmonline.co/tags/rapa/</link>
+      <link>/tags/rapa/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/rapa/</guid>
+      <guid>/tags/rapa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Repeats</title>
-      <link>http://cgmonline.co/tags/repeats/</link>
+      <link>/tags/repeats/</link>
       <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/repeats/</guid>
+      <guid>/tags/repeats/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Setaria</title>
-      <link>http://cgmonline.co/tags/setaria/</link>
+      <link>/tags/setaria/</link>
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/setaria/</guid>
+      <guid>/tags/setaria/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writing</title>
-      <link>http://cgmonline.co/tags/writing/</link>
+      <link>/tags/writing/</link>
       <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/writing/</guid>
+      <guid>/tags/writing/</guid>
       <description></description>
     </item>
     

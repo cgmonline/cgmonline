@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mapping on 北美华人基因组学在线沙龙</title>
-    <link>http://cgmonline.co/tags/mapping/</link>
+    <link>/tags/mapping/</link>
     <description>Recent content in Mapping on 北美华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>北美华人基因组学在线沙龙 2017</copyright>
     <lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://cgmonline.co/tags/mapping/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/mapping/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CGM 第10期：Unbiased k-mer Analysis for Comparative Genomics</title>
-      <link>http://cgmonline.co/2017/07/cgm-%E7%AC%AC10%E6%9C%9Funbiased-k-mer-analysis-for-comparative-genomics/</link>
+      <link>/2017/07/cgm-%E7%AC%AC10%E6%9C%9Funbiased-k-mer-analysis-for-comparative-genomics/</link>
       <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2017/07/cgm-%E7%AC%AC10%E6%9C%9Funbiased-k-mer-analysis-for-comparative-genomics/</guid>
+      <guid>/2017/07/cgm-%E7%AC%AC10%E6%9C%9Funbiased-k-mer-analysis-for-comparative-genomics/</guid>
       <description>时间：2017年7月19号（星期三），美西时间（Pacific Time）6:00 PM 地点：Youtube live stream 主讲人：Sanzhen Liu (刘三震)</description>
     </item>
     
     <item>
       <title>CGM 第7期：Rapidly define crop gene functions using Setaria viridis as a model</title>
-      <link>http://cgmonline.co/2017/05/cgm-%E7%AC%AC7%E6%9C%9Frapidly-define-crop-gene-functions-using-setaria-viridis-as-a-model/</link>
+      <link>/2017/05/cgm-%E7%AC%AC7%E6%9C%9Frapidly-define-crop-gene-functions-using-setaria-viridis-as-a-model/</link>
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2017/05/cgm-%E7%AC%AC7%E6%9C%9Frapidly-define-crop-gene-functions-using-setaria-viridis-as-a-model/</guid>
+      <guid>/2017/05/cgm-%E7%AC%AC7%E6%9C%9Frapidly-define-crop-gene-functions-using-setaria-viridis-as-a-model/</guid>
       <description>时间：2017年5月24号（星期三），美西时间（Pacific Time）6:00 PM 地点：Youtube live stream 主讲人：黄璞 Donald Danforth Plant Science Center (DDPSC) 摘要： 在今</description>
     </item>
     
