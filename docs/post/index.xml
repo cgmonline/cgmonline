@@ -2,112 +2,112 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 北美华人基因组学在线沙龙</title>
-    <link>/post/</link>
+    <link>http://cgmonline.co/post/</link>
     <description>Recent content in Posts on 北美华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>北美华人基因组学在线沙龙 2017</copyright>
     <lastBuildDate>Wed, 02 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://cgmonline.co/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CGM第11期：How to find a job in academic field?</title>
-      <link>/2017/08/cgm%E7%AC%AC11%E6%9C%9Fhow-to-find-a-job-in-academic-field/</link>
+      <link>http://cgmonline.co/2017/08/cgm%E7%AC%AC11%E6%9C%9Fhow-to-find-a-job-in-academic-field/</link>
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/08/cgm%E7%AC%AC11%E6%9C%9Fhow-to-find-a-job-in-academic-field/</guid>
+      <guid>http://cgmonline.co/2017/08/cgm%E7%AC%AC11%E6%9C%9Fhow-to-find-a-job-in-academic-field/</guid>
       <description>var countDownDate = new Date(&#34;August 2, 2017, 20:00:00&#34;).getTime(); var x = setInterval(function() { var now = new Date().getTime(); var distance = countDownDate - now; var days = Math.floor(distance / (1000 * 60 * 60 * 24)); var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)); var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60)); var seconds</description>
     </item>
     
     <item>
       <title>CGM 第10期：Unbiased k-mer Analysis for Comparative Genomics</title>
-      <link>/2017/07/cgm-%E7%AC%AC10%E6%9C%9Funbiased-k-mer-analysis-for-comparative-genomics/</link>
+      <link>http://cgmonline.co/2017/07/cgm-%E7%AC%AC10%E6%9C%9Funbiased-k-mer-analysis-for-comparative-genomics/</link>
       <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/07/cgm-%E7%AC%AC10%E6%9C%9Funbiased-k-mer-analysis-for-comparative-genomics/</guid>
+      <guid>http://cgmonline.co/2017/07/cgm-%E7%AC%AC10%E6%9C%9Funbiased-k-mer-analysis-for-comparative-genomics/</guid>
       <description>时间：2017年7月19号（星期三），美西时间（Pacific Time）6:00 PM 地点：Youtube live stream 主讲人：Sanzhen Liu (刘三震)</description>
     </item>
     
     <item>
       <title>CGM 第9期：The cause and consequence of alternative splicing in maize and across species</title>
-      <link>/2017/07/cgm-%E7%AC%AC9%E6%9C%9Fthe-cause-and-consequence-of-alternative-splicing-in-maize-and-across-species/</link>
+      <link>http://cgmonline.co/2017/07/cgm-%E7%AC%AC9%E6%9C%9Fthe-cause-and-consequence-of-alternative-splicing-in-maize-and-across-species/</link>
       <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/07/cgm-%E7%AC%AC9%E6%9C%9Fthe-cause-and-consequence-of-alternative-splicing-in-maize-and-across-species/</guid>
+      <guid>http://cgmonline.co/2017/07/cgm-%E7%AC%AC9%E6%9C%9Fthe-cause-and-consequence-of-alternative-splicing-in-maize-and-across-species/</guid>
       <description>时间：2017年7月5号（星期三），美西时间（Pacific Time）6:00 PM 地点：Youtube live stream 主讲人：梅文彬, UC Dvis 摘要： 人类基因组</description>
     </item>
     
     <item>
       <title>CGM 第8期：怎样提高英文科技论文的写作？</title>
-      <link>/2017/06/cgm-%E7%AC%AC8%E6%9C%9F%E6%80%8E%E6%A0%B7%E6%8F%90%E9%AB%98%E8%8B%B1%E6%96%87%E7%A7%91%E6%8A%80%E8%AE%BA%E6%96%87%E7%9A%84%E5%86%99%E4%BD%9C/</link>
+      <link>http://cgmonline.co/2017/06/cgm-%E7%AC%AC8%E6%9C%9F%E6%80%8E%E6%A0%B7%E6%8F%90%E9%AB%98%E8%8B%B1%E6%96%87%E7%A7%91%E6%8A%80%E8%AE%BA%E6%96%87%E7%9A%84%E5%86%99%E4%BD%9C/</link>
       <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/06/cgm-%E7%AC%AC8%E6%9C%9F%E6%80%8E%E6%A0%B7%E6%8F%90%E9%AB%98%E8%8B%B1%E6%96%87%E7%A7%91%E6%8A%80%E8%AE%BA%E6%96%87%E7%9A%84%E5%86%99%E4%BD%9C/</guid>
+      <guid>http://cgmonline.co/2017/06/cgm-%E7%AC%AC8%E6%9C%9F%E6%80%8E%E6%A0%B7%E6%8F%90%E9%AB%98%E8%8B%B1%E6%96%87%E7%A7%91%E6%8A%80%E8%AE%BA%E6%96%87%E7%9A%84%E5%86%99%E4%BD%9C/</guid>
       <description>时间：2017年5月24号（星期三），美西时间（Pacific Time）6:00 PM 地点：Youtube live stream 主讲人：祁新帅（博士） 摘要： 英文科</description>
     </item>
     
     <item>
       <title>CGM 第7期：Rapidly define crop gene functions using Setaria viridis as a model</title>
-      <link>/2017/05/cgm-%E7%AC%AC7%E6%9C%9Frapidly-define-crop-gene-functions-using-setaria-viridis-as-a-model/</link>
+      <link>http://cgmonline.co/2017/05/cgm-%E7%AC%AC7%E6%9C%9Frapidly-define-crop-gene-functions-using-setaria-viridis-as-a-model/</link>
       <pubDate>Wed, 24 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/05/cgm-%E7%AC%AC7%E6%9C%9Frapidly-define-crop-gene-functions-using-setaria-viridis-as-a-model/</guid>
+      <guid>http://cgmonline.co/2017/05/cgm-%E7%AC%AC7%E6%9C%9Frapidly-define-crop-gene-functions-using-setaria-viridis-as-a-model/</guid>
       <description>时间：2017年5月24号（星期三），美西时间（Pacific Time）6:00 PM 地点：Youtube live stream 主讲人：黄璞 Donald Danforth Plant Science Center (DDPSC) 摘要： 在今</description>
     </item>
     
     <item>
       <title>CGM 第6期：基于版本控制的数据分析及流程管理</title>
-      <link>/2017/05/cgm-%E7%AC%AC6%E6%9C%9F%E5%9F%BA%E4%BA%8E%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%8F%8A%E6%B5%81%E7%A8%8B%E7%AE%A1%E7%90%86/</link>
+      <link>http://cgmonline.co/2017/05/cgm-%E7%AC%AC6%E6%9C%9F%E5%9F%BA%E4%BA%8E%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%8F%8A%E6%B5%81%E7%A8%8B%E7%AE%A1%E7%90%86/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/05/cgm-%E7%AC%AC6%E6%9C%9F%E5%9F%BA%E4%BA%8E%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%8F%8A%E6%B5%81%E7%A8%8B%E7%AE%A1%E7%90%86/</guid>
+      <guid>http://cgmonline.co/2017/05/cgm-%E7%AC%AC6%E6%9C%9F%E5%9F%BA%E4%BA%8E%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%8F%8A%E6%B5%81%E7%A8%8B%E7%AE%A1%E7%90%86/</guid>
       <description>时间：2017年05月10 号（星期三），美西时间（Pacific Time）6:00 PM 地点：Youtube live stream 主讲人：杨金良 摘要： 子曰：“By</description>
     </item>
     
     <item>
       <title>CGM 第5期：白菜的前世今生</title>
-      <link>/2017/04/cgm-%E7%AC%AC5%E6%9C%9F%E7%99%BD%E8%8F%9C%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F/</link>
+      <link>http://cgmonline.co/2017/04/cgm-%E7%AC%AC5%E6%9C%9F%E7%99%BD%E8%8F%9C%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/04/cgm-%E7%AC%AC5%E6%9C%9F%E7%99%BD%E8%8F%9C%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F/</guid>
+      <guid>http://cgmonline.co/2017/04/cgm-%E7%AC%AC5%E6%9C%9F%E7%99%BD%E8%8F%9C%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F/</guid>
       <description>时间：2017年4月26号（星期三），美西时间（Pacific Time）6:00 PM 地点：Youtube live stream 主讲人：Hong An (安宏) 摘要： 白</description>
     </item>
     
     <item>
       <title>CGM 第4期：Comparative genomics approaches accurately predict deleterious variants in plants</title>
-      <link>/2017/04/cgm-%E7%AC%AC4%E6%9C%9Fcomparative-genomics-approaches-accurately-predict-deleterious-variants-in-plants/</link>
+      <link>http://cgmonline.co/2017/04/cgm-%E7%AC%AC4%E6%9C%9Fcomparative-genomics-approaches-accurately-predict-deleterious-variants-in-plants/</link>
       <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/04/cgm-%E7%AC%AC4%E6%9C%9Fcomparative-genomics-approaches-accurately-predict-deleterious-variants-in-plants/</guid>
+      <guid>http://cgmonline.co/2017/04/cgm-%E7%AC%AC4%E6%9C%9Fcomparative-genomics-approaches-accurately-predict-deleterious-variants-in-plants/</guid>
       <description>时间：2017年4月12号（星期三），美西时间（Pacific Time）6:00 PM 地点：Youtube live stream 主讲人：Li Lei（雷栗） 摘要： 您</description>
     </item>
     
     <item>
       <title>CGM 第3期：植物的微生物世界</title>
-      <link>/2017/03/cgm-%E7%AC%AC3%E6%9C%9F%E6%A4%8D%E7%89%A9%E7%9A%84%E5%BE%AE%E7%94%9F%E7%89%A9%E4%B8%96%E7%95%8C/</link>
+      <link>http://cgmonline.co/2017/03/cgm-%E7%AC%AC3%E6%9C%9F%E6%A4%8D%E7%89%A9%E7%9A%84%E5%BE%AE%E7%94%9F%E7%89%A9%E4%B8%96%E7%95%8C/</link>
       <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/03/cgm-%E7%AC%AC3%E6%9C%9F%E6%A4%8D%E7%89%A9%E7%9A%84%E5%BE%AE%E7%94%9F%E7%89%A9%E4%B8%96%E7%95%8C/</guid>
+      <guid>http://cgmonline.co/2017/03/cgm-%E7%AC%AC3%E6%9C%9F%E6%A4%8D%E7%89%A9%E7%9A%84%E5%BE%AE%E7%94%9F%E7%89%A9%E4%B8%96%E7%95%8C/</guid>
       <description>时间：2017年3月29号（星期三），美西时间（Pacific Time）6:00 PM 地点：Google Hangouts 主讲人：Ling Xu （徐凌）, Ph.D. &amp;amp; Siwen Deng （</description>
     </item>
     
     <item>
       <title>CGM 第2期：作物驯化的进化遗传学展望</title>
-      <link>/2017/03/cgm-%E7%AC%AC2%E6%9C%9F%E4%BD%9C%E7%89%A9%E9%A9%AF%E5%8C%96%E7%9A%84%E8%BF%9B%E5%8C%96%E9%81%97%E4%BC%A0%E5%AD%A6%E5%B1%95%E6%9C%9B/</link>
+      <link>http://cgmonline.co/2017/03/cgm-%E7%AC%AC2%E6%9C%9F%E4%BD%9C%E7%89%A9%E9%A9%AF%E5%8C%96%E7%9A%84%E8%BF%9B%E5%8C%96%E9%81%97%E4%BC%A0%E5%AD%A6%E5%B1%95%E6%9C%9B/</link>
       <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/03/cgm-%E7%AC%AC2%E6%9C%9F%E4%BD%9C%E7%89%A9%E9%A9%AF%E5%8C%96%E7%9A%84%E8%BF%9B%E5%8C%96%E9%81%97%E4%BC%A0%E5%AD%A6%E5%B1%95%E6%9C%9B/</guid>
+      <guid>http://cgmonline.co/2017/03/cgm-%E7%AC%AC2%E6%9C%9F%E4%BD%9C%E7%89%A9%E9%A9%AF%E5%8C%96%E7%9A%84%E8%BF%9B%E5%8C%96%E9%81%97%E4%BC%A0%E5%AD%A6%E5%B1%95%E6%9C%9B/</guid>
       <description>时间：2017年3月15号（星期三），美西时间下午六点 地点：Youtube live stream 主讲人：祁新帅（博士） 摘要： 在过去的13000年时间里，人类的</description>
     </item>
     
     <item>
       <title>CGM 第1期：以植物进化史为鉴，预测未来优良作物</title>
-      <link>/2017/03/cgm-%E7%AC%AC1%E6%9C%9F%E4%BB%A5%E6%A4%8D%E7%89%A9%E8%BF%9B%E5%8C%96%E5%8F%B2%E4%B8%BA%E9%89%B4%E9%A2%84%E6%B5%8B%E6%9C%AA%E6%9D%A5%E4%BC%98%E8%89%AF%E4%BD%9C%E7%89%A9/</link>
+      <link>http://cgmonline.co/2017/03/cgm-%E7%AC%AC1%E6%9C%9F%E4%BB%A5%E6%A4%8D%E7%89%A9%E8%BF%9B%E5%8C%96%E5%8F%B2%E4%B8%BA%E9%89%B4%E9%A2%84%E6%B5%8B%E6%9C%AA%E6%9D%A5%E4%BC%98%E8%89%AF%E4%BD%9C%E7%89%A9/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/03/cgm-%E7%AC%AC1%E6%9C%9F%E4%BB%A5%E6%A4%8D%E7%89%A9%E8%BF%9B%E5%8C%96%E5%8F%B2%E4%B8%BA%E9%89%B4%E9%A2%84%E6%B5%8B%E6%9C%AA%E6%9D%A5%E4%BC%98%E8%89%AF%E4%BD%9C%E7%89%A9/</guid>
+      <guid>http://cgmonline.co/2017/03/cgm-%E7%AC%AC1%E6%9C%9F%E4%BB%A5%E6%A4%8D%E7%89%A9%E8%BF%9B%E5%8C%96%E5%8F%B2%E4%B8%BA%E9%89%B4%E9%A2%84%E6%B5%8B%E6%9C%AA%E6%9D%A5%E4%BC%98%E8%89%AF%E4%BD%9C%E7%89%A9/</guid>
       <description>时间：2017年三月一号（星期三），美西时间下午六点 地点：Youtube live stream 主讲人：杨金良 摘要： 中文摘要，于是可以搞得文艺一点。 七万年前，关</description>
     </item>
     

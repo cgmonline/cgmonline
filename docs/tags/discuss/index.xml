@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Discuss on 北美华人基因组学在线沙龙</title>
-    <link>/tags/discuss/</link>
+    <link>http://cgmonline.co/tags/discuss/</link>
     <description>Recent content in Discuss on 北美华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>北美华人基因组学在线沙龙 2017</copyright>
     <lastBuildDate>Wed, 02 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/discuss/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://cgmonline.co/tags/discuss/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CGM第11期：How to find a job in academic field?</title>
-      <link>/2017/08/cgm%E7%AC%AC11%E6%9C%9Fhow-to-find-a-job-in-academic-field/</link>
+      <link>http://cgmonline.co/2017/08/cgm%E7%AC%AC11%E6%9C%9Fhow-to-find-a-job-in-academic-field/</link>
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/08/cgm%E7%AC%AC11%E6%9C%9Fhow-to-find-a-job-in-academic-field/</guid>
+      <guid>http://cgmonline.co/2017/08/cgm%E7%AC%AC11%E6%9C%9Fhow-to-find-a-job-in-academic-field/</guid>
       <description>var countDownDate = new Date(&#34;August 2, 2017, 20:00:00&#34;).getTime(); var x = setInterval(function() { var now = new Date().getTime(); var distance = countDownDate - now; var days = Math.floor(distance / (1000 * 60 * 60 * 24)); var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)); var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60)); var seconds</description>
     </item>
     
     <item>
       <title>CGM 第8期：怎样提高英文科技论文的写作？</title>
-      <link>/2017/06/cgm-%E7%AC%AC8%E6%9C%9F%E6%80%8E%E6%A0%B7%E6%8F%90%E9%AB%98%E8%8B%B1%E6%96%87%E7%A7%91%E6%8A%80%E8%AE%BA%E6%96%87%E7%9A%84%E5%86%99%E4%BD%9C/</link>
+      <link>http://cgmonline.co/2017/06/cgm-%E7%AC%AC8%E6%9C%9F%E6%80%8E%E6%A0%B7%E6%8F%90%E9%AB%98%E8%8B%B1%E6%96%87%E7%A7%91%E6%8A%80%E8%AE%BA%E6%96%87%E7%9A%84%E5%86%99%E4%BD%9C/</link>
       <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/06/cgm-%E7%AC%AC8%E6%9C%9F%E6%80%8E%E6%A0%B7%E6%8F%90%E9%AB%98%E8%8B%B1%E6%96%87%E7%A7%91%E6%8A%80%E8%AE%BA%E6%96%87%E7%9A%84%E5%86%99%E4%BD%9C/</guid>
+      <guid>http://cgmonline.co/2017/06/cgm-%E7%AC%AC8%E6%9C%9F%E6%80%8E%E6%A0%B7%E6%8F%90%E9%AB%98%E8%8B%B1%E6%96%87%E7%A7%91%E6%8A%80%E8%AE%BA%E6%96%87%E7%9A%84%E5%86%99%E4%BD%9C/</guid>
       <description>时间：2017年5月24号（星期三），美西时间（Pacific Time）6:00 PM 地点：Youtube live stream 主讲人：祁新帅（博士） 摘要： 英文科</description>
     </item>
     
     <item>
       <title>CGM 第6期：基于版本控制的数据分析及流程管理</title>
-      <link>/2017/05/cgm-%E7%AC%AC6%E6%9C%9F%E5%9F%BA%E4%BA%8E%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%8F%8A%E6%B5%81%E7%A8%8B%E7%AE%A1%E7%90%86/</link>
+      <link>http://cgmonline.co/2017/05/cgm-%E7%AC%AC6%E6%9C%9F%E5%9F%BA%E4%BA%8E%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%8F%8A%E6%B5%81%E7%A8%8B%E7%AE%A1%E7%90%86/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/05/cgm-%E7%AC%AC6%E6%9C%9F%E5%9F%BA%E4%BA%8E%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%8F%8A%E6%B5%81%E7%A8%8B%E7%AE%A1%E7%90%86/</guid>
+      <guid>http://cgmonline.co/2017/05/cgm-%E7%AC%AC6%E6%9C%9F%E5%9F%BA%E4%BA%8E%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%8F%8A%E6%B5%81%E7%A8%8B%E7%AE%A1%E7%90%86/</guid>
       <description>时间：2017年05月10 号（星期三），美西时间（Pacific Time）6:00 PM 地点：Youtube live stream 主讲人：杨金良 摘要： 子曰：“By</description>
     </item>
     

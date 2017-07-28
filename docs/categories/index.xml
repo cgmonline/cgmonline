@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 北美华人基因组学在线沙龙</title>
-    <link>/categories/</link>
+    <link>http://cgmonline.co/categories/</link>
     <description>Recent content in Categories on 北美华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>北美华人基因组学在线沙龙 2017</copyright>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://cgmonline.co/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>专题讨论</title>
-      <link>/categories/%E4%B8%93%E9%A2%98%E8%AE%A8%E8%AE%BA/</link>
+      <link>http://cgmonline.co/categories/%E4%B8%93%E9%A2%98%E8%AE%A8%E8%AE%BA/</link>
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/%E4%B8%93%E9%A2%98%E8%AE%A8%E8%AE%BA/</guid>
+      <guid>http://cgmonline.co/categories/%E4%B8%93%E9%A2%98%E8%AE%A8%E8%AE%BA/</guid>
       <description></description>
     </item>
     
     <item>
       <title>学术报告</title>
-      <link>/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</link>
+      <link>http://cgmonline.co/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</link>
       <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</guid>
+      <guid>http://cgmonline.co/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</guid>
       <description></description>
     </item>
     
