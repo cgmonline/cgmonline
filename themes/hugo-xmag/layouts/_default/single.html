@@ -34,7 +34,12 @@
 {{ partial "author.html" . }}
 {{ partial "info.html" . }}
 {{ partial "prev_next.html" . }}
+
+
+{{ if .Params.show_comments }}
 {{ partial "comments.html" . }}
+{{ end }}
+
 </article>
 </div>
 
