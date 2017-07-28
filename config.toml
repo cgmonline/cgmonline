@@ -19,7 +19,7 @@ publishDir = "docs"
   post = "/:year/:month/:slug/"
 
 [[menu.top]]
-  name = "关于我们"
+  name = "首页"
   url = "/"
   weight = 1
 

@@ -2,7 +2,6 @@
 title: 搜索
 weight: 8
 date: '2017-07-22'
-menu: [main]
 ---
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.css" />
