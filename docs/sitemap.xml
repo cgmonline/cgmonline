@@ -4,14 +4,6 @@
   
   <url>
     <loc>/search/</loc>
-  </url>
-  
-  <url>
-    <loc>/coming/</loc>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
     <lastmod>2017-07-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -21,13 +13,23 @@
   </url>
   
   <url>
+    <loc>/about/</loc>
+    <lastmod>2017-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/subscribe/</loc>
     <lastmod>2017-07-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>/coming/</loc>
+    <lastmod>2017-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2017/07/cgm-%E7%AC%AC10%E6%9C%9Funbiased-k-mer-analysis-for-comparative-genomics/</loc>
-    <lastmod>2017-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -148,7 +150,7 @@
   
   <url>
     <loc>/tags/k-mer/</loc>
-    <lastmod>2017-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -160,13 +162,13 @@
   
   <url>
     <loc>/tags/maize/</loc>
-    <lastmod>2017-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/mapping/</loc>
-    <lastmod>2017-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -196,7 +198,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2017-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -208,7 +210,7 @@
   
   <url>
     <loc>/tags/repeats/</loc>
-    <lastmod>2017-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -244,7 +246,7 @@
   
   <url>
     <loc>/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</loc>
-    <lastmod>2017-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2017-07-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

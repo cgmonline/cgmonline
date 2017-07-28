@@ -15,28 +15,10 @@
     <item>
       <title>搜索</title>
       <link>/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/search/</guid>
       <description>.input-group { display: flex; } .ais-search-box { width: 100%; flex: 1; } .form-control { width: 100%; flex: 1; height: 2rem; } .input-group-btn button { height: 100%; width: 60px; margin-left: 10px; } 搜索</description>
-    </item>
-    
-    <item>
-      <title>预告</title>
-      <link>/coming/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/coming/</guid>
-      <description>Coming events: Aug 2: General Discussion: Job application and Career development TBD: General Discussion: grant application Dawei Li Ya Yang Lightning Talk/Elevator Speech. 每人5分钟。介绍你在做什么，或者你感兴趣的科学问题。不一定有结果，只要有大体的研究思路和方法就</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/about/</link>
-      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>简介 北美华人基因组学在线沙龙(CGM)，由几位在北美从事植物基因组学研究的青年华人学者于2017年1月份发起。旨在增进在北美从事植物基因组学</description>
     </item>
     
     <item>
@@ -49,6 +31,15 @@
     </item>
     
     <item>
+      <title>关于我们</title>
+      <link>/about/</link>
+      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>简介 北美华人基因组学在线沙龙(CGM)，由几位在北美从事植物基因组学研究的青年华人学者于2017年1月份发起。旨在增进在北美从事植物基因组学</description>
+    </item>
+    
+    <item>
       <title>加入我们</title>
       <link>/subscribe/</link>
       <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
@@ -58,12 +49,21 @@
     </item>
     
     <item>
+      <title>近期预告</title>
+      <link>/coming/</link>
+      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/coming/</guid>
+      <description>Coming events: Aug 2: General Discussion: Job application and Career development TBD: General Discussion: grant application Dawei Li Ya Yang Lightning Talk/Elevator Speech. 每人5分钟。介绍你在做什么，或者你感兴趣的科学问题。不一定有结果，只要有大体的研究思路和方法就</description>
+    </item>
+    
+    <item>
       <title>CGM 第10期：Unbiased k-mer Analysis for Comparative Genomics</title>
       <link>/2017/07/cgm-%E7%AC%AC10%E6%9C%9Funbiased-k-mer-analysis-for-comparative-genomics/</link>
-      <pubDate>Sun, 16 Jul 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/2017/07/cgm-%E7%AC%AC10%E6%9C%9Funbiased-k-mer-analysis-for-comparative-genomics/</guid>
-      <description>时间：2017年7月16号（星期三），美西时间（Pacific Time）6:00 PM 地点：Youtube live stream 主讲人：Sanzhen Liu (刘三震)</description>
+      <description>时间：2017年7月19号（星期三），美西时间（Pacific Time）6:00 PM 地点：Youtube live stream 主讲人：Sanzhen Liu (刘三震)</description>
     </item>
     
     <item>
@@ -81,7 +81,7 @@
       <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>/2017/06/cgm-%E7%AC%AC8%E6%9C%9F%E6%80%8E%E6%A0%B7%E6%8F%90%E9%AB%98%E8%8B%B1%E6%96%87%E7%A7%91%E6%8A%80%E8%AE%BA%E6%96%87%E7%9A%84%E5%86%99%E4%BD%9C/</guid>
-      <description>时间：2017年5月24号（星期三），美西时间（Pacific Time）6:00 PM 地点：Youtube live stream 主讲人：黄璞 Donald Danforth Plant Science Center (DDPSC) 摘要： 英文</description>
+      <description>时间：2017年5月24号（星期三），美西时间（Pacific Time）6:00 PM 地点：Youtube live stream 主讲人：祁新帅（博士） 摘要： 英文科</description>
     </item>
     
     <item>
@@ -153,7 +153,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/archives/</guid>
-      <description>北美华人基因组学在线沙龙所有历史讨论章汇总如下： 2017 2017/07/16 CGM 第10期：Unbiased k-mer Analysis for Comparative Genomics 2017/07/05 CGM 第9期：The cause and consequence of alternative splicing in maize and across species 2017/06/21 CGM 第8期</description>
+      <description>北美华人基因组学在线沙龙所有历史讨论章汇总如下： 2017 2017/07/19 CGM 第10期：Unbiased k-mer Analysis for Comparative Genomics 2017/07/05 CGM 第9期：The cause and consequence of alternative splicing in maize and across species 2017/06/21 CGM 第8期</description>
     </item>
     
   </channel>
