@@ -8,7 +8,7 @@ tags: [paper, writing, discuss]
 
 - 时间：2017年5月24号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：Youtube live stream
-- 主讲人：黄璞  Donald Danforth Plant Science Center (DDPSC)
+- 主讲人：[祁新帅](http://xinshuaiqi.weebly.com/)（博士）
 
 # 摘要：
 

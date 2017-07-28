@@ -13,15 +13,6 @@
     
     
     <item>
-      <title>关于我们</title>
-      <link>/about/</link>
-      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>简介 北美华人基因组学在线沙龙(CGM)，由几位在北美从事植物基因组学研究的青年华人学者于2017年1月份发起。旨在增进在北美从事植物基因组学</description>
-    </item>
-    
-    <item>
       <title>搜索</title>
       <link>/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -37,6 +28,15 @@
       
       <guid>/coming/</guid>
       <description>Coming events: Aug 2: General Discussion: Job application and Career development TBD: General Discussion: grant application Dawei Li Ya Yang Lightning Talk/Elevator Speech. 每人5分钟。介绍你在做什么，或者你感兴趣的科学问题。不一定有结果，只要有大体的研究思路和方法就</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>简介 北美华人基因组学在线沙龙(CGM)，由几位在北美从事植物基因组学研究的青年华人学者于2017年1月份发起。旨在增进在北美从事植物基因组学</description>
     </item>
     
     <item>

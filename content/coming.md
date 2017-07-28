@@ -1,7 +1,7 @@
 ---
-title: 预告
-weight: 8
-menu: [main, top]
+title: 近期预告
+date: '2017-07-22'
+menu: [main]
 ---
 
 # Coming events:

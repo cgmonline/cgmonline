@@ -1,7 +1,6 @@
 ---
 title: 关于我们
 date: '2017-07-22'
-weight: 8
 menu: [main, top]
 ---
 

@@ -2,7 +2,7 @@
 title: 讨论列表
 menu:
   main:
-    name: 文章
+    name: 讨论列表
     weight: 4
 ---
 
