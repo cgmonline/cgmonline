@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>北美华人基因组学在线沙龙</title>
+    <title>关于我们 on 北美华人基因组学在线沙龙</title>
     <link>/</link>
-    <description>Recent content on 北美华人基因组学在线沙龙</description>
+    <description>Recent content in 关于我们 on 北美华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>北美华人基因组学在线沙龙 2017</copyright>
@@ -11,6 +11,15 @@
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>下期预告</title>
+      <link>/coming/</link>
+      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/coming/</guid>
+      <description>var countDownDate = new Date(&#34;August 2, 2017, 20:00:00&#34;).getTime(); var x = setInterval(function() { var now = new Date().getTime(); var distance = countDownDate - now; var days = Math.floor(distance / (1000 * 60 * 60 * 24)); var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)); var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60)); var seconds</description>
+    </item>
     
     <item>
       <title>搜索</title>
@@ -55,15 +64,6 @@
       
       <guid>/subscribe/</guid>
       <description>这是一个关于最新鲜，最前沿的基因组学研究进展的在线沙龙活动。 我们邀请您，端一杯咖啡，或者茶，或者酒，亦或者清水。 或者苦涩，或者清香，或者浓郁</description>
-    </item>
-    
-    <item>
-      <title>近期预告</title>
-      <link>/coming/</link>
-      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/coming/</guid>
-      <description>Coming events: Aug 2: General Discussion: Job application and Career development TBD: General Discussion: grant application Dawei Li Ya Yang Lightning Talk/Elevator Speech. 每人5分钟。介绍你在做什么，或者你感兴趣的科学问题。不一定有结果，只要有大体的研究思路和方法就</description>
     </item>
     
     <item>

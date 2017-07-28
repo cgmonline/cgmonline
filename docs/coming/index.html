@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <title>近期预告 | 北美华人基因组学在线沙龙</title>
+    <title>下期预告 | 北美华人基因组学在线沙龙</title>
     <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/fonts.css" />
     <link href="//cdn.bootcss.com/highlight.js/9.12.0/styles/github.min.css" rel="stylesheet">
@@ -26,15 +26,13 @@
 </a></div>
 <ul class="menu-top">
   
-  <li><a href="/"><span data-hover="首页">首页</span></a></li>
+  <li><a href="/"><span data-hover="关于我们">关于我们</span></a></li>
   
-  <li><a href="/coming/"><span data-hover="预告">预告</span></a></li>
+  <li><a href="/coming/"><span data-hover="下期预告">下期预告</span></a></li>
   
-  <li><a href="/contribute/"><span data-hover="征集志愿者">征集志愿者</span></a></li>
+  <li><a href="/post/"><span data-hover="往期活动">往期活动</span></a></li>
   
-  <li><a href="/subscribe/"><span data-hover="注册">注册</span></a></li>
-  
-  <li><a href="/about/"><span data-hover="关于我们">关于我们</span></a></li>
+  <li><a href="/subscribe/"><span data-hover="加入我们">加入我们</span></a></li>
   
 </ul>
 </div>
@@ -65,7 +63,7 @@
   
   </div>
 
-  <h1><span class="title">近期预告</span></h1>
+  <h1><span class="title">下期预告</span></h1>
 
   
 
@@ -80,13 +78,73 @@
 <main>
 
 
-<h1 id="coming-events">Coming events:</h1>
+<p><strong>
+
+<p id="demo", style="text-align: center; font-size: 30px; color: #f4415c;" ></p>
+
+<script>
+
+var countDownDate = new Date("August 2, 2017, 20:00:00").getTime();
+
+
+var x = setInterval(function() {
+
+    
+    var now = new Date().getTime();
+
+    
+    var distance = countDownDate - now;
+
+    
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+    
+    document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+    + minutes + "m " + seconds + "s ";
+
+    
+    if (distance < 0) {
+        clearInterval(x);
+        document.getElementById("demo").innerHTML = "EXPIRED";
+    }
+}, 1000);
+</script>
+
+
+</strong></p>
 
 <ul>
-<li><a href="http://cgmonline.co/2017/08/cgm%E7%AC%AC11%E6%9C%9Fhow-to-find-a-job-in-academic-field/">Aug 2: General Discussion: Job application and Career development</a></li>
+<li>时间：2017 年 8 月 2 号（星期三），美西时间（Pacific Time）6:00 PM</li>
+<li>地点：YouTube live stream</li>
+<li>Discussion Leader: Li Lei (雷栗), PhD,  Department of Agronomy and Plant Genetics, University of Minnesota</li>
 </ul>
 
-<h1 id="tbd">TBD:</h1>
+<h1 id="特邀嘉宾">特邀嘉宾：</h1>
+
+<ul>
+<li>Dr. <a href="http://plantgenomics.ksu.edu/liulab/pages/home.html">Sanzhen Liu</a>, Assistant professor, Department of Plant Pathology, Kansas State University</li>
+<li>Dr. <a href="http://jyanglab.com/">Jinliang Yang</a>, Assistant professor, Department of Agronomy and Horticulture, University of Nebraska-Lincoln</li>
+<li>Dr. <a href="http://www.txgen.tamu.edu/personnel/">Sicheng Wang</a>, Bioinformatics Scientist, Member CBGSE faculty, AgriLife Genomics and Bioinformatics, Texas A&amp;M University</li>
+</ul>
+
+<h1 id="摘要">摘要：</h1>
+
+<p>在经历过 PhD 和 postdoc 的漫长修炼后，你是否想出山，去学术的江湖里闯一闯，以挣一方立足之地？比如， 找一个 tenure track 的 faculty 位置，建立自己的研究团队，抑或找一个长期的faculty scientist 位置，和不同的团队合作研究？然而学术的江湖，高手云聚，新招层出不穷；面对如此激烈的竞争，你是否想在正式出山之前找到一些致胜秘诀？</p>
+
+<p>请加入本期关于如何在学术领域找工作的讨论吧！我们特邀请了三位已经挣得一方立足之地的faculty/faculty scientist 与大家一起分享他们成功找工作的秘诀。本期内容主要采用问答形式，欢迎各位同仁踊跃提问，积极讨论！</p>
+
+<h1 id="slides和youtube视频">Slides和Youtube视频</h1>
+
+<p>
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/YyDhhFFn6sk?" 
+  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0"></iframe>
+</div></p>
+
+<h1 id="coming-events-tbd">Coming events (TBD):</h1>
 
 <ul>
 <li>General Discussion: grant application</li>
@@ -109,6 +167,28 @@
 
 
 
+<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "cgmonline-co" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
 
 </article>
 </div>
@@ -121,13 +201,13 @@
 <div class="footer">
   <ul class="menu">
     
+    <li><a href="/coming/"><span data-hover="下期预告">下期预告</span></a></li>
+    
     <li><a href="/archives/"><span data-hover="讨论列表">讨论列表</span></a></li>
     
     <li><a href="/search/"><span data-hover="搜索">搜索</span></a></li>
     
-    <li><a href="/about/"><span data-hover="关于我们">关于我们</span></a></li>
-    
-    <li><a href="/coming/"><span data-hover="近期预告">近期预告</span></a></li>
+    <li><a href="/"><span data-hover="关于我们">关于我们</span></a></li>
     
   </ul>
   
@@ -140,6 +220,16 @@
 
 
 
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-48206713-4', 'auto');
+ga('send', 'pageview');
+</script>
 
 
 </body>

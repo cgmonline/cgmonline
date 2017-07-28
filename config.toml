@@ -3,7 +3,7 @@ languageCode = "zh-CN"
 title = "北美华人基因组学在线沙龙"
 theme = "hugo-xmag"
 disqusShortname = "cgmonline-co"
-googleAnalytics = ""
+googleAnalytics = "UA-48206713-4"
 paginate = 4
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 hasCJKLanguage = true
@@ -19,31 +19,22 @@ publishDir = "docs"
   post = "/:year/:month/:slug/"
 
 [[menu.top]]
-  name = "首页"
+  name = "关于我们"
   url = "/"
   weight = 1
 
+
 [[menu.top]]
-  name = "预告"
-  url = "/coming/"
+  name = "往期活动"
+  url = "/post/"
   weight = 2
 
 
 [[menu.top]]
-  name = "征集志愿者"
-  url = "/contribute/"
-  weight = 3
-
-
-[[menu.top]]
-  name = "注册"
+  name = "加入我们"
   url = "/subscribe/"
   weight = 4
 
-[[menu.top]]
-  name = "关于我们"
-  url = "/about/"
-  weight = 5
 
 [params.banner]
   src = "/img/logo.png"
