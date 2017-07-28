@@ -21,6 +21,20 @@ Chinese Genomics online Meet-up (CGM) was launched by several young Chinese scie
 - 如何设置你的直播：[直播说明](ttps://docs.google.com/document/d/1fxmuZwoLearelWj2G1jK_wGcFdSQQ_0wVWC1YwgjkcM/edit?usp=sharing)
 - 给演讲者的指导建议：[链接](https://docs.google.com/document/d/1pGoB_LCvdC84P2ZpEXBKeUES1g2rDvC2EmfOPRo-KiI/edit?usp=sharing)
 
+
+# 如何参与CGM Hangouts在线讨论
+
+CGM每次活动的YouTube线上直播是通过Hangouts实现的。Hangouts最多支持**10个人**同时在线，所以名额有限，先到先得。
+
+在每次活动开始前5-10分钟，我们会更新本期活动YouTube网页的活动介绍部分，并添加参与此次活动的Hangouts链接。
+比如下图中第八期活动的Hangouts链接（红色部分）就是在活动开始前更新的：
+
+![Imgur](http://i.imgur.com/pKm6M8M.png)
+
+所以你只需要在每次活动开始前，打开相应的YouTube地址，刷新网页，就会看到Hangouts链接了。
+
+其他参与方法，见[说明](https://docs.google.com/document/d/1dH9ZonCrbplvKQtcIj5GyeKdIqVBzYTiQRaZ2YcRreE/edit#).
+
 # 联系我们
 
 本站所有视频、PPT均为演讲者和主持人所有。 如需转载，请联系:  
