@@ -3,8 +3,6 @@ title: 下期预告
 date: '2017-07-22'
 menu: [main, top]
 weight: 2
-show_comments: true
-thumbnail: "http://i.imgur.com/8B3VDte.png"
 time: August 2, 2017, 20:00:00
 ---
 
