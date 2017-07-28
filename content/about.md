@@ -20,6 +20,7 @@ Chinese Genomics online Meet-up (CGM) was launched by several young Chinese scie
 - 汇报中英文皆可。提问和讨论推荐以中文为主。
 - 如何设置你的直播：[直播说明](ttps://docs.google.com/document/d/1fxmuZwoLearelWj2G1jK_wGcFdSQQ_0wVWC1YwgjkcM/edit?usp=sharing)
 - 给演讲者的指导建议：[链接](https://docs.google.com/document/d/1pGoB_LCvdC84P2ZpEXBKeUES1g2rDvC2EmfOPRo-KiI/edit?usp=sharing)
+- 如何参与Hangouts在线讨论：[链接]()
 
 # 联系我们
 
