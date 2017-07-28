@@ -4,6 +4,8 @@ date: "2017-04-26"
 categories:
   - 学术报告
 tags: [rapa, evolution]
+show_comments: true
+thumbnail: "http://i.imgur.com/ZO5v0fH.png"
 ---
 
 - 时间：2017年4月26号（星期三），美西时间（Pacific Time）6:00 PM

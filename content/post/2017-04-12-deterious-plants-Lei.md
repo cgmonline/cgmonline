@@ -4,6 +4,8 @@ date: "2017-04-12"
 categories:
   - 学术报告
 tags: [plants, domestication, evolution]
+show_comments: true
+thumbnail: "http://i.imgur.com/NhOe8z4.png"
 ---
 
 - 时间：2017年4月12号（星期三），美西时间（Pacific Time）6:00 PM

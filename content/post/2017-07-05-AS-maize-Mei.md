@@ -4,6 +4,8 @@ date: "2017-07-05"
 categories:
   - 学术报告
 tags: [laternative splicing, maize, plants, function]
+show_comments: true
+thumbnail: "http://i.imgur.com/83WKZI9.png"
 ---
 
 - 时间：2017年7月5号（星期三），美西时间（Pacific Time）6:00 PM

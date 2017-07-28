@@ -4,6 +4,8 @@ date: "2017-05-24"
 categories:
   - 学术报告
 tags: [setaria, function, mapping]
+show_comments: true
+thumbnail: "http://i.imgur.com/qcl0xi9.png"
 ---
 
 - 时间：2017年5月24号（星期三），美西时间（Pacific Time）6:00 PM

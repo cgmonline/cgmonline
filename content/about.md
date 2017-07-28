@@ -1,7 +1,7 @@
 ---
 title: 关于我们
 date: '2017-07-22'
-menu: [main, top]
+menu: [main]
 ---
 
 # 简介

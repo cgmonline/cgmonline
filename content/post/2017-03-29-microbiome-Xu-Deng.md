@@ -4,6 +4,8 @@ date: "2017-03-29"
 categories:
   - 学术报告
 tags: [plants, microbiome, biology]
+show_comments: true
+thumbnail: "http://i.imgur.com/Sev5B6K.png"
 ---
 
 - 时间：2017年3月29号（星期三），美西时间（Pacific Time）6:00 PM  

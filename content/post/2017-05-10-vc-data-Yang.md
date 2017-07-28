@@ -4,6 +4,8 @@ date: "2017-05-10"
 categories:
   - 专题讨论
 tags: [github, NGS, discuss, bigdata, computation]
+show_comments: true
+thumbnail: "http://i.imgur.com/uXxAENu.png"
 ---
 
 - 时间：2017年05月10 号（星期三），美西时间（Pacific Time）6:00 PM
