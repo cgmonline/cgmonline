@@ -13,7 +13,8 @@ time: August 2, 2017, 20:00:00
 - 时间：2017 年 8 月 2 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：YouTube live stream 
 - Discussion Leader: Li Lei (雷栗), PhD,  Department of Agronomy and Plant Genetics, University of Minnesota
- 
+- [如何参与CGM Hangouts在线讨论](https://docs.google.com/document/d/1dH9ZonCrbplvKQtcIj5GyeKdIqVBzYTiQRaZ2YcRreE/edit#heading=h.nj49ctf8nmot)
+
 # 特邀嘉宾：
 - Dr. [Sanzhen Liu](http://plantgenomics.ksu.edu/liulab/pages/home.html), Assistant professor, Department of Plant Pathology, Kansas State University
 - Dr. [Jinliang Yang](http://jyanglab.com/), Assistant professor, Department of Agronomy and Horticulture, University of Nebraska-Lincoln
