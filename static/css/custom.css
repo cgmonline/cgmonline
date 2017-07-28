@@ -98,7 +98,7 @@ blockquote { margin: auto; }
 
 /* modify the layout */
 .list section {
-  flex: 1 0 500px;
+  flex: 1 0 380px;
   box-sizing: border-box;
   box-shadow: 0 0 8px #ccc;
   margin: 1em 0 0 15px;
