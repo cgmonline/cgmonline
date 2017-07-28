@@ -51,7 +51,7 @@
     <item>
       <title>Discuss</title>
       <link>/tags/discuss/</link>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/discuss/</guid>
       <description></description>
@@ -108,6 +108,15 @@
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Job</title>
+      <link>/tags/job/</link>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/job/</guid>
       <description></description>
     </item>
     

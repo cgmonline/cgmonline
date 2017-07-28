@@ -97,6 +97,11 @@ blockquote { margin: auto; }
 }
 
 /* modify the layout */
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -15px;
+}
 .list section {
   flex: 1 0 380px;
   box-sizing: border-box;

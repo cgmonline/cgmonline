@@ -5,7 +5,7 @@ categories:
   - 专题讨论
 tags: [paper, writing, discuss]
 show_comments: true
-thumbnail: "http://i.imgur.com/lmHpS6p.png"
+thumbnail: "http://i.imgur.com/33BNlnC.png"
 ---
 
 - 时间：2017年5月24号（星期三），美西时间（Pacific Time）6:00 PM

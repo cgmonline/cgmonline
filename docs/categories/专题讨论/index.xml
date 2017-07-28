@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>北美华人基因组学在线沙龙 2017</copyright>
-    <lastBuildDate>Wed, 21 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/%E4%B8%93%E9%A2%98%E8%AE%A8%E8%AE%BA/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CGM第11期：How to find a job in academic field?</title>
+      <link>/2017/08/cgm%E7%AC%AC11%E6%9C%9Fhow-to-find-a-job-in-academic-field/</link>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/08/cgm%E7%AC%AC11%E6%9C%9Fhow-to-find-a-job-in-academic-field/</guid>
+      <description>var countDownDate = new Date(&#34;August 2, 2017, 20:00:00&#34;).getTime(); var x = setInterval(function() { var now = new Date().getTime(); var distance = countDownDate - now; var days = Math.floor(distance / (1000 * 60 * 60 * 24)); var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)); var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60)); var seconds</description>
+    </item>
     
     <item>
       <title>CGM 第8期：怎样提高英文科技论文的写作？</title>
