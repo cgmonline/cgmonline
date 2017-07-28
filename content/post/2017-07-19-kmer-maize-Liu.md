@@ -1,12 +1,12 @@
 ---
 title: "CGM 第10期：Unbiased k-mer Analysis for Comparative Genomics"
-date: "2017-07-16"
+date: "2017-07-19"
 categories:
   - 学术报告
 tags: [k-mer, maize, mapping, repeats]
 ---
 
-- 时间：2017年7月16号（星期三），美西时间（Pacific Time）6:00 PM
+- 时间：2017年7月19号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：Youtube live stream
 - 主讲人：[Sanzhen Liu (刘三震)](http://plantgenomics.ksu.edu/liulab), Kansas State University
 
