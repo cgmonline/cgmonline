@@ -18,11 +18,10 @@ publishDir = "docs"
 [permalinks]
   post = "/:year/:month/:slug/"
 
-
 [[menu.top]]
-  name = "首页"
-  url = "/"
-  weight = 1
+  name = "征集志愿者"
+  url = "/contribute/"
+  weight = 4
 
 [[menu.top]]
   name = "预告"
@@ -30,13 +29,19 @@ publishDir = "docs"
   weight = 3
 
 [[menu.top]]
-  name = "征集志愿者"
-  url = "/contribute/"
-  weight = 4
+  name = "首页"
+  url = "/"
+  weight = 8
+
 
 [[menu.top]]
   name = "注册"
   url = "/subscribe/"
+  weight = 4
+
+[[menu.top]]
+  name = "关于"
+  url = "/about/"
   weight = 4
 
 [params.banner]
