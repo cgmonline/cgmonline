@@ -6,7 +6,7 @@ menu: [main]
 
 # Coming events:
 
-- Aug 2: General Discussion: Job application and Career development
+- [Aug 2: General Discussion: Job application and Career development](http://cgmonline.co/2017/08/cgm%E7%AC%AC11%E6%9C%9Fhow-to-find-a-job-in-academic-field/)
 
 
 
