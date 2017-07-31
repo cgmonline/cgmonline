@@ -10,7 +10,7 @@ thumbnail: "http://i.imgur.com/83WKZI9.png"
 
 - 时间：2017年7月5号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：Youtube live stream
-- 主讲人：梅文彬, UC Dvis
+- 主讲人：梅文彬, UC Davis
 
 # 摘要：
 
