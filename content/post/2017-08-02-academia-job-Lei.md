@@ -10,8 +10,6 @@ time: August 2, 2017, 20:00:00
 ---
 
 
-**{{< importPartial "countdown.html" >}}**
-
 - 时间：2017 年 8 月 2 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：YouTube live stream 
 - Discussion Leader: Li Lei (雷栗), PhD,  Department of Agronomy and Plant Genetics, University of Minnesota
