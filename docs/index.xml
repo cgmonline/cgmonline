@@ -36,7 +36,7 @@
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>/2017/08/%E4%B8%8B%E6%9C%9F%E9%A2%84%E5%91%8Ahow-to-find-a-job-in-academic-field/</guid>
-      <description>var countDownDate = new Date(&#34;August 2, 2017, 20:00:00&#34;).getTime(); var x = setInterval(function() { var now = new Date().getTime(); var distance = countDownDate - now; var days = Math.floor(distance / (1000 * 60 * 60 * 24)); var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)); var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60)); var seconds</description>
+      <description>时间：2017 年 8 月 2 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream Discussion Leader: Li Lei (雷栗), PhD, Department of Agronomy and Plant Genetics, University of</description>
     </item>
     
     <item>
@@ -153,7 +153,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/archives/</guid>
-      <description>北美华人基因组学在线沙龙所有历史讨论章汇总如下： 2017 2017/08/02 下期预告：How to find a job in academic field? 2017/07/19 CGM 第10期：Unbiased k-mer Analysis for Comparative Genomics 2017/07/05 CGM 第9期：The</description>
+      <description>北美华人基因组学在线沙龙所有历史讨论汇总如下： 2017 2017/08/02 下期预告：How to find a job in academic field? 2017/07/19 CGM 第10期：Unbiased k-mer Analysis for Comparative Genomics 2017/07/05 CGM 第9期：The cause</description>
     </item>
     
   </channel>
