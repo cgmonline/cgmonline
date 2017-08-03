@@ -9,7 +9,7 @@ time: August 2, 2017, 20:00:00
 
 - 时间：2017 年 8 月 16 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：YouTube live stream 
-- 主讲人: 待确认
+- 主讲人: 李强
  
 # 摘要：
 
@@ -17,14 +17,4 @@ time: August 2, 2017, 20:00:00
 
 # Slides和Youtube视频
 
-{{< youtube id="mC5V6aKuilU" autoplay="false" >}}
-
-
-# Coming events (TBD):
-
-- General Discussion: grant application
-- Dawei Li
-- Ya Yang
-- Lightning Talk/Elevator Speech. 
-每人5分钟。介绍你在做什么，或者你感兴趣的科学问题。不一定有结果，只要有大体的研究思路和方法就行。然后大家讨论5-10分钟。每次安排4-5个人。这样鼓励研究生来讲，同时有助于大家拓展思路，提高每次的效率。
 
