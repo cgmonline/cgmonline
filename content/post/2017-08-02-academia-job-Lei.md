@@ -1,5 +1,5 @@
 ---
-title: "下期预告：How to find a job in academic field?"
+title: "CGM 第11期：How to find a job in academic field?"
 date: "2017-08-02"
 categories:
   - 专题讨论
