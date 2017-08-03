@@ -28,9 +28,15 @@ time: August 2, 2017, 20:00:00
 
 {{< youtube id="YyDhhFFn6sk" autoplay="false" >}}
 
+
+-------------------------
+
 # Summary of the Discussion:
 
-## 找 Tenture-track position 的流程: Application，电话面试，on site面试
+## 找 Tenture-track position 的流程: 
+- Application
+- 电话面试
+- on site面试
 
 ## Long term staff position:
 - 面试流程差不多
@@ -55,39 +61,39 @@ time: August 2, 2017, 20:00:00
 - 多练习
 - 多找听众提意见
 
-# 找工作成功最关键的是什么？
+## 找工作成功最关键的是什么？
 - 态度很重要 要有很强的欲望想得到这个工作 面试完一定要发email
 - 着装 （之前强调clear research plan）
 - 要多说 多交流 多介绍你的工作
 - 整个过程都是在面试 注意细节 要表现出强烈的欲望 但不要太aggressive 不要刺儿头
 
-# 其他建议：
+## 其他建议：
 - 拿到on site以后问清楚你的search committee members.
 - 没有teaching的话，争取guest teaching.
 - Diversity Statement需要但可能不重要
 - Statements多举例子
 - 进入short list以后就不看publication了
 
-# 如何让自己的package 更吸引眼球
+## 如何让自己的package 更吸引眼球
 - 关键词
 - pedigree 是不是好实验室出来的
 - Overleaf可以把CV准备的更好
 - Cover Letter 开头和结尾
 
-# 推荐信
+## 推荐信
 - 找对人
 
-# chalk talk
+## chalk talk
 - 具体你想申请哪些program
 - 有机会的话 参与写grant 这样的经验会很有帮助
 
-# 找工作的渠道
+## 找工作的渠道
 - EvolDir
 - HigherEd
 - Indeed
 - LinkedIn
 
-# 拿到offer以后的谈判
+## 拿到offer以后的谈判
 - 不要太aggreessive 
 - 也不要太低估 要钱太少了
 - 谈判的重点是要有target
