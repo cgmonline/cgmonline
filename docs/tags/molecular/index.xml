@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Molecular on 北美华人基因组学在线沙龙</title>
+    <link>/tags/molecular/</link>
+    <description>Recent content in Molecular on 北美华人基因组学在线沙龙</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>北美华人基因组学在线沙龙 2017</copyright>
+    <lastBuildDate>Wed, 16 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/molecular/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CGM 第12期：番茄果实形状多变的背后?</title>
+      <link>/2017/08/cgm-%E7%AC%AC12%E6%9C%9F%E7%95%AA%E8%8C%84%E6%9E%9C%E5%AE%9E%E5%BD%A2%E7%8A%B6%E5%A4%9A%E5%8F%98%E7%9A%84%E8%83%8C%E5%90%8E/</link>
+      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/08/cgm-%E7%AC%AC12%E6%9C%9F%E7%95%AA%E8%8C%84%E6%9E%9C%E5%AE%9E%E5%BD%A2%E7%8A%B6%E5%A4%9A%E5%8F%98%E7%9A%84%E8%83%8C%E5%90%8E/</guid>
+      <description>时间：2017 年 8 月 16 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream 主讲人: 李强 (University of Georgia) 番茄果实形状多变的</description>
+    </item>
+    
+  </channel>
+</rss>

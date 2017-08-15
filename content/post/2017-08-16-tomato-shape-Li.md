@@ -1,9 +1,12 @@
 ---
-title: 下期预告
-date: '2017-08-16'
-menu: [main, top]
-weight: 2
-time: August 2, 2017, 20:00:00
+title: "CGM 第12期：番茄果实形状多变的背后?"
+date: "2017-08-16"
+categories:
+  - 学术报告
+tags: [tomato, molecular]
+show_comments: true
+thumbnail: "http://i.imgur.com/hbBQyD8.png"
+time: August 16, 2017, 20:00:00
 ---
 
 
@@ -19,5 +22,7 @@ time: August 2, 2017, 20:00:00
 
 
 # Slides和Youtube视频
+
+{{< youtube id="mC5V6aKuilU" autoplay="false" >}}
 
 
