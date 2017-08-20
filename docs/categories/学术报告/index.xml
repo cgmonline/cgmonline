@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>北美华人基因组学在线沙龙 2017</copyright>
-    <lastBuildDate>Wed, 16 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CGM 第13期：公共基因表达数据挖掘</title>
+      <link>/2017/08/cgm-%E7%AC%AC13%E6%9C%9F%E5%85%AC%E5%85%B1%E5%9F%BA%E5%9B%A0%E8%A1%A8%E8%BE%BE%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/</link>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/08/cgm-%E7%AC%AC13%E6%9C%9F%E5%85%AC%E5%85%B1%E5%9F%BA%E5%9B%A0%E8%A1%A8%E8%BE%BE%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/</guid>
+      <description>时间：2017 年 8 月 30 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream 主讲人: Fei He (贺飞 ) 堪萨斯州立大学 题</description>
+    </item>
     
     <item>
       <title>CGM 第12期：番茄果实形状多变的背后?</title>
