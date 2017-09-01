@@ -20,6 +20,8 @@ time: August 30, 2017, 20:00:00
 
 # Slides和Youtube视频
 
-{{< youtube id="jpuYXntUajo" autoplay="false" >}}
+由于技术原因，这次我们没有视频记录，非常抱歉。
+
+[Slides](data/Fei_Talk_2017.pdf)
 
 
