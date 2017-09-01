@@ -1,11 +1,13 @@
 ---
-title: 下期预告
-date: '2017-08-30'
-menu: [main, top]
-weight: 2
+title: "CGM 第13期：公共基因表达数据挖掘"
+date: "2017-08-30"
+categories:
+  - 学术报告
+tags: [arabidopsis, expression, bigdata]
+show_comments: true
+thumbnail: "http://i.imgur.com/zHowgjg.png"
 time: August 30, 2017, 20:00:00
 ---
-
 
 - 时间：2017 年 8 月 30 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：YouTube live stream 
@@ -19,6 +21,5 @@ time: August 30, 2017, 20:00:00
 # Slides和Youtube视频
 
 {{< youtube id="jpuYXntUajo" autoplay="false" >}}
-
 
 
