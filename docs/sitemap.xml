@@ -4,12 +4,17 @@
   
   <url>
     <loc>/coming/</loc>
-    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/search/</loc>
     <lastmod>2017-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/09/cgm-%E7%AC%AC14%E6%9C%9F%E7%BA%BF%E7%B2%92%E4%BD%93%E7%9A%84%E5%8F%8D%E8%BD%AC%E5%BA%A7%E8%BF%87%E7%A8%8B-%E4%BB%A5%E7%A6%BE%E6%9C%AC%E7%A7%91%E4%B8%BA%E4%BE%8B/</loc>
+    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -141,7 +146,7 @@
   
   <url>
     <loc>/tags/evolution/</loc>
-    <lastmod>2017-04-26T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -212,6 +217,12 @@
   </url>
   
   <url>
+    <loc>/tags/mitochondria/</loc>
+    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/molecular/</loc>
     <lastmod>2017-08-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -237,7 +248,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -285,7 +296,7 @@
   
   <url>
     <loc>/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</loc>
-    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
