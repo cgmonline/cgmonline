@@ -1,5 +1,5 @@
 ---
-title: "CGM 第15期：植物中的非典型LTR转座子"
+title: "下期预告"
 date: "2017-09-27"
 menu: [main, top]
 weight: 2
