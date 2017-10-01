@@ -40,6 +40,15 @@
     </item>
     
     <item>
+      <title>Blog</title>
+      <link>/tags/blog/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Computation</title>
       <link>/tags/computation/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
@@ -238,6 +247,15 @@
     </item>
     
     <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rapa</title>
       <link>/tags/rapa/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
@@ -283,9 +301,18 @@
     </item>
     
     <item>
+      <title>Website</title>
+      <link>/tags/website/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Writing</title>
       <link>/tags/writing/</link>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/writing/</guid>
       <description></description>

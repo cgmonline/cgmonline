@@ -17,6 +17,11 @@
   </url>
   
   <url>
+    <loc>/2017/10/cgm-%E7%AC%AC16%E6%9C%9F%E7%94%A8-blogdown-%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/</loc>
+    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2017/09/cgm-%E7%AC%AC15%E6%9C%9F%E6%A4%8D%E7%89%A9%E4%B8%AD%E7%9A%84%E9%9D%9E%E5%85%B8%E5%9E%8Bltr%E8%BD%AC%E5%BA%A7%E5%AD%90/</loc>
     <lastmod>2017-09-27T00:00:00+00:00</lastmod>
   </url>
@@ -121,6 +126,12 @@
   <url>
     <loc>/tags/biology/</loc>
     <lastmod>2017-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/blog/</loc>
+    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -263,7 +274,13 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2017-09-27T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -304,8 +321,14 @@
   </url>
   
   <url>
+    <loc>/tags/website/</loc>
+    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/writing/</loc>
-    <lastmod>2017-06-21T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -317,7 +340,7 @@
   
   <url>
     <loc>/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</loc>
-    <lastmod>2017-09-27T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
