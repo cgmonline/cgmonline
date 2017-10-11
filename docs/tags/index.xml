@@ -40,6 +40,15 @@
     </item>
     
     <item>
+      <title>Blog</title>
+      <link>/tags/blog/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Computation</title>
       <link>/tags/computation/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
@@ -148,6 +157,15 @@
     </item>
     
     <item>
+      <title>LTR</title>
+      <link>/tags/ltr/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ltr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Laternative splicing</title>
       <link>/tags/laternative-splicing/</link>
       <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
@@ -229,6 +247,15 @@
     </item>
     
     <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rapa</title>
       <link>/tags/rapa/</link>
       <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
@@ -256,6 +283,15 @@
     </item>
     
     <item>
+      <title>TE</title>
+      <link>/tags/te/</link>
+      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/te/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tomato</title>
       <link>/tags/tomato/</link>
       <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
@@ -265,9 +301,18 @@
     </item>
     
     <item>
+      <title>Website</title>
+      <link>/tags/website/</link>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Writing</title>
       <link>/tags/writing/</link>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/writing/</guid>
       <description></description>
