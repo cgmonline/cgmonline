@@ -22,5 +22,5 @@ thumbnail: "https://i.imgur.com/2PGSUCK.png"
 
 # 幻灯片和Youtube视频
 
-待发布。
+{{< youtube id="g-UnHlp_IgA" autoplay="false" >}}
 
