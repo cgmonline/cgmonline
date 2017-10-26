@@ -15,4 +15,4 @@ weight: 2
 
 ## 幻灯片和Youtube视频
 
-{{< youtube id="39-6T3THjvs" autoplay="false" >}}
+{{< youtube id="PsAVIh5JQvc" autoplay="false" >}}
