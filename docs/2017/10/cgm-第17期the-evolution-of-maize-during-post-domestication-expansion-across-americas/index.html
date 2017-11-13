@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <title>CGM 第16期：用 blogdown 搭建一个静态网站 | 北美华人基因组学在线沙龙</title>
+    <title>CGM 第17期：The Evolution of Maize during Post-Domestication Expansion across Americas | 北美华人基因组学在线沙龙</title>
     <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/fonts.css" />
     <link href="//cdn.bootcss.com/highlight.js/9.12.0/styles/github.min.css" rel="stylesheet">
@@ -43,14 +43,14 @@
       <div class="head-meta">
       
         <span><a href="/">&larr; 返回首页</a></span>
-        <span class="date">2017-10-11</span>
+        <span class="date">2017-10-25</span>
         
         
         
           
         
         
-        <span><a href="https://github.com/cgmonline/cgmonline/edit/master/content/post/2017-10-11-blogdown-xie.md">编辑本页 &rarr;</a></span>
+        <span><a href="https://github.com/cgmonline/cgmonline/edit/master/content/post/2017-10-25-maize-adaptation-li.md">编辑本页 &rarr;</a></span>
         
         
       
@@ -67,12 +67,12 @@
   
   </div>
 
-  <h1><span class="title">CGM 第16期：用 blogdown 搭建一个静态网站</span></h1>
+  <h1><span class="title">CGM 第17期：The Evolution of Maize during Post-Domestication Expansion across Americas</span></h1>
 
   
 
   
-  <p>关键词：<a href="/tags/r">R</a>; <a href="/tags/writing">writing</a>; <a href="/tags/blog">blog</a>; <a href="/tags/website">website</a>
+  <p>关键词：<a href="/tags/maize">maize</a>; <a href="/tags/evolution">evolution</a>; <a href="/tags/domestication">domestication</a>
   </p>
   
   
@@ -86,24 +86,20 @@
 
 
 <ul>
-<li>时间：2017 年 10 月 11 号（星期三），美西时间（Pacific Time）6:00 PM</li>
+<li>时间：2017 年 10 月 25 号（星期三），美西时间（Pacific Time）6:00 PM</li>
 <li>地点：YouTube live stream</li>
-<li>主讲人: <a href="https://yihui.name/en/">谢益辉</a>（RStudio）</li>
+<li>主讲人: 王丽（Iowa State University）</li>
 </ul>
 
-<h1 id="用-blogdown-搭建一个静态网站">用 blogdown 搭建一个静态网站</h1>
+<h1 id="the-evolution-of-maize-during-post-domestication-expansion-across-americas">The Evolution of Maize during Post-Domestication Expansion across Americas</h1>
 
-<p>我作为一个业余人士折腾网站差不多已经 12 年，一路摸索过很多种建网站的工具，总觉得有这样那样的问题，不适合我这样的用户，直到今年我自己造了一个轮子 <a href="https://github.com/rstudio/blogdown">blogdown</a>，才感到心满意足。这是码农的通病，不过我想辩解一下我为什么要造这个轮子，以及这个轮子适合什么背景的用户。工具永远没有绝对的最好，而只有最合适，就看前提和背景是什么。blogdown 适合经常写涉及到数据分析的非正式文章（比如博客；当然正式文章也可以）或者写含有科技作品元素的文章的作者。它可以让你把计算机代码跟文本混编（R Markdown 的基本原理）从而得到易重现的数据分析结果，也可以让你在网页上呈现多数科技论文里常见的元素，如数学公式、图表、文献引用、甚至定理、证明等，而且同一篇文档既可以生成网页，也可以生成 PDF 等其它格式。我基本上可以吹个牛，在各位见过的建站工具里，能做到支持这三大特性（可重复性数据分析、科技写作元素、多种输出格式）的应该是还没有。当然，这个牛是站在巨人的肩膀上吹的（主要是要感谢 Pandoc 和 Hugo）。</p>
+<p>玉米在墨西哥南部湿热河谷地区驯化后迅速占领了美洲从热带到温带，从低海拔到高海拔的大面积区域。在这个迁移过程中，玉米的种植面积在不断扩大，而它的有效群体大小又是如何波动的呢？墨西哥中部高原区的玉米品系接受了同域分布的野生玉米的基因流以帮助它适应高海拔的生境。这种适应性的基因渐渗是否也发生在其他的不同域分布的玉米群体中呢？是否存在“驯化的代价”，“迁移的代价”（有害突变随着驯化和迁移而增加）？基因渐渗对有害突变在基因组上的分布有何影响？</p>
 
-<p>就算你只是想建一个口水博客，用 blogdown 当然也是没问题的。这次沙龙我会演示如何快速搭建一个有超级牛力的网站（具体能用到多少牛力，取决于用户怎么用了）。</p>
-
-<p>如果听众感兴趣，我也可以谈一些非技术性的话题，比如为什么要经常写作。这在前面第 8 期沙龙“怎样提高英文科技论文的写作”中似乎有提及，我也比较有感触。另外如果时间允许，我也很想吐槽一下学术界一直以来重 PDF 轻网页的陋习；在我眼中，把科研的时间大量浪费在 LaTeX 排版上实在太不值得。我理想中的论文发表形式应该是先网页后 PDF（排版），因为 CSS 排版比 LaTeX 排版省心无数倍。我认为 arXive（及其衍生品 bioRxiv）在这个问题上都走错了方向，希望不久的未来能有真的猛士出来把这条路扭转过来（对，我的意思就是说，整个学术界都错了，我们需要一场大地震把这个传统毁灭，然后重建学术发表的生态）。</p>
-
-<h1 id="幻灯片和youtube视频">幻灯片和Youtube视频</h1>
+<h2 id="幻灯片和youtube视频">幻灯片和Youtube视频</h2>
 
 
 <div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
-  <iframe src="//www.youtube.com/embed/g-UnHlp_IgA?"
+  <iframe src="//www.youtube.com/embed/PsAVIh5JQvc?"
   style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0" title="YouTube Video"></iframe>
 </div>
 
@@ -117,8 +113,8 @@
 
 
 <nav class="post-nav">
-  <span class="nav-prev"><a href="/2017/10/cgm-%E7%AC%AC17%E6%9C%9Fthe-evolution-of-maize-during-post-domestication-expansion-across-americas/">&larr; CGM 第17期：The Evolution of Maize during Post-Domestication Expansion across Americas</a></span>
-  <span class="nav-next"><a href="/2017/09/cgm-%E7%AC%AC15%E6%9C%9F%E6%A4%8D%E7%89%A9%E4%B8%AD%E7%9A%84%E9%9D%9E%E5%85%B8%E5%9E%8Bltr%E8%BD%AC%E5%BA%A7%E5%AD%90/">CGM 第15期：植物中的非典型LTR转座子 &rarr;</a></span>
+  <span class="nav-prev"><a href="/2017/11/cgm-%E7%AC%AC17%E6%9C%9Fosg101%E5%9F%BA%E4%BA%8E%E9%AB%98%E9%80%9A%E9%87%8F%E8%AE%A1%E7%AE%97%E5%B9%B3%E5%8F%B0%E7%9A%84%E7%94%9F%E7%89%A9%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/">&larr; CGM 第17期：OSG101：基于高通量计算平台的生物数据分析</a></span>
+  <span class="nav-next"><a href="/2017/10/cgm-%E7%AC%AC16%E6%9C%9F%E7%94%A8-blogdown-%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/">CGM 第16期：用 blogdown 搭建一个静态网站 &rarr;</a></span>
 </nav>
 
 
