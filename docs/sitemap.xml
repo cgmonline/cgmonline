@@ -141,7 +141,7 @@
   
   <url>
     <loc>/tags/blog/</loc>
-    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -211,6 +211,12 @@
   </url>
   
   <url>
+    <loc>/tags/high-performance-computing/</loc>
+    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/job/</loc>
     <lastmod>2017-08-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -271,6 +277,12 @@
   </url>
   
   <url>
+    <loc>/tags/open-science-grid/</loc>
+    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/paper/</loc>
     <lastmod>2017-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -290,7 +302,7 @@
   
   <url>
     <loc>/tags/r/</loc>
-    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -332,13 +344,13 @@
   
   <url>
     <loc>/tags/website/</loc>
-    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/writing/</loc>
-    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
