@@ -42,7 +42,7 @@
     <item>
       <title>Blog</title>
       <link>/tags/blog/</link>
-      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/blog/</guid>
       <description></description>
@@ -139,6 +139,15 @@
     </item>
     
     <item>
+      <title>High performance computing</title>
+      <link>/tags/high-performance-computing/</link>
+      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/high-performance-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Job</title>
       <link>/tags/job/</link>
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
@@ -229,6 +238,15 @@
     </item>
     
     <item>
+      <title>Open Science Grid</title>
+      <link>/tags/open-science-grid/</link>
+      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/open-science-grid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Paper</title>
       <link>/tags/paper/</link>
       <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
@@ -249,7 +267,7 @@
     <item>
       <title>R</title>
       <link>/tags/r/</link>
-      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/r/</guid>
       <description></description>
@@ -303,7 +321,7 @@
     <item>
       <title>Website</title>
       <link>/tags/website/</link>
-      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/website/</guid>
       <description></description>
@@ -312,7 +330,7 @@
     <item>
       <title>Writing</title>
       <link>/tags/writing/</link>
-      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/writing/</guid>
       <description></description>
