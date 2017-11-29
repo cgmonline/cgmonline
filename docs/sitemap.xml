@@ -4,7 +4,7 @@
   
   <url>
     <loc>/coming/</loc>
-    <lastmod>2017-11-22T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -14,6 +14,11 @@
   <url>
     <loc>/search/</loc>
     <lastmod>2017-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2017/11/cgm-%E7%AC%AC19%E6%9C%9Fall-roads-lead-to-weediness-stories-about-weedy-rice-origins-and-weedy-genes/</loc>
+    <lastmod>2017-11-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -157,6 +162,12 @@
   </url>
   
   <url>
+    <loc>/tags/de-domestication/</loc>
+    <lastmod>2017-11-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/deleterious/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -289,6 +300,12 @@
   </url>
   
   <url>
+    <loc>/tags/parallel-evolution/</loc>
+    <lastmod>2017-11-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/plants/</loc>
     <lastmod>2017-07-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -296,7 +313,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -315,6 +332,12 @@
   <url>
     <loc>/tags/repeats/</loc>
     <lastmod>2017-07-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/seed-shattering/</loc>
+    <lastmod>2017-11-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -349,6 +372,12 @@
   </url>
   
   <url>
+    <loc>/tags/weedy-rice/</loc>
+    <lastmod>2017-11-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/writing/</loc>
     <lastmod>2017-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -362,7 +391,7 @@
   
   <url>
     <loc>/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</loc>
-    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
