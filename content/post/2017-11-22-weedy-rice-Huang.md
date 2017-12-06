@@ -22,6 +22,6 @@ thumbnail: "https://i.imgur.com/jTB2NgP.png"
 
 # 优酷视频
 
-{{< tudou id="1c2ybh9Q" autoplay="false" >}}
+{{< tudou id="XMzIxMDMyNzc2OA==" autoplay="false" >}}
 
 
