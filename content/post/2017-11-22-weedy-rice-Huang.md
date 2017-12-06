@@ -19,3 +19,6 @@ thumbnail: "https://i.imgur.com/jTB2NgP.png"
 # 幻灯片和Youtube视频
 
 {{< youtube id="fesq9XF_208" autoplay="false" >}}
+
+{{< tudou id="fesq9XF_208" autoplay="false" >}}
+
