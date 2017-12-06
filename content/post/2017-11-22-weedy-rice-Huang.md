@@ -22,5 +22,4 @@ thumbnail: "https://i.imgur.com/jTB2NgP.png"
 
 # 优酷视频
 
-{{< tudou id="XMzIxMDMyNzc2OA==" autoplay="false" >}}
-
+<iframe height=498 width=510 src='http://player.youku.com/embed/XMzIxMDMyNzc2OA==' frameborder=0 'allowfullscreen'></iframe>
