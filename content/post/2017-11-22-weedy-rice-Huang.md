@@ -20,5 +20,7 @@ thumbnail: "https://i.imgur.com/jTB2NgP.png"
 
 {{< youtube id="fesq9XF_208" autoplay="false" >}}
 
-{{< tudou id="fesq9XF_208" autoplay="false" >}}
+# 优酷视频
+
+{{< tudou id="XMzIxMDMyNzc2OA==" autoplay="false" >}}
 
