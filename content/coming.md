@@ -8,9 +8,9 @@ weight: 2
 - 题目：Population Genetics of Grape Domestication
 - 时间：2017 年 12 月 20 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：YouTube live stream 
-- 主讲人: 周永峰
+- 主讲人: 周永峰（University of California, Irvine）
 
-#
+# Population Genetics of Grape Domestication
 Population genetics of plant domestication had been widely studied for annuals, but less extensively for
 perennials. The grapevine (Vitis vinifera spp. vinifera), the most economically important crop in the world,
 has been used as a source of wine and food for thousands of years. However, grape domestication hasn’t
