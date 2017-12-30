@@ -15,10 +15,10 @@
     <item>
       <title>下期预告</title>
       <link>/coming/</link>
-      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/coming/</guid>
-      <description>题目：Population Genetics of Grape Domestication 时间：2017 年 12 月 20 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream 主</description>
+      <description>题目： 时间：2017 年 01 月 24 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream 主讲人： Stay tuned. We will come back after PAG-2018.</description>
     </item>
     
     <item>
@@ -37,6 +37,15 @@
       
       <guid>/search/</guid>
       <description>.input-group { display: flex; } .ais-search-box { width: 100%; flex: 1; } .form-control { width: 100%; flex: 1; height: 2rem; } .input-group-btn button { height: 100%; width: 60px; margin-left: 10px; } 搜索</description>
+    </item>
+    
+    <item>
+      <title>CGM 第20期：Population Genetics of Grape Domestication</title>
+      <link>/2017/12/cgm-%E7%AC%AC20%E6%9C%9Fpopulation-genetics-of-grape-domestication/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/12/cgm-%E7%AC%AC20%E6%9C%9Fpopulation-genetics-of-grape-domestication/</guid>
+      <description>题目：Population Genetics of Grape Domestication 时间：2017 年 12 月 20 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream 主</description>
     </item>
     
     <item>
@@ -234,7 +243,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/archives/</guid>
-      <description>北美华人基因组学在线沙龙所有历史讨论汇总如下： 2017 2017/11/22 CGM 第19期：All roads lead to weediness: stories about weedy rice origins and weedy genes 2017/11/08 CGM 第18期：OSG101：基于高通量计算平台的</description>
+      <description>北美华人基因组学在线沙龙所有历史讨论汇总如下： 2017 2017/12/20 CGM 第20期：Population Genetics of Grape Domestication 2017/11/22 CGM 第19期：All roads lead to weediness: stories about weedy rice origins and weedy genes 2017/11/08 CGM 第</description>
     </item>
     
   </channel>
