@@ -45,6 +45,5 @@ thumbnail: "https://i.imgur.com/wGBzHaB.png"
 
 # 优酷视频
 
-{{< tudou id="" autoplay="false" >}}
-
+{{< tudou id="XMzI3ODM4NzM3Ng==" autoplay="false" >}}
 
