@@ -5,7 +5,7 @@ categories:
   - 学术报告
 tags: [Brassinosteroids,Setaria viridis,Inflorescence architecture]
 show_comments: true
-thumbnail: "https://en.wikipedia.org/wiki/Setaria_viridis#/media/File:Groene_naaldaar_aarpluim_(Setaria_viridis).jpg"
+thumbnail: "https://i.imgur.com/TQRlz.jpg"
 ---
 
 - 题目：Brassinosteroids Modulate Meristem Fate and Differentiation of Unique Inflorescence Morphology in Setaria viridis
