@@ -13,7 +13,7 @@ thumbnail: "https://i.imgur.com/TQRlz.jpg"
 - 地点：YouTube live stream 
 - 主讲人：Jiani Yang（Donald Danforth Plant Science Center）
 
-#Brassinosteroids Modulate Meristem Fate and Differentiation of Unique Inflorescence Morphology in Setaria viridis
+Brassinosteroids Modulate Meristem Fate and Differentiation of Unique Inflorescence Morphology in Setaria viridis
 
 Inflorescence architecture is a key determinant of yield potential in many crops and is patterned by the organization and developmental 
 fate of axillary meristems. In cereals, flowers and grain are borne from spikelets, which differentiate in the final iteration of axillary 
