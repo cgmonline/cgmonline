@@ -1,6 +1,6 @@
 ---
 title: "CGM 第21期：Brassinosteroids Modulate Meristem Fate and Differentiation of Unique Inflorescence Morphology in Setaria viridis"
-date: "2018-1-24"
+date: "2018-01-24"
 categories:
   - 学术报告
 tags: [Brassinosteroids,Setaria viridis,Inflorescence architecture]
@@ -9,7 +9,7 @@ thumbnail: "https://en.wikipedia.org/wiki/Setaria_viridis#/media/File:Groene_naa
 ---
 
 - 题目：Brassinosteroids Modulate Meristem Fate and Differentiation of Unique Inflorescence Morphology in Setaria viridis
-- 时间：2018 年 1 月 24 号（星期三），美西时间（Pacific Time）6:00 PM
+- 时间：2018 年 01 月 24 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：YouTube live stream 
 - 主讲人：Jiani Yang（Donald Danforth Plant Science Center）
 
