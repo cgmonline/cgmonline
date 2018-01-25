@@ -17,6 +17,11 @@
   </url>
   
   <url>
+    <loc>/2018/01/cgm-%E7%AC%AC21%E6%9C%9F%E6%B2%B9%E8%8F%9C%E7%B4%A0%E7%B1%BB%E5%86%85%E9%85%AFbrs%E8%B0%83%E8%8A%82%E7%8B%97%E5%B0%BE%E5%B7%B4%E8%8D%89setaria-viridis%E5%88%86%E7%94%9F%E7%BB%84%E7%BB%87%E7%89%B9%E6%80%A7%E5%8F%8A%E5%85%B6%E7%89%B9%E6%9C%89%E8%8A%B1%E5%BA%8F%E7%BB%93%E6%9E%84%E7%9A%84%E5%88%86%E5%8C%96/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2017/12/cgm-%E7%AC%AC20%E6%9C%9Fpopulation-genetics-of-grape-domestication/</loc>
     <lastmod>2017-12-20T00:00:00+00:00</lastmod>
   </url>
@@ -156,6 +161,12 @@
   </url>
   
   <url>
+    <loc>/tags/brassinosteroids/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <priority>0</priority>
   </url>
@@ -235,6 +246,12 @@
   <url>
     <loc>/tags/high-performance-computing/</loc>
     <lastmod>2017-11-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/inflorescence-architecture/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -330,7 +347,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -361,6 +378,12 @@
   <url>
     <loc>/tags/setaria/</loc>
     <lastmod>2017-05-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/setaria-viridis/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -408,7 +431,7 @@
   
   <url>
     <loc>/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</loc>
-    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
