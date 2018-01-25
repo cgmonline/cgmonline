@@ -23,7 +23,7 @@ thumbnail: "https://i.imgur.com/TQRlz.jpg"
 
 # 幻灯片和Youtube视频
 
-Coming soon
+{{< youtube id="ZYADDMw1bkM" autoplay="false" >}}
 
 
 # 优酷视频
