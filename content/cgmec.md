@@ -10,12 +10,12 @@ weight: 5
 本届CGM执委会成员包括：
 
 ## 常务委员：
-- 杨金良
-- 祁新帅
+- [杨金良](http://jyanglab.com/)
+- [祁新帅](http://xinshuaiqi.weebly.com/)
 
 ## 执行委员：
-- 第一组：刘三震（组长），邓斯文（网站），安宏（视频直播）
-- 第二组：黄璞（组长），梅文彬（视频直播），郝樾（网站）
+- 第一组：[刘三震](http://plantgenomics.ksu.edu/liulab)（组长），邓斯文（网站），安宏（视频直播）
+- 第二组：[黄璞](https://scholar.google.com/citations?user=r5cGFI8AAAAJ&hl=en)（组长），[梅文彬](https://wenbinmei.github.io/)（视频直播），郝樾（网站）
 - 第三组：雷栗（组长），武志强
 
 
