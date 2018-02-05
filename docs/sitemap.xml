@@ -4,7 +4,7 @@
   
   <url>
     <loc>/coming/</loc>
-    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -14,6 +14,11 @@
   <url>
     <loc>/search/</loc>
     <lastmod>2017-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/02/cgm-%E7%AC%AC22%E6%9C%9Fquantitative-disease-resistance-in-maize/</loc>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -196,6 +201,12 @@
   </url>
   
   <url>
+    <loc>/tags/disease-resistance/</loc>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/domestication/</loc>
     <lastmod>2017-12-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -228,6 +239,12 @@
   <url>
     <loc>/tags/gwas/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/gene-mining/</loc>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -282,6 +299,12 @@
   <url>
     <loc>/tags/maize/</loc>
     <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/maize/</loc>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -347,7 +370,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -431,7 +454,7 @@
   
   <url>
     <loc>/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</loc>
-    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

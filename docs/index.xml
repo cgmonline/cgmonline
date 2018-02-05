@@ -15,10 +15,10 @@
     <item>
       <title>下期预告</title>
       <link>/coming/</link>
-      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/coming/</guid>
-      <description>题目：油菜素类内酯（BRs）调节狗尾巴草（Setaria viridis）分生组织特性及其特有花序结构的分化 时间：2018 年 01 月 24 号（星期三）</description>
+      <description>题目：Quantitative disease resistance in maize 时间：2018 年 02 月 07 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/cgmec/</guid>
-      <description>CGM 执委会 本届CGM执委会成员包括： 常务委员： 杨金良 祁新帅 执行委员： 第一组：刘三震（组长），邓斯文（网站），安宏（视频直播） 第二组：黄璞（组长</description>
+      <description>CGM 执委会 本届CGM执委会成员包括： 常务委员： 杨金良 祁新帅 执行委员： 第一组: 2017&amp;frasl;09-2017&amp;frasl;12 刘三震（组长），邓斯文（网站），安宏（视频直播） 第二组：2018</description>
     </item>
     
     <item>
@@ -37,6 +37,15 @@
       
       <guid>/search/</guid>
       <description>.input-group { display: flex; } .ais-search-box { width: 100%; flex: 1; } .form-control { width: 100%; flex: 1; height: 2rem; } .input-group-btn button { height: 100%; width: 60px; margin-left: 10px; } 搜索</description>
+    </item>
+    
+    <item>
+      <title>CGM 第22期：Quantitative disease resistance in maize</title>
+      <link>/2018/02/cgm-%E7%AC%AC22%E6%9C%9Fquantitative-disease-resistance-in-maize/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/02/cgm-%E7%AC%AC22%E6%9C%9Fquantitative-disease-resistance-in-maize/</guid>
+      <description>题目：Quantitative disease resistance in maize 时间：2018 年 02 月 07 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live</description>
     </item>
     
     <item>
@@ -252,7 +261,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/archives/</guid>
-      <description>北美华人基因组学在线沙龙所有历史讨论汇总如下： 2018 2018/01/24 CGM 第21期：油菜素类内酯调节狗尾巴草分生组织特性及其特有花序结构的分化 2017 2017/12/20 CGM 第20期：Po</description>
+      <description>北美华人基因组学在线沙龙所有历史讨论汇总如下： 2018 2018/02/07 CGM 第22期：Quantitative disease resistance in maize 2018/01/24 CGM 第21期：油菜素类内酯调节狗尾巴草分生组织</description>
     </item>
     
   </channel>
