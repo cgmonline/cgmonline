@@ -28,5 +28,6 @@ Quantitative disease resistance in maize
 
 # 优酷视频
 
-Coming soon
+{{< tudou id="XMzQwNjkxODMyOA==" autoplay="false" >}}
+
 

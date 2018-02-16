@@ -24,3 +24,7 @@ thumbnail: "https://i.imgur.com/2PGSUCK.png"
 
 {{< youtube id="g-UnHlp_IgA" autoplay="false" >}}
 
+# 优酷视频
+
+{{< tudou id="XMzI4MTI3OTUyNA==" autoplay="false" >}}
+
