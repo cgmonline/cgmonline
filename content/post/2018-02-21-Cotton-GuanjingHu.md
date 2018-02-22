@@ -5,7 +5,7 @@ categories:
   - 学术报告
 tags: [cotton, polyploidy, gene regulation, domestication]
 show_comments: true
-thumbnail: "https://imgur.com/a/CuQwy"
+thumbnail: "https://i.imgur.com/zv2dCnz.png"
 ---
 
 - 题目：Polyploidy and duplicated gene regulation, stories of cotton 棉花进化那些事儿
