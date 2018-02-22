@@ -18,4 +18,4 @@ Polyploidy and duplicated gene regulation, stories of cotton
 
 # 幻灯片和Youtube视频
 
-{{< youtube id="" autoplay="false" >}}
+{{< youtube id="e32077lD2eI" autoplay="false" >}}
