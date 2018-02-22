@@ -28,5 +28,6 @@ thumbnail: "https://i.imgur.com/TQRlz.jpg"
 
 # 优酷视频
 
-Coming soon
+{{< tudou id="XMzQwNjkxOTk1Mg==" autoplay="false" >}}
+
 

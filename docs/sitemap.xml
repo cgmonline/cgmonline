@@ -4,7 +4,7 @@
   
   <url>
     <loc>/coming/</loc>
-    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -14,6 +14,16 @@
   <url>
     <loc>/search/</loc>
     <lastmod>2017-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/02/cgm-%E7%AC%AC23%E6%9C%9Fpolyploidy-and-duplicated-gene-regulation-stories-of-cotton-%E6%A3%89%E8%8A%B1%E8%BF%9B%E5%8C%96%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/</loc>
+    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/02/cgm-%E7%AC%AC22%E6%9C%9Fquantitative-disease-resistance-in-maize/</loc>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -178,6 +188,12 @@
   </url>
   
   <url>
+    <loc>/tags/cotton/</loc>
+    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/de-domestication/</loc>
     <lastmod>2017-11-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -192,6 +208,12 @@
   <url>
     <loc>/tags/discuss/</loc>
     <lastmod>2017-08-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/disease-resistance/</loc>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -228,6 +250,18 @@
   <url>
     <loc>/tags/gwas/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/gene-mining/</loc>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/gene-regulation/</loc>
+    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -276,6 +310,12 @@
   <url>
     <loc>/tags/laternative-splicing/</loc>
     <lastmod>2017-07-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/maize/</loc>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -340,6 +380,12 @@
   </url>
   
   <url>
+    <loc>/tags/polyploidy/</loc>
+    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/popgen/</loc>
     <lastmod>2017-12-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -347,7 +393,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -431,7 +477,7 @@
   
   <url>
     <loc>/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</loc>
-    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
