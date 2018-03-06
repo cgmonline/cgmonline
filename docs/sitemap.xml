@@ -4,7 +4,7 @@
   
   <url>
     <loc>/coming/</loc>
-    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -14,6 +14,11 @@
   <url>
     <loc>/search/</loc>
     <lastmod>2017-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/03/cgm-%E7%AC%AC24%E6%9C%9Fgenome-plasticity-of-wheat/</loc>
+    <lastmod>2018-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -266,6 +271,12 @@
   </url>
   
   <url>
+    <loc>/tags/genome-plasticity/</loc>
+    <lastmod>2018-03-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/github/</loc>
     <lastmod>2017-05-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -393,7 +404,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -412,6 +423,12 @@
   <url>
     <loc>/tags/repeats/</loc>
     <lastmod>2017-07-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/reverse-genetics/</loc>
+    <lastmod>2018-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -464,6 +481,12 @@
   </url>
   
   <url>
+    <loc>/tags/wheat/</loc>
+    <lastmod>2018-03-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/writing/</loc>
     <lastmod>2017-10-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -477,7 +500,7 @@
   
   <url>
     <loc>/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</loc>
-    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
