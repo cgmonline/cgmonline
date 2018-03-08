@@ -22,7 +22,7 @@ Genome Plasticity of Wheat
 
 # 幻灯片和Youtube视频
 
-{{< youtube id="" autoplay="false" >}}
+{{< youtube id="ox_HdMTAQmQ" autoplay="false" >}}
 
 
 # 优酷视频
