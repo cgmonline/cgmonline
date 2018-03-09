@@ -27,6 +27,5 @@ Genome Plasticity of Wheat
 
 # 优酷视频
 
-{{< tudou id="" autoplay="false" >}}
 
 
