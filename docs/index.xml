@@ -15,10 +15,10 @@
     <item>
       <title>下期预告</title>
       <link>/coming/</link>
-      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/coming/</guid>
-      <description>题目：Genome Plasticity of Wheat 时间：2018 年 03 月 21 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream 主讲人：唐海</description>
+      <description>题目：Profiling of Short-Tandem-Repeat Disease Alleles in 12,632 Human Genomes 时间：2018 年 03 月 21 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube</description>
     </item>
     
     <item>
@@ -37,6 +37,15 @@
       
       <guid>/search/</guid>
       <description>.input-group { display: flex; } .ais-search-box { width: 100%; flex: 1; } .form-control { width: 100%; flex: 1; height: 2rem; } .input-group-btn button { height: 100%; width: 60px; margin-left: 10px; } 搜索</description>
+    </item>
+    
+    <item>
+      <title>CGM 第25期：Profiling of Short-Tandem-Repeat Disease Alleles in 12,632 Human Genomes</title>
+      <link>/2018/03/cgm-%E7%AC%AC25%E6%9C%9Fprofiling-of-short-tandem-repeat-disease-alleles-in-12632-human-genomes/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/03/cgm-%E7%AC%AC25%E6%9C%9Fprofiling-of-short-tandem-repeat-disease-alleles-in-12632-human-genomes/</guid>
+      <description>题目：Profiling of Short-Tandem-Repeat Disease Alleles in 12,632 Human Genomes 时间：2018 年 03 月 21 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube</description>
     </item>
     
     <item>
@@ -279,7 +288,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/archives/</guid>
-      <description>北美华人基因组学在线沙龙所有历史讨论汇总如下： 2018 2018/03/07 CGM 第24期：Genome Plasticity of Wheat 2018/02/21 CGM 第23期：Polyploidy and duplicated gene regulation, stories of cotton 棉花进化那些</description>
+      <description>北美华人基因组学在线沙龙所有历史讨论汇总如下： 2018 2018/03/21 CGM 第25期：Profiling of Short-Tandem-Repeat Disease Alleles in 12,632 Human Genomes 2018/03/07 CGM 第24期：Genome Plasticity of Wheat 2018/02/21 CGM 第23期</description>
     </item>
     
   </channel>
