@@ -1,19 +1,33 @@
 ---
 title: "下期预告"
-date: "2018-03-21"
+date: "2018-04-04"
 menu: [main, top]
 weight: 2
 ---
 
-- 题目：Profiling of Short-Tandem-Repeat Disease Alleles in 12,632 Human Genomes
-- 时间：2018 年 03 月 21 号（星期三），美西时间（Pacific Time）6:00 PM
+- 题目：CGM一周年特别企划：How to Find a Job in Industry?
+- 时间：2018 年 04 月 04 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：YouTube live stream 
-- 主讲人：[唐海宝](https://scholar.google.com/citations?user=66lj2Z0AAAAJ&hl=en) （Human Longevity Inc.）
 
-短串联重复序列（STR）由于其多态性，在遗传图谱分析、家系鉴定、身份认证和群体遗传学有广泛应用。部分STR位点长度的突变导致了多种遗传病，包括亨廷顿舞蹈病、Fragile X和遗传性共济失调SCA等。由于其短读长，通过二代测序鉴定STR位点目前存在很多挑战。TREDPARSE软件综合了多项序列特征，准确鉴定人基因组内的30个STR致病位点。我们通过TREDPARSE软件鉴定了12,632个测序深度在30-40X的全基因组样本，预测了138个携带可能风险基因的基因组样本，并通过各种实验手段验证了其中19个样本。由于二代测序的偏向性，准确预测高GC含量的STR位点仍然非常困难。
+专注科研多年之后的你，是否有那么一刻希望自己的工作不仅能为世人所知而且也能为世人所用？是否有那么一刻希望自己的努力能给社会带来一些能立竿见影的解决实际问题的产品？每年近十万的美国生物PhD中，大约只有10%在毕业后六年内能最终走向学术道路（tenure教职）。如此激烈的竞争中你是否考虑过一些在学术界之外也能一展才华的职业道路？本期的CGM我们隆重推出主题讨论”生物PhD如何在工业界（industry）找工作“。我们邀请到了三位已经在工业界工作的嘉宾来分享他们找工作的经验以及在工业界工作的感受。这次讨论将安排大量的问答互动时间，欢迎大家积极参加并踊跃提问！
 
-[TREDPARSE下载](https://github.com/humanlongevity/tredparse )
+# 特邀嘉宾：
+- 左涛 博士，Monsanto Company, Bioinformatics Scientist
+- 黄钟韵 博士，Roche Sequencing Solutions, Principal Scientist
+- 黄璞 博士，BASF，Sr. Scientist, Bioinformatics
+
+议程安排：
+     	1.嘉宾介绍
+      2.高票问题问答*
+      3.自由问答*
+*鉴于可能有许多重复的问题，请提前填写问卷调查，我们将整合所有问题并从其中选出高票问题优先提出。
+
+[问卷调查]{https://docs.google.com/forms/d/13Ok62YJMD_i-wOkyHAEuYNdo2FreFi_yQuXZMHSNV9s/edit}
+
+*鉴于CGM是一个公共同步直播平台，请大家在自由提问时注意回避任何可能涉及商业机密或个人隐私的问题。
+
+
 
 # 幻灯片和Youtube视频
 
-{{< youtube id="8DJsEu5dLsk" autoplay="false" >}}
+{{< youtube id="" autoplay="false" >}}
