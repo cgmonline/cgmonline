@@ -23,7 +23,7 @@ Profiling of Short-Tandem-Repeat Disease Alleles in 12,632 Human Genomes
 
 # 幻灯片和Youtube视频
 
-{{< youtube id="" autoplay="false" >}}
+{{< youtube id="8DJsEu5dLsk" autoplay="false" >}}
 
 
 # 优酷视频
