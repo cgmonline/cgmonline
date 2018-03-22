@@ -26,7 +26,7 @@ weight: 2
 - 高票问题问答*
 - 自由问答*<br>
 
-*鉴于可能有许多重复的问题，请提前填写<a href="https://docs.google.com/forms/d/13Ok62YJMD_i-wOkyHAEuYNdo2FreFi_yQuXZMHSNV9s/prefill">问卷调查</a>，我们将整合所有问题并从其中选出高票问题优先提出。CGM是一个公共同步直播平台，请大家在自由提问时注意回避任何可能涉及商业机密或个人隐私的问题。
+*鉴于可能有许多重复的问题，请提前填写<a href="https://docs.google.com/forms/d/e/1FAIpQLSesSaog-AJE1C3slgyN1UksLQ_6o6lbah_m-DSEIxbgbsWWTw/viewform">问卷调查</a>，我们将整合所有问题并从其中选出高票问题优先提出。CGM是一个公共同步直播平台，请大家在自由提问时注意回避任何可能涉及商业机密或个人隐私的问题。
 
 
 # 幻灯片和Youtube视频
