@@ -20,10 +20,7 @@ weight: 2
      	1.嘉宾介绍
       2.高票问题问答*
       3.自由问答*
-*鉴于可能有许多重复的问题，请提前填写问卷调查，我们将整合所有问题并从其中选出高票问题优先提出。
-
-[问卷调查]{https://docs.google.com/forms/d/13Ok62YJMD_i-wOkyHAEuYNdo2FreFi_yQuXZMHSNV9s/prefill }
-
+*鉴于可能有许多重复的问题，请提前填写<a href="https://docs.google.com/forms/d/13Ok62YJMD_i-wOkyHAEuYNdo2FreFi_yQuXZMHSNV9s/prefill">问卷调查</a>，我们将整合所有问题并从其中选出高票问题优先提出。
 *鉴于CGM是一个公共同步直播平台，请大家在自由提问时注意回避任何可能涉及商业机密或个人隐私的问题。
 
 
