@@ -19,7 +19,9 @@ weight: 2
 
 - [黄钟韵](https://www.linkedin.com/in/zhongyunhuang/) 博士，Roche Sequencing Solutions, Principal Scientist
 
-- [黄璞](https://www.linkedin.com/in/pu-huang-447b6a35/) 博士，BASF，Sr. Scientist, Bioinformatics
+- [黄璞](https://www.linkedin.com/in/pu-huang-447b6a35/) 博士，BASF，Senior Scientist, Bioinformatics
+
+- [亓栋](https://www.linkedin.com/in/dong-qi-5b2bb93b/) 博士，Altria，Senior Research Scientist
 
 # 议程安排：
 - 嘉宾介绍
