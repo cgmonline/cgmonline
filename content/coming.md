@@ -33,7 +33,7 @@ weight: 2
 
 # 幻灯片和Youtube视频
 
-{{< youtube id="" autoplay="false" >}}
+{{< youtube id="wbko59b12NY" autoplay="false" >}}
 
 <h3>References</h3>
 http://thegradstudentway.com/blog/?p=2153#.WrMncqjwaUk
