@@ -23,3 +23,7 @@ thumbnail: "http://i.imgur.com/OrAf70M.png"
 
 {{< youtube id="uD1eBlYsjlg" autoplay="false" >}}
 
+
+# 优酷视频
+
+{{< tudou id="XMzUxMjUxNzkxMg==" autoplay="false" >}}
