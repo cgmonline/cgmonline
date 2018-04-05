@@ -25,4 +25,6 @@ time: August 16, 2017, 20:00:00
 
 {{< youtube id="mC5V6aKuilU" autoplay="false" >}}
 
+# 优酷视频
 
+{{< tudou id="XMzUxMjQ3NDg4OA==" autoplay="false" >}}
