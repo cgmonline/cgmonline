@@ -24,3 +24,7 @@ thumbnail: "http://i.imgur.com/NhOe8z4.png"
 
 {{< youtube id="fNe-MrFEsAk" autoplay="false" >}}
 
+
+# 优酷视频
+
+{{< tudou id="XMzUxMjUxOTk1Mg==" autoplay="false" >}}
