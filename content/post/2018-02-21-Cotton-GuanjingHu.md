@@ -28,5 +28,5 @@ Polyploidy and duplicated gene regulation, stories of cotton
 
 # 优酷视频
 
-
+{{< tudou id="XMzUxMjY4ODA1Ng==" autoplay="false" >}}
 
