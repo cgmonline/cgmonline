@@ -28,6 +28,10 @@ time: August 2, 2017, 20:00:00
 
 {{< youtube id="YyDhhFFn6sk" autoplay="false" >}}
 
+# 优酷视频
+
+{{< tudou id="XMzUxMjQ3NTI0OA==" autoplay="false" >}}
+
 
 -------------------------
 
