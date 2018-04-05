@@ -38,4 +38,6 @@ Jinliang Yang, PhD, University of Nebraska-Lincoln
 -------------------------
 
 # Summary of the Discussion:
-Coming soon.
+[生物PhD如何在业界找工作_by_Julie_Huang](https://drive.google.com/file/d/12bAUdHK4GoNDDpXEMIgQpQvgTv0aZCdW/view?usp=sharing)
+
+[求职建议_xs_qi](https://drive.google.com/file/d/1JojTKJlyZCnquoHTsJRuoCjmw1xyIffy/view?usp=sharing)
