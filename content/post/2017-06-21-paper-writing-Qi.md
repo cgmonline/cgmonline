@@ -59,3 +59,8 @@ thumbnail: "http://i.imgur.com/33BNlnC.png"
 {{< youtube id="38PPfpv9Q08" autoplay="false" >}}
 
 
+# 优酷视频
+
+{{< tudou id="XMzUxMjUxODc2OA==" autoplay="false" >}}
+
+
