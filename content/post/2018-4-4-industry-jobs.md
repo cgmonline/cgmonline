@@ -35,6 +35,10 @@ Jinliang Yang, PhD, University of Nebraska-Lincoln
 {{< youtube id="wbko59b12NY" autoplay="false" >}}
 
 
+# 优酷视频
+
+{{< tudou id="XMzUxNzE4MTk3Ng==" autoplay="false" >}}
+
 -------------------------
 
 # Summary of the Discussion:
