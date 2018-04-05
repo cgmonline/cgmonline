@@ -40,3 +40,7 @@ thumbnail: "http://i.imgur.com/Bs0SleV.png"
 {{< youtube id="xSAAV4uc6Ms" autoplay="false" >}}
 
 
+# 优酷视频
+
+{{< tudou id="XMzUxMjUxNzI3Ng==" autoplay="false" >}}
+
