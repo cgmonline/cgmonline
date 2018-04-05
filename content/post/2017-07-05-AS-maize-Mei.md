@@ -41,3 +41,7 @@ Some review papers for splicing and structure variation, suggested by the speake
 {{< youtube id="hzydqZXaL5o" autoplay="false" >}}
 
 
+# 优酷视频
+
+{{< tudou id="XMzUxMjUxNzYzMg==" autoplay="false" >}}
+
