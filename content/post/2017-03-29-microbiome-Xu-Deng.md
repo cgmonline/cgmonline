@@ -33,3 +33,8 @@ thumbnail: "http://i.imgur.com/Sev5B6K.png"
 
 - [Slides](https://drive.google.com/open?id=0B5AMUSPwO4lraTFjblJPUUdPSHM )
 - [Audio](https://drive.google.com/file/d/0B5AMUSPwO4lrZGdkTU5sQlZlMDg/view?usp=sharing)
+
+
+# 优酷视频
+
+{{< tudou id="XMzUxMjUxNzI2MA==" autoplay="false" >}}
