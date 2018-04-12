@@ -27,13 +27,17 @@ publishDir = "docs"
 [[menu.top]]
   name = "往期活动"
   url = "/post/"
-  weight = 2
+  weight = 3
 
+[[menu.top]]
+  name = "讨论列表"
+  url = "/archives/"
+  weight = 4
 
 [[menu.top]]
   name = "加入我们"
   url = "/subscribe/"
-  weight = 4
+  weight = 5
 
 
 [params.banner]
