@@ -1,6 +1,7 @@
 ---
 title: 搜索
 weight: 8
+menu: [main]
 date: '2017-07-22'
 ---
 
