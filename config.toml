@@ -39,10 +39,6 @@ publishDir = "docs"
   url = "/tags/"
   weight = 5
 
-[[menu.top]]
-  name = "加入我们"
-  url = "/subscribe/"
-  weight = 6
 
 
 [params.banner]
