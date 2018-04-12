@@ -193,15 +193,6 @@
     </item>
     
     <item>
-      <title>加入我们</title>
-      <link>/subscribe/</link>
-      <pubDate>Sat, 22 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/subscribe/</guid>
-      <description>这是一个关于最新鲜，最前沿的基因组学研究进展的在线沙龙活动。 我们邀请您，端一杯咖啡，或者茶，或者酒，亦或者清水。 或者苦涩，或者清香，或者浓郁</description>
-    </item>
-    
-    <item>
       <title>CGM 第10期：Unbiased k-mer Analysis for Comparative Genomics</title>
       <link>/2017/07/cgm-%E7%AC%AC10%E6%9C%9Funbiased-k-mer-analysis-for-comparative-genomics/</link>
       <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
@@ -289,6 +280,24 @@
       
       <guid>/2017/03/cgm-%E7%AC%AC1%E6%9C%9F%E4%BB%A5%E6%A4%8D%E7%89%A9%E8%BF%9B%E5%8C%96%E5%8F%B2%E4%B8%BA%E9%89%B4%E9%A2%84%E6%B5%8B%E6%9C%AA%E6%9D%A5%E4%BC%98%E8%89%AF%E4%BD%9C%E7%89%A9/</guid>
       <description>时间：2017年三月一号（星期三），美西时间下午六点 地点：Youtube live stream 主讲人：杨金良 摘要： 中文摘要，于是可以搞得文艺一点。 七万年前，关</description>
+    </item>
+    
+    <item>
+      <title>加入我们</title>
+      <link>/subscribe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/subscribe/</guid>
+      <description>这是一个关于最新鲜，最前沿的基因组学研究进展的在线沙龙活动。 我们邀请您，端一杯咖啡，或者茶，或者酒，亦或者清水。 或者苦涩，或者清香，或者浓郁</description>
+    </item>
+    
+    <item>
+      <title>大事记</title>
+      <link>/timeline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/timeline/</guid>
+      <description>CGM大事记： 2017 3 CGM 第一期活动（录播） 2017 2 CGM 第一次筹备会议：Jinliang Yang, Xinshuai Qi, Ya Yang, Siwen Deng. 2017 1 CGM 萌芽于 PAG2017 San Diego. Jinliang Yang, Xinshuai Qi 创建CGM google folder</description>
     </item>
     
     <item>
