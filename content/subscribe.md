@@ -1,6 +1,7 @@
 ---
 title: 加入我们
 menu: [main]
+show_comments: true
 ---
 
 这是一个关于最新鲜，最前沿的基因组学研究进展的在线沙龙活动。    
