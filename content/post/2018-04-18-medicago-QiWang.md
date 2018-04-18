@@ -5,7 +5,7 @@ categories:
   - 学术报告
 tags: [symbiosis, medicago, nitrogen fixation,rhizobium]
 show_comments: true
-thumbnail: "https://imgur.com/BJu2QIX"
+thumbnail: "https://i.imgur.com/BJu2QIX.png"
 ---
 
 - 题目：Host genetic control of symbiosis specificity in Medicago truncatula
