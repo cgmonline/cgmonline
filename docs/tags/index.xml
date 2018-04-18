@@ -6,7 +6,6 @@
     <description>Recent content in Tags on 北美华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>北美华人基因组学在线沙龙 2017</copyright>
     <lastBuildDate>Wed, 30 Aug 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -285,7 +284,7 @@
     <item>
       <title>Maize</title>
       <link>/tags/maize/</link>
-      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/maize/</guid>
       <description></description>
@@ -294,7 +293,7 @@
     <item>
       <title>Maize</title>
       <link>/tags/maize/</link>
-      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/maize/</guid>
       <description></description>
@@ -306,6 +305,15 @@
       <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medicago</title>
+      <link>/tags/medicago/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/medicago/</guid>
       <description></description>
     </item>
     
@@ -342,6 +350,15 @@
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/ngs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nitrogen fixation</title>
+      <link>/tags/nitrogen-fixation/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/nitrogen-fixation/</guid>
       <description></description>
     </item>
     
@@ -436,6 +453,15 @@
     </item>
     
     <item>
+      <title>Rhizobium</title>
+      <link>/tags/rhizobium/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rhizobium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>STR</title>
       <link>/tags/str/</link>
       <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
@@ -468,6 +494,15 @@
       <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/setaria-viridis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symbiosis</title>
+      <link>/tags/symbiosis/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/symbiosis/</guid>
       <description></description>
     </item>
     
