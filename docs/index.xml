@@ -6,7 +6,6 @@
     <description>Recent content in 关于我们 on 北美华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>北美华人基因组学在线沙龙 2017</copyright>
     <lastBuildDate>Wed, 18 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -37,6 +36,15 @@
       
       <guid>/search/</guid>
       <description>.input-group { display: flex; } .ais-search-box { width: 100%; flex: 1; } .form-control { width: 100%; flex: 1; height: 2rem; } .input-group-btn button { height: 100%; width: 60px; margin-left: 10px; } 搜索</description>
+    </item>
+    
+    <item>
+      <title>CGM 第27期：Host genetic control of symbiosis specificity in Medicago truncatula</title>
+      <link>/2018/04/cgm-%E7%AC%AC27%E6%9C%9Fhost-genetic-control-of-symbiosis-specificity-in-medicago-truncatula/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/04/cgm-%E7%AC%AC27%E6%9C%9Fhost-genetic-control-of-symbiosis-specificity-in-medicago-truncatula/</guid>
+      <description>题目：Host genetic control of symbiosis specificity in Medicago truncatula 时间：2018 年 04 月 18 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream 主讲人</description>
     </item>
     
     <item>
@@ -306,7 +314,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/archives/</guid>
-      <description>北美华人基因组学在线沙龙所有历史讨论汇总如下： 2018 2018/04/04 CGM 第26期：How to Find a Job in Industry? 2018/03/21 CGM 第25期：Profiling of Short-Tandem-Repeat Disease Alleles in 12,632 Human Genomes 2018/03/07 CGM 第24期</description>
+      <description>北美华人基因组学在线沙龙所有历史讨论汇总如下： 2018 2018/04/18 CGM 第27期：Host genetic control of symbiosis specificity in Medicago truncatula 2018/04/04 CGM 第26期：How to Find a Job in Industry? 2018/03/21 CGM 第25期：Prof</description>
     </item>
     
   </channel>
