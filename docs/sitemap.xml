@@ -17,6 +17,11 @@
   </url>
   
   <url>
+    <loc>/2018/04/cgm-%E7%AC%AC27%E6%9C%9Fhost-genetic-control-of-symbiosis-specificity-in-medicago-truncatula/</loc>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2018/04/cgm-%E7%AC%AC26%E6%9C%9Fhow-to-find-a-job-in-industry/</loc>
     <lastmod>2018-04-04T00:00:00+00:00</lastmod>
   </url>
@@ -338,19 +343,25 @@
   
   <url>
     <loc>/tags/maize/</loc>
-    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/maize/</loc>
-    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/mapping/</loc>
     <lastmod>2017-07-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/medicago/</loc>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -375,6 +386,12 @@
   <url>
     <loc>/tags/ngs/</loc>
     <lastmod>2017-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/nitrogen-fixation/</loc>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -416,7 +433,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-04-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -445,6 +462,12 @@
   </url>
   
   <url>
+    <loc>/tags/rhizobium/</loc>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/str/</loc>
     <lastmod>2018-03-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -465,6 +488,12 @@
   <url>
     <loc>/tags/setaria-viridis/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/symbiosis/</loc>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -537,7 +566,7 @@
   
   <url>
     <loc>/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</loc>
-    <lastmod>2018-03-21T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
