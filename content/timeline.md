@@ -3,6 +3,11 @@ title: "大事记"
 menu: [top]
 ---
 
+## 04/2018
+- CGM网站版面设计更新。
+- CGM正式全面支持YouKu视频，面向国内开放
+- CCG交接班 (EC2=>EC3)。感谢Pu Huang, Yue Hao, Wenbin Mei。  
+
 ## 03/2018 CGM 一岁啦！
 
 > 感谢大家在过去一年对我们活动的关注和支持。  
@@ -15,10 +20,35 @@ menu: [top]
 > CGM 执行委员会成员：
 > 安宏 邓斯文 郝樾 黄璞 雷栗 刘三震 梅文彬 祁新帅 杨金良 武志强
 
+## 01/2018
+- CGM anniversary celebration at PAG2018
 
+----------------------------
 
-## 03/2017 
+## 12/2017
+- CCG 交接班 (EC1=>EC2). 感谢Sanzhan Liu, Siwen Deng, Hong An.  
+
+## 09/2017
+- CGM 执委会（EC）成立
+- CGM handbook 
+
+## 08/2017
+- CGM有了自己的logo
+
+## 07/2017
+- 新版CGM [网站](http://cgmonline.co/) （基于Github)
+
+## 06/2017
+- CGM第一次线上讨论活动
+
+## 05/2017
+- CGM第一次YouTube直播
+
+## 03/2017
 - CGM 第一期活动（录播）
+- 创建CGM 网站 http://chinesegenomics.weebly.com (已经不再使用)
+- 创建CGM邮件列表（mailchimp)(已经不再使用)
+- 创建CGM微信群 （应该是2017年3月1日）
 
 ## 02/2017 
 - CGM 第一次筹备会议：Jinliang Yang, Xinshuai Qi, Ya Yang, Siwen Deng.
