@@ -22,3 +22,4 @@ thumbnail: "https://i.imgur.com/OapOuQO.png"
 
 # 优酷视频
 
+{{< tudou id="XMzYxMjM0NTE5Mg==" autoplay="false" >}}
