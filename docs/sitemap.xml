@@ -17,6 +17,11 @@
   </url>
   
   <url>
+    <loc>/2018/05/cgm-%E7%AC%AC29%E6%9C%9Fdissecting-the-basis-of-novel-trait-evolution-in-a-radiation-with-widespread-phylogenetic-discordance/</loc>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2018/05/cgm-%E7%AC%AC28%E6%9C%9Fplant-cell-identity-determination-by-chromatin-regulators/</loc>
     <lastmod>2018-05-02T00:00:00+00:00</lastmod>
   </url>
@@ -215,6 +220,12 @@
   </url>
   
   <url>
+    <loc>/tags/convergence/</loc>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/cotton/</loc>
     <lastmod>2018-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -317,6 +328,12 @@
   </url>
   
   <url>
+    <loc>/tags/hemiplasy/</loc>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/high-performance-computing/</loc>
     <lastmod>2017-11-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -360,13 +377,13 @@
   
   <url>
     <loc>/tags/maize/</loc>
-    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/maize/</loc>
-    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -431,6 +448,12 @@
   </url>
   
   <url>
+    <loc>/tags/phylogenomics/</loc>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/plant/</loc>
     <lastmod>2018-05-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -462,7 +485,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-05-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -475,6 +498,12 @@
   <url>
     <loc>/tags/rapa/</loc>
     <lastmod>2017-04-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/rapid-radiation/</loc>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -595,7 +624,7 @@
   
   <url>
     <loc>/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</loc>
-    <lastmod>2018-05-02T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
