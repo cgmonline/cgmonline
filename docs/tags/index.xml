@@ -6,10 +6,19 @@
     <description>Recent content in Tags on 北美华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 30 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>16s</title>
+      <link>/tags/16s/</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/16s/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Arabidopsis</title>
@@ -365,7 +374,7 @@
     <item>
       <title>Microbiome</title>
       <link>/tags/microbiome/</link>
-      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/microbiome/</guid>
       <description></description>
@@ -401,7 +410,7 @@
     <item>
       <title>NGS</title>
       <link>/tags/ngs/</link>
-      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/ngs/</guid>
       <description></description>
@@ -413,6 +422,15 @@
       <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/nitrogen-fixation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OTU</title>
+      <link>/tags/otu/</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/otu/</guid>
       <description></description>
     </item>
     
@@ -503,6 +521,15 @@
       <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/popgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QIIME</title>
+      <link>/tags/qiime/</link>
+      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/qiime/</guid>
       <description></description>
     </item>
     
