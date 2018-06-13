@@ -11,7 +11,7 @@ thumbnail: "https://i.imgur.com/Ch4uCT5.png"
 - 题目：Phylogenetic identification of endosymbionts and microbiome 用系统发育学办法鉴定共生菌和微生物组
 - 时间：2018 年 06 月 13 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：YouTube live stream 
-- 主讲人：[张冠阳](https://twitter.com/gyzhang2?lang=en) ([Guanyang Zhang](http://www.somanyinsects.org)) (University of Florida)
+- 主讲人：[张冠阳](https://twitter.com/gyzhang2?lang=en) ([Guanyang Zhang](http://somanyinsects.org)) (University of Florida)
 
 尽管“操作分类单元”OTU(Operational Taxonomic Units)的弊端众所周知，它却仍然作为微生物分子鉴定，多样性和生态研究的基础单元，被大家普遍应用。OTU的厘定基于遗传距离，一般以3%为界限。当下的多款微生物组（群）microbiome软件，譬如QIIME和MOTHUR，均以计算和分析OTU为主要任务。<br>
 
