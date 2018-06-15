@@ -5,7 +5,7 @@ categories:
   - 学术报告
 tags: [16s, microbiome, NGS, OTU, QIIME]
 show_comments: true
-thumbnail: "https://i.imgur.com/Ch4uCT5.png"
+thumbnail: "https://i.imgur.com/mBFT9dW.jpg"
 ---
 
 - 题目：Phylogenetic identification of endosymbionts and microbiome 用系统发育学办法鉴定共生菌和微生物组
