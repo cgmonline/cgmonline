@@ -27,4 +27,4 @@ thumbnail: "https://i.imgur.com/mBFT9dW.jpg"
 
 # 优酷视频
 
-{{< tudou id="" autoplay="false" >}}
+{{< tudou id="XMzY2NTkyMjczMg==" autoplay="false" >}}
