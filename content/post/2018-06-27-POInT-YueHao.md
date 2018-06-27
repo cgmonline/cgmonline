@@ -1,13 +1,16 @@
 ---
-title: "下期预告"
+title: "CGM 第32期：Preferential retention of homeologs from a single parental subgenome after polyploidy is shaped by functional interactions and dosage-based intrinsic selective constraint"
 date: "2018-06-27"
-menu: [main, top]
-weight: 2
+categories:
+  - 学术报告
+tags: [polyploidy, biased fractionation, selection, dosage, Arabidopsis, Brassica]
+show_comments: true
+thumbnail: "https://i.imgur.com/vYRPJy4.jpg"
 ---
 
 - 题目：Preferential retention of homeologs from a single parental subgenome after polyploidy is shaped by functional interactions and dosage-based intrinsic selective constraint
 - 时间：2018 年 06 月 27 号（星期三），美西时间（Pacific Time）6:00 PM
-- 地点：YouTube live stream
+- 地点：YouTube live stream 
 - 主讲人：郝樾 (Yue Hao) (North Carolina State University)
 
 全基因组多倍化被认为在植物的演化以及被驯化的过程中起到重要的驱动作用。当亚基因组来自不同物种时，即在异源多倍体（allopolyploidy）中，多拷贝基因会发生不平等的丢失（biased fractionation）：来自某一亚基因组的基因更有可能存留（least fractionated subgenome），而其他的拷贝更易在进化过程中丢失。<br>
@@ -17,9 +20,11 @@ weight: 2
 [Emery et al. 2018](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007267)<br>
 [Hao et al. 2018](https://academic.oup.com/gbe/article/10/3/999/4943970)<br>
 
-
 # 幻灯片和Youtube视频
 
 {{< youtube id="1PQ-qpPVIJo" autoplay="false" >}}
 
 
+# 优酷视频
+
+Coming soon
