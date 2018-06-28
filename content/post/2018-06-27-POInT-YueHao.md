@@ -27,5 +27,5 @@ thumbnail: "https://i.imgur.com/vYRPJy4.jpg"
 
 # 优酷视频
 
-{{< youtube id="XMzY5MTQxNjIwMA==" autoplay="false" >}}
+{{< tudou id="XMzY5MTQxNjIwMA==" autoplay="false" >}}
 
