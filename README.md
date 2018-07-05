@@ -19,7 +19,23 @@ blogdown::install_hugo()
 
 #### 1. `Fork` this repo and `clone` it to your disc.
 ```
-git clone git@github.com:MYID/cgmonline.git
+git clone git@github.com:<USERNAME>/cgmonline.git
+cd cgmonline
+git remote add upstream https://github.com/cgmonline/cgmonline.git
+git remote -v
+```
+You should see:
+```
+origin	https://github.com/<USERNAME>/cgmonline (fetch)
+origin	https://github.com/<USERNAME>/cgmonline (push)
+upstream	https://github.com/cgmonline/cgmonline (fetch)
+upstream	https://github.com/cgmonline/cgmonline (push)
+```
+Sync your local repo with the main cgm repo:
+```
+git fetch upstream
+git checkout master
+git merge upstream/master
 ```
 
 #### 2. Create or edit files in `content/post/`.
@@ -30,7 +46,7 @@ Run the following command to compile the md file into html, git add and git comm
 ```
 sh deploy.sh
 ```
-#### 4. Create a new Pull Request
+#### 4. Create a new Pull Request on Github
 
 
 ## Copyright & License
