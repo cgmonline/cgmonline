@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://cgmonline.co/"
 languageCode = "zh-CN"
 title = "北美华人基因组学在线沙龙"
 theme = "hugo-xmag"
