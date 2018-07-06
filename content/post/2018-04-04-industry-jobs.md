@@ -6,7 +6,6 @@ categories:
 tags: [job, discuss]
 show_comments: true
 thumbnail: "http://i.imgur.com/QsMb2FP.jpg"
-time: April 4, 2018, 20:00:00
 ---
 
 
