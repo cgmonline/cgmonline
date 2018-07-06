@@ -1,5 +1,5 @@
 ---
-title: "CGM 第34期：基因和环境因子共同解析表型可塑性（Phenotype plasticity）
+title: "CGM 第34期：基因和环境因子共同解析表型可塑性（Phenotype plasticity）"
 date: "2018-07-25"
 categories:
   - 学术报告
