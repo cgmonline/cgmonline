@@ -17,6 +17,16 @@
   </url>
   
   <url>
+    <loc>/2018/07/cgm-%E7%AC%AC34%E6%9C%9F%E5%9F%BA%E5%9B%A0%E5%92%8C%E7%8E%AF%E5%A2%83%E5%9B%A0%E5%AD%90%E5%85%B1%E5%90%8C%E8%A7%A3%E6%9E%90%E8%A1%A8%E5%9E%8B%E5%8F%AF%E5%A1%91%E6%80%A7phenotype-plasticity/</loc>
+    <lastmod>2018-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/07/cgm-%E7%AC%AC33%E6%9C%9F%E6%AF%94%E8%BE%83%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%8F%91%E7%8E%B0%E7%BA%BF%E8%99%AB%E6%8E%A7%E5%88%B6%E6%80%A7%E9%80%89%E6%8B%A9%E7%9A%84%E6%96%B0%E5%9F%BA%E5%9B%A0%E5%AE%B6%E6%97%8F/</loc>
+    <lastmod>2018-07-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2018/06/cgm-%E7%AC%AC32%E6%9C%9Fpreferential-retention-of-homeologs-from-a-single-parental-subgenome-after-polyploidy-is-shaped-by-functional-interactions-and-dosage-based-intrinsic-selective-constraint/</loc>
     <lastmod>2018-06-27T00:00:00+00:00</lastmod>
   </url>
@@ -355,6 +365,12 @@
   </url>
   
   <url>
+    <loc>/tags/genome-evolution/</loc>
+    <lastmod>2018-07-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/genome-plasticity/</loc>
     <lastmod>2018-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -369,6 +385,12 @@
   <url>
     <loc>/tags/grape/</loc>
     <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/gxe/</loc>
+    <lastmod>2018-07-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -428,19 +450,25 @@
   
   <url>
     <loc>/tags/maize/</loc>
-    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/maize/</loc>
-    <lastmod>2017-10-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/mapping/</loc>
     <lastmod>2017-07-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mating-system-evolution/</loc>
+    <lastmod>2018-07-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -511,6 +539,12 @@
   </url>
   
   <url>
+    <loc>/tags/phenotype-plasticity/</loc>
+    <lastmod>2018-07-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/phylogenetics/</loc>
     <lastmod>2018-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -554,7 +588,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-06-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -627,6 +661,12 @@
   <url>
     <loc>/tags/setaria-viridis/</loc>
     <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/sexual-selection/</loc>
+    <lastmod>2018-07-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -705,7 +745,7 @@
   
   <url>
     <loc>/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</loc>
-    <lastmod>2018-06-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
