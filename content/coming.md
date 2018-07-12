@@ -22,6 +22,6 @@ To reveal impacts of sexual mode on genome content, we compared chromosome-scale
 
 # 幻灯片和Youtube视频
 
-{{< youtube id="" autoplay="false" >}}
+{{< youtube id="9xgmViOtW3I" autoplay="false" >}}
 
 
