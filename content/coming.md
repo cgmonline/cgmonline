@@ -1,27 +1,35 @@
 ---
 title: "下期预告"
-date: "2018-07-11"
+date: "2018-07-25"
 menu: [main, top]
 weight: 2
 ---
 
-- 题目：比较基因组发现线虫控制性选择的新基因家族
-- 时间：2018 年 07 月11 号（星期三），美西时间（Pacific Time）6:00 PM
-- 地点：YouTube live stream
-- 主讲人：尹达 (Da Yin)(University of Maryland, College Park)
 
-为了揭示生育模式对基因组的影响，我们比较了异交线虫Caenorhabditis nigoni与其自生
-育近亲同胞物种C.briggsae的染色体。 C. nigoni的基因组类似于异交亲属，但蛋白质编码
-基因比C. briggsae多31％。缺乏C. briggsae同源物基因的C. nigoni基因不成比例地偏小并
-且在表达上具有雄性偏向。这些包括雄性分泌的短（mss）基因家族，仅表达在异交物种
-中的精子表面糖蛋白。尽管在非竞争性交配中具有正常的生育能力，来自mss-null雄性C.
-remanei的精子未能与野生型精子竞争。将mss恢复到C. briggsae雄性足以提高精子竞争
-力。因此，性对基因组含量具有普遍影响，可用于鉴定精子竞争因子。<br>
+- 题目：基因和环境因子共同解析表型可塑性（Phenotype plasticity）
+- 时间：2018 年 07 月 25 号（星期三），美西时间（Pacific Time）6:00 PM
+- 地点：YouTube live stream 
+- 主讲人：郭婷婷 (Tingting Guo)(Iowa State University)
 
-To reveal impacts of sexual mode on genome content, we compared chromosome-scale assemblies of the outcrossing nematode Caenorhabditis nigoni to its self-fertile sibling species, C. briggsae. C. nigoni's genome resembles that of outcrossing relatives but encodes 31% more protein-coding genes than C. briggsae. C. nigoni genes lacking C. briggsae orthologs were disproportionately small and male-biased in expression. These include the male secreted short (mss) gene family, which encodes sperm surface glycoproteins conserved only in outcrossing species. Sperm from mss-null males of outcrossing C. remanei failed to compete with wild-type sperm, despite normal fertility in noncompetitive mating. Restoring mss to C. briggsae males was sufficient to enhance sperm competitiveness. Thus, sex has a pervasive influence on genome content that can be used to identify sperm competition factors.
+2016年，美国科学基金会（NSF）提出了十大科研问题，其中一个是，解析生命的
+规则，预测表型。表型是由基因，环境，和它们的互作共同决定的。同卵双胞胎
+在不同的家庭成长，为什么身高有差异？同一个花园种不同品种的植物，为什么
+株高有差异？表型为什么具有可塑性？这些问题都值得深入研究。<br>
+针对某一个可观测到的表型，例如植物开花，具体是哪一些基因，哪一些环境因
+子决定的，和它们之间是如何互作的。我们通过一个具体的例子回答了以上问题
+。<br>
+首先我们将一个高粱的双亲群体种植在不同的环境下，他们的开花时间差异很大
+。通过数量遗传学的手段，我们发现这个群体的开花时间主要由四个基因（Ma1,
+Ma6, FT, ELF3），和两个环境因子（关键时期的温度和昼夜长短）控制。同时，
+我们观测到Ma1和FT基因的强烈互作，温度和昼夜长短的强烈互作，四个基因和光
+热因子的强烈互作。最重要的是，我们提出了环境和基因组联合回归分析方法，
+可以预测新的基因型在新的环境下的表型。<br>
+为了验证这种分析方法的广适性，我们分析了玉米，小麦，燕麦，棉花，水稻等
+作物的近30种表型。结果表明，我们初步回答了解析生命的规则，预测表型这个
+重要的科研问题。
 
 # 幻灯片和Youtube视频
 
-{{< youtube id="9xgmViOtW3I" autoplay="false" >}}
+{{< youtube id="" autoplay="false" >}}
 
 
