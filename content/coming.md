@@ -26,7 +26,7 @@ weight: 2
 
 - 吴佳齐 PhD, 东京工业大学，生命理工学院，日本学术振兴会 外国人特别研究员
 
-- [付榛](https://www.linkedin.com/in/daisy-zhen-fu-3a003138/) PhD, 华盛顿州立大学 博士后
+- [付臻](https://www.linkedin.com/in/daisy-zhen-fu-3a003138/) PhD, 华盛顿州立大学 博士后
 
 - [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng) PhD candidate, 加州大学伯克利分校
 
