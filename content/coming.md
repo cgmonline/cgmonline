@@ -1,35 +1,37 @@
 ---
 title: "下期预告"
-date: "2018-07-25"
+date: "2018-08-08"
 menu: [main, top]
 weight: 2
 ---
 
 
-- 题目：基因和环境因子共同解析表型可塑性（Phenotype plasticity）
-- 时间：2018 年 07 月 25 号（星期三），美西时间（Pacific Time）6:00 PM
+- 题目：Female in academic field
+- 时间：2018 年 08 月 08 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：YouTube live stream 
-- 主讲人：郭婷婷 (Tingting Guo)(Iowa State University)
+- Discussion Leader:<br> 雷栗 (Li Lei) PhD, University of Minnesota
+ 
+亲爱的女性科研朋友，您有没有因为一边要哺育嗷嗷待喂的婴儿，一边赶着proposal的deadline而苦恼？您有没有因为忙于科研工作而没时间找到你的Mr. Right? 您有没有在工作中因为是女性而被低估对待？您有没有为将来的职业发展而迷茫困惑？有没有苦恼于不知如何平衡工作与生活？<br>
+请加入我们的在线访谈节目。我们有幸邀请到几位学术界的女性嘉宾朋友，和您一起分享她们在学术界这些年的经历和经验。
+ 
+# 特邀嘉宾：
 
-2016年，美国科学基金会（NSF）提出了十大科研问题，其中一个是，解析生命的
-规则，预测表型。表型是由基因，环境，和它们的互作共同决定的。同卵双胞胎
-在不同的家庭成长，为什么身高有差异？同一个花园种不同品种的植物，为什么
-株高有差异？表型为什么具有可塑性？这些问题都值得深入研究。<br>
-针对某一个可观测到的表型，例如植物开花，具体是哪一些基因，哪一些环境因
-子决定的，和它们之间是如何互作的。我们通过一个具体的例子回答了以上问题
-。<br>
-首先我们将一个高粱的双亲群体种植在不同的环境下，他们的开花时间差异很大
-。通过数量遗传学的手段，我们发现这个群体的开花时间主要由四个基因（Ma1,
-Ma6, FT, ELF3），和两个环境因子（关键时期的温度和昼夜长短）控制。同时，
-我们观测到Ma1和FT基因的强烈互作，温度和昼夜长短的强烈互作，四个基因和光
-热因子的强烈互作。最重要的是，我们提出了环境和基因组联合回归分析方法，
-可以预测新的基因型在新的环境下的表型。<br>
-为了验证这种分析方法的广适性，我们分析了玉米，小麦，燕麦，棉花，水稻等
-作物的近30种表型。结果表明，我们初步回答了解析生命的规则，预测表型这个
-重要的科研问题。
+- [张蔚](http://www.bio.pku.edu.cn/teacher_dis_oa.php?cid=146&&teaid=728) PhD, 北京大学 生命科学学院 研究员
+
+- [赵莉](https://www.rockefeller.edu/our-scientists/heads-of-laboratories/1157-li-zhao/) PhD, 洛克菲勒大学 助理教授
+
+- [张莺](https://www.msi.umn.edu/users/zhan2142) PhD, 明尼苏达大学 Bioinformaticist 
+
+- 吴佳齐 PhD, 东京工业大学，生命理工学院，日本学术振兴会 外国人特别研究员
+
+- [付榛](https://www.linkedin.com/in/daisy-zhen-fu-3a003138/) PhD, 华盛顿州立大学 博士后
+
+- [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng) PhD candidate, UC Berkeley
+
+![female]()
 
 # 幻灯片和Youtube视频
 
-{{< youtube id="gfDTy4jFfK4" autoplay="false" >}}
+{{< youtube id="" autoplay="false" >}}
 
 
