@@ -28,7 +28,7 @@ weight: 2
 
 - [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng) PhD candidate, 加州大学伯克利分校
 
-![female]()
+![female](http://i4.bvimg.com/656790/e7960c68ae2b6614.jpg)
 
 # 幻灯片和Youtube视频
 
