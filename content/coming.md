@@ -26,7 +26,7 @@ weight: 2
 
 - [付榛](https://www.linkedin.com/in/daisy-zhen-fu-3a003138/) PhD, 华盛顿州立大学 博士后
 
-- [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng) PhD candidate, UC Berkeley
+- [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng) PhD candidate, 加州大学伯克利分校
 
 ![female]()
 
