@@ -30,6 +30,11 @@ weight: 2
 
 - [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng) PhD candidate, 加州大学伯克利分校
 
+# 议题：
+
+- Work-life balance
+- Career development
+- Gender bias in workplace
 
 # 幻灯片和Youtube视频
 
