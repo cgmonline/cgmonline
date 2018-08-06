@@ -26,17 +26,17 @@ publishDir = "docs"
 
 [[menu.top]]
   name = "往期活动"
-  url = "post/"
+  url = "/post/"
   weight = 3
 
 [[menu.top]]
   name = "讨论列表"
-  url = "archives/"
+  url = "/archives/"
   weight = 4
 
 [[menu.top]]
   name = "关键词"
-  url = "tags/"
+  url = "/tags/"
   weight = 5
 
 
