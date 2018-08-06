@@ -1,7 +1,7 @@
 ---
 title: 执委会
 menu: [main, top]
-weight: 5
+weight: 6
 ---
 
 
