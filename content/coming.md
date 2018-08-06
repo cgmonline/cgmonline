@@ -24,7 +24,7 @@ weight: 2
 
 - [张莺](https://www.msi.umn.edu/users/zhan2142) PhD, 明尼苏达大学 Bioinformaticist 
 
-- 吴佳齐 PhD, 东京工业大学，生命理工学院，日本学术振兴会 外国人特别研究员
+- [吴佳齐](https://www.researchgate.net/profile/Jiaqi_Wu14) PhD, 东京工业大学，生命理工学院，日本学术振兴会 外国人特别研究员
 
 - [付臻](https://www.linkedin.com/in/daisy-zhen-fu-3a003138/) PhD, 华盛顿州立大学 博士后
 
