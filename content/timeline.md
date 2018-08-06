@@ -1,6 +1,7 @@
 ---
 title: "大事记"
 menu: [top]
+weight: 7
 ---
 
 ## 08/2018
