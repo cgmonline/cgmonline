@@ -21,7 +21,7 @@ weight: 6
 - 第三组：05 - 08, 2018
   - 雷栗（组长），武志强，[郝樾](https://yueyvettehao.github.io/)（网站）
 - 第四组：05 - 08, 2018
-  - 何逸建（组长），邓斯文（网站），[汪海](https://tangscholars.ciifad.cornell.edu/people/hai-wang/)）
+  - 何逸建（组长），邓斯文（网站），[汪海](https://tangscholars.ciifad.cornell.edu/people/hai-wang/)
 - 第五组：09 - 12, 2018
   - 区树俊（组长，暂定），汲翔，谢丽蒙
 
