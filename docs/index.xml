@@ -7,7 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>北美华人基因组学在线沙龙 2017</copyright>
+<<<<<<< HEAD
     <lastBuildDate>Wed, 22 Aug 2018 00:00:00 +0000</lastBuildDate>
+=======
+    <lastBuildDate>Wed, 08 Aug 2018 00:00:00 +0000</lastBuildDate>
+>>>>>>> 87bad18854d37c0b045265717243ed2dcf9003e7
     
 	<atom:link href="http://cgmonline.co/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +19,17 @@
     <item>
       <title>下期预告</title>
       <link>http://cgmonline.co/coming/</link>
+<<<<<<< HEAD
       <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>http://cgmonline.co/coming/</guid>
       <description>题目：从植物系统发育浅谈生命之树及应用 时间：2018 年 08 月 22 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live</description>
+=======
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/coming/</guid>
+      <description>题目：Female in academic field 时间：2018 年 08 月 08 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream Discussion Leader: 雷栗 (Li Lei)</description>
+>>>>>>> 87bad18854d37c0b045265717243ed2dcf9003e7
     </item>
     
     <item>
@@ -27,7 +38,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://cgmonline.co/cgmec/</guid>
-      <description>CGM 执委会 本届CGM执委会成员包括： 常务委员： 杨金良 祁新帅 执行委员： 第一组: 2017&amp;frasl;09 - 2017&amp;frasl;12 刘三震（组长），邓斯文（网站），安宏（视频直播） 第二组：20</description>
+      <description>CGM 执委会 本届CGM执委会成员包括： 常务委员： 杨金良 祁新帅 执行委员： 第一组: 09 - 12, 2017 刘三震（组长），邓斯文（网站），安宏（视频直播） 第二组：0</description>
+    </item>
+    
+    <item>
+      <title>大事记</title>
+      <link>http://cgmonline.co/timeline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/timeline/</guid>
+      <description>08/2018 CGM微信群突破200人。 04/2018 CGM网站版面设计更新。 CGM正式全面支持YouKu视频，面向国内开放 CCG交接班 (EC2=&amp;gt;EC3)。</description>
     </item>
     
     <item>
@@ -37,6 +57,15 @@
       
       <guid>http://cgmonline.co/search/</guid>
       <description>.input-group { display: flex; } .ais-search-box { width: 100%; flex: 1; } .form-control { width: 100%; flex: 1; height: 2rem; } .input-group-btn button { height: 100%; width: 60px; margin-left: 10px; } 搜索</description>
+    </item>
+    
+    <item>
+      <title>CGM 第35期：Female in Academic Field</title>
+      <link>http://cgmonline.co/2018/08/cgm-%E7%AC%AC35%E6%9C%9Ffemale-in-academic-field/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2018/08/cgm-%E7%AC%AC35%E6%9C%9Ffemale-in-academic-field/</guid>
+      <description>题目：Female in academic field 时间：2018 年 08 月 08 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream Discussion Leader: 雷栗 (Li Lei)</description>
     </item>
     
     <item>
@@ -117,7 +146,7 @@
       <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>http://cgmonline.co/2018/04/cgm-%E7%AC%AC26%E6%9C%9Fhow-to-find-a-job-in-industry/</guid>
-      <description>时间：2018 年 04 月 04 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream Discussion Leaders: Xinshuai Qi, PhD, University of Arizona Jinliang Yang, PhD, University of Nebraska-Lincoln 特邀嘉宾</description>
+      <description>时间：2018 年 04 月 04 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream Discussion Leaders: Xinshuai Qi, PhD, University of Arizona Jinliang Yang, PhD, University of Nebraska-Lincoln 摘要： 专</description>
     </item>
     
     <item>
@@ -364,21 +393,12 @@
     </item>
     
     <item>
-      <title>大事记</title>
-      <link>http://cgmonline.co/timeline/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/timeline/</guid>
-      <description>04/2018 CGM网站版面设计更新。 CGM正式全面支持YouKu视频，面向国内开放 CCG交接班 (EC2=&amp;gt;EC3)。感谢Pu Huang, Yue Hao, Wenbin Mei。 03/2018 CGM</description>
-    </item>
-    
-    <item>
       <title>讨论列表</title>
       <link>http://cgmonline.co/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://cgmonline.co/archives/</guid>
-      <description>北美华人基因组学在线沙龙所有历史讨论汇总如下： 2018 2018/07/25 CGM 第34期：基因和环境因子共同解析表型可塑性（Phenotype plasticity） 2018/07/11 CGM</description>
+      <description>北美华人基因组学在线沙龙所有历史讨论汇总如下： 2018 2018/08/08 CGM 第35期：Female in Academic Field 2018/07/25 CGM 第34期：基因和环境因子共同解析表型可塑性（Phenot</description>
     </item>
     
   </channel>

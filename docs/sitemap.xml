@@ -4,7 +4,11 @@
   
   <url>
     <loc>http://cgmonline.co/coming/</loc>
+<<<<<<< HEAD
     <lastmod>2018-08-22T00:00:00+00:00</lastmod>
+=======
+    <lastmod>2018-08-08T00:00:00+00:00</lastmod>
+>>>>>>> 87bad18854d37c0b045265717243ed2dcf9003e7
   </url>
   
   <url>
@@ -12,8 +16,17 @@
   </url>
   
   <url>
+    <loc>http://cgmonline.co/timeline/</loc>
+  </url>
+  
+  <url>
     <loc>http://cgmonline.co/search/</loc>
     <lastmod>2017-07-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cgmonline.co/2018/08/cgm-%E7%AC%AC35%E6%9C%9Ffemale-in-academic-field/</loc>
+    <lastmod>2018-08-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -294,7 +307,7 @@
   
   <url>
     <loc>http://cgmonline.co/tags/discuss/</loc>
-    <lastmod>2018-04-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -325,6 +338,12 @@
   <url>
     <loc>http://cgmonline.co/tags/expression/</loc>
     <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cgmonline.co/tags/female/</loc>
+    <lastmod>2018-08-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -426,7 +445,7 @@
   
   <url>
     <loc>http://cgmonline.co/tags/job/</loc>
-    <lastmod>2018-04-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -588,7 +607,7 @@
   
   <url>
     <loc>http://cgmonline.co/post/</loc>
-    <lastmod>2018-07-25T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -726,21 +745,21 @@
   
   <url>
     <loc>http://cgmonline.co/categories/%E4%B8%93%E9%A2%98%E8%AE%A8%E8%AE%BA/</loc>
-    <lastmod>2018-04-04T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cgmonline.co/</loc>
+<<<<<<< HEAD
     <lastmod>2018-08-22T00:00:00+00:00</lastmod>
+=======
+    <lastmod>2018-08-08T00:00:00+00:00</lastmod>
+>>>>>>> 87bad18854d37c0b045265717243ed2dcf9003e7
   </url>
   
   <url>
     <loc>http://cgmonline.co/subscribe/</loc>
-  </url>
-  
-  <url>
-    <loc>http://cgmonline.co/timeline/</loc>
   </url>
   
   <url>
