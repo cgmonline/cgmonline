@@ -6,7 +6,6 @@
     <description>Recent content in Tags on 北美华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>北美华人基因组学在线沙龙 2017</copyright>
     <lastBuildDate>Wed, 13 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://cgmonline.co/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -24,7 +23,7 @@
     <item>
       <title>Arabidopsis</title>
       <link>http://cgmonline.co/tags/arabidopsis/</link>
-      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://cgmonline.co/tags/arabidopsis/</guid>
       <description></description>
@@ -33,7 +32,7 @@
     <item>
       <title>Arabidopsis</title>
       <link>http://cgmonline.co/tags/arabidopsis/</link>
-      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://cgmonline.co/tags/arabidopsis/</guid>
       <description></description>
@@ -112,11 +111,29 @@
     </item>
     
     <item>
+      <title>Comparative biology</title>
+      <link>http://cgmonline.co/tags/comparative-biology/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/tags/comparative-biology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Computation</title>
       <link>http://cgmonline.co/tags/computation/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
       <guid>http://cgmonline.co/tags/computation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conservation</title>
+      <link>http://cgmonline.co/tags/conservation/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/tags/conservation/</guid>
       <description></description>
     </item>
     
@@ -171,6 +188,15 @@
       <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>http://cgmonline.co/tags/disease-resistance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversity</title>
+      <link>http://cgmonline.co/tags/diversity/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/tags/diversity/</guid>
       <description></description>
     </item>
     
@@ -562,6 +588,15 @@
     </item>
     
     <item>
+      <title>Phylogeny</title>
+      <link>http://cgmonline.co/tags/phylogeny/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/tags/phylogeny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Plant</title>
       <link>http://cgmonline.co/tags/plant/</link>
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
@@ -756,6 +791,15 @@
       <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>http://cgmonline.co/tags/tomato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tree of life</title>
+      <link>http://cgmonline.co/tags/tree-of-life/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/tags/tree-of-life/</guid>
       <description></description>
     </item>
     
