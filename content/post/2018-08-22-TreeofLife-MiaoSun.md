@@ -1,6 +1,6 @@
 ---
 title: "CGM 第36期：从植物系统发育浅谈生命之树及应用"
-date: "2018-07-25"
+date: "2018-08-22"
 categories:
   - 学术报告
 tags: [phylogeny, tree of life, comparative biology, diversity, conservation]
