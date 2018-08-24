@@ -24,4 +24,4 @@ thumbnail: "https://i.imgur.com/FPgf7ZG.jpg"
 
 # 优酷视频
 
-Coming soon
+{{< tudou id="XMzc5NjI3MTE0MA==" autoplay="false" >}}
