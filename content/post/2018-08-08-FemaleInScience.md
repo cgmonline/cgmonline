@@ -46,11 +46,9 @@ thumbnail: "https://imgur.com/SXzAS1A.jpg"
 
 # 优酷视频
 
-Coming soon
+{{< tudou id="XMzc5NjI1MDk0MA==" autoplay="false" >}}
 
-# Female in Academic Field
-
-小结：
+# 小结：
 
 * 在工作中要有自信。
 
