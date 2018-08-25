@@ -38,7 +38,7 @@ git checkout master
 git merge upstream/master
 ```
 
-#### 2. Create or edit files in `content/post/`.
+#### 2. Create or edit files in `content/post/` in your local repo.
 Note, to add a new post, follow our naming convention `year-month-day-some-words-as-title.md`.
 
 #### 3. Deploy your changes
