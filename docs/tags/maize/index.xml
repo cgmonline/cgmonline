@@ -7,18 +7,45 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>北美华人基因组学在线沙龙 2017</copyright>
-    <lastBuildDate>Wed, 07 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://cgmonline.co/tags/maize/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>CGM 第22期：Quantitative disease resistance in maize</title>
-      <link>http://cgmonline.co/2018/02/cgm-%E7%AC%AC22%E6%9C%9Fquantitative-disease-resistance-in-maize/</link>
-      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      <title>CGM 第17期：The Evolution of Maize during Post-Domestication Expansion across Americas</title>
+      <link>http://cgmonline.co/2017/10/cgm-%E7%AC%AC17%E6%9C%9Fthe-evolution-of-maize-during-post-domestication-expansion-across-americas/</link>
+      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2018/02/cgm-%E7%AC%AC22%E6%9C%9Fquantitative-disease-resistance-in-maize/</guid>
-      <description>题目：Quantitative disease resistance in maize 时间：2018 年 02 月 07 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live</description>
+      <guid>http://cgmonline.co/2017/10/cgm-%E7%AC%AC17%E6%9C%9Fthe-evolution-of-maize-during-post-domestication-expansion-across-americas/</guid>
+      <description>时间：2017 年 10 月 25 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream 主讲人: 王丽（Iowa State Univer</description>
+    </item>
+    
+    <item>
+      <title>CGM 第10期：Unbiased k-mer Analysis for Comparative Genomics</title>
+      <link>http://cgmonline.co/2017/07/cgm-%E7%AC%AC10%E6%9C%9Funbiased-k-mer-analysis-for-comparative-genomics/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2017/07/cgm-%E7%AC%AC10%E6%9C%9Funbiased-k-mer-analysis-for-comparative-genomics/</guid>
+      <description>时间：2017年7月19号（星期三），美西时间（Pacific Time）6:00 PM 地点：Youtube live stream 主讲人：Sanzhen Liu (刘三震)</description>
+    </item>
+    
+    <item>
+      <title>CGM 第9期：The cause and consequence of alternative splicing in maize and across species</title>
+      <link>http://cgmonline.co/2017/07/cgm-%E7%AC%AC9%E6%9C%9Fthe-cause-and-consequence-of-alternative-splicing-in-maize-and-across-species/</link>
+      <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2017/07/cgm-%E7%AC%AC9%E6%9C%9Fthe-cause-and-consequence-of-alternative-splicing-in-maize-and-across-species/</guid>
+      <description>时间：2017年7月5号（星期三），美西时间（Pacific Time）6:00 PM 地点：Youtube live stream 主讲人：梅文彬, UC Davis 摘要： 人类基因组</description>
+    </item>
+    
+    <item>
+      <title>CGM 第1期：以植物进化史为鉴，预测未来优良作物</title>
+      <link>http://cgmonline.co/2017/03/cgm-%E7%AC%AC1%E6%9C%9F%E4%BB%A5%E6%A4%8D%E7%89%A9%E8%BF%9B%E5%8C%96%E5%8F%B2%E4%B8%BA%E9%89%B4%E9%A2%84%E6%B5%8B%E6%9C%AA%E6%9D%A5%E4%BC%98%E8%89%AF%E4%BD%9C%E7%89%A9/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2017/03/cgm-%E7%AC%AC1%E6%9C%9F%E4%BB%A5%E6%A4%8D%E7%89%A9%E8%BF%9B%E5%8C%96%E5%8F%B2%E4%B8%BA%E9%89%B4%E9%A2%84%E6%B5%8B%E6%9C%AA%E6%9D%A5%E4%BC%98%E8%89%AF%E4%BD%9C%E7%89%A9/</guid>
+      <description>时间：2017年三月一号（星期三），美西时间下午六点 地点：Youtube live stream 主讲人：杨金良 摘要： 中文摘要，于是可以搞得文艺一点。 七万年前，关</description>
     </item>
     
   </channel>
