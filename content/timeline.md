@@ -4,6 +4,9 @@ menu: [top]
 weight: 7
 ---
 
+## 09/2018
+- CCG交接班 (EC3=>EC4)。感谢Li Lei, Zhiqiang Wu, Yue Hao。  
+
 ## 08/2018
 - CGM微信群突破200人。
 
