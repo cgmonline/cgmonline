@@ -6,8 +6,10 @@ menu: [main, top]
 # CGM知识库 (beta)
 CGM知识库 （knowledgebase）是一个由CGM成员共同创建，维护的与基因组学相关的wiki知识库。其目的是收集，分享有价值的信息。
 
+https://cgm.gitbook.io/knowledgebase/
 
 
+<<<<<<< HEAD
 
 
 {{< knowledgebase >}}
@@ -40,3 +42,5 @@ CGM知识库 （knowledgebase）是一个由CGM成员共同创建，维护的与
 
 ##### [育儿经]()
 
+=======
+>>>>>>> 4d22cd54d9c485afc55e45b4bf1b310f1dbdc9c9
