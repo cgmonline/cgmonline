@@ -18,10 +18,10 @@ weight: 6
   - [刘三震](http://plantgenomics.ksu.edu/liulab)（组长），邓斯文（网站），安宏（视频直播）
 - 第二组：01 - 04, 2018
   - [黄璞](https://scholar.google.com/citations?user=r5cGFI8AAAAJ&hl=en)（组长），[梅文彬](https://wenbinmei.github.io/)（视频直播），[郝樾](https://yueyvettehao.github.io/)（网站）
-- **第三组：05 - 08, 2018**
-  - **雷栗（组长），武志强，[郝樾](https://yueyvettehao.github.io/)（网站）**
-- 第四组：09 - 12, 2018
-  - 何逸建（组长），邓斯文（网站），[汪海](https://tangscholars.ciifad.cornell.edu/people/hai-wang/)
+- 第三组：05 - 08, 2018
+  - 雷栗（组长），武志强，[郝樾](https://yueyvettehao.github.io/)（网站）
+- **第四组：09 - 12, 2018**
+  - **何逸建（组长），邓斯文（网站），[汪海](https://tangscholars.ciifad.cornell.edu/people/hai-wang/)**
 - 第五组：01 - 04, 2019
   - 区树俊（组长，暂定），汲翔，谢丽蒙
 
