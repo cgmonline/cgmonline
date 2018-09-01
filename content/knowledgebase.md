@@ -8,6 +8,10 @@ CGM知识库 （knowledgebase）是一个由CGM成员共同创建，维护的与
 
 
 
+
+
+{{< knowledgebase >}}
+
 ### 学术之路
 
 
@@ -36,6 +40,3 @@ CGM知识库 （knowledgebase）是一个由CGM成员共同创建，维护的与
 
 ##### [育儿经]()
 
-
-
-{{< knowledgebase >}}
