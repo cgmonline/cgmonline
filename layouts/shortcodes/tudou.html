@@ -1,14 +1,5 @@
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
-<script type="text/javascript">
-$(document).ready(function() {
-  $("h4").click(function () {
-    $(this).next().slideToggle();
-  });
-});
-</script>
-<h4 href="#" id="display_menu">点击这里</h4>
-<div id="display_content" style="display:none;">
-<embed
-src="http://player.youku.com/player.php/Type/Folder/Fid/16572030/Ob/1/Pt/0/sid/{{ index .Params "id" }}/v.swf" quality="high" width="560" height="315" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash"></embed>
+<div class="embed-container">
+	<iframe width="560" height="315" src="//player.youku.com/embed/{{ index .Params "id" }}" frameborder="0" allowfullscreen></iframe>
 </div>
+
