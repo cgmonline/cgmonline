@@ -10,4 +10,6 @@ https://cgm.gitbook.io/knowledgebase/
 
 
 ## Under development:
-[[Imgur](https://i.imgur.com/pnHcG4Y.png)](https://cgmonline.github.io/cgm-books/)
+
+### [CGM Book:](https://cgmonline.github.io/cgm-books/)
+[Imgur](https://i.imgur.com/pnHcG4Y.png)
