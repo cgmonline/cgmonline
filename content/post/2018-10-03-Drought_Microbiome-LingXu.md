@@ -1,6 +1,6 @@
 ---
-title: "CGM 第37期：My experience of facilitating both hypothesis-driven and data-driven research as a bioinformatician"
-date: "2018-09-05"
+title: "CGM 第39期：Drought delays development of the sorghum root microbiome and enriches for monoderm bacteria"
+date: "2018-10-03"
 categories:
   - 学术报告
 tags: [Bioinformatics, Data, Hypothesis]
