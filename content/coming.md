@@ -15,10 +15,13 @@ weight: 2
 
 Reference for this talk:
 
-[Wang W, Mauleon R, Hu Z, et al. 2018. Nature](https://www.nature.com/articles/s41586-018-0063-9)<br/>
-[Hu Z, Wang W, et al. 2018. Scientific Data](https://www.nature.com/articles/sdata201879)<br/>
-[Hu Z, Sun C, et al. 2017. Bioinformatics](https://academic.oup.com/bioinformatics/article/33/15/2408/3091809)<br/>
-[Sun C, Hu Z, et al. 2016. Nucleic Acids Research](https://academic.oup.com/nar/article/45/2/597/2333876)<br/>
+[Wang W, Mauleon R, **Hu Z**, et al. _Nature_ 2018](https://www.nature.com/articles/s41586-018-0063-9)
+
+[**Hu Z**, Wang W, et al. _Scientific Data_ 2018](https://www.nature.com/articles/sdata201879)
+
+[**Hu Z**, Sun C, et al. _Bioinformatics_ 2017](https://academic.oup.com/bioinformatics/article/33/15/2408/3091809)
+
+[Sun C, **Hu Z**, et al. _Nucleic Acids Research_ 2016](https://academic.oup.com/nar/article/45/2/597/2333876)
 
 # 幻灯片和Youtube视频
 
