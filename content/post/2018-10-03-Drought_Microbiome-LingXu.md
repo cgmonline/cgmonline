@@ -17,7 +17,7 @@ thumbnail: "https://i.imgur.com/ErPrdrm.jpg"
 
 原文详见：
 
-[Xu et al., 2018 PNAS](http://www.pnas.org/content/early/2018/04/13/1717308115)
+[**Xu L** et al., _PNAS_ 2018](http://www.pnas.org/content/early/2018/04/13/1717308115)
 
 # 幻灯片和Youtube视频
 
