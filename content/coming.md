@@ -1,13 +1,13 @@
 ---
 title: "下期预告"
-date: "2018-11-07"
+date: "2018-11-14"
 menu: [main, top]
 weight: 2
 ---
 
 
 - 题目：Using Machine Learning to Dissect Recombination Landscape
-- 时间：2018 年 11 月 07 号（星期三），美西时间（Pacific Time）6:00 PM
+- 时间：2018 年 11 月 14 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：YouTube live stream 
 - 主讲人：王明辉（Minghui Wang）Cornell University
 
