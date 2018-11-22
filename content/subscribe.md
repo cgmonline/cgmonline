@@ -24,6 +24,14 @@ CGM每次活动的YouTube线上直播是通过Hangouts实现的。Hangouts最多
 
 其他参与方法，见[说明](https://docs.google.com/document/d/1dH9ZonCrbplvKQtcIj5GyeKdIqVBzYTiQRaZ2YcRreE/edit#).
 
+# 讨论组和活动群
+CGM已经建立了多个专题讨论组和活动群，如果感兴趣，可以联系群主加入：
+* PAG20XX: [Plant and Animal Genome conference](http://www.intlpag.org) 入群请微信联系：qxs718
+* CGM三代测序技术交流群 入群请微信联系：DongliangDu1983
+* CGM Machine Learning: 入群请微信联系：qxs718
+
+
+
 # 联系我们
 
 本站所有视频、PPT均为演讲者和主持人所有。 如需转载，请联系:  
