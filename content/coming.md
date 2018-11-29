@@ -17,5 +17,5 @@ Academia or Industry？每一个博士生应该都问过自己这样的问题。
 
 # 幻灯片和Youtube视频
 
-{{< youtube id="" autoplay="PBjD-mofWa8" >}}
+{{< youtube id="PBjD-mofWa8" autoplay="false" >}}
 
