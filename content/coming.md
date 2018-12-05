@@ -1,21 +1,22 @@
 ---
 title: "下期预告"
-date: "2018-11-28"
+date: "2018-12-19"
 menu: [main, top]
 weight: 2
 ---
 
 
-- 题目：生物学博士如何创业--专访投必得（TopEdit）创办人张宁博士
-- 时间：2018 年 11 月 28 号（星期三），美西时间（Pacific Time）6:00 PM
+- 题目：“管中窥豹：以我在湖南大学工作的五年谈PI就业与发展”
+- 时间：2018 年 12 月 19 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：YouTube live stream 
-- 主讲人：张宁（Ning Zhang）FDA
+- 主讲人：于峰（Feng Yu）Hunan University
 
-Academia or Industry？每一个博士生应该都问过自己这样的问题。但你是否知道，除了学术界教职或工业界职位以外，**自主创业**也是一个可供博士们考虑的选项。本期CGM在线沙龙，我们邀请了创办了[投必得公司](http://www.topedit.cn/Home/Article/view/cid/1.html)的张宁博士与我们分享关于**创业**的心得体会。
+回想自己多年前毅然决然踏上征程，来到异国他乡发展，此时的你，内心是否依然激情澎湃？面对学术界如此激烈的竞争，在留下还是回去的抉择中，在纵身跃进学术研究的海洋前，你是否也期待�听到过来人的经验分享？2018年的最后一期CGM，我们隆重推出本年度的最后一个专题--国内PI的就业与发展。本期活动我们邀请到了于峰博士（湖南大学教授，教育部青年长江学者，中国科协“青年人才托举工程”获得者），他将和大家分享自己在国内作为PI就业和早期（五年）发展的经历。这次讨论将安排充足的问答时间，欢迎大家积极参加并踊跃提问！
 
-张宁，中国科学院植物所博士，复旦大学和美国宾州大学博后，现任美国食品药品监督管理局（FDA）研究员。博士后期间，曾主持国自然青年基金、博士后特别资助项目和博士后面上项目。作为第一作者和通讯作者在NatureCommunications，Molecular Biology and Evolution，New Phytologist等国际著名期刊发表SCI论文20篇。此外，张研究员还为NewPhytologist；Molecular Phylogenetics and Evolution；BMC Plant Biology；BMCGenomics；Evolutionary Bioinformatics；Journal of Genetics and Genomics；Journalof Systematics and Evolution；Agronomy Journal；Molecules；Systematic Botany等SCI主流期刊审稿。
+# 嘉宾简介
+于峰，湖南大学生物学院教授，博士生导师，院长助理，教育部青年长江学者，中国科协“青年人才托举工程”获得者。2013年于湖南师范大学获植物学博士学位并于同年以副教授加入湖南大学生物学院任独立PI，2017年聘为研究员并加入化学生物传感与计量学国家重点实验室，2018年任教授。2017年入选教育部青年长江学者，2016年入选中国科协“青年人才托举工程”，2015年获湖南省优秀博士学位论文奖。近5年发表通讯作者或者第一作者SCI源刊论文14篇，多篇论文入选ESI高被引论文，其中影响因子>5.0的论文10篇，包括Proc Natl Acad Sci USA 4篇，PLOS Biology, Molecular Plant等。主持国家自然科学基金项目3项。
 
 # 幻灯片和Youtube视频
 
-{{< youtube id="PBjD-mofWa8" autoplay="false" >}}
+{{< youtube id="" autoplay="false" >}}
 
