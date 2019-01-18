@@ -3,7 +3,7 @@ title: "CGM 第44期：管中窥豹：以我在湖南大学工作的五年谈PI�
 date: "2018-12-19"
 categories:
   - 专题讨论
-tags: [Career, Startup]
+tags: [Career, Academia, PI]
 show_comments: true
 thumbnail: "https://i.imgur.com/JD8uZhS.jpg"
 ---
