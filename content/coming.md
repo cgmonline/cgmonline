@@ -15,12 +15,8 @@ weight: 2
 
 # 嘉宾简介
 
-- 区树俊PhD, Michigan State University
+- 郝樾 PhD student, North Carolina State University
+- 雷栗 PhD, Computational Biologist, University of Minnesota-Twin Cities
 - 祁新帅 PhD, Data Scientist, Benson Hill Biosystems
 - 刘三震 PhD, Assistant Professor, Kansas State University
-- 雷栗 PhD, Computational Biologist, University of Minnesota-Twin Cities
-
-# 幻灯片和Youtube视频
-
-{{< youtube id="" autoplay="false" >}}
 
