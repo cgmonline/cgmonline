@@ -1,6 +1,6 @@
 ---
 title: "下期预告"
-date: "2019-01-23"
+date: "2019-1-23"
 menu: [main, top]
 weight: 2
 ---
