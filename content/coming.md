@@ -15,7 +15,7 @@ weight: 2
 
 # 嘉宾简介
 
-- [郝樾 PhD](https://scholar.google.com/citations?user=UoI3bSQAAAAJ&hl=en) student, North Carolina State University
+- [郝樾 PhD student](https://scholar.google.com/citations?user=UoI3bSQAAAAJ&hl=en), North Carolina State University
 - [雷栗 PhD](https://scholar.google.com/citations?user=-kbYWUwAAAAJ&hl=en), Computational Biologist, University of Minnesota-Twin Cities
 - [祁新帅 PhD](https://scholar.google.com.hk/citations?user=Fw3jawUAAAAJ&hl=en), Data Scientist, Benson Hill Biosystems
 - [刘三震 PhD](https://plantgenomics.ksu.edu/liulab/), Assistant Professor, Kansas State University
