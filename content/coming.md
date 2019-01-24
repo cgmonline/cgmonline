@@ -22,3 +22,4 @@ weight: 2
 
 # YouTube
 
+{{< youtube id="XJn3UvwNPH4" autoplay="false" >}}
