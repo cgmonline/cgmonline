@@ -34,7 +34,7 @@ publishDir = "docs"
   url = "/archives/"
   weight = 4
 
-[[menu.top]]
+[[menu.main]]
   name = "关键词"
   url = "/tags/"
   weight = 5

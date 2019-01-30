@@ -1,6 +1,6 @@
 ---
 title: "知识库"
-menu: [main, top]
+menu: [main]
 ---
 
 # CGM知识库 (beta)
