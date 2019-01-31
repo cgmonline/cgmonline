@@ -96,3 +96,4 @@ thumbnail: "https://i.imgur.com/12ZPuUB.jpg"
 	- 多尝试不同的会议，体会各种风格
   - 挑一个专业会议，每年坚持去
   
+####编辑：[Jianliang Yang](https://jyanglab.com/)
