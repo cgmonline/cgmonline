@@ -1,11 +1,17 @@
 ---
-title: 执委会
+title: Leadership
 menu: [main, top]
 weight: 6
 ---
 
+# CGM steering committee
+- [杨金良](http://jyanglab.com/)
+- [祁新帅](http://xinshuaiqi.weebly.com/)
+- [何逸建]()
+- [邓斯文]()
+- [郝樾](https://yueyvettehao.github.io/)
 
-# CGM 执委会
+# CGM executive committee
 
 本届CGM执委会成员包括：
 
@@ -25,11 +31,17 @@ weight: 6
 - **第五组：01 - 04, 2019**
   - 区树俊（组长），汲翔（网站），谢丽蒙（技术）
 - 第六组：05 - 08, 2019
-  - 征集志愿者（微信群 @ 杨金良或者祁新帅)
+  - 征集志愿者（微信群 @杨金良或者祁新帅)
+
+# CGM editorial committee
+- [郝樾](https://yueyvettehao.github.io/)
+- [胡海飞]（）
+- [何逸建]()
+- [邓斯文]()
 
 ------------------
 
-## CGM执委会常年征集志愿者 ([报名](https://goo.gl/forms/9zcXWwyhvdIzuKeT2))：
+## CGM常年征集志愿者 ([报名请加微信群联系任意现任steering committee成员]：
 
 ### 职责包括：
 - 负责安排和主持每次的活动，包括CGM网站，邮件通知管理，YouTube视频的直播管理和设置。
