@@ -35,7 +35,7 @@ weight: 6
 
 # CGM editorial committee
 - [郝樾](https://yueyvettehao.github.io/)
-- [胡海飞]（）
+- [胡海飞]()
 - [何逸建]()
 - [邓斯文]()
 
