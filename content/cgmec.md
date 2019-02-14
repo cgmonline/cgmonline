@@ -15,11 +15,11 @@ weight: 6
 
 本届CGM执委会成员包括：
 
-## 常务委员：
+### 常务委员：
 - [杨金良](http://jyanglab.com/)
 - [祁新帅](http://xinshuaiqi.weebly.com/)
 
-## 执行委员：
+### 执行委员：
 - 第一组: 09 - 12, 2017
   - [刘三震](http://plantgenomics.ksu.edu/liulab)（组长），邓斯文（网站），安宏（视频直播）
 - 第二组：01 - 04, 2018
@@ -41,7 +41,7 @@ weight: 6
 
 ------------------
 
-## CGM常年征集志愿者 ([报名请加微信群联系任意现任steering committee成员]：
+# CGM常年征集志愿者 [报名请加微信群联系任意现任steering committee成员]
 
 ### 职责包括：
 - 负责安排和主持每次的活动，包括CGM网站，邮件通知管理，YouTube视频的直播管理和设置。
