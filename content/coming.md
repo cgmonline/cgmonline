@@ -6,7 +6,7 @@ weight: 2
 ---
 
 
-- 题目：稻田杂草之首稗草与水稻相争的“秘密武器”
+- 题目：Environment-dependent pleiotropic effects of mutations on the maximum growth rate r and carrying capacity K of population growth
 - 时间：2019 年 02 月 20 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：YouTube live stream
 - 主讲人：[魏馨竹](https://xinzhuaprilwei.weebly.com/) Postdoc in [Rasmus Nielsen's Lab](http://www.nielsenlab.org/) at UC Berkeley 
