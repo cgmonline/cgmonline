@@ -4,7 +4,7 @@ menu: [main, top]
 weight: 6
 ---
 
-# CGM 掌舵委员会 (Steering Committee)
+# CGM 指导委员会 (Steering Committee)
 - [杨金良](http://jyanglab.com/)
 - [祁新帅](http://xinshuaiqi.weebly.com/)
 - [何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)
