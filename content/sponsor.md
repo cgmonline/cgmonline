@@ -1,8 +1,7 @@
 ---
 title: "赞助伙伴"
-date: "2019-02-20"
 menu: [main, top]
-weight: 2
+weight: 9
 ---
 
 
