@@ -32,6 +32,7 @@ CGM已经建立了多个专题讨论组和活动群，如果感兴趣，可以�
 PAG20XX              | qxs718          | [Plant and Animal Genome conference](http://www.intlpag.org) 
 CGM 三代测序技术交流群  | DongliangDu1983 |   
 CGM Machine Learning | qxs718          |   
+CGM EVOLUTION | TTUCSUISU |
 
 欢迎其他CGM成员创建相关的讨论组和活动群，新建的群请保持 “CGM XXX”的格式。
 
