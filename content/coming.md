@@ -23,6 +23,6 @@ weight: 2
 
 # YouTube
 
-{{< youtube id="O3kLSFDV-zc" autoplay="false" >}}
+{{< youtube id="u2shyZsuNas" autoplay="false" >}}
 
 
