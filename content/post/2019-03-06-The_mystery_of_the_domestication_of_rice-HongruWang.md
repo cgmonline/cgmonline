@@ -1,5 +1,5 @@
 ---
-title: "CGM 第48期：水稻驯化之谜
+title: "CGM 第48期：水稻驯化之谜"
 date: "2019-03-06"
 categories:
   - 学术报告
