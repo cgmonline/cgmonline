@@ -47,7 +47,7 @@ publishDir = "docs"
 
 [[params.banner.source]]
   media = "(min-width: 715px)"
-  srcset = "/img/new-logo-wide.jpg"
+  srcset = "https://i.imgur.com/uC3PvhN.jpg?1"
 
 [[params.banner.source]]
   media = "(max-width: 380px)"
