@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>北美华人基因组学在线沙龙 2017</copyright>
-    <lastBuildDate>Wed, 05 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://cgmonline.co/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,19 +15,28 @@
     <item>
       <title>下期预告</title>
       <link>http://cgmonline.co/coming/</link>
-      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>http://cgmonline.co/coming/</guid>
-      <description>题目： 时间：2018 年 09 月 05 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream 主讲人：唐星 (Xing Tang) (BioMarin) 幻灯片和Yo</description>
+      <description>题目：向外探索世界，向内探索自己 时间：2019 年 03 月 20 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream 主讲</description>
     </item>
     
     <item>
-      <title>执委会</title>
+      <title>公众号</title>
+      <link>http://cgmonline.co/wechat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/wechat/</guid>
+      <description>2019 03-07-2019: 【CGM女神节特刊】家园归航王丽：用温暖的力量治愈世界 03-04-2019: 【CGM在线沙龙预告】水稻驯化之谜 02-25-2019: 【CGM经典视频回顾】怎样提升英语科技论文的</description>
+    </item>
+    
+    <item>
+      <title>组织管理</title>
       <link>http://cgmonline.co/cgmec/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://cgmonline.co/cgmec/</guid>
-      <description>CGM 执委会 本届CGM执委会成员包括： 常务委员： 杨金良 祁新帅 执行委员： 第一组: 09 - 12, 2017 刘三震（组长），邓斯文（网站），安宏（视频直播） 第二组：0</description>
+      <description>CGM 指导委员会 (Steering Committee) 杨金良 祁新帅 何逸建 邓斯文 郝樾 CGM 执行委员会 (Executive Committee) 本届CGM执委会成员包括： 常务委员： 杨金良 祁新帅 现任执行委员： 01 - 04, 2019 区树俊（组</description>
     </item>
     
     <item>
@@ -36,7 +45,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://cgmonline.co/timeline/</guid>
-      <description>09/2018 CCG交接班 (EC3=&amp;gt;EC4)。感谢Li Lei, Zhiqiang Wu, Yue Hao。 08/2018 CGM微信群突破200人。 04/2018 CGM网站版面设计更新。 CGM正式全面支持Y</description>
+      <description>02/2019 CCG推出了属于自己的微信公众号。 CGM微信群突破300人。 CGM获得第一笔赞助，感谢未来组！ 01/2019 CCG交接班 (EC4=&amp;gt;EC5)。感</description>
     </item>
     
     <item>
@@ -46,6 +55,123 @@
       
       <guid>http://cgmonline.co/search/</guid>
       <description>.input-group { display: flex; } .ais-search-box { width: 100%; flex: 1; } .form-control { width: 100%; flex: 1; height: 2rem; } .input-group-btn button { height: 100%; width: 60px; margin-left: 10px; } 搜索</description>
+    </item>
+    
+    <item>
+      <title>赞助伙伴</title>
+      <link>http://cgmonline.co/sponsor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/sponsor/</guid>
+      <description>北美华人基因组学在线沙龙 (CGM)为非盈利组织，所有成员志愿义务为该组织服务。 我们欢迎社会机构、组织和单位赞助我们的活动。所有赞助经费只用于</description>
+    </item>
+    
+    <item>
+      <title>CGM 第48期：水稻驯化之谜</title>
+      <link>http://cgmonline.co/2019/03/cgm-%E7%AC%AC48%E6%9C%9F%E6%B0%B4%E7%A8%BB%E9%A9%AF%E5%8C%96%E4%B9%8B%E8%B0%9C/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2019/03/cgm-%E7%AC%AC48%E6%9C%9F%E6%B0%B4%E7%A8%BB%E9%A9%AF%E5%8C%96%E4%B9%8B%E8%B0%9C/</guid>
+      <description>题目：水稻驯化之谜 时间：2019 年 03 月 06 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream 主讲人：汪鸿儒 Postdoc in</description>
+    </item>
+    
+    <item>
+      <title>CGM 第47期：Environment-dependent pleiotropic effects of mutations on the maximum growth rate r and carrying capacity K of population growth</title>
+      <link>http://cgmonline.co/2019/02/cgm-%E7%AC%AC47%E6%9C%9Fenvironment-dependent-pleiotropic-effects-of-mutations-on-the-maximum-growth-rate-r-and-carrying-capacity-k-of-population-growth/</link>
+      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2019/02/cgm-%E7%AC%AC47%E6%9C%9Fenvironment-dependent-pleiotropic-effects-of-mutations-on-the-maximum-growth-rate-r-and-carrying-capacity-k-of-population-growth/</guid>
+      <description>题目：Environment-dependent pleiotropic effects of mutations on the maximum growth rate r and carrying capacity K of population growth 时间：2019 年 02 月 20 号（星期三），美西时间（Pacifi</description>
+    </item>
+    
+    <item>
+      <title>CGM 第46期：稻田杂草之首稗草与水稻相争的*秘密武器*</title>
+      <link>http://cgmonline.co/2019/02/cgm-%E7%AC%AC46%E6%9C%9F%E7%A8%BB%E7%94%B0%E6%9D%82%E8%8D%89%E4%B9%8B%E9%A6%96%E7%A8%97%E8%8D%89%E4%B8%8E%E6%B0%B4%E7%A8%BB%E7%9B%B8%E4%BA%89%E7%9A%84%E7%A7%98%E5%AF%86%E6%AD%A6%E5%99%A8/</link>
+      <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2019/02/cgm-%E7%AC%AC46%E6%9C%9F%E7%A8%BB%E7%94%B0%E6%9D%82%E8%8D%89%E4%B9%8B%E9%A6%96%E7%A8%97%E8%8D%89%E4%B8%8E%E6%B0%B4%E7%A8%BB%E7%9B%B8%E4%BA%89%E7%9A%84%E7%A7%98%E5%AF%86%E6%AD%A6%E5%99%A8/</guid>
+      <description>题目：稻田杂草之首稗草与水稻相争的“秘密武器” 时间：2019 年 02 月 06 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouT</description>
+    </item>
+    
+    <item>
+      <title>CGM 第45期：如何在学术会议上最大化自己的收获？</title>
+      <link>http://cgmonline.co/2019/01/cgm-%E7%AC%AC45%E6%9C%9F%E5%A6%82%E4%BD%95%E5%9C%A8%E5%AD%A6%E6%9C%AF%E4%BC%9A%E8%AE%AE%E4%B8%8A%E6%9C%80%E5%A4%A7%E5%8C%96%E8%87%AA%E5%B7%B1%E7%9A%84%E6%94%B6%E8%8E%B7/</link>
+      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2019/01/cgm-%E7%AC%AC45%E6%9C%9F%E5%A6%82%E4%BD%95%E5%9C%A8%E5%AD%A6%E6%9C%AF%E4%BC%9A%E8%AE%AE%E4%B8%8A%E6%9C%80%E5%A4%A7%E5%8C%96%E8%87%AA%E5%B7%B1%E7%9A%84%E6%94%B6%E8%8E%B7/</guid>
+      <description>题目：如何在学术会议上最大化自己的收获？ 时间：2019 年 01 月 23 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube</description>
+    </item>
+    
+    <item>
+      <title>CGM 第44期：管中窥豹：以我在湖南大学工作的五年谈PI就业与发展</title>
+      <link>http://cgmonline.co/2018/12/cgm-%E7%AC%AC44%E6%9C%9F%E7%AE%A1%E4%B8%AD%E7%AA%A5%E8%B1%B9%E4%BB%A5%E6%88%91%E5%9C%A8%E6%B9%96%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%B7%A5%E4%BD%9C%E7%9A%84%E4%BA%94%E5%B9%B4%E8%B0%88pi%E5%B0%B1%E4%B8%9A%E4%B8%8E%E5%8F%91%E5%B1%95/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2018/12/cgm-%E7%AC%AC44%E6%9C%9F%E7%AE%A1%E4%B8%AD%E7%AA%A5%E8%B1%B9%E4%BB%A5%E6%88%91%E5%9C%A8%E6%B9%96%E5%8D%97%E5%A4%A7%E5%AD%A6%E5%B7%A5%E4%BD%9C%E7%9A%84%E4%BA%94%E5%B9%B4%E8%B0%88pi%E5%B0%B1%E4%B8%9A%E4%B8%8E%E5%8F%91%E5%B1%95/</guid>
+      <description>题目：管中窥豹：以我在湖南大学工作的五年谈PI就业与发展 时间：2018 年 12 月 19 号（星期三），美西时间（Pacific Time）6:00 PM 地点</description>
+    </item>
+    
+    <item>
+      <title>CGM 第43期：生物学博士如何创业--专访投必得（TopEdit）创办人张宁博士</title>
+      <link>http://cgmonline.co/2018/11/cgm-%E7%AC%AC43%E6%9C%9F%E7%94%9F%E7%89%A9%E5%AD%A6%E5%8D%9A%E5%A3%AB%E5%A6%82%E4%BD%95%E5%88%9B%E4%B8%9A--%E4%B8%93%E8%AE%BF%E6%8A%95%E5%BF%85%E5%BE%97topedit%E5%88%9B%E5%8A%9E%E4%BA%BA%E5%BC%A0%E5%AE%81%E5%8D%9A%E5%A3%AB/</link>
+      <pubDate>Sun, 18 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2018/11/cgm-%E7%AC%AC43%E6%9C%9F%E7%94%9F%E7%89%A9%E5%AD%A6%E5%8D%9A%E5%A3%AB%E5%A6%82%E4%BD%95%E5%88%9B%E4%B8%9A--%E4%B8%93%E8%AE%BF%E6%8A%95%E5%BF%85%E5%BE%97topedit%E5%88%9B%E5%8A%9E%E4%BA%BA%E5%BC%A0%E5%AE%81%E5%8D%9A%E5%A3%AB/</guid>
+      <description>题目：生物学博士如何创业&amp;ndash;专访投必得（TopEdit）创办人张宁博士 时间：2018 年 11 月 18 号（星期三），美西时间（Pacific</description>
+    </item>
+    
+    <item>
+      <title>CGM 第42期：Using Machine Learning to Dissect Recombination Landscape</title>
+      <link>http://cgmonline.co/2018/11/cgm-%E7%AC%AC42%E6%9C%9Fusing-machine-learning-to-dissect-recombination-landscape/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2018/11/cgm-%E7%AC%AC42%E6%9C%9Fusing-machine-learning-to-dissect-recombination-landscape/</guid>
+      <description>题目：Using Machine Learning to Dissect Recombination Landscape 时间：2018 年 11 月 14 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream 主讲人：</description>
+    </item>
+    
+    <item>
+      <title>CGM 第41期：Understanding Domestication Through Maize Mutants</title>
+      <link>http://cgmonline.co/2018/11/cgm-%E7%AC%AC41%E6%9C%9Funderstanding-domestication-through-maize-mutants/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2018/11/cgm-%E7%AC%AC41%E6%9C%9Funderstanding-domestication-through-maize-mutants/</guid>
+      <description>题目：Understanding Domestication Through Maize Mutants 时间：2018 年 11 月 07 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube</description>
+    </item>
+    
+    <item>
+      <title>CGM 第40期：Towards Eukaryotic Pan-genomics</title>
+      <link>http://cgmonline.co/2018/10/cgm-%E7%AC%AC40%E6%9C%9Ftowards-eukaryotic-pan-genomics/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2018/10/cgm-%E7%AC%AC40%E6%9C%9Ftowards-eukaryotic-pan-genomics/</guid>
+      <description>题目：Towards Eukaryotic Pan-genomics 时间：2018 年 10 月 17 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream 主讲人：胡智</description>
+    </item>
+    
+    <item>
+      <title>CGM 第39期：Drought delays development of the sorghum root microbiome and enriches for monoderm bacteria</title>
+      <link>http://cgmonline.co/2018/10/cgm-%E7%AC%AC39%E6%9C%9Fdrought-delays-development-of-the-sorghum-root-microbiome-and-enriches-for-monoderm-bacteria/</link>
+      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2018/10/cgm-%E7%AC%AC39%E6%9C%9Fdrought-delays-development-of-the-sorghum-root-microbiome-and-enriches-for-monoderm-bacteria/</guid>
+      <description>题目：Drought delays development of the sorghum root microbiome and enriches for monoderm bacteria 时间：2018 年 10 月 03 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTu</description>
+    </item>
+    
+    <item>
+      <title>CGM 第38期：在进化生物学的框架下利用深度学习预测基因表达</title>
+      <link>http://cgmonline.co/2018/09/cgm-%E7%AC%AC38%E6%9C%9F%E5%9C%A8%E8%BF%9B%E5%8C%96%E7%94%9F%E7%89%A9%E5%AD%A6%E7%9A%84%E6%A1%86%E6%9E%B6%E4%B8%8B%E5%88%A9%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%A2%84%E6%B5%8B%E5%9F%BA%E5%9B%A0%E8%A1%A8%E8%BE%BE/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2018/09/cgm-%E7%AC%AC38%E6%9C%9F%E5%9C%A8%E8%BF%9B%E5%8C%96%E7%94%9F%E7%89%A9%E5%AD%A6%E7%9A%84%E6%A1%86%E6%9E%B6%E4%B8%8B%E5%88%A9%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%A2%84%E6%B5%8B%E5%9F%BA%E5%9B%A0%E8%A1%A8%E8%BE%BE/</guid>
+      <description>题目：在进化生物学的框架下利用深度学习预测基因表达 时间：2018 年 09 月 19 号（星期三），美西时间（Pacific Time）6:00 PM 地点：Yo</description>
+    </item>
+    
+    <item>
+      <title>CGM 第37期：My experience of facilitating both hypothesis-driven and data-driven research as a bioinformatician</title>
+      <link>http://cgmonline.co/2018/09/cgm-%E7%AC%AC37%E6%9C%9Fmy-experience-of-facilitating-both-hypothesis-driven-and-data-driven-research-as-a-bioinformatician/</link>
+      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2018/09/cgm-%E7%AC%AC37%E6%9C%9Fmy-experience-of-facilitating-both-hypothesis-driven-and-data-driven-research-as-a-bioinformatician/</guid>
+      <description>题目：My experience of facilitating both hypothesis-driven and data-driven research as a bioinformatician 时间：2018 年 09 月 05 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream 主讲</description>
     </item>
     
     <item>
@@ -391,12 +517,21 @@
     </item>
     
     <item>
+      <title>知识库</title>
+      <link>http://cgmonline.co/knowledgebase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/knowledgebase/</guid>
+      <description>CGM知识库 (beta) CGM知识库 （knowledgebase）是一个由CGM成员共同创建，维护的与基因组学相关的wiki知识库。其目的是收集，分享</description>
+    </item>
+    
+    <item>
       <title>讨论列表</title>
       <link>http://cgmonline.co/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://cgmonline.co/archives/</guid>
-      <description>北美华人基因组学在线沙龙所有历史讨论汇总如下： 2018 2018/08/22 CGM 第36期：从植物系统发育浅谈生命之树及应用 2018/08/08 CGM 第35期：Female in Academic Field 2018/07/25 CGM 第34期：</description>
+      <description>北美华人基因组学在线沙龙所有历史讨论汇总如下： 2019 2019/03/06 CGM 第48期：水稻驯化之谜 2019/02/20 CGM 第47期：Environment-dependent pleiotropic effects of mutations on</description>
     </item>
     
   </channel>
