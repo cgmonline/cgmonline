@@ -51,7 +51,7 @@ publishDir = "docs"
 
 [[params.banner.source]]
   media = "(max-width: 380px)"
-  srcset = "/img/logo-80.png"
+  srcset = "https://i.imgur.com/uC3PvhN.jpg?1"
 
 [params.text]
   about_author = "关于作者"
