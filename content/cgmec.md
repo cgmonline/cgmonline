@@ -4,10 +4,10 @@ menu: [main, top]
 weight: 6
 ---
 
-# CGM 指导委员会 (Steering Committee)
-- [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)，[郝樾](https://yueyvettehao.github.io/)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)，[祁新帅](http://xinshuaiqi.weebly.com/)， [杨金良](http://jyanglab.com/)，
+## CGM 指导委员会 (Steering Committee)
+- [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)，[郝樾](https://yueyvettehao.github.io/)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)，[祁新帅](http://xinshuaiqi.weebly.com/)， [杨金良](http://jyanglab.com/)
 
-# CGM 执行委员会 (Executive Committee)
+## CGM 执行委员会 (Executive Committee)
 
 本届CGM执委会成员包括：
 
@@ -31,7 +31,7 @@ weight: 6
 - 09 - 12, 2018：何逸建（组长），邓斯文（网站），[汪海](https://tangscholars.ciifad.cornell.edu/people/hai-wang/)
 
 
-# CGM 编辑委员会 (editorial committee)
+## CGM 编辑委员会 (editorial committee)
 - [郝樾](https://yueyvettehao.github.io/)
 - 胡海飞
 - [何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)
@@ -39,7 +39,7 @@ weight: 6
 
 ------------------
 
-# CGM常年征集志愿者 
+## CGM常年征集志愿者 
 
 报名请加微信群联系任意现任steering committee成员。
 
