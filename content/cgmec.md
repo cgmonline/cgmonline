@@ -5,19 +5,14 @@ weight: 6
 ---
 
 # CGM 指导委员会 (Steering Committee)
-- [杨金良](http://jyanglab.com/)
-- [祁新帅](http://xinshuaiqi.weebly.com/)
-- [何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)
-- [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)
-- [郝樾](https://yueyvettehao.github.io/)
+- [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)，[郝樾](https://yueyvettehao.github.io/)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)，[祁新帅](http://xinshuaiqi.weebly.com/)， [杨金良](http://jyanglab.com/)，
 
 # CGM 执行委员会 (Executive Committee)
 
 本届CGM执委会成员包括：
 
 ### 常务委员：
-- [杨金良](http://jyanglab.com/)
-- [祁新帅](http://xinshuaiqi.weebly.com/)
+- [杨金良](http://jyanglab.com/)，[祁新帅](http://xinshuaiqi.weebly.com/)
 
 ### 现任执行委员：
 - **01 - 04, 2019**
