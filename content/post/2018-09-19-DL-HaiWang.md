@@ -18,3 +18,7 @@ thumbnail: "https://i.imgur.com/8Xf0QQw.png"
 # 幻灯片和Youtube视频
 
 {{< youtube id="XkIwn-qvYi8" autoplay="false" >}}
+
+# 腾讯视频
+
+{{<tencent id="b0846uzr9sq" autoplay="false" >}}
