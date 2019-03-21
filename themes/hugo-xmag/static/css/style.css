@@ -27,10 +27,14 @@ main { margin-bottom: 15px; }
   justify-content: space-between;
 }
 .header, .list section, article { background: #fff; }
-.banner { font-size: 4em; }
+.banner { font-size: 40em; }
 .banner .text {
   display: block;
   line-height: 1em;
+}
+.banner .img {
+     display:block;
+     margin:0 auto;
 }
 .list {
   display: flex;
