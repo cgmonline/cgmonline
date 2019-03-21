@@ -32,10 +32,7 @@ weight: 6
 
 
 ## CGM 编辑委员会 (editorial committee)
-- [郝樾](https://yueyvettehao.github.io/)
-- 胡海飞
-- [何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)
-- [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)
+- [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)，[郝樾](https://yueyvettehao.github.io/)，胡海飞，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)
 
 ------------------
 
