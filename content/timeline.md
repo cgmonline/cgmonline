@@ -5,18 +5,18 @@ weight: 7
 ---
 
 ## 02/2019
-- CCG推出了属于自己的微信公众号。
+- CGM推出了属于自己的微信公众号。
 - CGM微信群突破300人。
 - CGM获得第一笔赞助，感谢未来组！
 
 ## 01/2019
-- CCG交接班 (EC4=>EC5)。感谢何逸建，邓斯文，以及汪海。
+- CGM执委会交接班 (EC4=>EC5)。感谢何逸建，邓斯文，以及汪海。
 
 ## 01/2019
 - 顺利进行了PAG-2019见面会，以及由未来组赞助的酒会！感谢未来组！
 
 ## 09/2018
-- CCG交接班 (EC3=>EC4)。感谢Li Lei, Zhiqiang Wu, Yue Hao。  
+- CGM执委会交接班 (EC3=>EC4)。感谢Li Lei, Zhiqiang Wu, Yue Hao。  
 
 ## 08/2018
 - CGM微信群突破200人。
@@ -24,7 +24,7 @@ weight: 7
 ## 04/2018
 - CGM网站版面设计更新。
 - CGM正式全面支持YouKu视频，面向国内开放
-- CCG交接班 (EC2=>EC3)。感谢Pu Huang, Yue Hao, Wenbin Mei。  
+- CGM执委会交接班 (EC2=>EC3)。感谢Pu Huang, Yue Hao, Wenbin Mei。  
 
 ## 03/2018 CGM 一岁啦！
 
@@ -44,7 +44,7 @@ weight: 7
 ----------------------------
 
 ## 12/2017
-- CCG 交接班 (EC1=>EC2). 感谢Sanzhan Liu, Siwen Deng, Hong An.  
+- CGM执委会交接班 (EC1=>EC2). 感谢Sanzhan Liu, Siwen Deng, Hong An.  
 
 ## 09/2017
 - CGM 执委会（EC）成立
