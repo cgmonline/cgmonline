@@ -1,36 +1,35 @@
 ---
 title: "下期预告"
-date: "2019-03-20"
+date: "2019-04-03"
 menu: [main, top]
 weight: 2
 ---
 
 
-- 题目：向外探索世界，向内探索自己
-- 时间：2019 年 03 月 20 号（星期三），美西时间（Pacific Time）6:00 PM
+- 题目：Tracking the burst of an active transposon family in rice
+- 时间：2019 年 04 月 03 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：YouTube live stream
-- 主讲人：[王丽](https://scholar.google.com/citations?user=yGEvdz0AAAAJ&hl=en) Postdoc in [Matthew Hufford's Lab](https://mhufford.public.iastate.edu/HuffordLab/People/people.html) at Iowa State University
+- 主讲人：[陈金锋](http://lab.stajich.org/home/people/jinfeng-chen/) Postdoc scholar in [Jason Stajich's Lab](http://lab.stajich.org/home/welcome/) at University of California, Riverside
 
 
 
 # 中文摘要
 
-2016年底，各大媒体报道了这样一件事情“全球最大的女科学家队伍前往南极”（CNN, BBC, ABC, New York Time, Fox news等）。家园归航（Homeward Bound）项目背后的缘起时什么？一个从小梦想当海盗的倔强女孩，如何在年过60后将她的科学背景和领导力特长结合起来，推动了这个全球性的运动？一个行为的背后激起怎样的涟漪效应（ripple effect）？家园归航项目包含四个培训模块：领导力培养，个人可见度，战略能力和科研合作。
+转座子，也叫跳跃基因，是真核基因组的主要组成成分，也是基因组中变化最活跃的部分。基因组中绝大部分转座子被认为是没有功能的，也就是垃圾DNA，但是当转座子插入到基因附近时，往往会造成基因突变或者参与基因调控。尤其是在转座子含量比较丰富的作物基因组中，绝大部分基因附近都有转座子的插入，所以转座子在作物基因组进化中有着重要的作用。尽管我们对于转座子的功能有所了解，但是对于转座子如何在宿主基因组中进行大量扩增这个问题仍然很困惑，这其中一个很重要的原因是绝大部分的转座子家族是没有活性的，也就是不能跳跃。宿主基因组具有完整的免疫系统可以识别并抑制转座子的活性，那么转座子如何突破或者逃逸宿主的抑制从而实现扩增？这个问题需要在一个转座子活跃跳动的系统中进行研究。在本次报告中，我将以水稻中一类活跃的转座子为例，探讨转座子如何逃逸宿主抑制，如何在进化过程中实现大规模扩增。
 
-领导力是当领导？领导别人？还是领导自己？
-如果把自己当成一家公司来经营，那么你这家公司的使命、愿景、价值观、优先事项和重要可量化目标是什么？怎样去描绘个人战略图（personal strategic map）？
-如何勇敢地将自己和自己的研究推出去，影响更多人？个人可见度（visibility）仅仅只是增加自己的曝光度吗？它还包含看见自己，接受自己。
-在船上这么多优秀的女性之间如何搭建合作互助的平台呢？
-她们在南极经历了什么，感受到什么，在行程的前后又发生了什么变化？
 
-澳大利亚领导力专家Fabian Dattner和澳大利亚南极办公室海洋科学家Jess Melbourne Thomas联合发起“家园归航”国际计划，从2016年开始计划用十年时间在全球范围招募1000名有领导潜力和科学背景的女性领袖，开展跨界合作，共同推进自然保护、海洋保护、极地保护、气候变化等方向的研究、政策、行动和创新，以推动人类可持续发展。“家园归航”国际计划开展全球招募，每届通过进行为期一年的线上领导力培训和三周的南极考察，实现自我探索及互联合作。
 
-项目官网：[www.homewardboundprojects.com.au](www.homewardboundprojects.com.au)
+# 参考文献
+
+[Chen, J., Lu, L., Benjamin, J., Diaz, S., Hancock, C.N., Stajich, J.E., Wessler, S.R. (2019) Tracking the origin of two genetic components associated with transposable element bursts in domesticated rice. Nat. Commun. 10:641.](https://www.nature.com/articles/s41467-019-08451-3)
+
+[Lu, L., Chen, J., Robb, S., Okumoto, Y., Stajich, J., and Wessler, S. (2017) Tracking the genome-wide outcomes of a transposable element burst over decades of amplification. Proc Natl Acad Sci USA 114:E10550-E10559.](https://www.pnas.org/content/114/49/E10550.long)
+
 
 
 
 # YouTube
 
-{{< youtube id="PUckNPuA-Ik" autoplay="false" >}}
+{{< youtube id="_X1j1c3Pt7I" autoplay="false" >}}
 
 
