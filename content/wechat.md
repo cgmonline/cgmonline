@@ -5,7 +5,8 @@ weight: 6
 ---
 
 ## 2019
-
+- 03-31-2019: [【CGM在线沙龙预告】追踪水稻里活跃的转座子家族](https://mp.weixin.qq.com/s/f9B404Rs7T7GMWCEPjyqeQ)
+- 03-29-2019: [【CGM经典视频回顾】生物博士怎样在工业界找工作？](https://mp.weixin.qq.com/s/2d4LuVwSzL2gYiG8ibMntQ)
 - 03-19-2019: [【CGM在线沙龙预告】向外探索世界，向内探索自己](https://mp.weixin.qq.com/s/w3eh346PhGAbimJoZ0Asow)
 - 03-07-2019: [【CGM女神节特刊】家园归航王丽：用温暖的力量治愈世界](https://mp.weixin.qq.com/s/kTltC7ZCQYdUrESppC2FgQ)
 - 03-04-2019: [【CGM在线沙龙预告】水稻驯化之谜](https://mp.weixin.qq.com/s/3equhiJJfcfVSIHj3h5l3g)
