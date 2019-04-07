@@ -12,7 +12,7 @@ show_comments: true
 
 ## 微信群
 
-加入我们的微信群，请添加微信好友 jinliangy97 或 qxs718，并注明"CGM"。
+要加入我们的微信群，请添加以下任意一位为微信好友 jinliangy97, qxs718，e-jan, Siven-D, beckyhao13 并注明"CGM"。
 
 
 # 如何参与CGM Hangouts在线讨论
