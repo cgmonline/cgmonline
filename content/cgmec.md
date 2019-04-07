@@ -38,7 +38,7 @@ weight: 6
 
 ## CGM常年征集志愿者 
 
-报名请加微信群联系任意现任steering committee成员。
+报名请加微信群联系任意现任steering committee成员，联系方式请查阅[加入我们](https://cgmonline.co/subscribe/)
 
 ### 职责包括：
 - 负责安排和主持每次的活动，包括CGM网站，微信公众号，YouTube视频的直播管理和设置。
