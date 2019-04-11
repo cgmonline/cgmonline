@@ -14,7 +14,7 @@ weight: 9
 
 [![未来组](https://www.nextomics.cn/wp-content/uploads/2018/05/no-logo.png)](https://www.nextomics.cn/en/)
 
-[![投必得](https://i.imgur.com/KpG4Ujg.png)](https://www.topeditsci.com)
+[![投必得](https://i.imgur.com/KpG4Ujg.png?1)](https://www.topeditsci.com)
 
 
 如果您有意赞助我们，希望获取更多信息，请联系：
