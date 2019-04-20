@@ -33,6 +33,8 @@ PAG20XX              | qxs718          | [Plant and Animal Genome conference](ht
 CGM 三代测序技术交流群  | DongliangDu1983 |   
 CGM Machine Learning | qxs718          |   
 CGM EVOLUTION | TTUCSUISU |
+湾区CGM |ll68551551|
+CGM_东北小分队|mwb_njnuuf|
 
 欢迎其他CGM成员创建相关的讨论组和活动群，新建的群请保持 “CGM XXX”的格式。
 
