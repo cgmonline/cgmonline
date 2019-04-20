@@ -5,6 +5,8 @@ weight: 6
 ---
 
 ## 2019
+- 04-19-2019: [【CGM年度评奖结果公告】CGM第一届年度最佳视频](https://mp.weixin.qq.com/s/5ehp8kfhPubmNV8k9ZFRnw)
+- 04-14-2019: [【CGM在线沙龙预告】植物根系生长的三维模型重建](https://mp.weixin.qq.com/s/ncJK0o3o7_VqS6UO8k7g3Q)
 - 03-31-2019: [【CGM在线沙龙预告】追踪水稻里活跃的转座子家族](https://mp.weixin.qq.com/s/f9B404Rs7T7GMWCEPjyqeQ)
 - 03-29-2019: [【CGM经典视频回顾】生物博士怎样在工业界找工作？](https://mp.weixin.qq.com/s/2d4LuVwSzL2gYiG8ibMntQ)
 - 03-19-2019: [【CGM在线沙龙预告】向外探索世界，向内探索自己](https://mp.weixin.qq.com/s/w3eh346PhGAbimJoZ0Asow)
