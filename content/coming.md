@@ -9,7 +9,7 @@ weight: 2
 - 题目：Genome-resolved metagenomics （解码宏基因组）
 - 时间：2019 年 05 月 01 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：YouTube live stream
-- 主讲人：陈林兴 (Lin-Xing Chen) PostDoc Researcher @ Innovative Genomics Institute (IGI)，UC Berkeley, [Jillian F Banfield lab](http://nanogeoscience.berkeley.edu/index.html)
+- 主讲人：陈林兴 (Lin-Xing Chen) PostDoc Researcher in [Jill F Banfield Lab](http://nanogeoscience.berkeley.edu/index.html) @ Innovative Genomics Institute (IGI)，UC Berkeley
 
 
 
