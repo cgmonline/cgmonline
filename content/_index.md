@@ -16,4 +16,4 @@ Chinese Genomics online Meet-up (CGM) was launched by several young Chinese scie
 # 微信公众号：
 
 {{< importPartial "visitor.html" >}}
-![](https://i.imgur.com/b6b2xJu.jpg)
+![](https://i.imgur.com/PttZgSm.jpg)
