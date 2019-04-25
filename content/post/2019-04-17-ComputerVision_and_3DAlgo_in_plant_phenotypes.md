@@ -1,5 +1,5 @@
 ---
-title: "CGM 第51期：Tracking the burst of an active transposon family in rice"
+title: "CGM 第51期：计算机视觉及三维算法设计在植物表型测量中的应用"
 date: "2019-04-17"
 categories:
   - 学术报告
