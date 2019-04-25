@@ -1,5 +1,5 @@
 ---
-title: "CGM 第50期：Tracking the burst of an active transposon family in rice"
+title: "CGM 第51期：Tracking the burst of an active transposon family in rice"
 date: "2019-04-03"
 categories:
   - 学术报告
