@@ -1,34 +1,45 @@
 ---
 title: "下期预告"
-date: "2019-05-01"
+date: "2019-05-15"
 menu: [main, top]
 weight: 2
 ---
 
 
-- 题目：Genome-resolved metagenomics （解码宏基因组）
-- 时间：2019 年 05 月 01 号（星期三），美西时间（Pacific Time）6:00 PM
+- 题目：The quest for the ideal antibody, AI driven product knowledge extraction from scientific publications （人工智能在抗体中的应用）
+- 时间：2019 年 05 月 15 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：YouTube live stream
-- 主讲人：陈林兴 (Lin-Xing Chen) PostDoc Researcher in [Jill F Banfield Lab](http://nanogeoscience.berkeley.edu/index.html) @ Innovative Genomics Institute (IGI)，UC Berkeley
+- 主讲人：陈启翔 (David Qixiang Chen) CTO, Director of AI, BenchSci; PhD Neuroimaging, Institute of Medical Science, University of Toronto
 
 
 
-# 中文摘要
+# 英文摘要
 
-微生物的物种和功能多样性是微生物学研究的主旨，微生物的分离培养技术为我们在这两个方面的认识奠定了坚实的基础。然而，绝大部分的微生物是不可培养的，这极大地限制了微生物学研究的进展，同时也催生了多种基于免培养的微生物研究方法，宏基因组学即是其中之一。Genome-resolved metagenomics 是以获得微生物基因组 (Metagenome-assembled genomes, MAGs)，进而在基因组水平对物种和功能多样性进行分析的宏基因组学研究方法。从2004年第一篇MAGs文章发表，越来越多的微生物基因组是通过此方法获得的，如最近人类肠胃微生物研究，一次性发表超过6万个基因组。殊不知，如此疯狂输出的背后，隐藏了诸多的问题。本讲将简单介绍Genome-resolved metagenomics的基本原理和分析流程，优势和缺点，同时对未来的研究方向进行一些展望。
+The antibody, an important part of the immune system, is a widely used reagent of biomedical experiments. Misuse of antibodies, often due to insufficient data, are responsible for up to 50% of failed experiments, and incur enormous cost in time and money for drug discovery. 
+
+The best evidence of antibody use, and other scientific products, are found in scientific publications. Existing publication search tools (pubmed, google scholar) are not meant for products. We decoded antibody experimental contexts from open and close-source publications with a combination of text mining, bioinformatics, and machine learning. 
+
+At the end of the day, scientists prefer to judge experimental outcome by inspecting the publication images. We linked antibody contexts to its figure image, by identifying the correct product from amongst 4M antibodies, within 9M publications, across 300K contexts, and associate them with over 37M protein aliases. This complex task was computed using Spark and the search served on Elasticsearch. Deep neural nets were used to judge product/context usage relationship (embeddings, LSTM with attention), and to identify technique subpanel (CNN) in figures to fine-tune data accuracy.
+
+The mission for BenchSci is to close the gap between idea to outcome in science. We accelerate the pace of discoveries by removing roadblocks in the scientific iteration cycle. ML has proven to be indispensable, where the scaling of data processing with a small team could only have been achieved through the use of deep learning.
+
 
 
 
 # YouTube
 
 
-{{< youtube id="zZIc1x0rs3s" autoplay="false" >}}
+{{< youtube id="2n4r2XV139E" autoplay="false" >}}
 
 
 
 # 参考文献
-1.	Sharon, Itai, and Jillian F. Banfield. "Genomes from metagenomics." Science 342, no. 6162 (2013): 1057-1058.
-2.	Nayfach, Stephen, Zhou Jason Shi, Rekha Seshadri, Katherine S. Pollard, and Nikos C. Kyrpides. "New insights from uncultivated genomes of the global human gut microbiome." Nature (2019): 1.
+1.	Baker, M., 2015. Reproducibility crisis: Blame it on the antibodies. Nature News, 521(7552), p.274.
+2.	LeCun, Y., Bengio, Y. and Hinton, G., 2015. Deep learning. nature, 521(7553), p.436.
+
+
+
+
 
 
 
