@@ -1,5 +1,5 @@
 ---
-title: "CGM 第51期：解码宏基因组"
+title: "CGM 第52期：解码宏基因组"
 date: "2019-05-01"
 categories:
   - 学术报告
