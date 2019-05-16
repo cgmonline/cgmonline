@@ -12,6 +12,7 @@ weight: 6
 
 ## 沙龙预告
 
+- 05-12-2019: [【CGM在线沙龙预告】找不到理想抗体？AI来帮忙](https://mp.weixin.qq.com/s/GloI0babGSv1RfOkaiAm3Q)
 - 04-28-2019: [探索微观世界的 “宏”大秘密](https://mp.weixin.qq.com/s/8CyF_kbHImwJ-2QQK7jTZw)
 - 04-14-2019: [【CGM在线沙龙预告】植物根系生长的三维模型重建](https://mp.weixin.qq.com/s/ncJK0o3o7_VqS6UO8k7g3Q)
 - 03-31-2019: [【CGM在线沙龙预告】追踪水稻里活跃的转座子家族](https://mp.weixin.qq.com/s/f9B404Rs7T7GMWCEPjyqeQ)
