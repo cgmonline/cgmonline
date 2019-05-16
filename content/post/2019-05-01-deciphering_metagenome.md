@@ -1,5 +1,5 @@
 ---
-title: "CGM 第52期：解码宏基因组"
+title: "CGM 第52期：Genome-resolved metagenomics 解码宏基因组"
 date: "2019-05-01"
 categories:
   - 学术报告
@@ -30,3 +30,6 @@ thumbnail: "https://i.imgur.com/Ffomt34.png"
 # YouTube
 
 {{< youtube id="zZIc1x0rs3s" autoplay="false" >}}
+
+# Tencent video
+<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=r0870w9pige" allowFullScreen="true"></iframe>
