@@ -32,4 +32,6 @@ thumbnail: "https://i.imgur.com/Ffomt34.png"
 {{< youtube id="zZIc1x0rs3s" autoplay="false" >}}
 
 # Tencent video
-<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=r0870w9pige" allowFullScreen="true"></iframe>
+
+{{< tencent id="r0870w9pige" autoplay="false" >}}
+
