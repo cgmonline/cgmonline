@@ -15,9 +15,7 @@ weight: 6
 - [杨金良](http://jyanglab.com/)，[祁新帅](http://xinshuaiqi.weebly.com/)
 
 ### 现任执行委员：
-- **01 - 04, 2019**
-  - 区树俊（组长），汲翔（网站），谢丽蒙（技术）
-- 05 - 08, 2019
+- **05 - 08, 2019**
   - 郭婷婷（组长），汪捷（网站），周文彬（联络），李秋实（公众号协调）
 - 09 - 12, 2019
   - 胡冠菁（组长）
@@ -29,7 +27,7 @@ weight: 6
 - 01 - 04, 2018：[黄璞](https://scholar.google.com/citations?user=r5cGFI8AAAAJ&hl=en)（组长），[梅文彬](https://wenbinmei.github.io/)（视频直播），[郝樾](https://yueyvettehao.github.io/)（网站）
 - 05 - 08, 2018：雷栗（组长），武志强，[郝樾](https://yueyvettehao.github.io/)（网站）
 - 09 - 12, 2018：何逸建（组长），邓斯文（网站），[汪海](https://tangscholars.ciifad.cornell.edu/people/hai-wang/)
-
+- 01 - 04, 2019：区树俊（组长），汲翔（网站），谢丽蒙（技术）
 
 ## CGM 编辑委员会 (editorial committee)
 - [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)，[郝樾](https://yueyvettehao.github.io/)，胡海飞，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)
