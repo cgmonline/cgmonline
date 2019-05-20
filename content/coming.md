@@ -1,27 +1,23 @@
 ---
 title: "下期预告"
-date: "2019-05-15"
+date: "2019-05-29"
 menu: [main, top]
 weight: 2
 ---
 
 
-- 题目：The quest for the ideal antibody, AI driven product knowledge extraction from scientific publications （人工智能在抗体中的应用）
-- 时间：2019 年 05 月 15 号（星期三），美西时间（Pacific Time）6:00 PM
+- 题目：酵母菌进化模式: “loss is more”
+- 时间：2019 年 05 月 29 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：YouTube live stream
-- 主讲人：陈启翔 (David Qixiang Chen) CTO, Director of AI, BenchSci; PhD Neuroimaging, Institute of Medical Science, University of Toronto
+- 主讲人：沈星星 (David Qixiang Chen) Postdoctoral Fellow at Vanderbilt University Advised by Dr. Antonis Rokas
 
 
 
-# 英文摘要
+# 中文摘要
 
-The antibody, an important part of the immune system, is a widely used reagent of biomedical experiments. Misuse of antibodies, often due to insufficient data, are responsible for up to 50% of failed experiments, and incur enormous cost in time and money for drug discovery. 
+关键词： Saccharomycotina, horizontal gene transfer, phylogenomics, reductive evolution
 
-The best evidence of antibody use, and other scientific products, are found in scientific publications. Existing publication search tools (pubmed, google scholar) are not meant for products. We decoded antibody experimental contexts from open and close-source publications with a combination of text mining, bioinformatics, and machine learning. 
-
-At the end of the day, scientists prefer to judge experimental outcome by inspecting the publication images. We linked antibody contexts to its figure image, by identifying the correct product from amongst 4M antibodies, within 9M publications, across 300K contexts, and associate them with over 37M protein aliases. This complex task was computed using Spark and the search served on Elasticsearch. Deep neural nets were used to judge product/context usage relationship (embeddings, LSTM with attention), and to identify technique subpanel (CNN) in figures to fine-tune data accuracy.
-
-The mission for BenchSci is to close the gap between idea to outcome in science. We accelerate the pace of discoveries by removing roadblocks in the scientific iteration cycle. ML has proven to be indispensable, where the scaling of data processing with a small team could only have been achieved through the use of deep learning.
+生物多样性是进化生物学，生态学领域研究的热点问题之一。 新类群产生是由于该类群新基因的获得（gain）还是祖先基因的丢失（loss），导致它们与其他类群具有不一样的性状？酵母菌亚门是一类古老的真菌微生物，包含酿酒发面的酵母（Saccharomyces cerevisiae），导致人患皮肤疾病相关的酵母（Candida），导致植物死亡或损伤相关的酵母（Eremothecium），裂解石油的酵母（Lipomyces）等等。它们能够利用多样化的代谢能力几乎适应了地球上每一个角落。为了研究上述问题，我们收集了332个不同酵母（几乎涵盖所有酵母亚门的79属）基因组以及它们45个代谢性状数据。通过比较基因组学和系统发育学分析，我们发现：酵母菌主要通过大量基因的丢失来实现其生物多样性。
 
 
 
@@ -29,13 +25,17 @@ The mission for BenchSci is to close the gap between idea to outcome in science.
 # YouTube
 
 
-{{< youtube id="2n4r2XV139E" autoplay="false" >}}
+{{< youtube id="RwNghmlYCWI" autoplay="false" >}}
 
 
 
 # 参考文献
-1.	Baker, M., 2015. Reproducibility crisis: Blame it on the antibodies. Nature News, 521(7552), p.274.
-2.	LeCun, Y., Bengio, Y. and Hinton, G., 2015. Deep learning. nature, 521(7553), p.436.
+1. Shen X.-X., Opulente D.A., Kominek J., Zhou X., Steenwyk J., Buh K.V., Haase M., Wisecaver J.H., Wang M., Doering D.T., Boudouris J., Schneider R., Langdon Q.K., Ohkuma M., Endoh R., Takashima M., Manabe R., Čadež N., Libkind D., Rosa C., DeVirgilio J., Hulfachor A., Groenewald M., Kurtzman C.P., Hittinger C.T., Rokas A. 2018. The tempo and mode of genome evolution in the budding yeast subphylum. Cell 175: 1533-1545.
+
+2. Shen X.-X., Hittinger C. T., Rokas A. 2017. Contentious relationships in phylogenomic studies can be driven by a handful of genes. Nature Ecology & Evolution 1: 0126.
+
+3. Hittinger, C. T., A. Rokas, F.-Y. Bai, T. Boekhout, P. Gonçalves, T. W. Jeffries, J. Kominek, M.-A. Lachance, D. Libkind, C. A. Rosa, J. P. Sampaio, & C. P. Kurtzman (2015). Genomics and the making of yeast biodiversity. Curr. Opin. Genet. Dev. 35: 100–109.  
+
 
 
 
