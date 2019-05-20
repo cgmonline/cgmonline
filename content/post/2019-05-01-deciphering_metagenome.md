@@ -30,3 +30,9 @@ thumbnail: "https://i.imgur.com/Ffomt34.png"
 # YouTube
 
 {{< youtube id="zZIc1x0rs3s" autoplay="false" >}}
+<<<<<<< HEAD:content/post/2019-05-01-deciphering_metagenome.md
+=======
+
+# Tencent video
+<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=r0870w9pige" allowFullScreen="true"></iframe>
+>>>>>>> 83d9573e66fa63c68cf689a91c77e3baded28066:content/post/2019-05-01-deciphering_metagenome.md
