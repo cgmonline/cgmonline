@@ -9,7 +9,7 @@ weight: 2
 - 题目：酵母菌进化模式: “loss is more”
 - 时间：2019 年 05 月 29 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：YouTube live stream
-- 主讲人：沈星星 (David Qixiang Chen) Postdoctoral Fellow at Vanderbilt University Advised by Dr. Antonis Rokas
+- 主讲人：沈星星 (Xingxing Shen) Postdoctoral Fellow at Vanderbilt University Advised by Dr. Antonis Rokas
 
 
 
