@@ -3,6 +3,8 @@ title: "大事记"
 menu: [top]
 weight: 7
 ---
+## 05/2019
+- CGM执委会交接班 (EC5=>EC6)。感谢区树俊，汲翔，谢丽蒙。
 
 ## 03/2019
 - CGM换了新logo。
@@ -19,15 +21,15 @@ weight: 7
 - 顺利进行了PAG-2019见面会，以及由未来组赞助的酒会！感谢未来组！
 
 ## 09/2018
-- CGM执委会交接班 (EC3=>EC4)。感谢Li Lei, Zhiqiang Wu, Yue Hao。  
+- CGM执委会交接班 (EC3=>EC4)。感谢雷栗，武志强，郝樾。  
 
 ## 08/2018
 - CGM微信群突破200人。
 
 ## 04/2018
 - CGM网站版面设计更新。
-- CGM正式全面支持YouKu视频，面向国内开放
-- CGM执委会交接班 (EC2=>EC3)。感谢Pu Huang, Yue Hao, Wenbin Mei。  
+- CGM正式全面支持YouKu视频，面向国内开放。
+- CGM执委会交接班 (EC2=>EC3)。感谢黄璞，梅文彬，郝樾。  
 
 ## 03/2018 CGM 一岁啦！
 
@@ -47,7 +49,7 @@ weight: 7
 ----------------------------
 
 ## 12/2017
-- CGM执委会交接班 (EC1=>EC2). 感谢Sanzhan Liu, Siwen Deng, Hong An.  
+- CGM执委会交接班 (EC1=>EC2). 感谢刘三震，邓斯文，安宏 
 
 ## 09/2017
 - CGM 执委会（EC）成立
@@ -72,7 +74,7 @@ weight: 7
 - 创建CGM微信群 （应该是2017年3月1日）
 
 ## 02/2017 
-- CGM 第一次筹备会议：Jinliang Yang, Xinshuai Qi, Ya Yang, Siwen Deng.
+- CGM 第一次筹备会议：Jinliang Yang, Xinshuai Qi, Ya Yang, Siwen Deng
 
 ## 01/2017 
 - CGM 萌芽于 PAG2017 San Diego.  Jinliang Yang, Xinshuai Qi

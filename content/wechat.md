@@ -6,12 +6,14 @@ weight: 6
 
 ## 原创精品
 
+- 05-17-2019: [【CGM会议经历分享】PAG 2019大会（上）](https://mp.weixin.qq.com/s/OI9aPG307m41rrCseWUTAw)
 - 03-29-2019: [【CGM经典视频回顾】生物博士怎样在工业界找工作？](https://mp.weixin.qq.com/s/2d4LuVwSzL2gYiG8ibMntQ)
 - 03-07-2019: [【CGM女神节特刊】家园归航王丽：用温暖的力量治愈世界](https://mp.weixin.qq.com/s/kTltC7ZCQYdUrESppC2FgQ)
 - 02-25-2019: [【CGM经典视频回顾】怎样提升英语科技论文的写作？](https://mp.weixin.qq.com/s/BMAiRtL0BzLpso6PEef0pQ)
 
-## 沙龙预告
+## [沙龙预告](https://mp.weixin.qq.com/s/EI27kz7iLpY5akuTZI3Cow)
 
+- 05-12-2019: [【CGM在线沙龙预告】找不到理想抗体？AI来帮忙](https://mp.weixin.qq.com/s/GloI0babGSv1RfOkaiAm3Q)
 - 04-28-2019: [探索微观世界的 “宏”大秘密](https://mp.weixin.qq.com/s/8CyF_kbHImwJ-2QQK7jTZw)
 - 04-14-2019: [【CGM在线沙龙预告】植物根系生长的三维模型重建](https://mp.weixin.qq.com/s/ncJK0o3o7_VqS6UO8k7g3Q)
 - 03-31-2019: [【CGM在线沙龙预告】追踪水稻里活跃的转座子家族](https://mp.weixin.qq.com/s/f9B404Rs7T7GMWCEPjyqeQ)
