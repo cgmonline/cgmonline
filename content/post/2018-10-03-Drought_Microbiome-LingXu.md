@@ -23,3 +23,8 @@ thumbnail: "https://i.imgur.com/ErPrdrm.jpg"
 
 {{< youtube id="UJanPu9hscQ" autoplay="false" >}}
 
+# 腾讯视频
+
+{{< tencent id="o0883x3ymry" autoplay="false" >}}
+
+
