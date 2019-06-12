@@ -20,3 +20,7 @@ thumbnail: "https://i.imgur.com/BV8MyDe.png"
 
 {{< youtube id="16QRVQrcSyQ" autoplay="false" >}}
 
+# 腾讯视频
+
+{{< tencent id="b08834u9x00" autoplay="false" >}}
+

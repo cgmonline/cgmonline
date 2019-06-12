@@ -22,3 +22,7 @@ thumbnail: "https://i.imgur.com/8T47z9f.png"
 # 幻灯片和Youtube视频
 
 {{< youtube id="ZbTAcBV1sNI" autoplay="false" >}}
+
+# 腾讯视频
+
+{{< tencent id="f0883hdp9z1" autoplay="false" >}}

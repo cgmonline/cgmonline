@@ -28,3 +28,7 @@ Reference for this talk:
 # 幻灯片和Youtube视频
 
 {{< youtube id="7QqNFIX7M7w" autoplay="false" >}}
+
+# 腾讯视频
+
+{{< tencent id="k0883ys66xo" autoplay="false" >}}
