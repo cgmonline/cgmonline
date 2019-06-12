@@ -31,3 +31,7 @@ thumbnail: "https://i.imgur.com/JD8uZhS.jpg"
 
 {{< youtube id="o2mRYCwnnxs" autoplay="false" >}}
 
+# 腾讯视频
+
+{{< tencent id="n0883lp2yhg" autoplay="false" >}}
+
