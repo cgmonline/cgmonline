@@ -22,5 +22,5 @@ thumbnail: "https://i.imgur.com/BV8MyDe.png"
 
 # 腾讯视频
 
-{{< tencent id="f0883hdp9z1" autoplay="false" >}}
+{{< tencent id="b08834u9x00" autoplay="false" >}}
 
