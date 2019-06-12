@@ -1,5 +1,5 @@
 ---
-title: "公众号: cgmonline"
+title: "公众号"
 menu: [top]
 weight: 6
 ---
