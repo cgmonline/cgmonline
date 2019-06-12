@@ -27,6 +27,10 @@ thumbnail: "https://i.imgur.com/12ZPuUB.jpg"
 
 {{< youtube id="XJn3UvwNPH4" autoplay="false" >}}
 
+# 腾讯视频
+
+{{< tencent id="w0883i51rna" autoplay="false" >}}
+
 # 总结 （by区树俊）
 
 ### 1) 会议前的准备？
