@@ -29,4 +29,7 @@ TBD
 
 {{< youtube id="fGGt7nWRwAc" autoplay="false" >}}
 
+# 腾讯视频
+
+{{< tencent id="" autoplay="false" >}}
 
