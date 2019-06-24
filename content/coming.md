@@ -11,7 +11,7 @@ weight: 2
 - 地点：YouTube live stream
 - 主讲人：蒋宁 (Ning Jiang) Professor of Department of Horticulture at Michigan State University Ph.D., Plant Biology, University of Georgia, 2002
 
-
+![](https://i.imgur.com/mfKuroB.png)
 
 # 中文摘要
 
