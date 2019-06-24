@@ -40,6 +40,9 @@ weight: 2
 
 4. Ou, S., and Jiang, N. (2018). LTR_retriever: A Highly Accurate and Sensitive Program for Identification of Long Terminal Repeat Retrotransposons. Plant Physiology, 176(2), 1410-1422.
 
+###### 海报模板来自于[freepik（starline）](https://www.freepik.com/free-vector/business-brochure-with-colorful-hexagonal-shapes_885237.htm)
+
+
 
 
 
