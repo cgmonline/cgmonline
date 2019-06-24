@@ -16,6 +16,7 @@ weight: 6
 
 ## [沙龙预告](https://mp.weixin.qq.com/s/EI27kz7iLpY5akuTZI3Cow)
 
+- 06-23-2019：[【CGM人物专访预告】蒋宁教授：与跳跃基因共舞](https://mp.weixin.qq.com/s/58wWPx4kpRtK9sfxMU1RAA)
 - 06-09-2019: [【CGM在线沙龙预告】水稻株型驯化极简史：1+3=1](https://mp.weixin.qq.com/s/59TG-D3p4hynUeFEKurHPg)
 - 05-23-2019: [【CGM在线沙龙预告】塞翁失马，千面酵母君的演化之路](https://mp.weixin.qq.com/s/GxTXFgBBVD1c40IYx16SPw)
 - 05-12-2019: [【CGM在线沙龙预告】找不到理想抗体？AI来帮忙](https://mp.weixin.qq.com/s/GloI0babGSv1RfOkaiAm3Q)
