@@ -30,7 +30,7 @@ weight: 2
 
 # Tencent video
 
-{{< tencent id="" autoplay="false" >}}
+{{< tencent id="u0893sxzjaj" autoplay="false" >}}
 
 # 近期发表文献
 1. Ou, S., Chen, J. and Jiang, N. (2018). Assessing genome assembly quality using the LTR Assembly Index (LAI). Nucleic Acids Research. 46(21):e126.
