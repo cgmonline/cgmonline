@@ -15,7 +15,7 @@ weight: 6
 - 03-07-2019: [【CGM女神节特刊】家园归航王丽：用温暖的力量治愈世界](https://mp.weixin.qq.com/s/kTltC7ZCQYdUrESppC2FgQ)
 - 02-25-2019: [【CGM经典视频回顾】怎样提升英语科技论文的写作？](https://mp.weixin.qq.com/s/BMAiRtL0BzLpso6PEef0pQ)
 
-## [沙龙预告](https://mp.weixin.qq.com/s/EI27kz7iLpY5akuTZI3Cow)
+## [沙龙预告](https://mp.weixin.qq.com/s/Xh55RCdxG4x-AFz1DZLXrw)
 
 - 06-23-2019：[【CGM人物专访预告】蒋宁教授：与跳跃基因共舞](https://mp.weixin.qq.com/s/58wWPx4kpRtK9sfxMU1RAA)
 - 06-09-2019: [【CGM在线沙龙预告】水稻株型驯化极简史：1+3=1](https://mp.weixin.qq.com/s/59TG-D3p4hynUeFEKurHPg)
