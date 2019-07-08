@@ -9,7 +9,7 @@ weight: 2
 - 题目：基因组学和表观基因组研究植物重复基因进化
 - 时间：2019 年 07 月 10 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：YouTube live stream
-- 主讲人：赵美霞 (Meixia Zhao) Assistant Professor at Miami University Ph.D., Plant Biology, Purdue University, 2012
+- 主讲人：赵美霞 (Meixia Zhao) Assistant Professor at Miami University Ph.D., 生物化学与分子生物学, 中国农业科学院 及 Purdue University 联合培养博士, 2012
 
 
 
