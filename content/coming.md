@@ -1,44 +1,35 @@
 ---
 title: "下期预告"
-date: "2019-06-26"
+date: "2019-07-10"
 menu: [main, top]
 weight: 2
 ---
 
 
-- 题目：人物专访 蒋宁教授：与跳跃基因共舞
-- 时间：2019 年 06 月 26 号（星期三），美西时间（Pacific Time）6:00 PM
+- 题目：基因组学和表观基因组研究植物重复基因进化
+- 时间：2019 年 07 月 10 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：YouTube live stream
-- 主讲人：蒋宁 (Ning Jiang) Professor of Department of Horticulture at Michigan State University Ph.D., Plant Biology, University of Georgia, 2002
+- 主讲人：赵美霞 (Meixia Zhao) Assistant Professor at Miami University Ph.D., Plant Biology, Purdue University, 2012
 
 
 
 # 中文摘要
 
-二十世纪中期，Barbara McClintock 在玉米中首次发现了“跳跃基因”，为人类打开了认识植物基因组的一扇全新大门，并因此获得了1983年诺贝尔生理或医学奖。我们本期的专访嘉宾——蒋宁教授，对转座子研究领域也有着突出的贡献，让我们来听听她的故事。
+Keywords: Polyploidy, Fractionation, MIRNA Genes, Co-evolution, Recombination
 
-蒋宁教授目前任职于密西根州立大学，多年来专注于转座子研究，在转座子类型鉴定、功能分析、进化方向等方面取得了诸多突破性进展。近期的研究成果有：利用LTR反转座子比例评价全基因组组装质量，转座子介导的宿主基因复制，Pack-MULEs表观遗传特性对染色体碱基组成和表达谱的影响等。
-
-蒋宁教授发表的近百篇研究论文为我们讲述了一个个关于转座子的有趣故事，这些论文受到了学术界的广泛关注，总引用频次近万。她认为，相对于人类和其他哺乳动物，转座子在植物中非常活跃，是植物基因组研究领域无可争议的绝对热点。随着long reads sequencing、single cell sequencing等技术的发展，越来越多的高质量植物基因组被组装。我们可以预期，有关转座子在基因组进化中的作用，转座子跨物种功能研究等方面将会有越来越多的新故事被挖掘。蒋宁老师对此又有哪些新的见解呢？
-
-这次人物专访，我们既想了解有关转座子的科学问题，也想听听她的人生阅历，关于平衡生活和工作的思考，以及如何做一个快乐的高产科研工作者。
-
+多倍化或全基因组复制是植物基因组的一个重要特征，但目前对于这些重复基因的进化机制并不是很清楚。我的研究利用玉米和大豆两个重要的农作物基因组发现虽然玉米和大豆最近期的一次全基因组复制发生的时间相差不大，但玉米的两个亚基因组在基因表达量，转座子含量，小RNA和DNA甲基化，以及基因丢失数目上差异很大，然而大豆的两个亚基因组之间没有观察到显著差别。尽管如此，大豆的个体重复基因却在这些特征上呈现出显著差异。为进一步研究重复基因的功能分化，我们还对大豆油脂合成中的重复基因的功能进行了研究，阐述了油脂合成重复基因的亚功能化，新功能化以及假功能化。在重复蛋白编码基因的研究之上，我们还探讨了重复MIRNA基因的进化机制，并且发现MIRNA基因和它的靶基因呈现出共同进化的现象。目前我的实验室一个重要的研究项目是探讨表观遗传学比如DNA甲基化和组蛋白修饰以及活性和沉默的转座子是如何影响玉米和大豆减数分裂重组率。
 
 # YouTube
 
 
-{{< youtube id="VVvif8CmD7Q" autoplay="false" >}}
+{{< youtube id="KScv4zDNeE0" autoplay="false" >}}
 
 
 
-# 近期发表文献
-1. Ou, S., Chen, J. and Jiang, N. (2018). Assessing genome assembly quality using the LTR Assembly Index (LAI). Nucleic Acids Research. 46(21):e126.
-
-2. Cerbin, S. and Jiang, N. (2018). Duplication of host genes by transposable elements. Current Opinion in Genetics & Development, 49:63–69.
-
-3. Zhao, D., Hamilton, J. P., Vaillancourt, B., Zhang, W., Eizenga, G. C., Cui, Y., Jiang, J., Buell, C. R., and Jiang, N. (2018). The unique epigenetic features of Pack-MULEs and their impact on chromosomal base composition and expression spectrum. Nucleic Acids Research, 46(5):2380-2397.
-
-4. Ou, S., and Jiang, N. (2018). LTR_retriever: A Highly Accurate and Sensitive Program for Identification of Long Terminal Repeat Retrotransposons. Plant Physiology, 176(2), 1410-1422.
+# 参考文献
+1. Zhao M., Zhang B., Lisch D., and Ma J. 2017. Patterns and consequences of subgenome differentiation provide insights into the nature of paleopolyploidy in plants. Plant Cell 29: 2974-2994. 
+2. Zhang D.*, Zhao M.*, Li S.*, Sun L., Wang W., Cai C., Dierking E., and Ma J. 2017. Plasticity and innovation of regulatory mechanisms underlying seed oil content mediated by duplicated genes in the palaeopolyploid soybean. Plant J. 90: 1120-1133. (*Equal contributors)
+3. Zhao M., Meyers B.C., Cai C., Xu W., and Ma J. 2015. Evolutionary patterns and co-evolutionary consequences of MIRNA genes and microRNA targets triggered by multiple mechanisms of genomic duplications in soybean. Plant Cell 27: 546-562. 
 
 
 
