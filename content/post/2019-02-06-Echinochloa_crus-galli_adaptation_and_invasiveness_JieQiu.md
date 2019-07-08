@@ -33,3 +33,7 @@ thumbnail: "https://i.imgur.com/5QP9xlL.png"
 # YouTube
 
 {{< youtube id="EcwJXRZMQnQ" autoplay="false" >}}
+
+# 腾讯视频
+
+{{< tencent id="r08839bopbx" autoplay="false" >}}

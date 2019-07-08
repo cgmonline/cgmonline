@@ -1,6 +1,6 @@
 ---
 title: "CGM 第43期：生物学博士如何创业--专访投必得（TopEdit）创办人张宁博士"
-date: "2018-11-18"
+date: "2018-11-28"
 categories:
   - 专题讨论
 tags: [Career, Startup]
@@ -21,4 +21,8 @@ Academia or Industry？每一个博士生应该都问过自己这样的问题。
 # 幻灯片和Youtube视频
 
 {{< youtube id="PBjD-mofWa8" autoplay="false" >}}
+
+# 腾讯视频
+
+{{< tencent id="r0883j6ws7h" autoplay="false" >}}
 
