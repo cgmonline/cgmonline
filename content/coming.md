@@ -11,7 +11,6 @@ weight: 2
 - 地点：YouTube live stream
 - 主讲人：陈秋月 (Qiuyue Chen) Research associate, University of Wisconsin, Madison, WI, USA. Work on maize domestication in Doebley lab; Ph.D. 2017, Plant Genetics and Breeding, China Agricultural University, Beijing, China. Worked on QTL, eQTL, and sQTL mapping, etc. in Tian lab 
 
-![](https://i.imgur.com/mfKuroB.png)
 
 # 中文摘要
 
@@ -21,22 +20,12 @@ Keywords: Maize, Alternative Splicing, GWAS
 
 # YouTube
 
-<<<<<<< HEAD
-
 {{< youtube id="20bWw7XSZJ4" autoplay="false" >}}
-=======
-{{< youtube id="KScv4zDNeE0" autoplay="false" >}}
->>>>>>> 2e43d798d3ae30cc573d1376f78dbe8547e03d25
-
-
 
 
 # 参考文献
+
 1. Qiuyue Chen#, Yingjia Han#, Haijun Liu#, Xufeng Wang, Jiamin Sun, Binghao Zhao, Weiya Li, Jinge Tian, Yameng Liang, Jianbing Yan, Xiaohong Yang, and Feng Tian. Genome-wide association analyses reveal the importance of alternative splicing in diversifying gene function and regulating phenotypic variation in maize. The Plant Cell, 2018, 30(7):1404-1423.
-
-###### 海报模板来自于[freepik（starline）](https://www.freepik.com/free-vector/business-brochure-with-colorful-hexagonal-shapes_885237.htm)
-
-
 
 
 
