@@ -3,7 +3,7 @@ title: "CGM 第56期：人物专访 蒋宁教授：与跳跃基因共舞"
 date: "2019-06-26"
 categories:
   - 学术报告
-tags: [rice,breeding]
+tags: [academia,transposon]
 show_comments: true
 thumbnail: "https://imgur.com/R4UCRM8.jpg"
 ---
@@ -14,6 +14,7 @@ thumbnail: "https://imgur.com/R4UCRM8.jpg"
 - 地点：YouTube live stream
 - 主讲人：蒋宁 (Ning Jiang) Professor of Department of Horticulture at Michigan State University Ph.D., Plant Biology, University of Georgia, 2002
 
+![](https://i.imgur.com/mfKuroB.png)
 
 # 中文摘要
 
@@ -44,3 +45,5 @@ thumbnail: "https://imgur.com/R4UCRM8.jpg"
 # Tencent video
 
 {{< tencent id="u0893sxzjaj" autoplay="false" >}}
+
+##### 海报模板来自[freepik（starline）](https://www.freepik.com/free-vector/business-brochure-with-colorful-hexagonal-shapes_885237.htm)
