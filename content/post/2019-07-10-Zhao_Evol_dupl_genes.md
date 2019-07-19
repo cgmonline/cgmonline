@@ -23,7 +23,7 @@ Keywords: Polyploidy, Fractionation, MIRNA Genes, Co-evolution, Recombination
 
 # 参考文献
 1. Zhao M., Zhang B., Lisch D., and Ma J. 2017. Patterns and consequences of subgenome differentiation provide insights into the nature of paleopolyploidy in plants. Plant Cell 29: 2974-2994. 
-2. Zhang D.*, Zhao M.*, Li S.*, Sun L., Wang W., Cai C., Dierking E., and Ma J. 2017. Plasticity and innovation of regulatory mechanisms underlying seed oil content mediated by duplicated genes in the palaeopolyploid soybean. Plant J. 90: 1120-1133. (*Equal contributors)
+2. Zhang D.1, Zhao M.1, Li S.1, Sun L., Wang W., Cai C., Dierking E., and Ma J. 2017. Plasticity and innovation of regulatory mechanisms underlying seed oil content mediated by duplicated genes in the palaeopolyploid soybean. Plant J. 90: 1120-1133. (1:Equal contributors)
 3. Zhao M., Meyers B.C., Cai C., Xu W., and Ma J. 2015. Evolutionary patterns and co-evolutionary consequences of MIRNA genes and microRNA targets triggered by multiple mechanisms of genomic duplications in soybean. Plant Cell 27: 546-562. 
 
 

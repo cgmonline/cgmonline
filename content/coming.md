@@ -25,7 +25,7 @@ Keywords: Maize, Alternative Splicing, GWAS
 
 # 参考文献
 
-1. Qiuyue Chen#, Yingjia Han#, Haijun Liu#, Xufeng Wang, Jiamin Sun, Binghao Zhao, Weiya Li, Jinge Tian, Yameng Liang, Jianbing Yan, Xiaohong Yang, and Feng Tian. Genome-wide association analyses reveal the importance of alternative splicing in diversifying gene function and regulating phenotypic variation in maize. The Plant Cell, 2018, 30(7):1404-1423.
+1. Qiuyue Chen, Yingjia Han, Haijun Liu, Xufeng Wang, Jiamin Sun, Binghao Zhao, Weiya Li, Jinge Tian, Yameng Liang, Jianbing Yan, Xiaohong Yang, and Feng Tian. Genome-wide association analyses reveal the importance of alternative splicing in diversifying gene function and regulating phenotypic variation in maize. The Plant Cell, 2018, 30(7):1404-1423.
 
 
 
