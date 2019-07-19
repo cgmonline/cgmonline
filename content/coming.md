@@ -1,32 +1,31 @@
 ---
 title: "下期预告"
-date: "2019-07-10"
+date: "2019-07-24"
 menu: [main, top]
 weight: 2
 ---
 
 
-- 题目：基因组学和表观基因组研究植物重复基因进化
-- 时间：2019 年 07 月 10 号（星期三），美西时间（Pacific Time）6:00 PM
+- 题目：玉米可变剪接变异研究
+- 时间：2019 年 07 月 24 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：YouTube live stream
-- 主讲人：赵美霞 (Meixia Zhao) Assistant Professor at Miami University Ph.D., 生物化学与分子生物学, 中国农业科学院 及 Purdue University 联合培养博士, 2012
+- 主讲人：陈秋月 (Qiuyue Chen) Research associate, University of Wisconsin, Madison, WI, USA. Work on maize domestication in Doebley lab; Ph.D. 2017, Plant Genetics and Breeding, China Agricultural University, Beijing, China. Worked on QTL, eQTL, and sQTL mapping, etc. in Tian lab 
 
 
 # 中文摘要
 
-Keywords: Polyploidy, Fractionation, MIRNA Genes, Co-evolution, Recombination
+Keywords: Maize, Alternative Splicing, GWAS
 
-多倍化或全基因组复制是植物基因组的一个重要特征，但目前对于这些重复基因的进化机制并不是很清楚。我的研究利用玉米和大豆两个重要的农作物基因组发现虽然玉米和大豆最近期的一次全基因组复制发生的时间相差不大，但玉米的两个亚基因组在基因表达量，转座子含量，小RNA和DNA甲基化，以及基因丢失数目上差异很大，然而大豆的两个亚基因组之间没有观察到显著差别。尽管如此，大豆的个体重复基因却在这些特征上呈现出显著差异。为进一步研究重复基因的功能分化，我们还对大豆油脂合成中的重复基因的功能进行了研究，阐述了油脂合成重复基因的亚功能化，新功能化以及假功能化。在重复蛋白编码基因的研究之上，我们还探讨了重复MIRNA基因的进化机制，并且发现MIRNA基因和它的靶基因呈现出共同进化的现象。目前我的实验室一个重要的研究项目是探讨表观遗传学比如DNA甲基化和组蛋白修饰以及活性和沉默的转座子是如何影响玉米和大豆减数分裂重组率。
+玉米是重要的粮食作物、饲料作物和能源作物，近年来，随着高通量测序技术和计算生物学的发展，玉米功能基因组的研究已不再局限于传统的基因克隆，基因组、表观组、转录组、蛋白组、代谢组等各种组学手段使得基因功能的研究达到空前的规模和分辨率，大大加快了研究者对复杂数量性状形成机制的解析。根据遗传学的中心法则，转录调控是最基本的一个环节，基因表达变异是表型变异的重要来源。在群体水平定位基因表达数量性状位点（expression quantitative trait locus, eQTL）早已成为研究基因表达变异的重要手段，除了转录调控之外，转录后调控也是基因表达调控的重要环节，其中可变剪接是最为重要的一种转录后修饰方式，可变剪接变异也是表型变异的重要来源。但目前在群体水平定位可变剪接数量性状位点（splicing quantitative trait locus, sQTL）的研究在植物中还很少有报道。本研究以368份玉米自交系授粉后15天未成熟籽粒的转录组测序数据为基础，结合125万个高密度SNP分子标记，对未成熟籽粒的可变剪接变异进行全基因组关联分析（genome-wide association study, GWAS），解析了可变剪接自然变异的遗传结构，探讨了可变剪接调控的分子机制，可变剪接与基因表达调控之间的关系，以及可变剪接对表型变异的贡献。
 
 # YouTube
 
-{{< youtube id="KScv4zDNeE0" autoplay="false" >}}
+{{< youtube id="20bWw7XSZJ4" autoplay="false" >}}
 
 
 # 参考文献
-1. Zhao M., Zhang B., Lisch D., and Ma J. 2017. Patterns and consequences of subgenome differentiation provide insights into the nature of paleopolyploidy in plants. Plant Cell 29: 2974-2994. 
-2. Zhang D.*, Zhao M.*, Li S.*, Sun L., Wang W., Cai C., Dierking E., and Ma J. 2017. Plasticity and innovation of regulatory mechanisms underlying seed oil content mediated by duplicated genes in the palaeopolyploid soybean. Plant J. 90: 1120-1133. (*Equal contributors)
-3. Zhao M., Meyers B.C., Cai C., Xu W., and Ma J. 2015. Evolutionary patterns and co-evolutionary consequences of MIRNA genes and microRNA targets triggered by multiple mechanisms of genomic duplications in soybean. Plant Cell 27: 546-562. 
+
+1. Qiuyue Chen#, Yingjia Han#, Haijun Liu#, Xufeng Wang, Jiamin Sun, Binghao Zhao, Weiya Li, Jinge Tian, Yameng Liang, Jianbing Yan, Xiaohong Yang, and Feng Tian. Genome-wide association analyses reveal the importance of alternative splicing in diversifying gene function and regulating phenotypic variation in maize. The Plant Cell, 2018, 30(7):1404-1423.
 
 
 
