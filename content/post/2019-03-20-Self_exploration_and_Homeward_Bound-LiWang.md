@@ -35,3 +35,9 @@ thumbnail: "https://i.imgur.com/eminUIt.png"
 # YouTube
 
 {{< youtube id="PUckNPuA-Ik" autoplay="false" >}}
+
+# 腾讯视频
+
+{{< tencent id="f0883gb6fde" autoplay="false" >}}
+
+

@@ -29,3 +29,9 @@ thumbnail: "https://i.imgur.com/dkCxBed.png"
 # YouTube
 
 {{< youtube id="u2shyZsuNas" autoplay="false" >}}
+
+# 腾讯视频
+
+{{< tencent id="x088395p843" autoplay="false" >}}
+
+

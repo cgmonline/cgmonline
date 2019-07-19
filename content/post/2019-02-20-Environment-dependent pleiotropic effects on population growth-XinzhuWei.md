@@ -30,3 +30,7 @@ Maximum growth rate per individual (r) and carrying capacity (K) are key life-hi
 # YouTube
 
 {{< youtube id="yUvzK39gNUc" autoplay="false" >}}
+
+# 腾讯视频
+
+{{< tencent id="n088345g9ap" autoplay="false" >}}
