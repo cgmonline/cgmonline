@@ -1,6 +1,6 @@
 ---
 title: "CGM 第57期：基因组学和表观基因组研究植物重复基因进化"
-date: "2019-07-10""
+date: "2019-07-10"
 categories:
   - 学术报告
 tags: [Polyploidy, Fractionation, MIRNA Genes, Co-evolution, Recombination]
