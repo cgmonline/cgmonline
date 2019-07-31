@@ -5,7 +5,7 @@ weight: 6
 ---
 
 ## CGM 指导委员会 (Steering Committee)
-- [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)，[郝樾](https://yueyvettehao.github.io/)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)，[雷栗](https://twitter.com/lilei0051)[祁新帅](http://xinshuaiqi.weebly.com/)，[刘三震](https://www.plantgenomics.ksu.edu/liulab/)， [杨金良](http://jyanglab.com/)， 
+- [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)，[郝樾](https://yueyvettehao.github.io/)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)，[雷栗](https://twitter.com/lilei0051)[祁新帅](http://xinshuaiqi.weebly.com/)，[刘三震](https://www.plantgenomics.ksu.edu/liulab/)， [杨金良](http://jyanglab.com/)
 
 ## CGM 执行委员会 (Executive Committee)
 
