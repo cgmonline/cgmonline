@@ -167,3 +167,9 @@ tr:nth-child(even) { background: #eee }
   width: 50%;
   margin-left: 0;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
