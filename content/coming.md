@@ -1,32 +1,32 @@
 ---
 title: "下期预告"
-date: "2019-07-24"
+date: "2019-08-07"
 menu: [main, top]
 weight: 2
 ---
 
 
-- 题目：玉米可变剪接变异研究
-- 时间：2019 年 07 月 24 号（星期三），美西时间（Pacific Time）6:00 PM
+- 题目：表型组学时代，多表型助力基因挖掘
+- 时间：2019 年 08 月 07 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：YouTube live stream
-- 主讲人：陈秋月 (Qiuyue Chen) Research associate, University of Wisconsin, Madison, WI, USA. Work on maize domestication in Doebley lab; Ph.D. 2017, Plant Genetics and Breeding, China Agricultural University, Beijing, China. Worked on QTL, eQTL, and sQTL mapping, etc. in Tian lab 
+- 主讲人：梁智凯 (Zhikai Liang) 本科毕业于南京农业大学农学专业，后于美国密西西比州立大学（Mississippi State University）生化和分子生物学系，内布拉斯加大学林肯分校(University of Nebraska-Lincoln)农学系进行博士阶段学习，并于2019年8月获得博士学位。
 
 
 # 中文摘要
 
-Keywords: Maize, Alternative Splicing, GWAS
+Keywords: Maize, GPWAS, Classical Maize Mutants
 
-玉米是重要的粮食作物、饲料作物和能源作物，近年来，随着高通量测序技术和计算生物学的发展，玉米功能基因组的研究已不再局限于传统的基因克隆，基因组、表观组、转录组、蛋白组、代谢组等各种组学手段使得基因功能的研究达到空前的规模和分辨率，大大加快了研究者对复杂数量性状形成机制的解析。根据遗传学的中心法则，转录调控是最基本的一个环节，基因表达变异是表型变异的重要来源。在群体水平定位基因表达数量性状位点（expression quantitative trait locus, eQTL）早已成为研究基因表达变异的重要手段，除了转录调控之外，转录后调控也是基因表达调控的重要环节，其中可变剪接是最为重要的一种转录后修饰方式，可变剪接变异也是表型变异的重要来源。但目前在群体水平定位可变剪接数量性状位点（splicing quantitative trait locus, sQTL）的研究在植物中还很少有报道。本研究以368份玉米自交系授粉后15天未成熟籽粒的转录组测序数据为基础，结合125万个高密度SNP分子标记，对未成熟籽粒的可变剪接变异进行全基因组关联分析（genome-wide association study, GWAS），解析了可变剪接自然变异的遗传结构，探讨了可变剪接调控的分子机制，可变剪接与基因表达调控之间的关系，以及可变剪接对表型变异的贡献。
+在作物基因组海量的注释基因中，实际被发现并证明功能的基因少之又少。玉米中只有大约1%的注释基因被广泛研究并发现可见的表型。在群体研究中，为了找到基因与表型的潜在联系，我们通常会利用QTL mapping或GWAS等方法来研究分子标记变异和表型变异之间的关联程度。这在研究一些对表型有效应的特异基因时会在一定程度上提供关键的信息。然而，所有的注释基因并不一定都能对可见的表型造成影响，而有些基因却同时影响着多个表型。
+
+植物表型研究随着组学时代的到来，使我们可以对同一品种收集越来越多的表型。如果一些基因影响多个表型，这些表型中的一部分是如何同时和同一个基因相关的，却难以在传统的GWAS中进行测试。利用玉米282 Association Panel和对应的260个来自不同环境下的农艺性状，我们对于每个包含SNP的玉米注释基因和所有这些表型进行关联。检测到的这部分基因和利用相同数据从GWAS中检测到的基因有明显不同，而这些基因和拥有突变体的经典玉米基因在各种检测的分子特种中更加相近，也更趋向于具有保守的功能。
 
 # YouTube
 
-{{< youtube id="20bWw7XSZJ4" autoplay="false" >}}
-
+TBD
 
 
 # 参考文献
 
-1. Qiuyue Chen, Yingjia Han, Haijun Liu, Xufeng Wang, Jiamin Sun, Binghao Zhao, Weiya Li, Jinge Tian, Yameng Liang, Jianbing Yan, Xiaohong Yang, and Feng Tian. Genome-wide association analyses reveal the importance of alternative splicing in diversifying gene function and regulating phenotypic variation in maize. The Plant Cell, 2018, 30(7):1404-1423.
 
-
+1. Liang Z, Qiu Y and Schnable JC. “Distinct characteristics of genes associated with phenome-wide variation in maize (Zea mays).” bioRxiv doi: 10.1101/534503
 
