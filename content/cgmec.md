@@ -19,8 +19,6 @@ weight: 6
   - 郭婷婷（组长），汪捷（网站），周文彬（联络），李秋实（公众号协调）
 - 09 - 12, 2019
   - 胡冠菁（组长），唐星， 狄晨露， 魏嘉璐
-- CGM **China**
-  - 何逸建 (组长）, 李德林，邱杰，武志强, 祁新帅, 杨金良 
 - 01 - 04, 2020
   - 征集志愿者（微信群 @杨金良或者祁新帅)
 
@@ -31,8 +29,11 @@ weight: 6
 - 09 - 12, 2018：何逸建（组长），邓斯文（网站），[汪海](https://tangscholars.ciifad.cornell.edu/people/hai-wang/)
 - 01 - 04, 2019：区树俊（组长），汲翔（网站），谢丽蒙（技术）
 
-## CGM 编辑委员会 (editorial committee)
+## CGM 编辑委员会 (Editorial Committee)
 - [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)，[郝樾](https://yueyvettehao.github.io/)，胡海飞，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)
+
+## CGM **China**
+- 07, 2019-: 何逸建 (组长）, 李德林，邱杰，武志强, 祁新帅, 杨金良 
 
 ------------------
 
