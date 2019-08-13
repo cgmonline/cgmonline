@@ -18,12 +18,14 @@ weight: 6
 
 ## 沙龙预告
 
+- 08-05-2019：[【CGM在线沙龙预告】表型组学时代，多表型助力基因挖掘](https://mp.weixin.qq.com/s/TkXdTeYHXi99alb8NF2mUw)
+- 07-22-2019：[【CGM在线沙龙预告】玉米七十二变——Alternative Splicing变异研究](https://mp.weixin.qq.com/s/lpGa-MSvTqwjeWIvfpYFrA)
 - 07-08-2019：[【CGM在线沙龙预告】追踪植物基因组复制事件](https://mp.weixin.qq.com/s/GQtK7Dt2f6O5WAziPe84Nw)
 - 06-23-2019：[【CGM人物专访预告】蒋宁教授：与跳跃基因共舞](https://mp.weixin.qq.com/s/58wWPx4kpRtK9sfxMU1RAA)
 - 06-09-2019：[【CGM在线沙龙预告】水稻株型驯化极简史：1+3=1](https://mp.weixin.qq.com/s/59TG-D3p4hynUeFEKurHPg)
 - 05-23-2019：[【CGM在线沙龙预告】塞翁失马，千面酵母君的演化之路](https://mp.weixin.qq.com/s/GxTXFgBBVD1c40IYx16SPw)
 - 05-12-2019：[【CGM在线沙龙预告】找不到理想抗体？AI来帮忙](https://mp.weixin.qq.com/s/GloI0babGSv1RfOkaiAm3Q)
-- 04-28-2019：[探索微观世界的 “宏”大秘密](https://mp.weixin.qq.com/s/8CyF_kbHImwJ-2QQK7jTZw)
+- 04-28-2019：[【CGM在线沙龙预告】探索微观世界的 “宏”大秘密](https://mp.weixin.qq.com/s/8CyF_kbHImwJ-2QQK7jTZw)
 - 04-14-2019：[【CGM在线沙龙预告】植物根系生长的三维模型重建](https://mp.weixin.qq.com/s/ncJK0o3o7_VqS6UO8k7g3Q)
 - 03-31-2019：[【CGM在线沙龙预告】追踪水稻里活跃的转座子家族](https://mp.weixin.qq.com/s/f9B404Rs7T7GMWCEPjyqeQ)
 - 03-19-2019：[【CGM在线沙龙预告】向外探索世界，向内探索自己](https://mp.weixin.qq.com/s/w3eh346PhGAbimJoZ0Asow)
