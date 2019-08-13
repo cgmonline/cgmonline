@@ -30,7 +30,7 @@ weight: 6
 - 01 - 04, 2019：区树俊（组长），汲翔（网站），谢丽蒙（技术）
 
 ## CGM 编辑委员会 (Editorial Committee)
-- [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)，[郝樾](https://yueyvettehao.github.io/)，胡海飞，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)
+- [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)，[郝樾](https://yueyvettehao.github.io/)，胡海飞，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)，李秋实
 
 ## CGM **China**
 - 07, 2019-: 何逸建 (组长）, 李德林，邱杰，武志强, 祁新帅, 杨金良 
