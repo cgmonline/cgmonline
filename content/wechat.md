@@ -8,6 +8,7 @@ weight: 6
 
 ## 原创精品
 
+- 08-13-2019：[植物泛基因组101（上）](https://mp.weixin.qq.com/s/ATiF0sPq8SFcC9htatDm2w)
 - 07-12-2019：[【CGM独家专访】蒋宁教授《与跳跃基因共舞》](https://mp.weixin.qq.com/s/dx2NOuadAHLvanfG3aBaAA)
 - 07-02-2019：[中性理论pk自然选择？群体基因组学时代，有50年历史的经典学说是否过时了？](https://mp.weixin.qq.com/s/8fryXF-tHsQVVbhN8scZ4A)
 - 06-01-2019：[【CGM会议经历分享】PAG 2019大会（下）](https://mp.weixin.qq.com/s/ZRVFE34R55kAZNZKC90HWQ)
