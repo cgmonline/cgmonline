@@ -1,36 +1,30 @@
 ---
 title: "下期预告"
-date: "2019-08-07"
+date: "2019-08-21"
 menu: [main, top]
 weight: 2
 ---
 
 
-- 题目：表型组学时代，多表型助力基因挖掘
-- 时间：2019 年 08 月 07 号（星期三），美西时间（Pacific Time）6:00 PM
+- 题目：利用SNP数据来分析小麦基因组的进化过程
+- 时间：2019 年 08 月 21 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：YouTube live stream
-- 主讲人：梁智凯 (Zhikai Liang) 本科毕业于南京农业大学农学专业，后于美国密西西比州立大学（Mississippi State University）生化和分子生物学系，内布拉斯加大学林肯分校(University of Nebraska-Lincoln)农学系进行博士阶段学习，并于2019年8月获得博士学位。
+- 主讲人：贺飞 (Fei He) Department of Plant Pathology, Kansas State University Manhattan, Kansas. postdoc with Dr. Eduard Akhunov. 2011, China Agricultural University, Beijing, China, Ph.D of Bioinformatics, with Dr. Ziding Zhang
+2006, Southwest University, Chongqing, China, B.Sc. of Biology.
 
 
 # 中文摘要
 
-Keywords: Maize, GPWAS, Classical Maize Mutants
+Keywords: 小麦，基因组进化，遗传多样性，基因渗入
 
-在作物基因组海量的注释基因中，实际被发现并证明功能的基因少之又少。玉米中只有大约1%的注释基因被广泛研究并发现可见的表型。在群体研究中，为了找到基因与表型的潜在联系，我们通常会利用QTL mapping或GWAS等方法来研究分子标记变异和表型变异之间的关联程度。这在研究一些对表型有效应的特异基因时会在一定程度上提供关键的信息。然而，所有的注释基因并不一定都能对可见的表型造成影响，而有些基因却同时影响着多个表型。
-
-植物表型研究随着组学时代的到来，使我们可以对同一品种收集越来越多的表型。如果一些基因影响多个表型，这些表型中的一部分是如何同时和同一个基因相关的，却难以在传统的GWAS中进行测试。利用玉米282 Association Panel和对应的260个来自不同环境下的农艺性状，我们对于每个包含SNP的玉米注释基因和所有这些表型进行关联。检测到的这部分基因和利用相同数据从GWAS中检测到的基因有明显不同，而这些基因和拥有突变体的经典玉米基因在各种检测的分子特种中更加相近，也更趋向于具有保守的功能。
+小麦是世界上最重要的农作物之一。由于其基因组巨大（17Gb），研究小麦基因组进化一直是一个难题。近年来测序成本不断下降，使得小麦重测序成为可以负担的课题。我们对890个不同的小麦品种进行了外显子测序，利用中国春参考序列，检测到超过3百万SNP位点。利用这套遗传变异数据，我们尝试解答这么几个问题。小麦基因组中哪些位点受到了人工选择或者自然选择？外源基因组片段如何影响小麦基因组的形成与进化？遗传负荷(deleterious allele load)在小麦的进化中扮演着什么样的作用？ 我希望和大家分享回答这些问题的过程。
 
 # YouTube
-
-{{< youtube id="6I1VeP7tiwA" autoplay="false" >}}
+TBD
 
 # Tencent video
-
-{{< tencent id="e09137yapjh" autoplay="false" >}}
-
+TBD
 
 # 参考文献
 
-
-1. Liang Z, Qiu Y and Schnable JC. “Distinct characteristics of genes associated with phenome-wide variation in maize (Zea mays).” bioRxiv doi: 10.1101/534503
-
+1. He, F., Pasam, R., Shi, F., Kant, S., Keeble-Gagnere, G., Kay, P., Forrest, K., Fritz, A., Hucl, P., Wiebe, K. and Knox, R., 2019. Exome sequencing highlights the role of wild-relative introgression in shaping the adaptive landscape of the wheat genome. Nature genetics, 51(5), p.896.
