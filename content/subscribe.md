@@ -29,6 +29,7 @@ CGM已经建立了多个专题讨论组和活动群，如果感兴趣，可以�
 
 名称    | 入群微信申请     | 备注    
  ------ | -------------- | ------ 
+CGM北京时区 | e--jan |
 PAG20XX              | qxs718          | [Plant and Animal Genome conference](http://www.intlpag.org) 
 CGM 三代测序技术交流群  | DongliangDu1983 |   
 CGM Machine Learning | qxs718          |   
