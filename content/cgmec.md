@@ -16,7 +16,7 @@ weight: 6
 
 ### 现任执行委员：
 - **05 - 08, 2019** EC6
-  - 郭婷婷（组长），汪捷（网站），周文彬（联络），李秋实（公众号协调）
+  - [郭婷婷](https://scholar.google.com/citations?user=4WYQNa4AAAAJ&hl=en)（组长），汪捷（网站），周文彬（联络），李秋实（公众号协调）
 - 09 - 12, 2019 EC7
   - [胡冠菁](https://huguanjing.github.io/about/)（组长），唐星， 狄晨露， 魏嘉璐
 - 01 - 04, 2020
