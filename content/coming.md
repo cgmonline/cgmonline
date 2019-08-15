@@ -28,7 +28,9 @@ Keywords: Maize, GPWAS, Classical Maize Mutants
 
 {{< tencent id="e09137yapjh" autoplay="false" >}}
 
+
 # 参考文献
+
 
 1. Liang Z, Qiu Y and Schnable JC. “Distinct characteristics of genes associated with phenome-wide variation in maize (Zea mays).” bioRxiv doi: 10.1101/534503
 
