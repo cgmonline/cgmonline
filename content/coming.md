@@ -22,7 +22,11 @@ Keywords: Maize, GPWAS, Classical Maize Mutants
 
 # Zoom
 
-https://zoom.us/j/860198721
+{{< youtube id="6I1VeP7tiwA" autoplay="false" >}}
+
+# Tencent video
+
+{{< tencent id="e09137yapjh" autoplay="false" >}}
 
 
 # 参考文献
