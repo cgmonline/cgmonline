@@ -18,9 +18,10 @@ thumbnail: "https://imgur.com/Rj82yww.jpg"
 
 # 中文摘要
 
-关键词： Saccharomycotina, horizontal gene transfer, phylogenomics, reductive evolution
 
 生物多样性是进化生物学，生态学领域研究的热点问题之一。 新类群产生是由于该类群新基因的获得（gain）还是祖先基因的丢失（loss），导致它们与其他类群具有不一样的性状？酵母菌亚门是一类古老的真菌微生物，包含酿酒发面的酵母（Saccharomyces cerevisiae），导致人患皮肤疾病相关的酵母（Candida），导致植物死亡或损伤相关的酵母（Eremothecium），裂解石油的酵母（Lipomyces）等等。它们能够利用多样化的代谢能力几乎适应了地球上每一个角落。为了研究上述问题，我们收集了332个不同酵母（几乎涵盖所有酵母亚门的79属）基因组以及它们45个代谢性状数据。通过比较基因组学和系统发育学分析，我们发现：酵母菌主要通过大量基因的丢失来实现其生物多样性。
+
+关键词： Saccharomycotina, horizontal gene transfer, phylogenomics, reductive evolution
 
 # 参考文献
 1. Shen X.-X., Opulente D.A., Kominek J., Zhou X., Steenwyk J., Buh K.V., Haase M., Wisecaver J.H., Wang M., Doering D.T., Boudouris J., Schneider R., Langdon Q.K., Ohkuma M., Endoh R., Takashima M., Manabe R., Čadež N., Libkind D., Rosa C., DeVirgilio J., Hulfachor A., Groenewald M., Kurtzman C.P., Hittinger C.T., Rokas A. 2018. The tempo and mode of genome evolution in the budding yeast subphylum. Cell 175: 1533-1545.
