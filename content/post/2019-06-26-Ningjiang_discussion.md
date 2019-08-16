@@ -14,7 +14,6 @@ thumbnail: "https://imgur.com/R4UCRM8.jpg"
 - 地点：YouTube live stream
 - 主讲人：蒋宁 (Ning Jiang) Professor of Department of Horticulture at Michigan State University Ph.D., Plant Biology, University of Georgia, 2002
 
-![](https://i.imgur.com/mfKuroB.png)
 
 # 中文摘要
 
@@ -26,6 +25,7 @@ thumbnail: "https://imgur.com/R4UCRM8.jpg"
 
 这次人物专访，我们既想了解有关转座子的科学问题，也想听听她的人生阅历，关于平衡生活和工作的思考，以及如何做一个快乐的高产科研工作者。
 
+![](https://i.imgur.com/mfKuroB.png)
 
 # 近期发表文献
 1. Ou, S., Chen, J. and Jiang, N. (2018). Assessing genome assembly quality using the LTR Assembly Index (LAI). Nucleic Acids Research. 46(21):e126.
