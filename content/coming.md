@@ -1,7 +1,7 @@
 ---
 title: "下期预告"
 date: "2019-08-07"
-menu: [main, top]
+menu: [top]
 weight: 2
 ---
 
