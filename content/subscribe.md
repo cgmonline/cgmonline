@@ -1,6 +1,6 @@
 ---
 title: 加入我们
-menu: [main, top]
+menu: [top]
 show_comments: true
 ---
 

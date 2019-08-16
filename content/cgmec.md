@@ -1,6 +1,6 @@
 ---
 title: 组织管理
-menu: [main, top]
+menu: [top]
 weight: 6
 ---
 

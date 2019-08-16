@@ -44,6 +44,15 @@ publishDir = "docs"
   url = "/categories/人物专访/"
   weight = 1
 
+[[menu.main]]
+  name = "专题讨论"
+  url = "/categories/专题讨论/"
+  weight = 2
+
+[[menu.main]]
+  name = "学术报告"
+  url = "/categories/学术报告/"
+  weight = 3
 
 [params.banner]
   src = "/img/logo.png"

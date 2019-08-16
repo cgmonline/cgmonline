@@ -1,6 +1,6 @@
 ---
 title: "赞助伙伴"
-menu: [main, top]
+menu: [main]
 weight: 9
 ---
 
