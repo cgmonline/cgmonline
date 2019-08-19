@@ -19,6 +19,7 @@ weight: 6
 
 ## 沙龙预告
 
+- 08-18-2019：[【CGM在线沙龙预告】管中窥豹，亦别有洞天——外显子组重测序描绘小麦基因组进化蓝图](https://mp.weixin.qq.com/s/dF4BlcZZ6T1noKQt99DsnQ)
 - 08-05-2019：[【CGM在线沙龙预告】表型组学时代，多表型助力基因挖掘](https://mp.weixin.qq.com/s/TkXdTeYHXi99alb8NF2mUw)
 - 07-22-2019：[【CGM在线沙龙预告】玉米七十二变——Alternative Splicing变异研究](https://mp.weixin.qq.com/s/lpGa-MSvTqwjeWIvfpYFrA)
 - 07-08-2019：[【CGM在线沙龙预告】追踪植物基因组复制事件](https://mp.weixin.qq.com/s/GQtK7Dt2f6O5WAziPe84Nw)
