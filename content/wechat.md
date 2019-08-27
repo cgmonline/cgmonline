@@ -19,6 +19,7 @@ weight: 6
 
 ## 沙龙预告
 
+- 08-27-2019：[【北京时间学术沙龙】学科交叉与基因组学研究中的方法论](https://mp.weixin.qq.com/s/U5kie9FqebHZRMjPCLaAOw)
 - 08-18-2019：[【CGM在线沙龙预告】管中窥豹，亦别有洞天——外显子组重测序描绘小麦基因组进化蓝图](https://mp.weixin.qq.com/s/dF4BlcZZ6T1noKQt99DsnQ)
 - 08-05-2019：[【CGM在线沙龙预告】表型组学时代，多表型助力基因挖掘](https://mp.weixin.qq.com/s/TkXdTeYHXi99alb8NF2mUw)
 - 07-22-2019：[【CGM在线沙龙预告】玉米七十二变——Alternative Splicing变异研究](https://mp.weixin.qq.com/s/lpGa-MSvTqwjeWIvfpYFrA)
@@ -36,6 +37,7 @@ weight: 6
 
 ## 微信群精彩讨论整理
 
+- 08-27-2019：[【CGM微信群精彩讨论】大牛在线答疑，学习资源共享](https://mp.weixin.qq.com/s/qGKnMvVqaf_ZbpQPA0JLLw)
 - 07-12-2019：[转座子相关问答整理](https://mp.weixin.qq.com/s/_8SMCQeKwJHYAFXAg3Sx-w)
 - 07-08-2019：[【CGM微信群精彩问答】2019年第1期](https://mp.weixin.qq.com/s/Ig8O6i9mRbAt_0Ep4CRisg)
 
