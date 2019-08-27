@@ -1,32 +1,24 @@
 ---
 title: "下期预告"
-date: "2019-08-07"
+date: "2019-08-28"
 menu: [top]
 weight: 2
 ---
 
 
 
-- 题目：管中窥豹，亦别有洞天——外显子组重测序描绘小麦基因组进化蓝图
-- 时间：2019 年 08 月 21 号（星期三），美西时间（Pacific Time）6:00 PM
+- 题目：学科交叉与基因组学研究中的方法论
+- 时间：2019 年 08 月 28 号（星期三），北京时间晚上 9:00 PM
 - 地点：Zoom and YouTube live stream
-- 主讲人：贺飞博士本科毕业于西南大学，博士期间在中国农业大学张子丁教授门下学习生物信息学，2011年获得博士学位。毕业至今，贺博士先后在斯隆-凯特林研究所（Sloan Kettering Institute ）发育生物学部的Dr. Zhirong Bao 实验室、布鲁克海文国家实验室（Brookhaven National Lab）生物部Dr. Sergei Maslov 实验室和堪萨斯州立大学（Kansas State University）植物病理学系的Dr. Eduard Akhunov实验室从事博士后研究。
+- 主讲人：杨金良博士，硕士毕业于中国农业大学赖锦盛教授实验室，博士就读于Iowa State University，Patrick Schnable实验室。此后在UC Davis，Jeff Ross-Ibarra实验室担任博士后。现就职于University of Nebraska-Lincoln，任助理教授。
 
+<img src="https://i.imgur.com/XyfO8Xh.jpg" width="300" height="400" />
 
 # 中文摘要
 
-小麦是世界上最重要的农作物之一。由于其基因组巨大（～17 Gb），小麦基因组进化的研究一直是一个难题。近年来测序成本不断下降，使得小麦重测序成为可以负担的课题。我们对890个不同的小麦品种进行了外显子测序，利用中国春参考序列，检测到超过三百万SNP位点。利用这套遗传变异数据，我们尝试解答如下几个问题：
-
-小麦基因组中哪些位点受到了人工选择或者自然选择？外源基因组片段如何影响小麦基因组的形成与进化？遗传负荷（deleterious allele load）在小麦的进化中扮演着什么样的角色？
-
-我希望和大家分享回答这些问题的过程。
-
-关键词：小麦，基因组进化，遗传多样性，基因渗入
+多数生物学研究一直被诟病于文科式描述，然而事实上，从孟德尔(Gregor Mendel)的遗传到费希尔(R. A. Fisher)的进化，他们的研究中无不充满着理性的推论。甚至，在澄清达尔文进化论的工作过程中，费希尔进而奠定了现代统计学的基础。基因组的出现，再次把生物学推向了数学和统计学的海洋。在我自己十几年的科研实践中，以及在近两年的教学中，越来越发现基础数学对于基因组研究的重要性。最近十年，计算科学以及数据科学也发生了翻天覆地的变化。基因组学研究，越来越趋向于同其他学科交叉融合。比如，侧重于数学公式推导的群体基因组学，着重统计计算的数量基因组学，以及工程技术和机器学习引领的表型组学，正在经历蓬勃发展。借由这一次CGM邀请，我想借自己研究和教学中的问题，于细微处，和大家探讨一下基因组学研究中的方法论。我将介绍一下我们正在进行的甲基化组的群体模型构建，多维组学的调节分析，以及基于无人机的高通量表型鉴定。
 
 # Zoom
 
-TBA
+Coming soon
 
-# 参考文献
-
-Fei He, Raj Pasam, Fan Shi, et al. Exome sequencing highlights the role of wild-relative introgression in shaping the adaptive landscape of the wheat genome. Nature Genetics vol. 51, pages 896-904, 2019volupages
