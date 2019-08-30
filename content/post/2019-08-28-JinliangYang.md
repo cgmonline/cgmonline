@@ -5,7 +5,7 @@ categories:
   - 学术报告
 tags: [maize, popgen, quantgen]
 show_comments: true
-thumbnail: "https://imgur.com/2a0BkKs"
+thumbnail: "https://i.imgur.com/kCGS32J.png"
 ---
 
 
