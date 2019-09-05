@@ -11,7 +11,6 @@ thumbnail: "https://i.imgur.com/kCGS32J.png"
 
 - 主讲人：杨金良博士，硕士毕业于中国农业大学赖锦盛教授实验室，博士就读于Iowa State University，Patrick Schnable实验室。此后在UC Davis，Jeff Ross-Ibarra实验室担任博士后。现就职于University of Nebraska-Lincoln，任助理教授。
 
-<img src="https://i.imgur.com/XyfO8Xh.jpg" width="300" height="400" />
 
 # 中文摘要
 
@@ -21,7 +20,6 @@ thumbnail: "https://i.imgur.com/kCGS32J.png"
 
 Coming soon
 
-# Tencent video
+# Bilibili
 
-Coming soon
-
+{{< bilibili id="65810771" autoplay="false" >}}
