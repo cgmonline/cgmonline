@@ -12,7 +12,9 @@ weight: 2
 - 地点：Zoom and YouTube live stream
 - 主讲人：安宏本科毕业于华中农业大学植物科学技术专业，后在华中农业大学傅廷栋教授课题组攻读博士学位，并于2016年获得作物遗传育种博士学位。毕业至今，安宏在密苏里大学生命科学系的 Dr. J. Chris Pires 实验室从事博士后研究。
 
-<img src="https://i.imgur.com/y5yKFdM.jpg" width="300" height="360" />
+
+<img src="https://i.imgur.com/y5yKFdM.jpg" width="300" height="400" />
+
 
 # 中文摘要
 
