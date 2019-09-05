@@ -15,9 +15,7 @@ weight: 6
 - [杨金良](http://jyanglab.com/)，[祁新帅](http://xinshuaiqi.weebly.com/)
 
 ### 现任执行委员：
-- **05 - 08, 2019** EC6
-  - [郭婷婷](https://scholar.google.com/citations?user=4WYQNa4AAAAJ&hl=en)（组长），汪捷（网站），周文彬（联络），李秋实（公众号协调）
-- 09 - 12, 2019 EC7
+- **09 - 12, 2019** EC7
   - [胡冠菁](https://huguanjing.github.io/about/)（组长），唐星（联络）， 狄晨露（公众号协调）， 魏嘉璐（网站）
 - 01 - 04, 2020
   - 征集志愿者（微信群 @杨金良或者祁新帅)
@@ -28,9 +26,10 @@ weight: 6
 - 05 - 08, 2018：EC3 雷栗（组长），武志强，[郝樾](https://yueyvettehao.github.io/)（网站）
 - 09 - 12, 2018：EC4 何逸建（组长），邓斯文（网站），[汪海](https://tangscholars.ciifad.cornell.edu/people/hai-wang/)
 - 01 - 04, 2019：EC5 区树俊（组长），汲翔（网站），谢丽蒙（技术）
+- 05 - 08，2019：EC6 [郭婷婷](https://scholar.google.com/citations?user=4WYQNa4AAAAJ&hl=en)（组长），汪捷（网站），周文彬（联络），李秋实（公众号协调）
 
 ## CGM 编辑委员会 (Editorial Committee)
-- [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)，[郝樾](https://yueyvettehao.github.io/)，胡海飞，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)，李秋实, 马省伟
+- [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)，[郝樾](https://yueyvettehao.github.io/)，胡海飞，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)，李秋实, 马省伟，赵飞
 
 ## CGM **China**
 - 07, 2019-: 何逸建 (组长）, 李德林，邱杰，武志强, 祁新帅, 杨金良 
