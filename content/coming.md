@@ -21,5 +21,5 @@ weight: 2
 # 全时云
 
 本次活动将使用**全时云会议**软件，参与方法：<br>
-1）下载全时云客户端（下载地址 https://meetnow.quanshi.com/onemeeting/ ）输入会议密码**250683272936**（无需注册） <br>
+1）下载[全时云客户端](https://meetnow.quanshi.com/onemeeting/)，输入会议密码**250683272936**（无需注册） <br>
 或者 2）点击链接 http://m.qsh1.cn/k/0UX52NG 按照指引下载软件加入会议（无需注册）<br>
