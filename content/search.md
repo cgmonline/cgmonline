@@ -28,7 +28,7 @@ menu: [main]
     <div class="input-group">
       <input type="text" class="form-control" id="q" />
       <span class="input-group-btn">
-        <button onclick='search.helper.search();'>搜索</button>
+        <button onclick='search.helper.search();'>搜索CGM</button>
       </span>
     </div>
   </div>
