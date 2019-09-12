@@ -1,9 +1,9 @@
 (function() {
 
 var search = instantsearch({
-  appId: 'VB9T8VTPNU',
-  apiKey: 'cb3265feef0bb0b4bc7f8a4a4986456a',
-  indexName: 'cgmonline.co',
+  appId: 'latency',
+  apiKey: '6be0576ff61c053d5f9a3225e2a90f76',
+  indexName: 'cgmonline',
   urlSync: {},
   searchFunction: function(helper) {
     if (helper.state.query !== '') helper.search();
