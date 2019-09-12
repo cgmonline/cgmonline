@@ -1,8 +1,8 @@
 (function() {
 
 var search = instantsearch({
-  appId: 'VC87FXG5EK',
-  apiKey: 'b06f1155acbb8febe74469d86331f478',
+  appId: 'OMSFKPU7NT',
+  apiKey: '9a418bfac894317a5e8cc748086d057a',
   indexName: 'cgmonline',
   urlSync: {},
   searchFunction: function(helper) {
