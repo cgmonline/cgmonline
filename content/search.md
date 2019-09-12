@@ -1,5 +1,5 @@
 ---
-title: 搜索
+title: 搜索CGM
 weight: 8
 menu: [main]
 ---
@@ -28,7 +28,7 @@ menu: [main]
     <div class="input-group">
       <input type="text" class="form-control" id="q" />
       <span class="input-group-btn">
-        <button onclick='search.helper.search();'>搜索CGM</button>
+        <button onclick='search.helper.search();'>搜索</button>
       </span>
     </div>
   </div>
