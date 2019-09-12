@@ -3,7 +3,7 @@
 var search = instantsearch({
   appId: 'VB9T8VTPNU',
   apiKey: 'cb3265feef0bb0b4bc7f8a4a4986456a',
-  indexName: 'cosx.org',
+  indexName: 'cgmonline.co',
   urlSync: {},
   searchFunction: function(helper) {
     if (helper.state.query !== '') helper.search();
