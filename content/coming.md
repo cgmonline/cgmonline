@@ -1,25 +1,47 @@
 ---
 title: "下期预告"
-date: "2019-09-11"
+date: "2019-09-18"
 menu: [top]
+tags: [soybean, nodulation, Rhizobium, tRNA]
 weight: 2
 ---
 
 
-- 题目：作物拟态的基因组解析
-- 时间：2019 年 09 月 11 号（星期三），北京时间 9:00 PM
-- 地点：全时云 and Bilibili live stream
-- 主讲人：叶楚玉，浙江大学副教授，浙江大学作物科学研究所副所长。2007年安徽师范大学本科毕业；2013年北京林业大学博士毕业，师从尹伟伦院士，从事林木逆境分子生物学研究。2010、2011年在美国橡树岭国家实验室（ORNL）Gerald Tuskan（杨树基因组测序发起人）组从事木本植物比较基因组学研究。2013年7月加入浙江大学农学院樊龙江教授课题组，从事生物信息学、基因组学研究，主要解析作物杂草互作机制及非编码RNA相关研究。
 
-![](https://i.imgur.com/wVPR0BF.png)
+- 题目：大豆结瘤的调控机制-两个人的舞会
+- 时间：2019 年 09 月 18 号（星期三），美西时间（Pacific Time）6:00 PM
+- 地点：Zoom and YouTube live stream
+- 主讲人：任勃博士本科毕业于陕西师范大学，后先后于中科院植物研究所、遗传与发育生物学研究所取得硕士及博士学位。现于普渡大学马建新教授实验室从事博士后研究，研究主要方向为比较和进化基因组学。
 
 
 # 中文摘要
 
-拟态是指一种生物模拟另一种生物从而获得好处的一种适应性进化现象，是自然选择的结果。解析拟态进化机制一直是进化生物学研究的热点。动物中著名的拟态现象包括蝴蝶中研究的贝氏拟态（Batesian mimicry）和缪勒拟态（Müllerian mimicry）。相对于动物拟态，植物拟态较少报道，瓦维诺夫拟态（Vavilovian mimicry）就是一种典型的植物拟态，以前苏联著名科学家瓦维诺夫（Nikolai Ivanovich Vavilov）命名，也称之为作物拟态，是指农田杂草模拟作物从而躲避农民的拔除的现象。最为著名的作物拟态现象之一是稻田稗草（Echinocloa spp）在苗期与水稻极其相似。本研究利用群体遗传学，对稗草拟态水稻这一现象进行了基因组解析，发现稗草基因组在拟态过程中受到了类似于人工驯化选择的痕迹。
 
-# 全时云
+土壤中的根瘤菌可以在多数豆科植物的根部共生形成根瘤，并在根瘤中利用其自身含有的固氮酶将空气中的游离氮还原为植物能够直接利用的氨态氮，该过程称为生物固氮，是农业与自然生态系统中植物赖以生存的重要氮源。然而，宿主植物通过根瘤菌固氮是要付出代价的——那就是要供给根瘤菌生存所需要的无机盐营养和能源。先前研究表明，豆科植物中存在多种分子机制控制根瘤的数目，从而维系其生长与固氮能耗间的平衡。但是，这是否意味着“寄人篱下”的根瘤菌就只能“逆来顺受”了呢？
 
-本次活动将使用**全时云会议**软件，参与方法：<br>
-1）下载[全时云客户端](https://meetnow.quanshi.com/onemeeting/)，输入会议密码**250683272936**（无需注册） <br>
-或者 2）点击链接 http://m.qsh1.cn/k/0UX52NG 按照指引下载软件加入会议（无需注册）<br>
+我们的研究发现，根瘤菌tRNA衍生的小RNA片段（tRFs）能够在根瘤中劫持大豆细胞中的RNA干扰机器，从而降低大豆基因组中一些结瘤抑制基因的表达，以促进大豆结瘤并提高根瘤数目。这也表明，在根瘤菌与其宿主植物的共生过程中，双方共同调控根瘤数目，实现合作共赢。
+
+该论文系原核生物小RNA调控真核生物重要生物学功能的首例报道，有望为研究大自然中广泛存在的共生关系，例如人体与肠道微生物间的共生等，提供新的研究思路。
+
+# 参考文献
+
+Ren B, Wang X, Duan J, Ma J. 2019. [Rhizobial tRNA-derived small RNAs are signal molecules regulating plant nodulation. Science. 365:919-922.](https://www.researchgate.net/publication/334684307_Rhizobial_tRNA-derived_small_RNAs_are_signal_molecules_regulating_plant_nodulation/figures?lo=1)
+
+# Zoom
+
+Topic: CGM 第64期：大豆结瘤的调控机制-两个人的舞会
+Time: Sep 18, 2019 06:00 PM Pacific Time (US and Canada)
+
+Join Zoom Meeting
+https://zoom.us/j/866810020
+
+One tap mobile
++16465588656,,866810020# US (New York)
++17207072699,,866810020# US (Denver)
+
+Dial by your location
+        +1 646 558 8656 US (New York)
+        +1 720 707 2699 US (Denver)
+Meeting ID: 866 810 020
+Find your local number: https://zoom.us/u/ado9AEkws6
+
