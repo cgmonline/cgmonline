@@ -1,0 +1,13 @@
+---
+title: "工作信息"
+menu: [top]
+weight: 8
+---
+
+CGM试运行一个工作信息发布平台。招聘者可以登录OneDrive账号，添加工作信息。
+CGM不对信息负责。请自行联系信息发布者。
+
+
+## 工作信息列表
+
+- [2019 9-12月](https://1drv.ms/x/s!ApL8ekkjd7QEf2oDvj8g_Os3m9s)
