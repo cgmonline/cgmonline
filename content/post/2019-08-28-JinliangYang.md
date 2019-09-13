@@ -18,7 +18,7 @@ thumbnail: "https://i.imgur.com/kCGS32J.png"
 
 # YouTube
 
-Coming soon
+{{< youtube id="4hpXBKRkT0Q" autoplay="false" >}}
 
 # Bilibili
 
