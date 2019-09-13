@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>北美华人基因组学在线沙龙 2017</copyright>
-    <lastBuildDate>Wed, 25 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://cgmonline.co/tags/maize/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CGM 第61期：学科交叉与基因组学研究中的方法论</title>
+      <link>http://cgmonline.co/2019/08/cgm-%E7%AC%AC61%E6%9C%9F%E5%AD%A6%E7%A7%91%E4%BA%A4%E5%8F%89%E4%B8%8E%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%AD%A6%E7%A0%94%E7%A9%B6%E4%B8%AD%E7%9A%84%E6%96%B9%E6%B3%95%E8%AE%BA/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2019/08/cgm-%E7%AC%AC61%E6%9C%9F%E5%AD%A6%E7%A7%91%E4%BA%A4%E5%8F%89%E4%B8%8E%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%AD%A6%E7%A0%94%E7%A9%B6%E4%B8%AD%E7%9A%84%E6%96%B9%E6%B3%95%E8%AE%BA/</guid>
+      <description>主讲人：杨金良博士，硕士毕业于中国农业大学赖锦盛教授实验室，博士就读于Iowa State University，Patrick Schnable实验室。</description>
+    </item>
+    
+    <item>
+      <title>CGM 第59期：表型组学时代，多表型助力基因挖掘</title>
+      <link>http://cgmonline.co/2019/08/cgm-%E7%AC%AC59%E6%9C%9F%E8%A1%A8%E5%9E%8B%E7%BB%84%E5%AD%A6%E6%97%B6%E4%BB%A3%E5%A4%9A%E8%A1%A8%E5%9E%8B%E5%8A%A9%E5%8A%9B%E5%9F%BA%E5%9B%A0%E6%8C%96%E6%8E%98/</link>
+      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2019/08/cgm-%E7%AC%AC59%E6%9C%9F%E8%A1%A8%E5%9E%8B%E7%BB%84%E5%AD%A6%E6%97%B6%E4%BB%A3%E5%A4%9A%E8%A1%A8%E5%9E%8B%E5%8A%A9%E5%8A%9B%E5%9F%BA%E5%9B%A0%E6%8C%96%E6%8E%98/</guid>
+      <description>题目：表型组学时代，多表型助力基因挖掘 时间：2019 年 08 月 07 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live</description>
+    </item>
     
     <item>
       <title>CGM 第17期：The Evolution of Maize during Post-Domestication Expansion across Americas</title>
