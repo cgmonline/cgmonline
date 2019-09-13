@@ -1,9 +1,9 @@
 (function() {
 
 var search = instantsearch({
-  appId: 'VB9T8VTPNU',
-  apiKey: 'cb3265feef0bb0b4bc7f8a4a4986456a',
-  indexName: 'cosx.org',
+  appId: 'OMSFKPU7NT',
+  apiKey: '9a418bfac894317a5e8cc748086d057a',
+  indexName: 'test_cgm',
   urlSync: {},
   searchFunction: function(helper) {
     if (helper.state.query !== '') helper.search();
