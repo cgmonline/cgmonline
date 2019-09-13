@@ -7,15 +7,14 @@ weight: 2
 ---
 
 
-
 - 题目：大豆结瘤的调控机制-两个人的舞会
 - 时间：2019 年 09 月 18 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：Zoom and YouTube live stream
-- 主讲人：任勃博士本科毕业于陕西师范大学，后先后于中科院植物研究所、遗传与发育生物学研究所取得硕士及博士学位。现于普渡大学马建新教授实验室从事博士后研究，研究主要方向为比较和进化基因组学。
+- 主讲人： 任勃博士本科毕业于陕西师范大学，后先后于中科院植物研究所、遗传与发育生物学研究所取得硕士及博士学位。现于普渡大学马建新教授实验室从事博士后研究，研究主要方向为比较和进化基因组学。
 
+<img src="https://i.imgur.com/4YZaKht.jpg" width="300" height="400" />
 
 # 中文摘要
-
 
 土壤中的根瘤菌可以在多数豆科植物的根部共生形成根瘤，并在根瘤中利用其自身含有的固氮酶将空气中的游离氮还原为植物能够直接利用的氨态氮，该过程称为生物固氮，是农业与自然生态系统中植物赖以生存的重要氮源。然而，宿主植物通过根瘤菌固氮是要付出代价的——那就是要供给根瘤菌生存所需要的无机盐营养和能源。先前研究表明，豆科植物中存在多种分子机制控制根瘤的数目，从而维系其生长与固氮能耗间的平衡。但是，这是否意味着“寄人篱下”的根瘤菌就只能“逆来顺受”了呢？
 
@@ -30,18 +29,24 @@ Ren B, Wang X, Duan J, Ma J. 2019. [Rhizobial tRNA-derived small RNAs are signal
 # Zoom
 
 Topic: CGM 第64期：大豆结瘤的调控机制-两个人的舞会
+
 Time: Sep 18, 2019 06:00 PM Pacific Time (US and Canada)
 
 Join Zoom Meeting
 https://zoom.us/j/866810020
 
 One tap mobile
+
 +16465588656,,866810020# US (New York)
+
 +17207072699,,866810020# US (Denver)
 
 Dial by your location
-        +1 646 558 8656 US (New York)
-        +1 720 707 2699 US (Denver)
-Meeting ID: 866 810 020
-Find your local number: https://zoom.us/u/ado9AEkws6
 
++1 646 558 8656 US (New York)
+
++1 720 707 2699 US (Denver)
+
+Meeting ID: 866 810 020
+
+Find your local number: https://zoom.us/u/ado9AEkws6
