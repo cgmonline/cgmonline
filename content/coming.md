@@ -2,7 +2,7 @@
 title: "下期预告"
 date: "2019-09-25"
 menu: [top]
-tags: [soybean, nodulation, Rhizobium, tRNA]
+tags: [parallel speciation, reproductive isolation, adaptation, divergent selection, wild rice]
 weight: 2
 ---
 
