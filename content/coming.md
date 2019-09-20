@@ -1,53 +1,26 @@
 ---
 title: "下期预告"
-date: "2019-09-18"
+date: "2019-09-25"
 menu: [top]
 tags: [soybean, nodulation, Rhizobium, tRNA]
 weight: 2
 ---
 
-
-- 题目：大豆结瘤的调控机制-两个人的舞会
-- 时间：2019 年 09 月 18 号（星期三），美西时间（Pacific Time）6:00 PM
-- 地点：Zoom and YouTube live stream
-- 主讲人：任勃博士本科毕业于陕西师范大学，后先后于中科院植物研究所、遗传与发育生物学研究所取得硕士及博士学位。现于普渡大学[马建新教授实验室](https://ag.purdue.edu/agry/directory/Pages/maj.aspx)从事博士后研究，研究主要方向为比较和进化基因组学。
-
-
-<img src="https://i.imgur.com/4YZaKht.jpg" width="300" height="400" />
+- 题目：条条大路通罗马————野生稻*Oryza nivara*的平行式物种形成研究
+- 时间：2019 年 09 月 25 号（星期三），北京时间 9:00 PM
+- 地点：全时云和哔哩哔哩直播
+- 主讲人：蔡喆，中国科学院植物研究所博士后。2016年博士毕业于植物所葛颂研究组，后继续在该组从事博士后研究。研究兴趣包括天然群体的适应性和物种形成、群体遗传学模拟、机器学习和高性能计算在基因组研究中的应用等。
 
 # 中文摘要
 
-土壤中的根瘤菌可以在多数豆科植物的根部共生形成根瘤，并在根瘤中利用其自身含有的固氮酶将空气中的游离氮还原为植物能够直接利用的氨态氮，该过程称为生物固氮，是农业与自然生态系统中植物赖以生存的重要氮源。然而，宿主植物通过根瘤菌固氮是要付出代价的——那就是要供给根瘤菌生存所需要的无机盐营养和能源。先前研究表明，豆科植物中存在多种分子机制控制根瘤的数目，从而维系其生长与固氮能耗间的平衡。但是，这是否意味着“寄人篱下”的根瘤菌就只能“逆来顺受”了呢？
-
-我们的研究发现，根瘤菌tRNA衍生的小RNA片段（tRFs）能够在根瘤中劫持大豆细胞中的RNA干扰机器，从而降低大豆基因组中一些结瘤抑制基因的表达，以促进大豆结瘤并提高根瘤数目。这也表明，在根瘤菌与其宿主植物的共生过程中，双方共同调控根瘤数目，实现合作共赢。
-
-该论文系原核生物小RNA调控真核生物重要生物学功能的首例报道，有望为研究大自然中广泛存在的共生关系，例如人体与肠道微生物间的共生等，提供新的研究思路。
+曾被达尔文称作“迷中之迷”的物种形成一直是进化生物学领域所关注的焦点问题。随着大量研究揭示了生态因素与物种形成之间的关系，自然选择可以导致物种形成的观点现已被广泛接受。作为物种形成最重要的一步，生殖隔离与自然选择之间的因果关系是证明自然选择导致物种形成的直接证据。平行式物种形成是一种特殊的物种形成方式，它是指物种形成中的生殖隔离机制在相似的生境中多次独立产生，正是由于这种天然的重复性，平行式物种形成是论证自然选择导致物种形成的最强有力的证据，也是研究物种形成机制的良好体系。本研究利用重测序和核基因数据，并结合同质园和人工杂交试验，对野生稻*Oryza nivara*的起源和进化机制进行了较为全面的进化生物学和群体基因组学研究。结果表明不同地区的*O. nivara*独立起源于当地的多年生*O. rufipogon*群体，是为适应干旱的生境而通过花期隔离的机制产生的物种。*O. nivara*作为目前植物中证据较为完备的平行式物种形成案例，将为深入探讨物种形成机制提供一个理想的研究模式。
 
 # 参考文献
 
-Ren B, Wang X, Duan J, Ma J. 2019. [Rhizobial tRNA-derived small RNAs are signal molecules regulating plant nodulation. Science. 365:919-922.](https://www.researchgate.net/publication/334684307_Rhizobial_tRNA-derived_small_RNAs_are_signal_molecules_regulating_plant_nodulation/figures?lo=1)
+[Zhe Cai, Lian Zhou, Ning-Ning Ren, Xun Xu, Rong Liu, Lei Huang, Xiao-Ming Zheng, Qing-Lin Meng, Yu-Su Du, Mei-Xia Wang, Mu-Fan Geng, Wen-Li Chen, Chun-Yan Jing, Xin-Hui Zou, Jie Guo, Cheng-Bin Chen, Hua-Zhong Zeng, Yun-Tao Liang, Xing-Hua Wei, Ya-Long Guo, Hai-Fei Zhou, Fu-Min Zhang, Song Ge, Parallel Speciation of Wild Rice Associated with Habitat Shifts, Molecular Biology and Evolution, Volume 36, Issue 5, May 2019, Pages 875–889](https://doi.org/10.1093/molbev/msz029)
 
-# Zoom
+# 全时云
 
-Topic: CGM 第64期：大豆结瘤的调控机制-两个人的舞会
+Coming soon
 
-Time: Sep 18, 2019 06:00 PM Pacific Time (US and Canada)
 
-Join Zoom Meeting
-https://zoom.us/j/866810020
-
-One tap mobile
-
-+16465588656,,866810020# US (New York)
-
-+17207072699,,866810020# US (Denver)
-
-Dial by your location
-
-+1 646 558 8656 US (New York)
-
-+1 720 707 2699 US (Denver)
-
-Meeting ID: 866 810 020
-
-Find your local number: https://zoom.us/u/ado9AEkws6
