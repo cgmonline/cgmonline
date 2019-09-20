@@ -17,6 +17,16 @@ weight: 6
 - 03-07-2019：[【CGM女神节特刊】家园归航王丽：用温暖的力量治愈世界](https://mp.weixin.qq.com/s/kTltC7ZCQYdUrESppC2FgQ)
 - 02-25-2019：[【CGM经典视频回顾】怎样提升英语科技论文的写作？](https://mp.weixin.qq.com/s/BMAiRtL0BzLpso6PEef0pQ)
 
+## 学术文章速览
+
+- 09-19-2019：[GWAS and beyond](https://mp.weixin.qq.com/s/XVFiF9b60Yu37UHK1v3G3g)
+
+## 微信群精彩讨论整理
+
+- 08-27-2019：[【CGM微信群精彩讨论】大牛在线答疑，学习资源共享](https://mp.weixin.qq.com/s/qGKnMvVqaf_ZbpQPA0JLLw)
+- 07-12-2019：[转座子相关问答整理](https://mp.weixin.qq.com/s/_8SMCQeKwJHYAFXAg3Sx-w)
+- 07-08-2019：[【CGM微信群精彩问答】2019年第1期](https://mp.weixin.qq.com/s/Ig8O6i9mRbAt_0Ep4CRisg)
+
 ## 沙龙预告
 
 - 09-16-2019：[任勃 大豆结瘤的调控机制 - 两个人的舞会](https://mp.weixin.qq.com/s/TBTrNF6W9i75S1Q3LBOFKQ)
@@ -37,12 +47,6 @@ weight: 6
 - 03-19-2019：[王丽 向外探索世界，向内探索自己](https://mp.weixin.qq.com/s/w3eh346PhGAbimJoZ0Asow)
 - 03-04-2019：[汪鸿儒 水稻驯化之谜](https://mp.weixin.qq.com/s/3equhiJJfcfVSIHj3h5l3g)
 - 02-17-2019：[魏馨竹 种群生长速率与环境承载能力的博弈](https://mp.weixin.qq.com/s/P02gI9MBkOe854aPCSRu4Q)
-
-## 微信群精彩讨论整理
-
-- 08-27-2019：[【CGM微信群精彩讨论】大牛在线答疑，学习资源共享](https://mp.weixin.qq.com/s/qGKnMvVqaf_ZbpQPA0JLLw)
-- 07-12-2019：[转座子相关问答整理](https://mp.weixin.qq.com/s/_8SMCQeKwJHYAFXAg3Sx-w)
-- 07-08-2019：[【CGM微信群精彩问答】2019年第1期](https://mp.weixin.qq.com/s/Ig8O6i9mRbAt_0Ep4CRisg)
 
 ## 通知公告
 
