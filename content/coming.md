@@ -1,53 +1,51 @@
 ---
 title: "下期预告"
-date: "2019-09-18"
+date: "2019-10-02"
 menu: [top]
-tags: [soybean, nodulation, Rhizobium, tRNA]
 weight: 2
 ---
 
 
-- 题目：大豆结瘤的调控机制-两个人的舞会
-- 时间：2019 年 09 月 18 号（星期三），美西时间（Pacific Time）6:00 PM
+- 题目：Grow Through What You Go through (通过你经历的事情成长)
+- 时间：2019 年 10 月 02 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：Zoom and YouTube live stream
-- 主讲人：任勃博士本科毕业于陕西师范大学，后先后于中科院植物研究所、遗传与发育生物学研究所取得硕士及博士学位。现于普渡大学[马建新教授实验室](https://ag.purdue.edu/agry/directory/Pages/maj.aspx)从事博士后研究，研究主要方向为比较和进化基因组学。
+- 主讲人： 余建明，爱荷华州立大学农学系教授、先锋玉米育种特聘教授。1994年毕业于西北农林科技大学农学专业，2000年获得堪萨斯州立大学硕士学位，2003年获得明尼苏达大学博士学位。研究方向包括基因定位方法(全基因组关联分析，关联和连锁复合作图)，分子育种方法(基因组选择)，和复杂形状分子分析。余博士曾任”植物基因组(Plant Genome)” (2012-2017)编委,“作物科学(Crop Science)“(2008-2010) 和“理论和应用遗传(Theoretical and Applied Genetics)”(2007-2011) 编委，在Nature Genetics、PNAS等杂志发表学术论文80余篇,论文总引用数逾12000次。余博士曾获北美作物协会“青年作物学家奖”（2010）以及北美作物协会“杰出会员”称号（2018）。
 
 
-<img src="https://i.imgur.com/4YZaKht.jpg" width="300" height="400" />
+<img src="https://imgur.com/VVtGedO.jpg" width="300" height="400" />
 
 # 中文摘要
 
-土壤中的根瘤菌可以在多数豆科植物的根部共生形成根瘤，并在根瘤中利用其自身含有的固氮酶将空气中的游离氮还原为植物能够直接利用的氨态氮，该过程称为生物固氮，是农业与自然生态系统中植物赖以生存的重要氮源。然而，宿主植物通过根瘤菌固氮是要付出代价的——那就是要供给根瘤菌生存所需要的无机盐营养和能源。先前研究表明，豆科植物中存在多种分子机制控制根瘤的数目，从而维系其生长与固氮能耗间的平衡。但是，这是否意味着“寄人篱下”的根瘤菌就只能“逆来顺受”了呢？
+作为最流行的基因组学研究方法之一，GWAS（全基因组关联分析）对于各位来说是一个再熟悉不过的名字了。在作物育种领域，GWAS被广泛地应用于发掘复杂数量性状，为揭示重要农艺性状形成和实现品种改良提供分子依据。本期的人物专访，我们很荣幸地邀请到了经典GWAS方法Q+K 模型（[Yu et al. 2006](https://www.nature.com/articles/ng1702),引用高达2500余次）的提出者——余建明教授。
 
-我们的研究发现，根瘤菌tRNA衍生的小RNA片段（tRFs）能够在根瘤中劫持大豆细胞中的RNA干扰机器，从而降低大豆基因组中一些结瘤抑制基因的表达，以促进大豆结瘤并提高根瘤数目。这也表明，在根瘤菌与其宿主植物的共生过程中，双方共同调控根瘤数目，实现合作共赢。
+余建明教授目前任职于爱荷华州立大学农学系，其课题组主要致力于结合前沿的基因组学技术及数量遗传学理论来解决育种上的重要问题。 近期的主要研究成果包括：[通过建立模型解析并预测植物与环境间的互作关系](http://doi.org/10.1073/pnas.1718326115)；[结合设计思维与数据挖掘对杂交种基因组选择进行优化](https://doi.org/10.1016/j.molp.2018.12.022)；[在玉米与大豆的比较基因组研究中发现基因组进化与驯化中的模式](https://doi.org/10.1186/s13059-019-1683-6)。
 
-该论文系原核生物小RNA调控真核生物重要生物学功能的首例报道，有望为研究大自然中广泛存在的共生关系，例如人体与肠道微生物间的共生等，提供新的研究思路。
+除去斐然的科研学术成就（先锋玉米育种特聘教授的头衔，在Nature Genetics，Nature plants, PNAS等杂志上80余篇学术论文、超过12000次的总引用数），
+“江湖”上流传的还有Dr. Yu极具感染力的演讲风格、对学生超严格的英语要求、长跑达人、以及提到女儿就停不下来的“老父亲”形象，等等。
 
-# 参考文献
-
-Ren B, Wang X, Duan J, Ma J. 2019. [Rhizobial tRNA-derived small RNAs are signal molecules regulating plant nodulation. Science. 365:919-922.](https://www.researchgate.net/publication/334684307_Rhizobial_tRNA-derived_small_RNAs_are_signal_molecules_regulating_plant_nodulation/figures?lo=1)
+这次人物专访，让我们听听余教授在植物数量遗传学及分子育种领域的学术心路历程，以及从国内的种子公司职员到北美杰出教授这一路走来的收获与经验，也了解他在学者，导师，父亲这些不同角色下的心得体会。
 
 # Zoom
 
-Topic: CGM 第64期：大豆结瘤的调控机制-两个人的舞会
+Topic: CGM 第66期： Grow Through What You Go Through (通过你经历的事情成长）
 
-Time: Sep 18, 2019 06:00 PM Pacific Time (US and Canada)
+Time: Sep 27, 2019 06:00 PM Pacific Time (US and Canada)
 
-Join Zoom Meeting
-https://zoom.us/j/866810020
+Join Zoom Meeting 
+https://zoom.us/j/604748463
 
 One tap mobile
 
-+16465588656,,866810020# US (New York)
++16465588656,,604748463# US (New York)
 
-+17207072699,,866810020# US (Denver)
++17207072699,,604748463# US (Denver)
 
 Dial by your location
 
-+1 646 558 8656 US (New York)
+        +1 646 558 8656 US (New York)
 
-+1 720 707 2699 US (Denver)
+        +1 720 707 2699 US (Denver)
 
-Meeting ID: 866 810 020
+Meeting ID: 604 748 463
 
 Find your local number: https://zoom.us/u/ado9AEkws6
