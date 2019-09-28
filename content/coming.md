@@ -1,26 +1,50 @@
 ---
 title: "下期预告"
-date: "2019-09-25"
+date: "2019-10-02"
 menu: [top]
-tags: [parallel speciation, reproductive isolation, adaptation, divergent selection, wild rice]
 weight: 2
 ---
 
-- 题目：条条大路通罗马——野生稻*Oryza nivara*的平行式物种形成研究
-- 时间：2019 年 09 月 25 号（星期三），北京时间 9:00 PM
-- 地点：全时云和哔哩哔哩直播
-- 主讲人：蔡喆，中国科学院植物研究所博士后。2016年博士毕业于植物所葛颂研究组，后继续在该组从事博士后研究。研究兴趣包括天然群体的适应性和物种形成、群体遗传学模拟、机器学习和高性能计算在基因组研究中的应用等。
+
+- 题目：Grow Through What You Go through (通过你经历的事情成长)
+- 时间：2019 年 10 月 02 号（星期三），美西时间（Pacific Time）6:00 PM
+- 地点：Zoom and YouTube live stream
+- 主讲人： 余建明，爱荷华州立大学农学系教授、先锋玉米育种特聘教授。1994年毕业于西北农林科技大学农学专业，2000年获得堪萨斯州立大学硕士学位，2003年获得明尼苏达大学博士学位。研究方向包括基因定位方法(全基因组关联分析，关联和连锁复合作图)，分子育种方法(基因组选择)，和复杂形状分子分析。余博士曾任”植物基因组(Plant Genome)” (2012-2017)编委,“作物科学(Crop Science)“(2008-2010) 和“理论和应用遗传(Theoretical and Applied Genetics)”(2007-2011) 编委，在Nature Genetics、PNAS等杂志发表学术论文80余篇,论文总引用数逾12000次。余博士曾获北美作物协会“青年作物学家奖”（2010）以及北美作物协会“杰出会员”称号（2018）。
+
+
+<img src="https://imgur.com/VVtGedO.jpg" width="300" height="400" />
 
 # 中文摘要
 
-曾被达尔文称作“迷中之迷”的物种形成一直是进化生物学领域所关注的焦点问题。随着大量研究揭示了生态因素与物种形成之间的关系，自然选择可以导致物种形成的观点现已被广泛接受。作为物种形成最重要的一步，生殖隔离与自然选择之间的因果关系是证明自然选择导致物种形成的直接证据。平行式物种形成是一种特殊的物种形成方式，它是指物种形成中的生殖隔离机制在相似的生境中多次独立产生，正是由于这种天然的重复性，平行式物种形成是论证自然选择导致物种形成的最强有力的证据，也是研究物种形成机制的良好体系。本研究利用重测序和核基因数据，并结合同质园和人工杂交试验，对野生稻*Oryza nivara*的起源和进化机制进行了较为全面的进化生物学和群体基因组学研究。结果表明不同地区的*O. nivara*独立起源于当地的多年生*O. rufipogon*群体，是为适应干旱的生境而通过花期隔离的机制产生的物种。*O. nivara*作为目前植物中证据较为完备的平行式物种形成案例，将为深入探讨物种形成机制提供一个理想的研究模式。
+作为最流行的基因组学研究方法之一，GWAS（全基因组关联分析）对于各位来说是一个再熟悉不过的名字了。在作物育种领域，GWAS被广泛地应用于发掘复杂数量性状，为揭示重要农艺性状形成和实现品种改良提供分子依据。本期的人物专访，我们很荣幸地邀请到了经典GWAS方法Q+K 模型（[Yu et al. 2006](https://www.nature.com/articles/ng1702),引用高达2500余次）的提出者——余建明教授。
 
-# 参考文献
+余建明教授目前任职于爱荷华州立大学农学系，其课题组主要致力于结合前沿的基因组学技术及数量遗传学理论来解决育种上的重要问题。 近期的主要研究成果包括：[通过建立模型解析并预测植物与环境间的互作关系](http://doi.org/10.1073/pnas.1718326115)；[结合设计思维与数据挖掘对杂交种基因组选择进行优化](https://doi.org/10.1016/j.molp.2018.12.022)；[在玉米与大豆的比较基因组研究中发现基因组进化与驯化中的模式](https://doi.org/10.1186/s13059-019-1683-6)。
 
-[Zhe Cai, Lian Zhou, Ning-Ning Ren, Xun Xu, Rong Liu, Lei Huang, Xiao-Ming Zheng, Qing-Lin Meng, Yu-Su Du, Mei-Xia Wang, Mu-Fan Geng, Wen-Li Chen, Chun-Yan Jing, Xin-Hui Zou, Jie Guo, Cheng-Bin Chen, Hua-Zhong Zeng, Yun-Tao Liang, Xing-Hua Wei, Ya-Long Guo, Hai-Fei Zhou, Fu-Min Zhang, Song Ge, Parallel Speciation of Wild Rice Associated with Habitat Shifts, Molecular Biology and Evolution, Volume 36, Issue 5, May 2019, Pages 875–889](https://doi.org/10.1093/molbev/msz029)
+除去斐然的科研学术成就（先锋玉米育种特聘教授的头衔，在Nature Genetics，Nature plants, PNAS等杂志上80余篇学术论文、超过12000次的总引用数），
+“江湖”上流传的还有Dr. Yu极具感染力的演讲风格、对学生超严格的英语要求、长跑达人、以及提到女儿就停不下来的“老父亲”形象，等等。
 
-# [全时云会议](https://www.quanshi.com/download/)
+这次人物专访，让我们听听余教授在植物数量遗传学及分子育种领域的学术心路历程，以及从国内的种子公司职员到北美杰出教授这一路走来的收获与经验，也了解他在学者，导师，父亲这些不同角色下的心得体会。
 
-会议密码（meeting passcode）：**395480513940**
+# Zoom
+
+Topic: CGM 第66期：Grow Through What You Go Through (通过你经历的事情成长）
+
+Time: Oct 2, 2019 06:00 PM Pacific Time (US and Canada)
+
+Join Zoom Meeting
+https://zoom.us/j/304885817
+
+One tap mobile
+
++16465588656,,304885817# US (New York)
+
++17207072699,,304885817# US (Denver)
+
+Dial by your location
+
+        +1 646 558 8656 US (New York)
+
+        +1 720 707 2699 US (Denver)
+
 
 
