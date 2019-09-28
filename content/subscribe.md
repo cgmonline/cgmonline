@@ -41,6 +41,9 @@ CGM-Botany2019|beckyhao13|
 
 欢迎其他CGM成员创建相关的讨论组和活动群，新建的群请保持 “CGM XXX”的格式。
 
+# CGM business
+请填写申请表：（链接)[https://forms.gle/GnvnQLLdAoSD21tq5],然后微信联系一位管理员：qxs718，e-jan,ll68551551 
+
 # 联系我们
 
 本站所有视频、PPT均为演讲者和主持人所有。 如需转载，请联系:  
