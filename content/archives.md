@@ -1,5 +1,5 @@
 ---
-title: "列表"
+title: "讨论列表"
 menu: [top]
 ---
 
