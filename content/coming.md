@@ -27,18 +27,18 @@ weight: 2
 
 # Zoom
 
-Topic: CGM 第66期： Grow Through What You Go Through (通过你经历的事情成长）
+Topic: CGM 第66期：Grow Through What You Go Through (通过你经历的事情成长）
 
-Time: Sep 27, 2019 06:00 PM Pacific Time (US and Canada)
+Time: Oct 2, 2019 06:00 PM Pacific Time (US and Canada)
 
-Join Zoom Meeting 
-https://zoom.us/j/604748463
+Join Zoom Meeting
+https://zoom.us/j/304885817
 
 One tap mobile
 
-+16465588656,,604748463# US (New York)
++16465588656,,304885817# US (New York)
 
-+17207072699,,604748463# US (Denver)
++17207072699,,304885817# US (Denver)
 
 Dial by your location
 
@@ -46,6 +46,6 @@ Dial by your location
 
         +1 720 707 2699 US (Denver)
 
-Meeting ID: 604 748 463
+Meeting ID: 304 885 817
 
 Find your local number: https://zoom.us/u/ado9AEkws6
