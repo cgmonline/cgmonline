@@ -46,6 +46,5 @@ Dial by your location
 
         +1 720 707 2699 US (Denver)
 
-Meeting ID: 304 885 817
 
-Find your local number: https://zoom.us/u/ado9AEkws6
+
