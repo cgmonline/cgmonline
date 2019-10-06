@@ -27,3 +27,6 @@ thumbnail: "https://i.imgur.com/Rne2dS8.png"
 {{< youtube id="Izw4GdXXU0k" autoplay="false" >}}
 
 
+# Bilibili
+
+{{< bilibili id="70313570" autoplay="false" >}}
