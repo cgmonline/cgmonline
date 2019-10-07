@@ -22,6 +22,9 @@ thumbnail: "https://i.imgur.com/Rne2dS8.png"
 “江湖”上流传的还有Dr. Yu极具感染力的演讲风格、对学生超严格的英语要求、长跑达人、以及提到女儿就停不下来的“老父亲”形象，等等。
 
 这次人物专访，让我们听听余教授在植物数量遗传学及分子育种领域的学术心路历程，以及从国内的种子公司职员到北美杰出教授这一路走来的收获与经验，也了解他在学者，导师，父亲这些不同角色下的心得体会。
+
+![](https://i.imgur.com/Rne2dS8.png)
+
 # YouTuBe
 
 {{< youtube id="Izw4GdXXU0k" autoplay="false" >}}
