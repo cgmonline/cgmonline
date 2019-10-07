@@ -21,8 +21,8 @@ weight: 2
 
 [Zhongqu Duan, Yuyang Qiao, Jinyuan Lu, Huimin Lu, Wenmin Zhang, Fazhe Yan, Chen Sun, Zhiqiang Hu, Zhen Zhang, Guichao Li, Hongzhuan Chen, Zhen Xiang, Zhenggang Zhu, Hongyu Zhao, Yingyan Yu, Chaochun Wei, HUPAN: a pan-genome analysis pipeline for human genomes, Genome Biology, 2019, 20:149](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1751-y)
 
-# 全时云
+# [全时云会议](https://www.quanshi.com/download/)
 
-Coming soon
+会议passcode：0891163437
 
 
