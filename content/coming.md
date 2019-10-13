@@ -3,48 +3,56 @@ title: "下期预告"
 date: "2019-10-02"
 menu: [top]
 weight: 2
+tags: [TAL，ABA，disease susceptibility]
+
 ---
 
 
-- 题目：Grow Through What You Go through (通过你经历的事情成长)
-- 时间：2019 年 10 月 02 号（星期三），美西时间（Pacific Time）6:00 PM
+- 题目：小麦病原菌操控植物激素ABA的合成—TAL效应子的新致病机制
+- 时间：2019 年 10 月 16 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：Zoom and YouTube live stream
-- 主讲人： 余建明，爱荷华州立大学农学系教授、先锋玉米育种特聘教授。1994年毕业于西北农林科技大学农学专业，2000年获得堪萨斯州立大学硕士学位，2003年获得明尼苏达大学博士学位。研究方向包括基因定位方法(全基因组关联分析，关联和连锁复合作图)，分子育种方法(基因组选择)，和复杂形状分子分析。余博士曾任”植物基因组(Plant Genome)” (2012-2017)编委,“作物科学(Crop Science)“(2008-2010) 和“理论和应用遗传(Theoretical and Applied Genetics)”(2007-2011) 编委，在Nature Genetics、PNAS等杂志发表学术论文80余篇,论文总引用数逾12000次。余博士曾获北美作物协会“青年作物学家奖”（2010）以及北美作物协会“杰出会员”称号（2018）。
+- 主讲人： 彭钊，本科毕业于中国农业大学植物保护系，后于中国农业大学植物病理系获得硕士学位，师从彭友良教授从事稻瘟菌致病机制研究。 硕士毕业后在堪萨斯州立大学植物病理系师从Frank White和刘三震教授从事植物病原菌致病机制和病原真菌细菌基因组研究，并获得博士学位。现于佛罗里达大学Frank White教授实验室从事博士后研究，主要研究方向为植物病原菌的互作机制。
 
 
-<img src="https://imgur.com/VVtGedO.jpg" width="300" height="400" />
+<img src="https://imgur.com/NbHpaxE.jpg" width="300" height="400" />
 
 # 中文摘要
 
-作为最流行的基因组学研究方法之一，GWAS（全基因组关联分析）对于各位来说是一个再熟悉不过的名字了。在作物育种领域，GWAS被广泛地应用于发掘复杂数量性状，为揭示重要农艺性状形成和实现品种改良提供分子依据。本期的人物专访，我们很荣幸地邀请到了经典GWAS方法Q+K 模型（[Yu et al. 2006](https://www.nature.com/articles/ng1702),引用高达2500余次）的提出者——余建明教授。
+大家也许对TALEN所介导的基因组编辑比较熟悉，但也许不知道它的来源————它来源于植物黄单胞菌三型分泌系统里的致病TAL效应子。
 
-余建明教授目前任职于爱荷华州立大学农学系，其课题组主要致力于结合前沿的基因组学技术及数量遗传学理论来解决育种上的重要问题。 近期的主要研究成果包括：[通过建立模型解析并预测植物与环境间的互作关系](http://doi.org/10.1073/pnas.1718326115)；[结合设计思维与数据挖掘对杂交种基因组选择进行优化](https://doi.org/10.1016/j.molp.2018.12.022)；[在玉米与大豆的比较基因组研究中发现基因组进化与驯化中的模式](https://doi.org/10.1186/s13059-019-1683-6)。
+TAL效应子的特异性结合DNA的能力造就了TALEN。TAL效应子的神奇在于：来源于原核生物（细菌），但却能在真核生物（植物）里发挥着转录因子的功能，诱导其感病基因表达使其致病。
 
-除去斐然的科研学术成就（先锋玉米育种特聘教授的头衔，在Nature Genetics，Nature plants, PNAS等杂志上80余篇学术论文、超过12000次的总引用数），
-“江湖”上流传的还有Dr. Yu极具感染力的演讲风格、对学生超严格的英语要求、长跑达人、以及提到女儿就停不下来的“老父亲”形象，等等。
+多年的研究发现TAL效应子的主要感病基因是植物的SWEET基因和一些转录因子，但在其它的黄单胞菌病害里，TAL效应子具有致病功能吗？我们通过小麦细菌条纹病的研究发现了新的感病基因，TAL效应子调控一个控制植物激素ABA（abscisic acid）合成的基因。
 
-这次人物专访，让我们听听余教授在植物数量遗传学及分子育种领域的学术心路历程，以及从国内的种子公司职员到北美杰出教授这一路走来的收获与经验，也了解他在学者，导师，父亲这些不同角色下的心得体会。
+# 参考文献
+
+Z. Peng et al., Long read and single molecule DNA sequencing simplifies genome assembly and TAL effector gene analysis of Xanthomonas translucens. BMC Genomics 17, 21 (2016).
+
+Z. Peng et al., Xanthomonas translucens commandeers the host rate-limiting step in ABA biosynthesis for disease susceptibility. PNAS (2019)
+
 
 # Zoom
 
-Topic: CGM 第66期：Grow Through What You Go Through (通过你经历的事情成长）
+Topic: CGM第68期： 小麦病原菌操控植物激素ABA的合成—TAL效应子的新致病机制
 
-Time: Oct 2, 2019 06:00 PM Pacific Time (US and Canada)
+Time: Oct 16, 2019 06:00 PM Pacific Time (US and Canada)
 
 Join Zoom Meeting
-https://zoom.us/j/304885817
+https://zoom.us/j/500639310
+
+Meeting ID: 500 639 310
 
 One tap mobile
 
-+16465588656,,304885817# US (New York)
++16465588656,,500639310# US (New York)
 
-+17207072699,,304885817# US (Denver)
++17207072699,,500639310# US (Denver)
 
 Dial by your location
-
         +1 646 558 8656 US (New York)
 
         +1 720 707 2699 US (Denver)
 
+Meeting ID: 500 639 310
 
-
+Find your local number: https://zoom.us/u/ado9AEkws6
