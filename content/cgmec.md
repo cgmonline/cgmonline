@@ -12,7 +12,7 @@ weight: 6
 本届CGM执委会成员包括：
 
 ### 常务委员：
-- [杨金良](http://jyanglab.com/)，[祁新帅](http://xinshuaiqi.weebly.com/)
+- [杨金良](http://jyanglab.com/)，[祁新帅](https://www.linkedin.com/in/xinshuaiqi/)
 
 ### 现任执行委员：
 - **09 - 12, 2019** EC7
@@ -34,6 +34,8 @@ weight: 6
 ## CGM **China**
 - 07, 2019-: 何逸建 (组长）, 李德林，邱杰，武志强, 祁新帅, 杨金良 
 
+## CGM **Business**
+- 09，2019-： [祁新帅](https://www.linkedin.com/in/xinshuaiqi/)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)，[雷栗](https://twitter.com/lilei0051)
 ------------------
 
 ## CGM常年征集志愿者 

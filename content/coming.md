@@ -4,7 +4,6 @@ date: "2019-10-16"
 menu: [top]
 weight: 2
 tags: [TAL，ABA，disease susceptibility]
-
 ---
 
 
@@ -50,9 +49,3 @@ One tap mobile
 
 Dial by your location
         +1 646 558 8656 US (New York)
-
-        +1 720 707 2699 US (Denver)
-
-Meeting ID: 500 639 310
-
-Find your local number: https://zoom.us/u/ado9AEkws6
