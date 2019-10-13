@@ -1,28 +1,51 @@
 ---
 title: "下期预告"
-date: "2019-10-09"
+date: "2019-10-16"
 menu: [top]
 weight: 2
+tags: [TAL，ABA，disease susceptibility]
 ---
 
 
-- 题目：人类泛基因组分析流程的构建
-- 时间：2019 年 10 月 09 号（星期三），北京时间 9:00 PM
-- 地点：全时云和哔哩哔哩直播
-- 主讲人：段忠取，在读博士研究生。2012年华南农业大学农学专业本科毕业；2015年浙江大学硕士毕业，师从朱军教授，从事农作物GWAS（全基因组关联分析）的应用研究；2015年至今在上海交通大学生命科学技术学院生物信息与生物统计学系/上海交大-耶鲁大学生物统计学与数据科学联合中心攻读博士研究生，导师韦朝春教授/赵宏宇教授，主要从事人类泛基因组学和肿瘤基因组学研究。
+- 题目：小麦病原菌操控植物激素ABA的合成—TAL效应子的新致病机制
+- 时间：2019 年 10 月 16 号（星期三），美西时间（Pacific Time）6:00 PM
+- 地点：Zoom and YouTube live stream
+- 主讲人： 彭钊，本科毕业于中国农业大学植物保护系，后于中国农业大学植物病理系获得硕士学位，师从彭友良教授从事稻瘟菌致病机制研究。 硕士毕业后在堪萨斯州立大学植物病理系师从Frank White和刘三震教授从事植物病原菌致病机制和病原真菌细菌基因组研究，并获得博士学位。现于佛罗里达大学Frank White教授实验室从事博士后研究，主要研究方向为植物病原菌的互作机制。
 
-![](https://i.imgur.com/YQ8JutI.png)
+
+<img src="https://imgur.com/NbHpaxE.jpg" width="300" height="400" />
 
 # 中文摘要
 
-随着测序技术的进步和测序成本的下降，来自不同群体的数万个个体基因组已经完成全基因组测序，单一的参考基因组序列并不能包括所有人类基因组序列。泛基因组是指一个物种或群体内所有个体的基因组序列，包括核心基因组和非必需基因组。泛基因组分析方法已经广泛应用于细菌，病毒等原核生物和大豆，水稻，玉米，人类等真核生物中。本研究首先基于高深度全基因组数据构建人类泛基因组分析流程，主要包括个体基因组测序数据的从头组装，提取个体基因组中的非参考基因组序列，非参考基因组序列的去冗余和去污染，非参考基因组序列的蛋白编码预测，构建和注释泛基因组序列及基因的有无变异分析等步骤，并开发了人类泛基因组分析流程[HUPAN](https://github.com/SJTU-CGM/HUPAN)。然后，我们将HUPAN流程应用到90个汉族人的组装结果中，并构建中国汉族人泛基因组序列。最后，通过与非洲人的泛基因组序列比较，阐述不同群体之间泛基因组序列的特点。
+大家也许对TALEN所介导的基因组编辑比较熟悉，但也许不知道它的来源————它来源于植物黄单胞菌三型分泌系统里的致病TAL效应子。
+
+TAL效应子的特异性结合DNA的能力造就了TALEN。TAL效应子的神奇在于：来源于原核生物（细菌），但却能在真核生物（植物）里发挥着转录因子的功能，诱导其感病基因表达使其致病。
+
+多年的研究发现TAL效应子的主要感病基因是植物的SWEET基因和一些转录因子，但在其它的黄单胞菌病害里，TAL效应子具有致病功能吗？我们通过小麦细菌条纹病的研究发现了新的感病基因，TAL效应子调控一个控制植物激素ABA（abscisic acid）合成的基因。
 
 # 参考文献
 
-[Zhongqu Duan, Yuyang Qiao, Jinyuan Lu, Huimin Lu, Wenmin Zhang, Fazhe Yan, Chen Sun, Zhiqiang Hu, Zhen Zhang, Guichao Li, Hongzhuan Chen, Zhen Xiang, Zhenggang Zhu, Hongyu Zhao, Yingyan Yu, Chaochun Wei, HUPAN: a pan-genome analysis pipeline for human genomes, Genome Biology, 2019, 20:149](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1751-y)
+Z. Peng et al., Long read and single molecule DNA sequencing simplifies genome assembly and TAL effector gene analysis of Xanthomonas translucens. BMC Genomics 17, 21 (2016).
 
-# [全时云会议](https://www.quanshi.com/download/)
-
-会议passcode：0891163437
+Z. Peng et al., Xanthomonas translucens commandeers the host rate-limiting step in ABA biosynthesis for disease susceptibility. PNAS (2019)
 
 
+# Zoom
+
+Topic: CGM第68期： 小麦病原菌操控植物激素ABA的合成—TAL效应子的新致病机制
+
+Time: Oct 16, 2019 06:00 PM Pacific Time (US and Canada)
+
+Join Zoom Meeting
+https://zoom.us/j/500639310
+
+Meeting ID: 500 639 310
+
+One tap mobile
+
++16465588656,,500639310# US (New York)
+
++17207072699,,500639310# US (Denver)
+
+Dial by your location
+        +1 646 558 8656 US (New York)
