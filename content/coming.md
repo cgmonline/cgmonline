@@ -21,5 +21,6 @@ weight: 2
 
 [Zhao Y-P†, Fan G†, Yin P-P†, Sun S†, Li N†, Hong X†, Zhang H, Hu G, Zhang F-M, Han J-D, Hao Y-J, Xu Q, Yang X, Xia W, Chen W, Lin H-Y, Zhang R, Chen J, Zheng X-M, Lee S. M-Y, Lee J, Uehara K, Wang J, Yang H, Fu C-X✉️, Liu X✉️, Xu X✉️, Ge S✉️. 2019. Resequencing 545 ginkgo genomes across the world reveals evolutionary history of the living fossil. **Nature Communications** 10: 4201.](https://www.nature.com/articles/s41467-019-12133-5)
 
-# 全时云meeting id
-Coming soon
+# [全时云会议](https://www.quanshi.com/download/) meeting id
+
+0891163437
