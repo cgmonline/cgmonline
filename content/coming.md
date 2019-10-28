@@ -12,7 +12,7 @@ tags: [GWAS, eQTL, colocalization]
 - 地点：Zoom and YouTube live stream
 - 主讲人： 刘博翔, 于斯坦福大学获得统计学硕士及计算生物学博士，目前工作于百度美国研究院深度学习实验室。
 
-<img src="https://imgur.com/gKHPvv1.jpg" width="300" height="400" />
+<img src="https://imgur.com/gKHPvv1.jpg" />
 
 # 中文摘要
 
