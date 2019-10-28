@@ -4,7 +4,6 @@ date: "2019-10-30"
 menu: [top]
 weight: 2
 tags: [GWAS, eQTL, colocalization]
-
 ---
 
 
