@@ -12,7 +12,7 @@ weight: 9
 
 # 2019年度赞助伙伴：
 
-[![未来组](https://www.nextomics.cn/wp-content/uploads/2018/05/no-logo.png)](https://www.nextomics.cn/en/)
+[![希望组](https://www.grandomics.com/wp-content/themes/grandomics/images/layout/logo.png)](https://www.grandomics.com/en/)
 
 [![投必得](https://i.imgur.com/KpG4Ujg.png?2)](https://www.topeditsci.com)
 
