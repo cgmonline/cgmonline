@@ -31,6 +31,7 @@ weight: 6
 
 ## 沙龙预告
 
+- 11-04-2019 [王婧：杨树适应性进化的遗传基础](https://mp.weixin.qq.com/s/bIcBa86AMLuaZlR8U8ufsQ)
 - 10-27-2019 [刘博翔：Abundant associations with gene expression complicate GWAS follow-up](https://mp.weixin.qq.com/s/Rm6otBYlDikfu5hNgZE-Mw)
 - 10-21-2019 [赵云鹏：种群基因组学揭示的银杏进化历史](https://mp.weixin.qq.com/s/HWFcrxI6kaIOBSiQg4ei-A)
 - 10-14-2019 [彭钊：小麦病原菌操控植物激素 ABA 的合成—TAL 效应子的新致病机制](https://mp.weixin.qq.com/s/ZYPa8KmY8qYMzH1ojt2XmA)
