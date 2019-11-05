@@ -8,6 +8,7 @@ weight: 6
 
 ## 原创精品
 
+- 10-25-2019：[植物泛基因组101（下）](https://mp.weixin.qq.com/s/ce4ubfmIjQ9bHjMZ4RPB5A)
 - 08-13-2019：[植物泛基因组101（上）](https://mp.weixin.qq.com/s/ATiF0sPq8SFcC9htatDm2w)
 - 07-12-2019：[【CGM独家专访】蒋宁教授《与跳跃基因共舞》](https://mp.weixin.qq.com/s/dx2NOuadAHLvanfG3aBaAA)
 - 07-02-2019：[中性理论pk自然选择？群体基因组学时代，有50年历史的经典学说是否过时了？](https://mp.weixin.qq.com/s/8fryXF-tHsQVVbhN8scZ4A)
@@ -23,12 +24,19 @@ weight: 6
 
 ## 微信群精彩讨论整理
 
+- 10-25-2019：[【CGM微信群精彩问答】三代测序技术的硬核讨论](https://mp.weixin.qq.com/s/_gxVOEhJnxboe9kIHsnnPw)
 - 08-27-2019：[【CGM微信群精彩讨论】大牛在线答疑，学习资源共享](https://mp.weixin.qq.com/s/qGKnMvVqaf_ZbpQPA0JLLw)
 - 07-12-2019：[转座子相关问答整理](https://mp.weixin.qq.com/s/_8SMCQeKwJHYAFXAg3Sx-w)
 - 07-08-2019：[【CGM微信群精彩问答】2019年第1期](https://mp.weixin.qq.com/s/Ig8O6i9mRbAt_0Ep4CRisg)
 
 ## 沙龙预告
 
+- 10-27-2019：[刘博翔 Abundant associations with gene expression complicate GWAS follow-up](https://mp.weixin.qq.com/s/Rm6otBYlDikfu5hNgZE-Mw)
+- 10-21-2019：[种群基因组学揭示的银杏进化历史](https://mp.weixin.qq.com/s/HWFcrxI6kaIOBSiQg4ei-A)
+- 10-14-2019：[彭钊 小麦病原菌操控植物激素 ABA 的合成—TAL 效应子的新致病机制](https://mp.weixin.qq.com/s/ZYPa8KmY8qYMzH1ojt2XmA)
+- 10-06-2019：[段忠取 人类泛基因组的构建和分析流程](https://mp.weixin.qq.com/s/qlplXhmmqbDBibjW0lMTuA)
+- 09-29-2019：[【CGM人物专访预告】余建明教授：Grow Through What You Go through (通过你经历的事情成长)](https://mp.weixin.qq.com/s/F64B11uSVCX9mzCj09giEA)
+- 09-24-2019：[蔡喆 条条大路通罗马——野生稻的平行式物种形成](https://mp.weixin.qq.com/s/gthueigFLqZ0F3PL_plhiQ)
 - 09-16-2019：[任勃 大豆结瘤的调控机制 - 两个人的舞会](https://mp.weixin.qq.com/s/TBTrNF6W9i75S1Q3LBOFKQ)
 - 09-07-2019：[叶楚玉 作物拟态的基因组解析](https://mp.weixin.qq.com/s/wa-VLoErBo90vW9oHw8BXA)
 - 09-01-2019：[安宏 你所不知的甘蓝型油菜简史](https://mp.weixin.qq.com/s/y6F_A86vVQWvcbFKu3nO5g)
@@ -50,6 +58,7 @@ weight: 6
 
 ## 通知公告
 
+- 10-27-2019：[CGM湾区线下活动惊喜举办](https://mp.weixin.qq.com/s/weduFmoZJQy29tYc81elTg)
 - 07-02-2019：[夏日烧烤趴！CGM湾区小分队线下见面会成功举行](https://mp.weixin.qq.com/s/v47SgezRmmVpW7qhc6SbDQ)
 - 04-19-2019：[【CGM年度评奖结果公告】CGM第一届年度最佳视频](https://mp.weixin.qq.com/s/5ehp8kfhPubmNV8k9ZFRnw)
 - 02-14-2019：[【CGM创刊号】CGM官方微信公众号开通及年度优秀视频评选！](https://mp.weixin.qq.com/s/IbU7aX7-ZN_d8LGmZkvZBg)
