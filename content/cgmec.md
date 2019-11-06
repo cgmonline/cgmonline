@@ -29,8 +29,8 @@ weight: 6
 - 05 - 08，2019：EC6 [郭婷婷](https://scholar.google.com/citations?user=4WYQNa4AAAAJ&hl=en)（组长），汪捷（网站），周文彬（联络），李秋实（公众号协调）
 
 ## CGM 公众号编辑委员会 (Editorial Committee)
-- **01 - 12, 2019**: ED1 [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)，[郝樾](https://yueyvettehao.github.io/)，胡海飞，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b) 
-- 01 - 04, 2020: ED2 马省伟，胡海飞，[赵飞](https://kaopubear.top)，李秋实
+- **01 - 12, 2019**：ED1 [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)，[郝樾](https://yueyvettehao.github.io/)，胡海飞，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b) 
+- 01 - 04, 2020：ED2 马省伟，胡海飞，[赵飞](https://kaopubear.top)，李秋实
 - 05 - 08, 2020：ED3 杨雪蓉，志愿者招募（联系微信beckyhao13)
 - 09 - 12, 2020：ED4 志愿者招募（联系微信beckyhao13)
 
