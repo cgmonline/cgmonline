@@ -33,3 +33,8 @@ thumbnail: "https://i.imgur.com/Rne2dS8.png"
 # Bilibili
 
 {{< bilibili id="70313570" autoplay="false" >}}
+
+# Tencent video
+
+{{< tencent id="l300563" autoplay="false" >}}
+
