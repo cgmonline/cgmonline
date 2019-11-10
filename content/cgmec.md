@@ -25,11 +25,14 @@ weight: 6
 - 01 - 04, 2018：EC2 [黄璞](https://scholar.google.com/citations?user=r5cGFI8AAAAJ&hl=en)（组长），[梅文彬](https://wenbinmei.github.io/)（视频直播），[郝樾](https://yueyvettehao.github.io/)（网站）
 - 05 - 08, 2018：EC3 雷栗（组长），武志强，[郝樾](https://yueyvettehao.github.io/)（网站）
 - 09 - 12, 2018：EC4 何逸建（组长），邓斯文（网站），[汪海](https://tangscholars.ciifad.cornell.edu/people/hai-wang/)
-- 01 - 04, 2019：EC5 区树俊（组长），汲翔（网站），谢丽蒙（技术）
+- 01 - 04, 2019：EC5 区树俊（组长+公众号协调），汲翔（网站），谢丽蒙（技术）
 - 05 - 08，2019：EC6 [郭婷婷](https://scholar.google.com/citations?user=4WYQNa4AAAAJ&hl=en)（组长），汪捷（网站），周文彬（联络），李秋实（公众号协调）
 
-## CGM 编辑委员会 (Editorial Committee)
-- [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)，[郝樾](https://yueyvettehao.github.io/)，胡海飞，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)，李秋实, 马省伟，[赵飞](https://kaopubear.top)
+## CGM 公众号编辑委员会 (Editorial Committee)
+- **01 - 12, 2019**：ED1 [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)，[郝樾](https://yueyvettehao.github.io/)，胡海飞，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b) 
+- 01 - 04, 2020：ED2 马省伟，胡海飞，[赵飞](https://kaopubear.top)，李秋实
+- 05 - 08, 2020：ED3 狄晨露，杨雪蓉，志愿者招募（联系微信beckyhao13)
+- 09 - 12, 2020：ED4 志愿者招募（联系微信beckyhao13)
 
 ## CGM **China**
 - 07, 2019-: 何逸建 (组长）, 李德林，邱杰，武志强, 祁新帅, 杨金良 

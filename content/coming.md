@@ -4,7 +4,6 @@ date: "2019-11-13"
 menu: [top]
 weight: 2
 tags: [mosaic variant, haplotype phasing, machine learning]
-
 ---
 
 
@@ -56,6 +55,5 @@ One tap mobile
 
 Meeting ID: 460 820 327
 
-Find your local number: https://zoom.us/u/ado9AEkws6
 
 
