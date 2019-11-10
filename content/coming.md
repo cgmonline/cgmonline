@@ -1,60 +1,61 @@
 ---
 title: "下期预告"
-date: "2019-10-30"
+date: "2019-11-13"
 menu: [top]
 weight: 2
-tags: [GWAS, eQTL, colocalization]
+tags: [mosaic variant, haplotype phasing, machine learning]
+
 ---
 
 
-- 题目：Abundant associations with gene expression complicate GWAS follow-up
-- 时间：2019 年 10 月 30 号（星期三），美西时间（Pacific Time）6:00 PM
+- 题目：MosaicForecast: accurate detection of mosaic variants in sequencing data without matched controls
+- 时间：2019 年 11 月 13 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：Zoom and YouTube live stream
-- 主讲人： 刘博翔, 于斯坦福大学获得统计学硕士及计算生物学博士，目前工作于百度美国研究院深度学习实验室。
+- 主讲人： 窦岩梅，本科毕业于北京科技大学，2011-2017年在北京大学师从魏丽萍教授攻读生物信息学博士学位，现于哈佛医学院 Dr. Peter J Park lab 进行博士后研究。
 
-<img src="https://imgur.com/gKHPvv1.jpg" width="300" height="400" />
+<img src="https://imgur.com/XquzzUl.jpg" width="300" height="400" />
 
 # 中文摘要
 
-全基因组关联研究（GWAS）正在迅速扩展与性状和疾病相关的突变目录。多达90％的GWAS变体属于非编码区域，其中大多数具有未知功能。
+近年来，体细胞突变被证明与越来越多的非癌症人来疾病相关，并且在研究人体发育过程中发挥着重要作用。然而检测健康人群和非癌症疾病人群中的体细胞突变主要存在两大困难：
 
-表达数量性状基因座（eQTL）可以检测GWAS与基因表达水平的相关性。Genotype Tissue Expression项目的研究表明高达92.74％的常见变异与基因的表达水平统计相关。如此丰富的eQTL数据增加了GWAS功能机制假设的假阳性率。
+1. 由于非癌样本中的体细胞突变往往没有选择优势，突变等位基因频率往往很低，很难和测序杂音分开；
 
-为了解决这些挑战，我们开发了名为LocusCompare可视化平台。我将会展示LocusCompare的使用方法，以及一个眼部疾病的实战案例。
+2. 由于突变伴随人体发育过程发生，往往存在于多个组织器官中，所以缺乏“对照正常组织”来检测突变。
+
+我们开发了一个机器学习方法“MosaicForecast”，它通过局部haplotype phasing来产生训练集，并提取>30个read-level features来准确检测单个样本NGS测序数据中的体细胞突变（SNV和短indel）。
+
+通过和其他工具的比较，MosaicForecast在维持高灵敏度的情况下载准确度上产生了几倍到几十倍的提高，我们的实验验证显示验证率高达80-90%。
+
 
 # 参考文献
 
-Liu et al. [Abundant associations with gene expression complicate GWAS follow-up](https://www.nature.com/articles/s41588-019-0404-0) (2019) Nature Genetics. 
+Dou et al. [Detecting somatic mutations in normal cells](https://compbio.hms.harvard.edu/publications/detecting-somatic-mutations-normal-cells), Trends in Genetics, 2018
 
-Liu et al. [Genetic analyses of human fetal retinal pigment epithelium gene expression suggest ocular disease mechanisms](https://www.nature.com/articles/s42003-019-0430-6)(2019) Communications Biology. 
+Dou et al. [MosaicForecast: accurate detection of mosaic variants in sequencing data without matched controls](https://compbio.hms.harvard.edu/publications/mosaicforecast-accurate-detection-mosaic-variants-sequencing-data-without), Nature Biotechnology, in press, 2019
 
-Liu et al. [Genetic Regulatory Mechanisms of Smooth Muscle Cells Map to Coronary Artery Disease Risk Loci](https://www.cell.com/ajhg/fulltext/S0002-9297(18)30267-2)(2018) American Journal of Human Genetics. 
 
 # Zoom
 
-Topic: CGM第70期： Abundant associations with gene expression complicate GWAS follow-up
+Chinese Genomics is inviting you to a scheduled Zoom meeting.
 
-Time: Oct 30, 2019 06:00 PM Pacific Time (US and Canada)
+Topic: CGM 第72期：MosaicForecast: accurate detection of mosaic variants in sequencing data without matched controls
+
+Time: Nov 13, 2019 06:00 PM Pacific Time (US and Canada)
 
 Join Zoom Meeting
 
-https://zoom.us/j/464492182
+https://zoom.us/j/460820327
 
-Meeting ID: 464 492 182
+Meeting ID: 460 820 327
 
 One tap mobile
 
-+16465588656,,464492182# US (New York)
++16465588656,,460820327# US (New York)
++17207072699,,460820327# US (Denver)
 
-+17207072699,,464492182# US (Denver)
-
-Dial by your location
-
-        +1 646 558 8656 US (New York)
-
-        +1 720 707 2699 US (Denver)
-
-Meeting ID: 464 492 182
+Meeting ID: 460 820 327
 
 Find your local number: https://zoom.us/u/ado9AEkws6
+
 
