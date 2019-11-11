@@ -24,7 +24,7 @@ tags: [mosaic variant, haplotype phasing, machine learning]
 
 我们开发了一个机器学习方法“MosaicForecast”，它通过局部haplotype phasing来产生训练集，并提取>30个read-level features来准确检测单个样本NGS测序数据中的体细胞突变（SNV和短indel）。
 
-通过和其他工具的比较，MosaicForecast在维持高灵敏度的情况下载准确度上产生了几倍到几十倍的提高，我们的实验验证显示验证率高达80-90%。
+通过和其他工具的比较，MosaicForecast在维持高灵敏度的情况下准确度上产生了几倍到几十倍的提高，我们的实验验证显示，验证率高达80-90%。
 
 
 # 参考文献
