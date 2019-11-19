@@ -19,7 +19,7 @@ weight: 2
 
 # 参考文献
 
-[Qi T., Wu Y., Zeng J., Zhang F., Xue A., Jiang L., Zhu Z., Kemper K., Yengo L., Zheng Z., eQTLGen Consortium, Marioni R.E., Montgomery G.W., Deary I.J., Wray N.R., Visscher P.M., McRae A.F., Yang J. Identifying gene targets for brain-related traits using transcriptomic and methylomic data from blood. Nature Communications 9, 2282 (2018)](https://www.nature.com/articles/s41467-018-04558-1)
+[Qi T., Wu Y., Zeng J., Zhang F., Xue A., Jiang L., Zhu Z., Kemper K., Yengo L., Zheng Z., eQTLGen Consortium, Marioni R.E., Montgomery G.W., Deary I.J., Wray N.R., Visscher P.M., McRae A.F., Yang J. Identifying gene targets for brain-related traits using transcriptomic and methylomic data from blood. Nature Communications 9, 2282 (2018)](https://www.nature.com/articles/s41467-018-04558-1) <br>
 [Wu Y.#, Qi T.#, Wang H., Zhang F., Zheng Z., Phillips-Cremins J.E., Deary I.J., McRae A.F., Wray N.R., Zeng J., Yang J. Promoter-anchored chromatin interactions predicted from genetic analysis of epigenomic data. bioRxiv (2019) (under review)](https://www.biorxiv.org/content/10.1101/580993v1)
 
 
