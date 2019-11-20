@@ -31,7 +31,7 @@ weight: 6
 
 ## 沙龙预告
 
-- 11-08-2019 [祁婷：整合多组学数据解析人类复杂性状和疾病的遗传机制](https://mp.weixin.qq.com/s/3oboPS8V1_UPNIc-ChcmBQ)
+- 11-18-2019 [祁婷：整合多组学数据解析人类复杂性状和疾病的遗传机制](https://mp.weixin.qq.com/s/3oboPS8V1_UPNIc-ChcmBQ)
 - 11-10-2019 [窦岩梅：MosaicForecast: accurate detection of mosaic variants in sequencing data without matched controls](https://mp.weixin.qq.com/s/CPicwMdjY-xwA3flwXJ1aQ)
 - 11-04-2019 [王婧：杨树适应性进化的遗传基础](https://mp.weixin.qq.com/s/bIcBa86AMLuaZlR8U8ufsQ)
 - 10-27-2019 [刘博翔：Abundant associations with gene expression complicate GWAS follow-up](https://mp.weixin.qq.com/s/Rm6otBYlDikfu5hNgZE-Mw)
