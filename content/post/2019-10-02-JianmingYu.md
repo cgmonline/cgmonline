@@ -36,5 +36,4 @@ thumbnail: "https://i.imgur.com/Rne2dS8.png"
 
 # Tencent video
 
-{{< tencent id="l300563" autoplay="false" >}}
-
+{{< tencent id="l300563vwbs" autoplay="false" >}}
