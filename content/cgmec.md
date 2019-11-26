@@ -35,7 +35,8 @@ weight: 6
 - 09 - 12, 2020：ED4 志愿者招募（联系微信beckyhao13)
 
 ## CGM **China**
-- 07, 2019-: 何逸建 (组长）, 李德林，邱杰，武志强, 祁新帅, 杨金良 
+- 07, 2019-: 何逸建 (组长）, 李德林，邱杰，武志强, 祁新帅, 杨金良
+- 10, 2019-: 李钊，任宁宁
 
 ## CGM **Business**
 - 09，2019-： [祁新帅](https://www.linkedin.com/in/xinshuaiqi/)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)，[雷栗](https://twitter.com/lilei0051)
