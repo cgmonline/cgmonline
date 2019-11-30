@@ -32,7 +32,7 @@ weight: 6
 
 ## CGM 公众号编辑委员会 (Editorial Committee)
 - **01 - 12, 2019**：ED1 [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)，[郝樾](https://yueyvettehao.github.io/)，胡海飞，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b) 
-- 01 - 04, 2020：ED2 马省伟，胡海飞，[赵飞](https://kaopubear.top)，李秋实
+- 01 - 04, 2020：ED2 马省伟，胡海飞，[赵飞](https://kaopubear.top)
 - 05 - 08, 2020：ED3 狄晨露，杨雪蓉，志愿者招募（联系微信beckyhao13)
 - 09 - 12, 2020：ED4 志愿者招募（联系微信beckyhao13)
 
