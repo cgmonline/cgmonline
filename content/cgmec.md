@@ -43,6 +43,7 @@ weight: 6
 
 ## CGM **Business**
 - 09，2019-： [祁新帅](https://www.linkedin.com/in/xinshuaiqi/)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)，[雷栗](https://twitter.com/lilei0051)
+
 ------------------
 
 ## CGM常年征集志愿者 
