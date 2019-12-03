@@ -20,6 +20,7 @@ weight: 6
 
 ## 学术文章速览
 
+- 11-22-2019 [Genomic prediction with multi-omics data](https://mp.weixin.qq.com/s/TnmW9OjbN9Yh3a4XtNJAyQ)
 - 09-19-2019 [GWAS and beyond](https://mp.weixin.qq.com/s/XVFiF9b60Yu37UHK1v3G3g)
 
 ## 微信群精彩讨论整理
@@ -31,6 +32,8 @@ weight: 6
 
 ## 沙龙预告
 
+- 11-26-2019 [专题讨论：如何在北美学术界找工作？](https://mp.weixin.qq.com/s/_7W4PCLiLW91TuzDnXKp_g)
+- 12-02-2019 [赵光伟：全基因组变异图谱揭示甜瓜驯化历史及农艺性状形成基因位点](https://mp.weixin.qq.com/s/OrwMqHFfLK2fLK_D4TDcUw)
 - 11-18-2019 [祁婷：整合多组学数据解析人类复杂性状和疾病的遗传机制](https://mp.weixin.qq.com/s/3oboPS8V1_UPNIc-ChcmBQ)
 - 11-10-2019 [窦岩梅：MosaicForecast: accurate detection of mosaic variants in sequencing data without matched controls](https://mp.weixin.qq.com/s/CPicwMdjY-xwA3flwXJ1aQ)
 - 11-04-2019 [王婧：杨树适应性进化的遗传基础](https://mp.weixin.qq.com/s/bIcBa86AMLuaZlR8U8ufsQ)
