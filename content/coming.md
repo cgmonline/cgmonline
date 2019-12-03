@@ -1,29 +1,35 @@
 ---
 title: "下期预告"
-date: "2019-11-20"
+date: "2019-12-04"
 menu: [top]
 weight: 2
 ---
 
-- 题目：整合多组学数据解析人类复杂性状和疾病的遗传机制
-- 时间：2019 年 11 月 20 号（星期三），北京时间 9:00 PM
-- 地点：全时云和bilibili直播
-- 主讲人：祁婷，本科毕业于扬州大学，2011-2016年在浙江大学师从朱军教授攻读统计遗传学博士，2016.09 至今在澳大利亚昆士兰大学杨剑教授组进行博士后研究。
+- 题目：全基因组变异图谱揭示甜瓜驯化历史及农艺性状形成基因位点
+- 时间：2019 年 12 月 04 号（星期三），北京时间 9:00 PM
+- 地点：zoom和bilibili直播
+- 主讲人：赵光伟，农学博士，中国农业科学院郑州果树研究所副研究员，主要从事西瓜甜瓜种质资源、品种选育及相关领域研究工作。主持参加省部级以上科研项目10余项，获河南省科学技术进步二等奖3项，参与审（鉴）定西瓜、甜瓜新品种10余个，登记新品种80余个，获植物新品保护权3件、国家发明专利1件，参与标准制定2项、著作编写2部，发表学术论文20余篇，其中以第一作者在Nature Genetics、Plant Growth Regulation、果树学报等学术期刊发表学术论文10余篇。
 
-![](https://i.imgur.com/qVarwRa.jpg)
+![](https://i.imgur.com/Bb8LhpS.jpg)
+
 
 # 中文摘要
 
-全基因组关联分析（GWAS）检测到了成千上万的与疾病相关联的遗传位点，然而大部分位点的遗传机制尚不清楚。考虑到大部分位点落在非编码区域，一个假设就是遗传位点可能通过改变基因表达从而影响疾病的发生。然而，大部分的基因表达数据来自于比较容易收集的血液中，只有少量的样本来自与疾病相关的组织（比如，脑组织）。基于此，我们探讨了一个相关的科学问题，是否可以利用来自血液的样本进行脑疾病的研究？为此，我们利用expression QTL（eQTL）和DNA methylationQTL （mQTL）的遗传效应来估计大脑和血液的相关性。通过利用公开的QTL数据（n = 526 ~ 1194）, 我们发现eQTL/mQTL的遗传效应在大脑和血液中高度相关（r = 0.75）。通过整合大脑中的eQTL/mQTL数据和GWAS的结果（比如精神分裂，智商），我们找到了与疾病相关的61个基因和167个甲基化位点。它们中的大部分基因和甲基化位点都可以在血液中检测到。这些研究结果表明我们可以利用血液中样本来检测更多的脑疾病相关的基因。
-虽然已经有大量疾病相关的基因被检测到，但是大部分基因的调控机制尚不清楚。据报道，染色质互作在调节基因表达中有重要作用。高通量测序技术，比如Hi-C，可以用来检测染色质互作。然而由于成本昂贵，目前其还不能被大规模的应用。基于此，我们提出了一个利用现有的QTL数据预测染色质互作的方法。本研究中，我们利用mQTL （n = 2000）预测了35000对染色质互作， 它们与高通量测序的结果高度重合。此外，参与染色质互作的甲基化位点富集在enhancer和eQTL附近，表明染色质互作在基因调节中的重要作用。通过整合预测的染色质互作和15个人类数量性状和常见疾病的GWAS结果 （n = 46000 ～ 766345），它加深了我们对常见疾病遗传机制的认识。
+甜瓜是一种被广泛栽培的世界性园艺作物，有着悠久的栽培历史。由于非洲存在着大量的甜瓜近缘种，且有着与甜瓜一样的染色体数目，因此研究人员认为甜瓜起源并驯化于非洲。然而，通过基因组数据分析发现，与甜瓜亲缘关系最近的近缘种不是存在于非洲，而是在印度和澳大利亚。因此，关于甜瓜的驯化历史一直存在争议。
+甜瓜按照子房绒毛的多少和长短分为厚皮甜瓜（C. melo subsp melo）和薄皮甜瓜（C. melo subsp agrestis）两个亚种。然而它们之间的驯化遗传基础仍不清晰。同时，作为一个多样性异常丰富的物种，与甜瓜农艺性状相关的基因位点报道很少。
+本研究收集了来自世界50多个国家和地区的1184份甜瓜近缘种、野生种及栽培种进行了全基因组重测序，构建了甜瓜的全基因组变异图谱，通过进化树、群体结构、PCA等分析揭示甜瓜的3次驯化历史，并针对两次重要的驯化事件中的关键驯化性状的遗传基础进行了研究，为驯化假说提供证据。同时，通过全基因组关联分析，定位到200余个与甜瓜果实产量、品质、形态等16个重要农艺性状相关的基因（位点）。
 
 # 参考文献
 
-[Qi T., Wu Y., Zeng J., Zhang F., Xue A., Jiang L., Zhu Z., Kemper K., Yengo L., Zheng Z., eQTLGen Consortium, Marioni R.E., Montgomery G.W., Deary I.J., Wray N.R., Visscher P.M., McRae A.F., Yang J. Identifying gene targets for brain-related traits using transcriptomic and methylomic data from blood. Nature Communications 9, 2282 (2018)](https://www.nature.com/articles/s41467-018-04558-1) <br>
-[Wu Y.#, Qi T.#, Wang H., Zhang F., Zheng Z., Phillips-Cremins J.E., Deary I.J., McRae A.F., Wray N.R., Zeng J., Yang J. Promoter-anchored chromatin interactions predicted from genetic analysis of epigenomic data. bioRxiv (2019) (under review)](https://www.biorxiv.org/content/10.1101/580993v1)
+[Guangwei Zhao, Qun Lian, Zhonghua Zhang, Qiushi Fu, Yuhua He, Shuangwu Ma, Valentino Ruggieri, Antonio J. Monforte, Pingyong Wang, Irene Julca, Huaisong Wang, Junpu Liu, Yong Xu, Runze Wang, Jiabing, Zhihong Xu, Weihu Kong, Yang Zhong, Jianli Shang, Lara Pereira, Jason Argyris, Jian Zhang, Carlos Mayobre, Marta Pujol, Elad Oren, Diandian Ou, Jiming Wang, Dexi Sun, Shengjie Zhao, Yingchun Zhu, Na Li, Nurit Katzir, Amit Gur, Catherine Dogimont, Hanno Schaefer, Wei Fan, Abdelhafid Bendahmane, Zhangjun Fei, Michel Pitrat, Toni Gabaldón, Tao Lin, Jordi Garcia-Mas, Yongyang Xu and Sanwen Huang，A comprehensive genome variation map of melon identifies multiple domestication events and loci influencing agronomic traits, Nature Genetics, 2019, 51: 1607-1615.](https://www.nature.com/articles/s41588-019-0522-8)
 
 
-# [全时云会议](http://www.quanshi.com/download/)
-passcode: 961019069504
+# zoom会议
+
+Topic: CGM 七十四期 全基因组变异图谱揭示甜瓜驯化历史和农艺性状形成基因位点<br>
+Time: Dec 4, 2019 09:00 PM Beijing, Shanghai<br>
+Join Zoom Meeting<br>
+[https://zoom.com.cn/j/379853177](https://zoom.com.cn/j/379853177)<br>
+Meeting ID: 379 853 177<br>
 
 
