@@ -27,10 +27,7 @@ thumbnail: "https://i.imgur.com/BJFQwtP.png"
 [Guangwei Zhao, Qun Lian, Zhonghua Zhang, Qiushi Fu, Yuhua He, Shuangwu Ma, Valentino Ruggieri, Antonio J. Monforte, Pingyong Wang, Irene Julca, Huaisong Wang, Junpu Liu, Yong Xu, Runze Wang, Jiabing, Zhihong Xu, Weihu Kong, Yang Zhong, Jianli Shang, Lara Pereira, Jason Argyris, Jian Zhang, Carlos Mayobre, Marta Pujol, Elad Oren, Diandian Ou, Jiming Wang, Dexi Sun, Shengjie Zhao, Yingchun Zhu, Na Li, Nurit Katzir, Amit Gur, Catherine Dogimont, Hanno Schaefer, Wei Fan, Abdelhafid Bendahmane, Zhangjun Fei, Michel Pitrat, Toni Gabaldón, Tao Lin, Jordi Garcia-Mas, Yongyang Xu and Sanwen Huang，A comprehensive genome variation map of melon identifies multiple domestication events and loci influencing agronomic traits, Nature Genetics, 2019, 51: 1607-1615.](https://www.nature.com/articles/s41588-019-0522-8)
 
 
-# zoom会议
+# Youtube
 
-Topic: CGM 七十四期 全基因组变异图谱揭示甜瓜驯化历史和农艺性状形成基因位点<br>
-Time: Dec 4, 2019 09:00 PM Beijing, Shanghai<br>
-Join Zoom Meeting<br>
-[https://zoom.com.cn/j/379853177](https://zoom.com.cn/j/379853177)<br>
-Meeting ID: 379 853 177<br>
+# Bilibili
+
