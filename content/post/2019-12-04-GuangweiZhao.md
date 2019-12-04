@@ -27,7 +27,12 @@ thumbnail: "https://i.imgur.com/BJFQwtP.png"
 [Guangwei Zhao, Qun Lian, Zhonghua Zhang, Qiushi Fu, Yuhua He, Shuangwu Ma, Valentino Ruggieri, Antonio J. Monforte, Pingyong Wang, Irene Julca, Huaisong Wang, Junpu Liu, Yong Xu, Runze Wang, Jiabing, Zhihong Xu, Weihu Kong, Yang Zhong, Jianli Shang, Lara Pereira, Jason Argyris, Jian Zhang, Carlos Mayobre, Marta Pujol, Elad Oren, Diandian Ou, Jiming Wang, Dexi Sun, Shengjie Zhao, Yingchun Zhu, Na Li, Nurit Katzir, Amit Gur, Catherine Dogimont, Hanno Schaefer, Wei Fan, Abdelhafid Bendahmane, Zhangjun Fei, Michel Pitrat, Toni Gabaldón, Tao Lin, Jordi Garcia-Mas, Yongyang Xu and Sanwen Huang，A comprehensive genome variation map of melon identifies multiple domestication events and loci influencing agronomic traits, Nature Genetics, 2019, 51: 1607-1615.](https://www.nature.com/articles/s41588-019-0522-8)
 
 
-# Youtube
+
+# YouTube
+
+{{< youtube id="cG_gq9T2KFU" autoplay="false" >}}
 
 # Bilibili
+
+{{< bilibili id="av78073560" autoplay="false" >}}
 
