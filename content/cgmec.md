@@ -18,6 +18,8 @@ weight: 6
 - **09 - 12, 2019** EC7
   - [胡冠菁](https://huguanjing.github.io/about/)（组长），唐星（联络）， 狄晨露（公众号协调）， 魏嘉璐（网站）
 - 01 - 04, 2020
+  - 狄晨露，苏维佳，郑子豪，袁梦
+- 05 - 08, 2020
   - 征集志愿者（微信群 @杨金良或者祁新帅)
 
 ### 曾任执行委员：  
@@ -30,15 +32,18 @@ weight: 6
 
 ## CGM 公众号编辑委员会 (Editorial Committee)
 - **01 - 12, 2019**：ED1 [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)，[郝樾](https://yueyvettehao.github.io/)，胡海飞，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b) 
-- 01 - 04, 2020：ED2 马省伟，胡海飞，[赵飞](https://kaopubear.top)，李秋实
-- 05 - 08, 2020：ED3 狄晨露，杨雪蓉，志愿者招募（联系微信beckyhao13)
-- 09 - 12, 2020：ED4 志愿者招募（联系微信beckyhao13)
+- 01 - 04, 2020：ED2 马省伟，胡海飞，[赵飞](https://kaopubear.top)
+- 05 - 08, 2020：ED3 狄晨露，杨雪蓉，魏嘉璐，志愿者x1招募（联系微信beckyhao13)
+- 09 - 12, 2020：ED4 志愿者x4招募（联系微信beckyhao13)
 
 ## CGM **China**
-- 07, 2019-: 何逸建 (组长）, 李德林，邱杰，武志强, 祁新帅, 杨金良 
+- 07, 2019-: 何逸建 (组长）, 李德林，邱杰，武志强, 祁新帅, 杨金良
+- 10, 2019-: 李钊，任宁宁
+- 11, 2019-: 赵汀
 
 ## CGM **Business**
 - 09，2019-： [祁新帅](https://www.linkedin.com/in/xinshuaiqi/)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)，[雷栗](https://twitter.com/lilei0051)
+
 ------------------
 
 ## CGM常年征集志愿者 

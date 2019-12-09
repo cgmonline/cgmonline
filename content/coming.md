@@ -3,8 +3,7 @@ title: "下期预告"
 date: "2019-12-11"
 menu: [top]
 weight: 2
-tags: [job, academic]
-
+tags: [job, academia]
 ---
 
 - 题目：如何在北美学术界找工作 (How to Find a Job in Academic Field?)
@@ -21,7 +20,6 @@ tags: [job, academic]
 [王大方](http://www.deltastate.edu/contact/wang-faith/), 密西西比三角洲州立大学（Delta State University）生物系助理教授。研究领域包括植物DNA转座子的转座机制及植物小RNA的调控机制。现从事基础生物学，遗传学和植物学的教学工作。
 
 [赵美霞](https://blogs.miamioh.edu/zhao-genetics-genomics-lab/)，迈阿密大学（University of Miami）生物系助理教授，主要研究方向为植物进化中的比较生物学和表观基因组学，大豆和玉米的表观遗传学调控，玉米中重要农艺性状的遗传机制。
-
 
 
 # 中文摘要
@@ -62,11 +60,7 @@ Meeting ID: 460 820 327
 
 One tap mobile
 
-+16465588656,,460820327# US (New York)
-+17207072699,,460820327# US (Denver)
-
-Meeting ID: 460 820 327
-
 Find your local number: https://zoom.us/u/ado9AEkws6
+
 
 
