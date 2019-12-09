@@ -1,35 +1,66 @@
 ---
 title: "下期预告"
-date: "2019-12-04"
+date: "2019-12-11"
 menu: [top]
 weight: 2
+tags: [job, academia]
 ---
 
-- 题目：全基因组变异图谱揭示甜瓜驯化历史及农艺性状形成基因位点
-- 时间：2019 年 12 月 04 号（星期三），北京时间 9:00 PM
-- 地点：zoom和bilibili直播
-- 主讲人：赵光伟，农学博士，中国农业科学院郑州果树研究所副研究员，主要从事西瓜甜瓜种质资源、品种选育及相关领域研究工作。主持参加省部级以上科研项目10余项，获河南省科学技术进步二等奖3项，参与审（鉴）定西瓜、甜瓜新品种10余个，登记新品种80余个，获植物新品保护权3件、国家发明专利1件，参与标准制定2项、著作编写2部，发表学术论文20余篇，其中以第一作者在Nature Genetics、Plant Growth Regulation、果树学报等学术期刊发表学术论文10余篇。
+- 题目：如何在北美学术界找工作 (How to Find a Job in Academic Field?)
+- 时间：2019 年 12 月 11 号（星期三），美西时间（Pacific Time）6:00 PM
+- 地点：Zoom and YouTube live stream
+- 主讲人： 
 
-![](https://i.imgur.com/Bb8LhpS.jpg)
+[高秭玥](https://scholar.google.com/citations?user=b0mn6vwAAAAJ&hl=en)，宾夕法尼亚大学（University of Pennsylvania）医学院助理教授，主要研究方向为利用计算生物学方法回答人类基因组中有关进化与选择等的相关问题，以及其对于疾病等表型的影响。
+
+[何斌](https://biology.uiowa.edu/people/bin-z-he), 爱荷华大学（The University of Iowa）生物系助理教授，主要研究方向为胁迫反应相关的基因调控网络的进化，以及其如何帮助物种适应环境。
+
+[戚益平](https://qilab.weebly.com/), 马里兰大学 （The University of Maryland）助理教授，主要从事基因编辑技术和植物抗病性研究，是最早开展生物遗传修饰技术核心的“序列特异性核酸酶”设计、构建及优化环节的成员之一。
+
+[王大方](http://www.deltastate.edu/contact/wang-faith/), 密西西比三角洲州立大学（Delta State University）生物系助理教授。研究领域包括植物DNA转座子的转座机制及植物小RNA的调控机制。现从事基础生物学，遗传学和植物学的教学工作。
+
+[赵美霞](https://blogs.miamioh.edu/zhao-genetics-genomics-lab/)，迈阿密大学（University of Miami）生物系助理教授，主要研究方向为植物进化中的比较生物学和表观基因组学，大豆和玉米的表观遗传学调控，玉米中重要农艺性状的遗传机制。
 
 
 # 中文摘要
 
-甜瓜是一种被广泛栽培的世界性园艺作物，有着悠久的栽培历史。由于非洲存在着大量的甜瓜近缘种，且有着与甜瓜一样的染色体数目，因此研究人员认为甜瓜起源并驯化于非洲。然而，通过基因组数据分析发现，与甜瓜亲缘关系最近的近缘种不是存在于非洲，而是在印度和澳大利亚。因此，关于甜瓜的驯化历史一直存在争议。
-甜瓜按照子房绒毛的多少和长短分为厚皮甜瓜（C. melo subsp melo）和薄皮甜瓜（C. melo subsp agrestis）两个亚种。然而它们之间的驯化遗传基础仍不清晰。同时，作为一个多样性异常丰富的物种，与甜瓜农艺性状相关的基因位点报道很少。
-本研究收集了来自世界50多个国家和地区的1184份甜瓜近缘种、野生种及栽培种进行了全基因组重测序，构建了甜瓜的全基因组变异图谱，通过进化树、群体结构、PCA等分析揭示甜瓜的3次驯化历史，并针对两次重要的驯化事件中的关键驯化性状的遗传基础进行了研究，为驯化假说提供证据。同时，通过全基因组关联分析，定位到200余个与甜瓜果实产量、品质、形态等16个重要农艺性状相关的基因（位点）。
+当你在学术的道路上披荆斩棘，摘得phd学位，修得postdoc经验，下一步，是否在向往一个属于自己的学术舞台？
 
-# 参考文献
+然而，现实生活并不是想象中博士、博后、拿到教职、走上人生巅峰那么简单。
 
-[Guangwei Zhao, Qun Lian, Zhonghua Zhang, Qiushi Fu, Yuhua He, Shuangwu Ma, Valentino Ruggieri, Antonio J. Monforte, Pingyong Wang, Irene Julca, Huaisong Wang, Junpu Liu, Yong Xu, Runze Wang, Jiabing, Zhihong Xu, Weihu Kong, Yang Zhong, Jianli Shang, Lara Pereira, Jason Argyris, Jian Zhang, Carlos Mayobre, Marta Pujol, Elad Oren, Diandian Ou, Jiming Wang, Dexi Sun, Shengjie Zhao, Yingchun Zhu, Na Li, Nurit Katzir, Amit Gur, Catherine Dogimont, Hanno Schaefer, Wei Fan, Abdelhafid Bendahmane, Zhangjun Fei, Michel Pitrat, Toni Gabaldón, Tao Lin, Jordi Garcia-Mas, Yongyang Xu and Sanwen Huang，A comprehensive genome variation map of melon identifies multiple domestication events and loci influencing agronomic traits, Nature Genetics, 2019, 51: 1607-1615.](https://www.nature.com/articles/s41588-019-0522-8)
+面对高手如云的竞争环境，异国环境下语言和文化上的劣势，你是否期待有“过来人”能分享经验，有“同行者”能砥砺前行？
 
+在CGM第11第十一期：How to find a job in academic field 的讨论中，我们邀请并采访了三位嘉宾。讨论涵盖了工作内容， 信息渠道，申请流程，材料准备，面试技巧和待遇协商等各个方面等，内容详实，大受好评。
 
-# zoom会议
+因此，我们将推出第二弹！第75期：如何在北美学术界找工作？
 
-Topic: CGM 七十四期 全基因组变异图谱揭示甜瓜驯化历史和农艺性状形成基因位点<br>
-Time: Dec 4, 2019 09:00 PM Beijing, Shanghai<br>
-Join Zoom Meeting<br>
-[https://zoom.com.cn/j/379853177](https://zoom.com.cn/j/379853177)<br>
-Meeting ID: 379 853 177<br>
+本期讨论，我们很荣幸地邀请到五位在学术界崭露头角的年轻教授作为特邀嘉宾，为我们分享他们在申请教职中的成功经验和秘诀，也聊聊作为新晋教授的感想和心得。
+
+如果你正在寻求教职，请把握住这个难逢的机会，拿出你的问题小清单（敲黑板）。
+
+如果你还在迷茫，不知道找什么工作，请来了解一下如何在学术界找工作，也许嘉宾们的经验可以给你带来一些方向。
+
+已经找到工作的大佬们，欢迎加入讨论，欢迎围观，欢迎预定下一场的嘉宾席位！
+
+<img src="https://imgur.com/XhZPiFX.jpg" width="300" height="400" />
+
+# Zoom
+
+Chinese Genomics is inviting you to a scheduled Zoom meeting.
+
+Topic: CGM 第75期：如何在北美学术界找工作？(How to find a job in academic field)
+
+Time: Dec 11, 2019 06:00 PM Pacific Time (US and Canada)
+
+Join Zoom Meeting
+
+https://zoom.us/j/706231698
+
+Meeting ID: 460 820 327
+
+One tap mobile
+
+Find your local number: https://zoom.us/u/ado9AEkws6
+
 
 
