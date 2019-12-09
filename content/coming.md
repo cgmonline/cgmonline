@@ -10,16 +10,11 @@ tags: [job, academia]
 - 时间：2019 年 12 月 11 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：Zoom and YouTube live stream
 - 主讲人： 
-
-[高秭玥](https://scholar.google.com/citations?user=b0mn6vwAAAAJ&hl=en)，宾夕法尼亚大学（University of Pennsylvania）医学院助理教授，主要研究方向为利用计算生物学方法回答人类基因组中有关进化与选择等的相关问题，以及其对于疾病等表型的影响。
-
-[何斌](https://biology.uiowa.edu/people/bin-z-he), 爱荷华大学（The University of Iowa）生物系助理教授，主要研究方向为胁迫反应相关的基因调控网络的进化，以及其如何帮助物种适应环境。
-
-[戚益平](https://qilab.weebly.com/), 马里兰大学 （The University of Maryland）助理教授，主要从事基因编辑技术和植物抗病性研究，是最早开展生物遗传修饰技术核心的“序列特异性核酸酶”设计、构建及优化环节的成员之一。
-
-[王大方](http://www.deltastate.edu/contact/wang-faith/), 密西西比三角洲州立大学（Delta State University）生物系助理教授。研究领域包括植物DNA转座子的转座机制及植物小RNA的调控机制。现从事基础生物学，遗传学和植物学的教学工作。
-
-[赵美霞](https://blogs.miamioh.edu/zhao-genetics-genomics-lab/)，迈阿密大学（University of Miami）生物系助理教授，主要研究方向为植物进化中的比较生物学和表观基因组学，大豆和玉米的表观遗传学调控，玉米中重要农艺性状的遗传机制。
+  - [高秭玥](https://scholar.google.com/citations?user=b0mn6vwAAAAJ&hl=en)，宾夕法尼亚大学（University of Pennsylvania）医学院助理教授，主要研究方向为利用计算生物学方法回答人类基因组中有关进化与选择等的相关问题，以及其对于疾病等表型的影响。
+ - [何斌](https://biology.uiowa.edu/people/bin-z-he), 爱荷华大学（The University of Iowa）生物系助理教授，主要研究方向为胁迫反应相关的基因调控网络的进化，以及其如何帮助物种适应环境。
+ - [戚益平](https://qilab.weebly.com/), 马里兰大学 （The University of Maryland）助理教授，主要从事基因编辑技术和植物抗病性研究，是最早开展生物遗传修饰技术核心的“序列特异性核酸酶”设计、构建及优化环节的成员之一。
+ - [王大方](http://www.deltastate.edu/contact/wang-faith/), 密西西比三角洲州立大学（Delta State University）生物系助理教授。研究领域包括植物DNA转座子的转座机制及植物小RNA的调控机制。现从事基础生物学，遗传学和植物学的教学工作。
+ - 赵美霞](https://blogs.miamioh.edu/zhao-genetics-genomics-lab/)，迈阿密大学（University of Miami）生物系助理教授，主要研究方向为植物进化中的比较生物学和表观基因组学，大豆和玉米的表观遗传学调控，玉米中重要农艺性状的遗传机制。
 
 
 # 中文摘要
@@ -42,7 +37,7 @@ tags: [job, academia]
 
 已经找到工作的大佬们，欢迎加入讨论，欢迎围观，欢迎预定下一场的嘉宾席位！
 
-<img src="https://imgur.com/XhZPiFX.jpg" width="300" height="400" />
+<img src="https://imgur.com/XhZPiFX.jpg" width="600" height="800" />
 
 # Zoom
 
