@@ -1,5 +1,5 @@
 ---
-title: "CGM 第75期：如何在北美学术界找工作 (How to Find a Job in Academic Field?)
+title: "CGM 第75期：如何在北美学术界找工作 (How to Find a Job in Academic Field?)"
 date: "2019-12-11"
 categories:
   - 专题讨论
