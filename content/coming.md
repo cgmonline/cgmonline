@@ -39,7 +39,7 @@ tags: [job, academia]
 
 <img src="https://imgur.com/XhZPiFX.jpg" width="600" height="800" />
 
-# Youtube
+# YouTube
 
 {{< youtube id="-AvXv8zSNFo" autoplay="false" >}}
 
