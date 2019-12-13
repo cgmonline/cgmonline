@@ -42,7 +42,7 @@ thumbnail: "https://imgur.com/XhZPiFX.jpg"
 
 已经找到工作的大佬们，欢迎加入讨论，欢迎围观，欢迎预定下一场的嘉宾席位！
 
-# YouTuBe
+# YouTube
 
 {{< youtube id="-AvXv8zSNFo" autoplay="false" >}}
 
