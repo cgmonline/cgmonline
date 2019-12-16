@@ -16,7 +16,7 @@ weight: 6
 
 ### 现任执行委员：
 - **01 - 04, 2020 EC8**
-  - 狄晨露，苏维佳，郑子豪，[袁梦](https://imengyuan.github.io/)
+  - 狄晨露（组长），苏维佳，郑子豪，[袁梦](https://imengyuan.github.io/)
 - 09 - 12, 2019 EC7
   - [胡冠菁](https://huguanjing.github.io/about/)（组长），唐星（联络）， 狄晨露（公众号协调）， 魏嘉璐（网站）
 - 05 - 08, 2020 EC9
