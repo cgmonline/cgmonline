@@ -15,10 +15,10 @@ weight: 6
 - [杨金良](http://jyanglab.com/)，[祁新帅](https://www.linkedin.com/in/xinshuaiqi/)
 
 ### 现任执行委员：
-- **09 - 12, 2019** EC7
+- **01 - 04, 2020 EC8**
+  - 狄晨露，苏维佳，郑子豪，[袁梦](https://imengyuan.github.io/)
+- 09 - 12, 2019 EC7
   - [胡冠菁](https://huguanjing.github.io/about/)（组长），唐星（联络）， 狄晨露（公众号协调）， 魏嘉璐（网站）
-- 01 - 04, 2020 EC8
-  - 狄晨露，苏维佳，郑子豪，袁梦
 - 05 - 08, 2020 EC9
   - 征集志愿者（微信群 @杨金良或者祁新帅)
 
@@ -31,9 +31,9 @@ weight: 6
 - 05 - 08，2019：EC6 [郭婷婷](https://scholar.google.com/citations?user=4WYQNa4AAAAJ&hl=en)（组长），汪捷（网站），周文彬（联络），李秋实（公众号协调）
 
 ## CGM 公众号编辑委员会 (Editorial Committee)
-- **01 - 12, 2019**：ED1 [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)，[郝樾](https://yueyvettehao.github.io/)，胡海飞，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b) 
-- 01 - 04, 2020：ED2 马省伟，胡海飞，[赵飞](https://kaopubear.top)
+- **01 - 04, 2020**：ED2 马省伟，胡海飞，[赵飞](https://kaopubear.top)
 - 05 - 08, 2020：ED3 狄晨露，杨雪蓉，魏嘉璐，志愿者x1招募（联系微信beckyhao13)
+- 01 - 12, 2019：ED1 [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)，[郝樾](https://yueyvettehao.github.io/)，胡海飞，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b) 
 - 09 - 12, 2020：ED4 志愿者x4招募（联系微信beckyhao13)
 
 ## CGM **China**
