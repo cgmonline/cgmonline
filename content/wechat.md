@@ -9,7 +9,9 @@ weight: 6
 ## 原创精品
 
 - 12-16-2019 [【CGM独家专访】余建明教授：通过你经历的事情成长](https://mp.weixin.qq.com/s/7k1sO1hE9T02qwItFIcZ1Q)
+- 11-22-2019 [学术文章速览2：Genomic prediction with multi-omics data](https://mp.weixin.qq.com/s/TnmW9OjbN9Yh3a4XtNJAyQ)
 - 10-25-2019 [植物泛基因组101（下）](https://mp.weixin.qq.com/s/ce4ubfmIjQ9bHjMZ4RPB5A)
+- 09-19-2019 [学术文章速览1：GWAS and beyond](https://mp.weixin.qq.com/s/XVFiF9b60Yu37UHK1v3G3g)
 - 08-13-2019 [植物泛基因组101（上）](https://mp.weixin.qq.com/s/ATiF0sPq8SFcC9htatDm2w)
 - 07-12-2019 [【CGM独家专访】蒋宁教授《与跳跃基因共舞》](https://mp.weixin.qq.com/s/dx2NOuadAHLvanfG3aBaAA)
 - 07-02-2019 [中性理论pk自然选择？群体基因组学时代，有50年历史的经典学说是否过时了？](https://mp.weixin.qq.com/s/8fryXF-tHsQVVbhN8scZ4A)
@@ -18,11 +20,6 @@ weight: 6
 - 03-29-2019 [【CGM经典视频回顾】生物博士怎样在工业界找工作？](https://mp.weixin.qq.com/s/2d4LuVwSzL2gYiG8ibMntQ)
 - 03-07-2019 [【CGM女神节特刊】家园归航王丽：用温暖的力量治愈世界](https://mp.weixin.qq.com/s/kTltC7ZCQYdUrESppC2FgQ)
 - 02-25-2019 [【CGM经典视频回顾】怎样提升英语科技论文的写作？](https://mp.weixin.qq.com/s/BMAiRtL0BzLpso6PEef0pQ)
-
-## 学术文章速览
-
-- 11-22-2019 [Genomic prediction with multi-omics data](https://mp.weixin.qq.com/s/TnmW9OjbN9Yh3a4XtNJAyQ)
-- 09-19-2019 [GWAS and beyond](https://mp.weixin.qq.com/s/XVFiF9b60Yu37UHK1v3G3g)
 
 ## 微信群精彩讨论整理
 
