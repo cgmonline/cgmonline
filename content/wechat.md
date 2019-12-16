@@ -8,6 +8,7 @@ weight: 6
 
 ## 原创精品
 
+- 12-16-2019 [【CGM独家专访】余建明教授：通过你经历的事情成长](https://mp.weixin.qq.com/s/7k1sO1hE9T02qwItFIcZ1Q)
 - 10-25-2019 [植物泛基因组101（下）](https://mp.weixin.qq.com/s/ce4ubfmIjQ9bHjMZ4RPB5A)
 - 08-13-2019 [植物泛基因组101（上）](https://mp.weixin.qq.com/s/ATiF0sPq8SFcC9htatDm2w)
 - 07-12-2019 [【CGM独家专访】蒋宁教授《与跳跃基因共舞》](https://mp.weixin.qq.com/s/dx2NOuadAHLvanfG3aBaAA)
