@@ -17,12 +17,9 @@ show_comments: true
 
 # 如何参与CGM Hangouts在线讨论
 
-CGM每次活动的YouTube线上直播是通过Hangouts实现的。Hangouts最多支持**10个人**同时在线，所以名额有限，先到先得。
-
-在每次活动开始前5-10分钟，我们会更新本期活动YouTube网页的活动介绍部分，并添加参与此次活动的Hangouts链接。
-所以你只需要在每次活动开始前，打开相应的YouTube地址，刷新网页，就会看到Hangouts链接了。
-
-其他参与方法，见[说明](https://docs.google.com/document/d/1dH9ZonCrbplvKQtcIj5GyeKdIqVBzYTiQRaZ2YcRreE/edit#).
+CGM每次活动的YouTube线上直播是通过Zoom实现的。
+在每次活动开始前5-10分钟，我们会开启Zoom链接。
+或者关注我们的网站或微信群去获取YouTube地址。
 
 # 讨论组和活动群
 CGM已经建立了多个专题讨论组和活动群，如果感兴趣，可以联系群主加入：
