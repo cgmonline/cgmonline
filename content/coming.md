@@ -18,11 +18,11 @@ weight: 2
 
 # 参考文献
 
-**Zhqiang Wu**, Cuthbert JM, Taylor DR, Sloan DB. 2015. The massive mitochondrial genome of the angiosperm Silene noctiflora is evolving by gain or loss of entire chromosomes. *Proceedings of the National Academy of Sciences USA*. 112 (30): 10185–10191. (Science杂志对本文进行了亮点报道). <br>
-**Zhqiang Wu**, Daniel B. Sloan, Colin W. Brown, Mónica Rosenblueth, Jeffrey D. Palmer, Han Chuan Ong. 2017. Mitochondrial retroprocessing promoted functional transfers of rpl5 to the nucleus in grasses. *Molecular Biology and Evolution*. 1;34(9):2340-2354. <br>
-**Zhqiang Wu**\*, Daniel B. Sloan. 2019. Recombination and intraspecific polymorphism for the presence and absence of entire chromosomes in mitochondrial genomes. *Heredity*. 122(5):647–659.  <br>
-**Zhqiang Wu**\*, Stone JD, Štorchová H, Sloan DB\*. 2015. High transcript abundance, RNA editing, and small RNAs in intergenic regions within the massive mitochondrial genome of the angiosperm Silene noctiflora. *BMC Genomics*. 16: 938. <br>
-**Zhqiang Wu** and Song Ge. 2012. The phylogeny of the BEP clade in grasses revisited: Evidence from the whole-genome sequences of chloroplasts. *Molecular Phylogenetics and Evolution*. 62: 573-578.  <br>
+[**Zhqiang Wu**, Cuthbert JM, Taylor DR, Sloan DB. 2015. The massive mitochondrial genome of the angiosperm Silene noctiflora is evolving by gain or loss of entire chromosomes. *Proceedings of the National Academy of Sciences USA*. 112 (30): 10185–10191.](https://www.pnas.org/content/112/33/10185.long) (Science杂志对本文进行了亮点报道). <br>
+[**Zhqiang Wu**, Daniel B. Sloan, Colin W. Brown, Mónica Rosenblueth, Jeffrey D. Palmer, Han Chuan Ong. 2017. Mitochondrial retroprocessing promoted functional transfers of rpl5 to the nucleus in grasses. *Molecular Biology and Evolution*. 1;34(9):2340-2354.](https://academic.oup.com/mbe/article/34/9/2340/3852550) <br>
+[**Zhqiang Wu**\*, Daniel B. Sloan. 2019. Recombination and intraspecific polymorphism for the presence and absence of entire chromosomes in mitochondrial genomes. *Heredity*. 122(5):647–659.](https://www.nature.com/articles/s41437-018-0153-3)  <br>
+[**Zhqiang Wu**\*, Stone JD, Štorchová H, Sloan DB\*. 2015. High transcript abundance, RNA editing, and small RNAs in intergenic regions within the massive mitochondrial genome of the angiosperm Silene noctiflora. *BMC Genomics*. 16: 938.](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-015-2155-3) <br>
+[**Zhqiang Wu** and Song Ge. 2012. The phylogeny of the BEP clade in grasses revisited: Evidence from the whole-genome sequences of chloroplasts. *Molecular Phylogenetics and Evolution*. 62: 573-578.](https://www.sciencedirect.com/science/article/pii/S1055790311004519?via%3Dihub)  <br>
 
 # Zoom
 
