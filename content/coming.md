@@ -26,6 +26,15 @@ weight: 2
 
 # Zoom
 
+Chinese Genomics is inviting you to a scheduled Zoom meeting.<br>
+
+Topic: CGM 第 76 期：植物细胞器基因组的 “那些事”<br>
+Time: Dec 18, 2019 09:00 PM Beijing, Shanghai<br>
+
+Join Zoom Meeting <br>
+https://zoom.com.cn/j/242834161<br>
+
+Meeting ID: 242 834 161<br>
 
 
 
