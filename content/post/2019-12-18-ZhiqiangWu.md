@@ -29,9 +29,9 @@ thumbnail: "https://i.imgur.com/lzDQQAS.png"
 
 # YouTube
 
-BRy2vAUzeUQ
+{{< youtube id="BRy2vAUzeUQ" autoplay="false" >}}
 
 # Bilibili
 
-79768874
+{{< bilibili id="79768874" autoplay="false" >}}
 
