@@ -17,8 +17,6 @@ weight: 6
 ### 现任执行委员：
 - **01 - 04, 2020 EC8**
   - 狄晨露（组长），苏维佳，郑子豪，[袁梦](https://imengyuan.github.io/)
-- 09 - 12, 2019 EC7
-  - [胡冠菁](https://huguanjing.github.io/about/)（组长），唐星（联络）， 狄晨露（公众号协调）， 魏嘉璐（网站）
 - 05 - 08, 2020 EC9
   - 征集志愿者x3（微信群 @杨金良或者祁新帅)
 
@@ -29,6 +27,7 @@ weight: 6
 - 09 - 12, 2018：EC4 何逸建（组长），邓斯文（网站），[汪海](https://tangscholars.ciifad.cornell.edu/people/hai-wang/)
 - 01 - 04, 2019：EC5 区树俊（组长+公众号协调），汲翔（网站），谢丽蒙（技术）
 - 05 - 08，2019：EC6 [郭婷婷](https://scholar.google.com/citations?user=4WYQNa4AAAAJ&hl=en)（组长），汪捷（网站），周文彬（联络），李秋实（公众号协调）
+- 09 - 12, 2019：EC7 [胡冠菁](https://huguanjing.github.io/about/)（组长），唐星（联络）， 狄晨露（公众号协调）， 魏嘉璐（网站）
 
 ## CGM 公众号编辑委员会 (Editorial Committee)
 - **01 - 04, 2020**：ED2 马省伟（组长、北京时区讲座预告），胡海飞（原创策划），[赵飞](https://kaopubear.top)（原创策划），袁梦（北美时区讲座预告），苏维佳（北美时区讲座预告）
