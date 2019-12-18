@@ -30,6 +30,7 @@ weight: 6
 
 ## 沙龙预告
 
+- 12-17-2019 [武志强：植物细胞器基因组的“那些事”](https://mp.weixin.qq.com/s/FKgDbHqycpPwr1piH0JKHQ)
 - 11-26-2019 [专题讨论：如何在北美学术界找工作？](https://mp.weixin.qq.com/s/_7W4PCLiLW91TuzDnXKp_g)
 - 12-02-2019 [赵光伟：全基因组变异图谱揭示甜瓜驯化历史及农艺性状形成基因位点](https://mp.weixin.qq.com/s/OrwMqHFfLK2fLK_D4TDcUw)
 - 11-18-2019 [祁婷：整合多组学数据解析人类复杂性状和疾病的遗传机制](https://mp.weixin.qq.com/s/3oboPS8V1_UPNIc-ChcmBQ)
