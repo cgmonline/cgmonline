@@ -29,9 +29,9 @@ thumbnail: "https://i.imgur.com/lzDQQAS.png"
 
 # YouTube
 
-Coming soon
+BRy2vAUzeUQ
 
 # Bilibili
 
-Coming soon
+79768874
 
