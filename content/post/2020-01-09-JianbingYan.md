@@ -1,16 +1,16 @@
 ---
-title: "下期预告"
+title: "CGM 第77期：我是如何爱上玉米的"
 date: "2020-01-09"
-menu: [top]
-weight: 2
+categories:
+  - 人物专访
+show_comments: true
+thumbnail: "https://i.imgur.com/VpDAeqt.png"
 ---
 
 - 题目：我是如何爱上玉米的
 - 时间：北京时间2020年1月9日 10AM (美国太平洋时间PST 1月8日 6PM)
 - 地点：Zoom and YouTube live stream
 - 主讲人：严建兵，华中农业大学副校长、植物科学技术学院院长、作物遗传改良国家重点实验室副主任、教授。第三批国家万人计划科技创新领军人才、教育部长江学者特聘教授和国家杰出青年基金获得者。1999年本科毕业于华中农业大学生物技术专业，2003年在华中农业大学获得博士学位。主要研究方向包括玉米复杂数量性状的遗传解析以及玉米基因组学和分子育种。严教授在Nature Genetics，Nature Communications，PNAS，Molecular Plant等期刊发表论文100余篇，论文总引用数逾9000次；并担任期刊Genome Biology，Plant Journal，Theoretical and Applied Genetics，BMC Plant Biology，Journal of Integrative Plant Biology，Science China Life Science等杂志的编委。
-
-![](https://i.imgur.com/VpDAeqt.png)
 
 # 中文摘要
 
@@ -22,20 +22,8 @@ weight: 2
  
 本次人物专访，严教授将分享他在作物遗传育种领域的前沿成果，求学的人生经历以及科学研究和学生培养方面的感悟和经验。
 
-__应严老师要求，本期演讲结束后视频不会上传YouTube或Bilibili等线上平台，欢迎大家观看直播参与活动。__
+应严老师要求，本期演讲结束后视频不会上传YouTube或Bilibili等线上平台，欢迎大家观看直播参与活动。
 
-# Zoom
-
-Chinese Genomics is inviting you to a scheduled Zoom meeting.<br>
-
-Topic: CGM 第 77 期：我是如何爱上玉米的<br>
-Time: Jan 9, 2020 10:00 AM Beijing, Shanghai<br>
-
-Join Zoom Meeting <br>
-https://zoom.us/j/828607098<br>
-
-Meeting ID: 828 607 098<br>
-
-
+![](https://i.imgur.com/VpDAeqt.png)
 
 
