@@ -67,3 +67,6 @@ CGM-Botany2019|beckyhao13|
 - 汇报中英文皆可。提问和讨论推荐以中文为主。
 - 如何设置你的直播：[直播说明](ttps://docs.google.com/document/d/1fxmuZwoLearelWj2G1jK_wGcFdSQQ_0wVWC1YwgjkcM/edit?usp=sharing)
 - 给演讲者的指导建议：[链接](https://docs.google.com/document/d/1pGoB_LCvdC84P2ZpEXBKeUES1g2rDvC2EmfOPRo-KiI/edit?usp=sharing)
+
+# 赞助
+如果您有意赞助我们，希望获取更多信息，请联系： * qxs718@gmail.com 或加微信 qxs718
