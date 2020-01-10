@@ -30,7 +30,7 @@ weight: 2
 
 # 参考文献
 
-Zhang, L., Chen, F., Zhang, X. et al. The water lily genome and the early evolution of flowering plants. Nature 577, 79–84 (2020) [doi:10.1038/s41586-019-1852-5](https://www.nature.com/articles/s41586-019-1852-5)
+**Liangsheng Zhang**, Fei Chen, Xingtan Zhang, Zhen Li, Yiyong Zhao, Rolf Lohaus, Xiaojun Chang, Wei Dong, Simon Y. W. Ho, Xing Liu, Aixia Song, Junhao Chen, Wenlei Guo, Zhengjia Wang, Yingyu Zhuang, Haifeng Wang, Xuequn Chen, Juan Hu, Yanhui Liu, Yuan Qin, Kai Wang, Shanshan Dong, Yang Liu, Shouzhou Zhang, Xianxian Yu, Qian Wu, Liangsheng Wang, Xueqing Yan, Yuannian Jiao, Hongzhi Kong, Xiaofan Zhou, Cuiwei Yu, Yuchu Chen, Fan Li, Jihua Wang, Wei Chen, Xinlu Chen, Qidong Jia, Chi Zhang, Yifan Jiang, Wanbo Zhang, Guanhua Liu, Jianyu Fu, Feng Chen, Hong Ma, Yves Van de Peer & Haibao Tang. The water lily genome and the early evolution of flowering plants. *Nature* 577, 79–84 (2020) [doi:10.1038/s41586-019-1852-5](https://www.nature.com/articles/s41586-019-1852-5)
 
 # Zoom
 
