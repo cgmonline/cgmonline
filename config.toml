@@ -60,11 +60,11 @@ publishDir = "docs"
 
 [[params.banner.source]]
   media = "(min-width: 715px)"
-  srcset = "https://i.imgur.com/uC3PvhN.jpg?1"
+  srcset = "/img/new-logo-wide2020.png"
 
 [[params.banner.source]]
   media = "(max-width: 380px)"
-  srcset = "https://i.imgur.com/uC3PvhN.jpg?1"
+  srcset = "/img/new-logo-wide2020.png"
 
 [params.text]
   about_author = "关于作者"
