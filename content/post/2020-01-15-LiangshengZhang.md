@@ -32,7 +32,7 @@ thumbnail: "https://i.imgur.com/UHJ1pqb.jpg"
 详细文章介绍请见[BioArt](https://mp.weixin.qq.com/s/LGhNWJ2zLx9sUXNTrBg3YQ)植物的专家点评文章。
 # 参考文献
 
-Zhang, L., Chen, F., Zhang, X. et al. The water lily genome and the early evolution of flowering plants. Nature 577, 79–84 (2020) [doi:10.1038/s41586-019-1852-5](https://www.nature.com/articles/s41586-019-1852-5)
+**Liangsheng Zhang**, Fei Chen, Xingtan Zhang, Zhen Li, Yiyong Zhao, Rolf Lohaus, Xiaojun Chang, Wei Dong, Simon Y. W. Ho, Xing Liu, Aixia Song, Junhao Chen, Wenlei Guo, Zhengjia Wang, Yingyu Zhuang, Haifeng Wang, Xuequn Chen, Juan Hu, Yanhui Liu, Yuan Qin, Kai Wang, Shanshan Dong, Yang Liu, Shouzhou Zhang, Xianxian Yu, Qian Wu, Liangsheng Wang, Xueqing Yan, Yuannian Jiao, Hongzhi Kong, Xiaofan Zhou, Cuiwei Yu, Yuchu Chen, Fan Li, Jihua Wang, Wei Chen, Xinlu Chen, Qidong Jia, Chi Zhang, Yifan Jiang, Wanbo Zhang, Guanhua Liu, Jianyu Fu, Feng Chen, Hong Ma, Yves Van de Peer & Haibao Tang. The water lily genome and the early evolution of flowering plants. *Nature* 577, 79–84 (2020) doi:10.1038/s41586-019-1852-5
 
 # YouTube
 
