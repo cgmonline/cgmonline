@@ -79,7 +79,7 @@ publishDir = "docs"
   title_tags = "关键词列表"
 
 [params]
-	copyright = "北美华人基因组学在线沙龙 2017"
+	copyright = "华人基因组学在线沙龙 2020"
 	description = "基因组学在线讨论平台"
 
   summary_length = 200
