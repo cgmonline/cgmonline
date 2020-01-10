@@ -1,16 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Breeding on 北美华人基因组学在线沙龙</title>
+    <title>breeding on 北美华人基因组学在线沙龙</title>
     <link>http://cgmonline.co/tags/breeding/</link>
-    <description>Recent content in Breeding on 北美华人基因组学在线沙龙</description>
+    <description>Recent content in breeding on 北美华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>北美华人基因组学在线沙龙 2017</copyright>
-    <lastBuildDate>Wed, 24 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://cgmonline.co/tags/breeding/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CGM 第74期：全基因组变异图谱揭示甜瓜驯化历史及农艺性状形成基因位点</title>
+      <link>http://cgmonline.co/2019/12/cgm-%E7%AC%AC74%E6%9C%9F%E5%85%A8%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%8F%98%E5%BC%82%E5%9B%BE%E8%B0%B1%E6%8F%AD%E7%A4%BA%E7%94%9C%E7%93%9C%E9%A9%AF%E5%8C%96%E5%8E%86%E5%8F%B2%E5%8F%8A%E5%86%9C%E8%89%BA%E6%80%A7%E7%8A%B6%E5%BD%A2%E6%88%90%E5%9F%BA%E5%9B%A0%E4%BD%8D%E7%82%B9/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2019/12/cgm-%E7%AC%AC74%E6%9C%9F%E5%85%A8%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%8F%98%E5%BC%82%E5%9B%BE%E8%B0%B1%E6%8F%AD%E7%A4%BA%E7%94%9C%E7%93%9C%E9%A9%AF%E5%8C%96%E5%8E%86%E5%8F%B2%E5%8F%8A%E5%86%9C%E8%89%BA%E6%80%A7%E7%8A%B6%E5%BD%A2%E6%88%90%E5%9F%BA%E5%9B%A0%E4%BD%8D%E7%82%B9/</guid>
+      <description>题目：全基因组变异图谱揭示甜瓜驯化历史及农艺性状形成基因位点 时间：2019 年 12 月 04 号（星期三），北京时间 9:00 PM 地点：zoom和bilibili</description>
+    </item>
     
     <item>
       <title>CGM 第58期：玉米可变剪接变异研究</title>

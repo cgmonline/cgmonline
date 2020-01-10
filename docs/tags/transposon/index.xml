@@ -1,16 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Transposon on 北美华人基因组学在线沙龙</title>
+    <title>transposon on 北美华人基因组学在线沙龙</title>
     <link>http://cgmonline.co/tags/transposon/</link>
-    <description>Recent content in Transposon on 北美华人基因组学在线沙龙</description>
+    <description>Recent content in transposon on 北美华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>北美华人基因组学在线沙龙 2017</copyright>
-    <lastBuildDate>Wed, 03 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://cgmonline.co/tags/transposon/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CGM 第56期：人物专访 蒋宁教授：与跳跃基因共舞</title>
+      <link>http://cgmonline.co/2019/06/cgm-%E7%AC%AC56%E6%9C%9F%E4%BA%BA%E7%89%A9%E4%B8%93%E8%AE%BF-%E8%92%8B%E5%AE%81%E6%95%99%E6%8E%88%E4%B8%8E%E8%B7%B3%E8%B7%83%E5%9F%BA%E5%9B%A0%E5%85%B1%E8%88%9E/</link>
+      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2019/06/cgm-%E7%AC%AC56%E6%9C%9F%E4%BA%BA%E7%89%A9%E4%B8%93%E8%AE%BF-%E8%92%8B%E5%AE%81%E6%95%99%E6%8E%88%E4%B8%8E%E8%B7%B3%E8%B7%83%E5%9F%BA%E5%9B%A0%E5%85%B1%E8%88%9E/</guid>
+      <description>题目：人物专访 蒋宁教授：与跳跃基因共舞 时间：2019 年 06 月 26 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live</description>
+    </item>
     
     <item>
       <title>CGM 第50期：Tracking the burst of an active transposon family in rice</title>

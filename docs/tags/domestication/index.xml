@@ -1,16 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Domestication on 北美华人基因组学在线沙龙</title>
+    <title>domestication on 北美华人基因组学在线沙龙</title>
     <link>http://cgmonline.co/tags/domestication/</link>
-    <description>Recent content in Domestication on 北美华人基因组学在线沙龙</description>
+    <description>Recent content in domestication on 北美华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>北美华人基因组学在线沙龙 2017</copyright>
-    <lastBuildDate>Wed, 21 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://cgmonline.co/tags/domestication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CGM 第74期：全基因组变异图谱揭示甜瓜驯化历史及农艺性状形成基因位点</title>
+      <link>http://cgmonline.co/2019/12/cgm-%E7%AC%AC74%E6%9C%9F%E5%85%A8%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%8F%98%E5%BC%82%E5%9B%BE%E8%B0%B1%E6%8F%AD%E7%A4%BA%E7%94%9C%E7%93%9C%E9%A9%AF%E5%8C%96%E5%8E%86%E5%8F%B2%E5%8F%8A%E5%86%9C%E8%89%BA%E6%80%A7%E7%8A%B6%E5%BD%A2%E6%88%90%E5%9F%BA%E5%9B%A0%E4%BD%8D%E7%82%B9/</link>
+      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2019/12/cgm-%E7%AC%AC74%E6%9C%9F%E5%85%A8%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%8F%98%E5%BC%82%E5%9B%BE%E8%B0%B1%E6%8F%AD%E7%A4%BA%E7%94%9C%E7%93%9C%E9%A9%AF%E5%8C%96%E5%8E%86%E5%8F%B2%E5%8F%8A%E5%86%9C%E8%89%BA%E6%80%A7%E7%8A%B6%E5%BD%A2%E6%88%90%E5%9F%BA%E5%9B%A0%E4%BD%8D%E7%82%B9/</guid>
+      <description>题目：全基因组变异图谱揭示甜瓜驯化历史及农艺性状形成基因位点 时间：2019 年 12 月 04 号（星期三），北京时间 9:00 PM 地点：zoom和bilibili</description>
+    </item>
+    
+    <item>
+      <title>CGM 第48期：水稻驯化之谜</title>
+      <link>http://cgmonline.co/2019/03/cgm-%E7%AC%AC48%E6%9C%9F%E6%B0%B4%E7%A8%BB%E9%A9%AF%E5%8C%96%E4%B9%8B%E8%B0%9C/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2019/03/cgm-%E7%AC%AC48%E6%9C%9F%E6%B0%B4%E7%A8%BB%E9%A9%AF%E5%8C%96%E4%B9%8B%E8%B0%9C/</guid>
+      <description>题目：水稻驯化之谜 时间：2019 年 03 月 06 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream 主讲人：汪鸿儒 Postdoc in</description>
+    </item>
+    
+    <item>
+      <title>CGM 第41期：Understanding Domestication Through Maize Mutants</title>
+      <link>http://cgmonline.co/2018/11/cgm-%E7%AC%AC41%E6%9C%9Funderstanding-domestication-through-maize-mutants/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2018/11/cgm-%E7%AC%AC41%E6%9C%9Funderstanding-domestication-through-maize-mutants/</guid>
+      <description>题目：Understanding Domestication Through Maize Mutants 时间：2018 年 11 月 07 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube</description>
+    </item>
     
     <item>
       <title>CGM 第23期：Polyploidy and duplicated gene regulation, stories of cotton 棉花进化那些事儿</title>
