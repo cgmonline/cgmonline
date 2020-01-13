@@ -34,7 +34,13 @@ weight: 2
 
 # Zoom
 
-Coming soon
+Topic: CGM 第 78 期：睡莲基因组和早期开花植物进化<br>
+Time: Jan 15, 2020 09:00 PM Beijing, Shanghai
+
+Join Zoom Meeting<br>
+https://zoom.com.cn/j/336692329
+
+Meeting ID: 336 692 329
 
 
 
