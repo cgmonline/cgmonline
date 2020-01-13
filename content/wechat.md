@@ -30,6 +30,7 @@ weight: 6
 
 ## 沙龙预告
 
+- 01-13-2020 [张亮生：睡莲基因组和早期开花植物进化](https://mp.weixin.qq.com/s/6VqZlyJfRzLTDgD9YbCi4w)
 - 01-06-2020 [严建兵：我是如何爱上玉米的](https://mp.weixin.qq.com/s/X1Ji2DpGCEOjDNThUVpqiA)
 - 12-17-2019 [武志强：植物细胞器基因组的“那些事”](https://mp.weixin.qq.com/s/FKgDbHqycpPwr1piH0JKHQ)
 - 11-26-2019 [专题讨论：如何在北美学术界找工作？](https://mp.weixin.qq.com/s/_7W4PCLiLW91TuzDnXKp_g)
@@ -64,6 +65,7 @@ weight: 6
 
 ## 通知公告
 
+- 01-10-2020 [CGM见面会@PAG2020](https://mp.weixin.qq.com/s/tDDNeL3YF1xrNzgipLJ-ew)
 - 10-27-2019 [CGM湾区线下活动惊喜举办](https://mp.weixin.qq.com/s/weduFmoZJQy29tYc81elTg)
 - 07-02-2019 [夏日烧烤趴！CGM湾区小分队线下见面会成功举行](https://mp.weixin.qq.com/s/v47SgezRmmVpW7qhc6SbDQ)
 - 04-19-2019 [【CGM年度评奖结果公告】CGM第一届年度最佳视频](https://mp.weixin.qq.com/s/5ehp8kfhPubmNV8k9ZFRnw)
