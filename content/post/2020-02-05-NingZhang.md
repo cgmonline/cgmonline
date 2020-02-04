@@ -1,9 +1,12 @@
 ---
-title: "下期预告"
+title: "CGM 第80期：逆境改变命运"
 date: "2020-02-05"
-menu: [top]
-weight: 2
+categories:
+  - 人物专访
+show_comments: true
+thumbnail: "https://i.imgur.com/norHKHt.jpg"
 ---
+
 - 题目：逆境改变命运
 - 时间：美中时间（CST）2020年1月22日（星期三） 8PM
 - 地点：Zoom and YouTube live stream
@@ -22,18 +25,11 @@ weight: 2
 <center>5，转战美国，历经沧桑；</center>
 <center>6，找到方向，扬帆起航；</center>
 
+# YouTube
+Coming soon
 
-# Zoom
-
-Topic: CGM 第 80 期：逆境改变命运 <br>
-Time: Feb 5, 2020 08:00 PM Central Time (US and Canada)
-
-Join Zoom Meeting<br>
-https://zoom.com.cn/j/238283537
-
-Meeting ID: 238 283 537
-
-
+# Bilibili
+Coming soon
 
 
 
