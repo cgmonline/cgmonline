@@ -26,10 +26,12 @@ thumbnail: "https://i.imgur.com/norHKHt.jpg"
 <center>6，找到方向，扬帆起航；</center>
 
 # YouTube
-Coming soon
+
+{{< youtube id="87n0QIS7VUk" autoplay="false" >}}
 
 # Bilibili
-Coming soon
+
+{{< bilibili id="87256760" autoplay="false" >}}
 
 
 

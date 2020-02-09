@@ -36,8 +36,9 @@ thumbnail: "https://i.imgur.com/UHJ1pqb.jpg"
 
 # YouTube
 
-Coming soon
+{{< youtube id="KEgB-tyHB7c" autoplay="false" >}}
 
 # Bilibili
-Coming soon
+
+{{< bilibili id="83590111" autoplay="false" >}}
 
