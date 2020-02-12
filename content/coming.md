@@ -18,7 +18,7 @@ weight: 2
 此前，角苔是苔藓类中唯一没有完整解析的高质量参考基因组的类群，本研究弥补了这一空缺，并深入揭示了角苔基因组独有的特征及这一类群对陆地环境的适应机制。
 
 # 参考文献：
-Jian Zhang#, Xin-Xing Fu#, Rui-Qi Li#, Xiang Zhao#,Yang Liu#, Ming-He Li#, Arthur Zwaenepoel#, Hong Ma, Bernard Goffinet, Yan-LongGuan, Jia-Yu Xue, Yi-Ying Liao, Qing-Feng Wang, Qing-Hua Wang, Jie-Yu Wang,Guo-Qiang Zhang, Zhi-Wen Wang, Yu Jia, Mei-Zhi Wang, Shan-Shan Dong, Jian-Fen Yang, Yuan-Nian Jiao, Ya-Long Guo, Hong-Zhi Kong, An-Ming Lu, Huan-Ming Yang,Shou-Zhou Zhang, Yves Van de Peer, Zhong-Jian Liu, Zhi-Duan Chen. [The hornwortgenome and early land plant evolution](https://doi.org/10.1038/s41477-019-0588-4). Nature Plants In press (#co-first author) <br>
+Jian Zhang#, Xin-Xing Fu#, Rui-Qi Li#, Xiang Zhao#,Yang Liu#, Ming-He Li#, Arthur Zwaenepoel#, Hong Ma, Bernard Goffinet, Yan-LongGuan, Jia-Yu Xue, Yi-Ying Liao, Qing-Feng Wang, Qing-Hua Wang, Jie-Yu Wang,Guo-Qiang Zhang, Zhi-Wen Wang, Yu Jia, Mei-Zhi Wang, Shan-Shan Dong, Jian-Fen Yang, Yuan-Nian Jiao, Ya-Long Guo, Hong-Zhi Kong, An-Ming Lu, Huan-Ming Yang,Shou-Zhou Zhang, Yves Van de Peer, Zhong-Jian Liu, Zhi-Duan Chen. [The hornwortgenome and early land plant evolution](https://doi.org/10.1038/s41477-019-0588-4). *Nature Plants*. In press (#co-first author) <br>
 ###### **文章2月10号之后在线，届时有兴趣的朋友可以在线查阅。**
 
 
