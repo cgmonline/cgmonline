@@ -41,7 +41,7 @@ weight: 6
 - 11, 2019-: 赵汀
 
 ## CGM **Business**
-- 09，2019-： [祁新帅](https://www.linkedin.com/in/xinshuaiqi/)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)，[雷栗](https://twitter.com/lilei0051)[卞杨]（https://www.linkedin.com/in/yang-bian-a540a026/）
+- 09，2019-： [祁新帅](https://www.linkedin.com/in/xinshuaiqi/)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)，[雷栗](https://twitter.com/lilei0051),[卞杨](https://www.linkedin.com/in/yang-bian-a540a026/)
 
 ------------------
 
