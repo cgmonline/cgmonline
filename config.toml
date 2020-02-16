@@ -53,6 +53,12 @@ publishDir = "docs"
   name = "学术报告"
   url = "/categories/学术报告/"
   weight = 3
+  
+
+[[menu.main]]
+  name = "企业群"
+  url = "/categories/企业群/"
+  weight = 6
 
 [params.banner]
   src = "/img/logo.png"
