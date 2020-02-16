@@ -4,7 +4,7 @@ title = "北美华人基因组学在线沙龙"
 theme = "hugo-xmag"
 disqusShortname = "cgmonline-co"
 googleAnalytics = "UA-48206713-4"
-paginate = 4
+paginate = 6
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 hasCJKLanguage = true
 enableEmoji = true
@@ -34,12 +34,31 @@ publishDir = "docs"
   url = "/archives/"
   weight = 4
 
-[[menu.top]]
+[[menu.main]]
   name = "关键词"
   url = "/tags/"
   weight = 5
 
+[[menu.main]]
+  name = "人物专访"
+  url = "/categories/人物专访/"
+  weight = 1
 
+[[menu.main]]
+  name = "专题讨论"
+  url = "/categories/专题讨论/"
+  weight = 2
+
+[[menu.main]]
+  name = "学术报告"
+  url = "/categories/学术报告/"
+  weight = 3
+  
+
+[[menu.main]]
+  name = "企业群"
+  url = "/categories/企业群/"
+  weight = 6
 
 [params.banner]
   src = "/img/logo.png"
@@ -47,11 +66,11 @@ publishDir = "docs"
 
 [[params.banner.source]]
   media = "(min-width: 715px)"
-  srcset = "/img/logo-wide.png"
+  srcset = "/img/new-logo-wide2020.png"
 
 [[params.banner.source]]
   media = "(max-width: 380px)"
-  srcset = "/img/logo-80.png"
+  srcset = "/img/new-logo-wide2020.png"
 
 [params.text]
   about_author = "关于作者"
@@ -66,7 +85,7 @@ publishDir = "docs"
   title_tags = "关键词列表"
 
 [params]
-	copyright = "北美华人基因组学在线沙龙 2017"
+	copyright = "华人基因组学在线沙龙 2020"
 	description = "基因组学在线讨论平台"
 
   summary_length = 200

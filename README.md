@@ -38,16 +38,23 @@ git checkout master
 git merge upstream/master
 ```
 
-#### 2. Create or edit files in `content/post/`.
-Note, to add a new post, follow our naming convention `year-month-day-some-words-as-title.md`.
+#### 2. 发布预告
 
-#### 3. Deploy your changes
+Modify the `content/coming.md` file accordingly.
+
+#### 3. 转移到讨论列表
+
+Create or edit files in `content/post/` in your local repo.
+Note, to add a new post, follow our naming convention `year-month-day-some-words-as-title.md`.
+You need an imgur account to post a nice picture that normally just obtained from google as a __thumbnail__.
+
+#### 4. Deploy your changes
 Run the following command to compile the md file into html, git add and git commit.
 ```
 sh deploy.sh
 ```
-#### 4. Create a new Pull Request on Github
+#### 5. Create a new Pull Request on Github
 
 
 ## Copyright & License
-The [MIT License](LICENSE) (MIT), Copyright (c) 2016.
+The [MIT License](LICENSE) (MIT), Copyright (c) 2019.

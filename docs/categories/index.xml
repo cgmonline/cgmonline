@@ -6,7 +6,7 @@
     <description>Recent content in Categories on 北美华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>北美华人基因组学在线沙龙 2017</copyright>
+    <copyright>华人基因组学在线沙龙 2020</copyright>
     
 	<atom:link href="http://cgmonline.co/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,25 @@
     <item>
       <title>专题讨论</title>
       <link>http://cgmonline.co/categories/%E4%B8%93%E9%A2%98%E8%AE%A8%E8%AE%BA/</link>
-      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>http://cgmonline.co/categories/%E4%B8%93%E9%A2%98%E8%AE%A8%E8%AE%BA/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>人物专访</title>
+      <link>http://cgmonline.co/categories/%E4%BA%BA%E7%89%A9%E4%B8%93%E8%AE%BF/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/categories/%E4%BA%BA%E7%89%A9%E4%B8%93%E8%AE%BF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>学术报告</title>
       <link>http://cgmonline.co/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</link>
-      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>http://cgmonline.co/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</guid>
       <description></description>
