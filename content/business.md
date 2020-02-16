@@ -25,7 +25,7 @@ CGM Business 主页 QR code：
 
 CGM Business 申请表 QR code：
 
-![](https://github.com/cgmonline/cgmonline/blob/master/docs/img/CGM_Business_applicationQRcode.png){width=50%}
+![](https://github.com/cgmonline/cgmonline/blob/master/docs/img/CGM_Business_applicationQRcode.png)
  
 
 
