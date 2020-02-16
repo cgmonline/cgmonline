@@ -17,9 +17,11 @@ https://forms.gle/7E5Xwe5i3bc4DkGp7
 ![](https://github.com/cgmonline/cgmonline/blob/master/docs/img/CGM%20Business.png)
 
 CGM Business 主页 QR code：
+
 ![](https://github.com/cgmonline/cgmonline/blob/master/docs/img/CGM_businessQRcode.png)
 
 CGM Business 申请表 QR code：
+
 ![](https://github.com/cgmonline/cgmonline/blob/master/docs/img/CGM_Business_applicationQRcode.png)
 
 
