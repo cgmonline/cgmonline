@@ -15,17 +15,17 @@ https://forms.gle/7E5Xwe5i3bc4DkGp7
 然后微信联系管理员：qxs718、e-jan、ll68551551。并注明“CGM business”。
 
 
-![](static/img/CGM%20Business.png)
+![](https://imgur.com/8R88Jw7)
 
 
 CGM Business 主页 QR code：
 
-![](static/img/CGM_businessQRcode.png)
+![](https://imgur.com/HSnCLlQ)
 
 
 CGM Business 申请表 QR code：
 
-![](static/img/CGM_Business_applicationQRcode.png)
+![](https://imgur.com/gcr4YLb)
  
 
 
