@@ -19,8 +19,10 @@ https://forms.gle/7E5Xwe5i3bc4DkGp7
 <img src="https://github.com/cgmonline/cgmonline/blob/master/docs/img/CGM%20Business.png" width="30%">
 
 CGM Business 主页 QR code：
-
- 
+![]("https://github.com/cgmonline/cgmonline/blob/master/docs/img/CGM_businessQRcode.png" )
+ .content-card img {https://github.com/cgmonline/cgmonline/blob/master/docs/img/CGM_businessQRcode.png
+    max-width: 100%;
+}
 
 <img src="https://github.com/cgmonline/cgmonline/blob/master/docs/img/CGM_businessQRcode.png" width="20%">
 
