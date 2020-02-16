@@ -14,5 +14,5 @@ weight: 6
 https://forms.gle/7E5Xwe5i3bc4DkGp7
 然后微信联系管理员：qxs718、e-jan、ll68551551。并注明“CGM business”。
 
-![Logo](https://github.com/cgmonline/cgmonline/blob/master/docs/img/CGM%20Business.png)
+![Logo](https://github.com/cgmonline/cgmonline/blob/master/docs/img/CGM%20Business.png,style="zoom:50%;" /)
 
