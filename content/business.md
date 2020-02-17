@@ -4,6 +4,8 @@ menu: [top]
 weight: 7
 ---
 
+![](https://i.imgur.com/8R88Jw7.png)
+
 # 关于我们
 基于CGM的企业群旨在为现在和曾经在北美从事基因组和生命科学相关商业活动和研发的朋友提供一个母语交流的平台。
 
@@ -19,7 +21,7 @@ https://forms.gle/7E5Xwe5i3bc4DkGp7
 然后微信联系管理员：qxs718、e-jan、ll68551551。并注明“CGM business”。
 
 
-![](https://i.imgur.com/8R88Jw7.png)
+
 
 
 CGM Business 主页 QR code：
@@ -34,9 +36,9 @@ CGM Business 申请表 QR code：
 # 往期活动
 |时间|讨论主题|
 |---|---|
-|9/17/2019|自我介绍和活动形式的头脑风暴|
-|10/17/2019|Effective communication 如何在企业内部进行有效沟通？	Career development 怎样实现自己的升职加薪目标？|
-|11/14/2019|Project Management Tools的选择和使用	How to effectively organize a meeting|
+|9/17/2019|活动形式的头脑风暴|
+|10/17/2019|Effective communication 企业内部有效沟通; Career development 怎样实现自升职加薪？|
+|11/14/2019|Project Management Tools的选择和使用;	How to effectively organize a meeting|
 |2/12/2019|Year End Performance Review|
 
 
