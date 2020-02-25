@@ -9,11 +9,9 @@ weight: 2
 - 地点：Zoom and Bilibili live stream
 - 主讲人：郑晓明，中国农业科学院作物科学研究所副研究员。2010年7月在中国科学院植物研究所获博士学位，师从葛颂研究员。2010年8月至2013年7月在中国农业科学院作物科学研究所进行博士后研究，师从万建民研究员；2013年至今在中国农业科学院作物科学研究所工作至今。  长期从事野生稻种质资源和栽培稻收集和起源进化研究。近年来以第一作者或合作这身份在Science、Cell，Science Advances、Nature Plants，PNAS和Molecular Ecology等期刊发表多篇学术论文。
 
-![](https://i.imgur.com/0x22kL7.jpg)
-
 
 <div align="center">
-<img src="https://i.imgur.com/0x22kL7.jpg" height=200>
+<img src="https://i.imgur.com/0x22kL7.jpg" height=500>
 </div>
 
 # 中文摘要
