@@ -26,8 +26,10 @@ thumbnail: "https://i.imgur.com/0x22kL7.jpg"
 **X.M. Zheng**,J. Chen, H. B. Pang, S. Liu, Q. Gao, J. R. Wang, W. H. Qiao, H. Wang, J.Liu, K. M. Olsen, and Q. W. Yang. Genome-wide analyses reveal the role of noncoding variation in complex traits during rice domestication. ScienceAdvances, 2019 DOI: 10.1126/sciadv.aax3619
 
 # YouTube
-Comming soon.
+
+{{< youtube id="cnh3Onx9mVg" autoplay="false" >}}
 
 # Bilibili
-Comming soon.
+
+{{< bilibili id="92070076" autoplay="false" >}}
 

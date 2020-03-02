@@ -24,8 +24,10 @@ thumbnail: "https://i.imgur.com/foINTN6.png"
 **R. Cui**, T. Medeiros, D. Willemsen, L. N. M. Iasi, G. E. Collier, M. Graef, M. Reichard, D.R. Valenzano. Relaxed selection limits lifespan by increasing mutation load. Cell；2019. 178(2): 385-399
 
 # YouTube
-Comming soon.
+
+{{< youtube id="AVbyXXvuY6Y" autoplay="false" >}}
 
 # Bilibili
-Comming soon.
+
+{{< bilibili id="91027476" autoplay="false" >}}
 
