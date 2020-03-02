@@ -11,6 +11,10 @@ weight: 2
 
 ![](https://i.imgur.com/246SzX4.jpg)
 
+<div align="center">
+<img src="https://i.imgur.com/246SzX4.jpg" height=300>
+</div>
+
 
 # 中文摘要
 
