@@ -26,9 +26,9 @@ Jian Zhang#, Xin-Xing Fu#, Rui-Qi Li#, Xiang Zhao#,Yang Liu#, Ming-He Li#, Arthu
 
 # YouTube
 
-Coming soon
+{{< youtube id="6Ljt8Ryest8" autoplay="false" >}}
 
 # Bilibili
 
-Coming soon
+{{< bilibili id="88534045" autoplay="false" >}}
 
