@@ -4,7 +4,9 @@ menu: [top]
 weight: 7
 ---
 
-![](https://i.imgur.com/8R88Jw7.png)
+<div align="center">
+<img src="https://i.imgur.com/8R88Jw7.png" height=200>
+</div>
 
 # 关于我们
 基于CGM的企业群旨在为现在和曾经在北美从事基因组和生命科学相关商业活动和研发的朋友提供一个母语交流的平台。
