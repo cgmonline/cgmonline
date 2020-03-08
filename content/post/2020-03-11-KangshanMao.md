@@ -29,9 +29,9 @@ Li JL, Milne RI, Ru DF, Miao JB, Tao WJ, Zhang L, Xu JJ, Liu JQ, Mao KS*. 2020. 
 
 # YouTube
 
-{{< youtube id="cnh3Onx9mVg" autoplay="false" >}}
+{{< youtube id="" autoplay="false" >}}
 
 # Bilibili
 
-{{< bilibili id="92070076" autoplay="false" >}}
+{{< bilibili id="" autoplay="false" >}}
 
