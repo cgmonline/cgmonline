@@ -4,7 +4,7 @@
   
   <url>
     <loc>http://cgmonline.co/coming/</loc>
-    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,6 +33,21 @@
   
   <url>
     <loc>http://cgmonline.co/sponsor/</loc>
+  </url>
+  
+  <url>
+    <loc>http://cgmonline.co/2020/03/cgm-%E7%AC%AC85%E6%9C%9F%E8%A5%BF%E5%8D%97%E5%B1%B1%E5%9C%B0%E6%9F%8F%E6%9C%A8%E5%B1%9E%E7%89%A9%E7%A7%8D%E7%9A%84%E8%B0%B1%E7%B3%BB%E5%88%86%E5%8C%96%E4%B8%8E%E6%9D%82%E4%BA%A4%E5%8E%86%E5%8F%B2%E7%A0%94%E7%A9%B6/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cgmonline.co/2020/03/cgm-%E7%AC%AC84%E6%9C%9F%E5%BD%93%E5%8F%A4%E4%BA%BA%E4%B8%8E%E7%8E%B0%E4%BB%A3%E4%BA%BA%E7%9B%B8%E9%81%87%E9%80%82%E5%BA%94%E6%80%A7%E5%9F%BA%E5%9B%A0%E6%B8%97%E5%85%A5%E4%B8%8E%E6%9C%89%E5%AE%B3%E7%AA%81%E5%8F%98%E5%AF%B9%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%E7%9A%84%E5%BD%B1%E5%93%8D/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cgmonline.co/2020/02/cgm-%E7%AC%AC83%E6%9C%9F%E6%8E%A2%E7%B4%A2%E6%B0%B4%E7%A8%BB%E5%9F%BA%E5%9B%A0%E7%BB%84%E4%B8%AD%E5%9E%83%E5%9C%BEdna%E7%9A%84%E7%94%9F%E7%89%A9%E5%AD%A6%E6%84%8F%E4%B9%89/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -487,6 +502,12 @@
   </url>
   
   <url>
+    <loc>http://cgmonline.co/tags/adaptive-introgression/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://cgmonline.co/tags/antarctic-trip/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -500,13 +521,19 @@
   
   <url>
     <loc>http://cgmonline.co/tags/arabidopsis/</loc>
-    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cgmonline.co/tags/arabidopsis/</loc>
-    <lastmod>2018-06-27T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cgmonline.co/tags/archaic-humans/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -666,6 +693,12 @@
   </url>
   
   <url>
+    <loc>http://cgmonline.co/tags/cypress-species/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://cgmonline.co/tags/dna/</loc>
     <lastmod>2018-11-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -692,6 +725,12 @@
   <url>
     <loc>http://cgmonline.co/tags/deleterious/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cgmonline.co/tags/deleterious-variation/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -728,6 +767,12 @@
   <url>
     <loc>http://cgmonline.co/tags/domestication/</loc>
     <lastmod>2019-03-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cgmonline.co/tags/domestication-traits/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -776,6 +821,12 @@
   <url>
     <loc>http://cgmonline.co/tags/evolution/</loc>
     <lastmod>2020-02-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cgmonline.co/tags/evolutionary/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -866,6 +917,12 @@
   <url>
     <loc>http://cgmonline.co/tags/genome-variation-map/</loc>
     <lastmod>2019-12-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cgmonline.co/tags/genome-wide-selection/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -966,6 +1023,12 @@
   </url>
   
   <url>
+    <loc>http://cgmonline.co/tags/introgression/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://cgmonline.co/tags/invasiveness/</loc>
     <lastmod>2019-02-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -998,6 +1061,12 @@
   <url>
     <loc>http://cgmonline.co/tags/life-history/</loc>
     <lastmod>2020-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cgmonline.co/tags/lncrna/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1075,13 +1144,13 @@
   
   <url>
     <loc>http://cgmonline.co/tags/microbiome/</loc>
-    <lastmod>2018-10-03T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cgmonline.co/tags/microbiome/</loc>
-    <lastmod>2018-06-13T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1279,13 +1348,13 @@
   
   <url>
     <loc>http://cgmonline.co/tags/polyploidy/</loc>
-    <lastmod>2018-06-27T00:00:00+00:00</lastmod>
+    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cgmonline.co/tags/polyploidy/</loc>
-    <lastmod>2019-07-10T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1302,6 +1371,18 @@
   </url>
   
   <url>
+    <loc>http://cgmonline.co/tags/population-genetic/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cgmonline.co/tags/population-genetics/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://cgmonline.co/tags/population-growth-rate/</loc>
     <lastmod>2019-02-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1309,7 +1390,7 @@
   
   <url>
     <loc>http://cgmonline.co/post/</loc>
-    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1375,25 +1456,25 @@
   
   <url>
     <loc>http://cgmonline.co/tags/rhizobium/</loc>
-    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://cgmonline.co/tags/rhizobium/</loc>
     <lastmod>2019-09-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://cgmonline.co/tags/rice/</loc>
-    <lastmod>2019-04-03T00:00:00+00:00</lastmod>
+    <loc>http://cgmonline.co/tags/rhizobium/</loc>
+    <lastmod>2018-04-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://cgmonline.co/tags/rice/</loc>
-    <lastmod>2019-04-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cgmonline.co/tags/rice/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1597,7 +1678,7 @@
   
   <url>
     <loc>http://cgmonline.co/</loc>
-    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1606,7 +1687,7 @@
   
   <url>
     <loc>http://cgmonline.co/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</loc>
-    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
