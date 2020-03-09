@@ -1,4 +1,4 @@
-﻿---
+---
 title: "CGM 第85期：西南山地柏木属物种的谱系分化与杂交历史研究"
 date: "2020-03-11"
 categories:
@@ -24,6 +24,7 @@ thumbnail: "https://i.imgur.com/2j1N1F2.jpg.jpg"
 # 参考文献
 
 Ma YZ †, Wang J †, Hu QJ†, Li JL, Sun YS, Zhang L, Abbott RJ, Liu JQ*, Mao KS*. 2019. Ancient introgression drives adaptation to cooler and drier mountain habitats in a cypress species complex. Communications Biology 2: 213.<br>
+
 Li JL, Milne RI, Ru DF, Miao JB, Tao WJ, Zhang L, Xu JJ, Liu JQ, Mao KS*. 2020. Allopatric divergence and hybridization within Cupressus chengiana (Cupressaceae), a threatened conifer in the northern Hengduan Mountains of western China. Molecular Ecology (Accepted).
 
 
