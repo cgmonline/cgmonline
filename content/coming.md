@@ -20,9 +20,9 @@ weight: 2
 
 # 参考文献
 
-Leenay, R. T., Aghazadeh, A., Hiatt, J., Tse, D., Roth, T. L., Apathy, R., ... & Cirolia, G. (2019). Large dataset enables prediction of repair after CRISPR–Cas9 editing in primary T cells. Nature biotechnology, 37(9), 1034-1037.
-Bodapati, S., Daley, T. P., Lin, X., Zou, J., & Qi, L. S. (2020). A benchmark of algorithms for the analysis of pooled CRISPR screens. Genome Biology, 21(1), 1-13.
-Ghorbani, A., Abid, A., & Zou, J. (2019, July). Interpretation of neural networks is fragile. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 33, pp. 3681-3688).
+- Leenay, R. T., Aghazadeh, A., Hiatt, J., Tse, D., Roth, T. L., Apathy, R., ... & Cirolia, G. (2019). Large dataset enables prediction of repair after CRISPR–Cas9 editing in primary T cells. Nature biotechnology, 37(9), 1034-1037.
+- Bodapati, S., Daley, T. P., Lin, X., Zou, J., & Qi, L. S. (2020). A benchmark of algorithms for the analysis of pooled CRISPR screens. Genome Biology, 21(1), 1-13.
+- Ghorbani, A., Abid, A., & Zou, J. (2019, July). Interpretation of neural networks is fragile. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 33, pp. 3681-3688).
 
 # Zoom
 
