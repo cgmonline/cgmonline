@@ -9,8 +9,7 @@ weight: 2
 - 时间：北京时间 2020 年 3 月 25 日（星期三）9PM（美西时间3月25日 6AM）
 - 地点：Zoom and Bilibili live stream
 - 主讲人：杨俊，男，博士，洪堡学者，副研究员。2011年中国科学院博士毕业；2012年荣获ProSPER.Net-Scopus青年科学家奖；2013年接受德国洪堡基金会（Alexander von Humboldt Stiftung）邀请前往柏林马普分子遗传所从事独立研究，主攻多倍体基因组组装难题；2014年科技部国际合作专项获得批准；2016年初正式加入上海辰山植物园开始组建旋花科进化研究组；2017年最终完成六倍体甘薯基因组测序；2018年科技部国际合作专项顺利结题，同年承担科技部重点研发项目子课题；2019组织召开第一届国际旋花科会议，致力于旋花科植物进化关系研究；目前是中国科学院青年创新促进会成员。<br>
-杨俊长期从事甘薯遗传转化、基因组研究分析工作，聚焦于解析甘薯块根膨大机制、六倍体甘薯基因组组成和起源等，主要研究成果发表在Nature Plants，Molecular Plant，Nature Communications，Plant Science等国际著名学术期刊上，并应Frontiers in Plant Science杂志邀请作为客座副主编组织Genetics and Genomics of Polyploid Plants研究专题。James Zou，哈佛大学应用数学博士，现斯坦福大学Biomedical Data Science，CS, EE助理教授。主要从事机器学习领域的研究，专注于开发生物技术和生物医学应用的算法。其研究成果发表在Nature，PNAS， Nature Biotechnology，Nature Machine Intelligence等杂志上。
-
+杨俊长期从事甘薯遗传转化、基因组研究分析工作，聚焦于解析甘薯块根膨大机制、六倍体甘薯基因组组成和起源等，主要研究成果发表在Nature Plants，Molecular Plant，Nature Communications，Plant Science等国际著名学术期刊上，并应Frontiers in Plant Science杂志邀请作为客座副主编组织Genetics and Genomics of Polyploid Plants研究专题。
 
 ![](https://i.loli.net/2020/03/22/j2PZlMSgk6WnoBp.jpg)
 
@@ -32,6 +31,7 @@ weight: 2
 # 参考文献
 
 - Yang, Jun & Moeinzadeh, M-Hossein & Kuhl, Heiner & Helmuth, Johannes & Xiao, Peng & Haas, Stefan & Liu, Guiling & Zheng, Jianli & Sun, Zhe & Fan, Weijuan & Deng, Gaifang & Wang, Hongxia & Hu, Fenhong & Zhao, Shanshan & Fernie, Alisdair & Börno, Stefan & Timmermann, Bernd & Zhang, Peng & Vingron, Martin. (2017). Haplotype-resolved sweet potato genome traces back its hexaploidization history. Nature plants. 3. 10.1038/s41477-017-0002-z.
+
 - Yang J*, Wang Z*, Jiang Y* and Fei S* (2019) Editorial: Genetics and Genomics of Polyploid Plants. Frontiers in Plant Science 10: 934.
 
 # Zoom
