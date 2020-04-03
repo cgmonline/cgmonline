@@ -28,12 +28,12 @@ https://forms.gle/7E5Xwe5i3bc4DkGp7
 然后微信联系管理员：qxs718、e-jan、ll68551551、ybian2。并注明“CGM business”。
 
 
-CGM Business 主页 QR code：
+CGM Business Meetup 主页 QR code：
 
 ![](https://i.imgur.com/HSnCLlQ.png)
 
 
-CGM Business 申请表 QR code：
+CGM Business Meetup 申请表 QR code：
 
 ![](https://i.imgur.com/gcr4YLb.png)
 
