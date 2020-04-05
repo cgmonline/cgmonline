@@ -13,7 +13,9 @@ thumbnail: "https://i.imgur.com/F4iaSCL.png"
 - 地点：Zoom and Bilibili live stream
 - 主讲人：林泽川，2006-2010长江大学本科，2010-2013中国农业科学院硕士，2014-2019 北京大学博士，2020-至今 哈佛医学院/布莱根妇女医院 博士后。在读博期间，主要从事基于基因组学/多组学整合的水稻和玉米的群体遗传研究，以第一作者/共同第一作者在Nature genetics， PNAS以及Plant biotechnology journal等杂志发表论文5篇。
 
-![](https://i.imgur.com/VsYRD0c.png)
+<div align="center">
+<img src="https://i.imgur.com/VsYRD0c.png" height=500>
+</div>
 
 # 中文摘要
 
