@@ -1,4 +1,4 @@
-﻿---
+---
 title: "下期预告"
 date: "2020-04-08"
 menu: [top]
@@ -10,8 +10,9 @@ weight: 2
 - 地点：Zoom and Bilibili live stream
 - 主讲人：田金歌，2019年中国农业大学农学院作物遗传育种专业博士，师从田丰教授。 2012 年天津农学院农学系农学专业本科。在读博期间，从事玉米基因组学领域里的研究，主要研究方向为玉米紧凑株型的分子调控机制。其研究成果在science, Plant cell, PNAS, Molecular plant等杂志发表论文7篇。其中2019年8月在Science上以第一作者发表的论文为我国玉米领域的首篇SCN主刊论文。
 
-![](https://i.loli.net/2020/04/04/6JqvyCPR3OuiKfY.jpg)
-
+<div align="center">
+<img src="https://i.loli.net/2020/04/04/6JqvyCPR3OuiKfY.jpg" height=500>
+</div>
 
 # 中文摘要
 
@@ -19,7 +20,7 @@ weight: 2
 
 # 参考文献
 
-Tian J*, Wang C*, Xia J, Wu L, Xu G, Wu W, Li D, Qin W, Han X, Chen Q, Jin W, Tian F†. 2019. Teosinte ligule allele narrows plant architecture and enhances high-density maize yields. Science 365: 658-664.
+- Tian J*, Wang C*, Xia J, Wu L, Xu G, Wu W, Li D, Qin W, Han X, Chen Q, Jin W, Tian F†. 2019. Teosinte ligule allele narrows plant architecture and enhances high-density maize yields. Science 365: 658-664.
 
 # Zoom
 
