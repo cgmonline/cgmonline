@@ -13,7 +13,9 @@ thumbnail: "https://i.imgur.com/J7cGsLa.png"
 - 地点：Zoom and Bilibili live stream
 - 主讲人：章心珺, UC Davis分子人类学博士（导师David Glenn Smith），2019年至今为美国加州大学洛杉矶分校群体遗传学方向博士后（Co-advised by Kirk Lohmueller and Emilia Huerta-Sanchez）。
 
-![](https://i.imgur.com/246SzX4.jpg)
+<div align="center">
+<img src="https://i.imgur.com/246SzX4.jpg" height=500>
+</div>
 
 # 中文摘要
 
