@@ -1,17 +1,19 @@
 ﻿---
-title: "下期预告"
+title: "CGM 第89期：玉米密植高产的遗传密码"
 date: "2020-04-08"
-menu: [top]
-weight: 2
+categories:
+  - 学术报告
+tags: [Leaf angle, QTL, fine mapping, ZmRAVL1, functional verification, rare allele ]
+show_comments: true
+thumbnail: "https://i.loli.net/2020/04/04/6JqvyCPR3OuiKfY.jpg"
 ---
 
 - 题目：玉米密植高产的遗传密码
-- 时间：北京时间2020年4月8日9PM（美国西部时间 4 月 8 日（星期三）6AM）
+- 时间：北京时间2020年4月8日9PM（美国西部PST时间 4 月 8 日（星期三）6AM）
 - 地点：Zoom and Bilibili live stream
 - 主讲人：田金歌，2019年中国农业大学农学院作物遗传育种专业博士，师从田丰教授。 2012 年天津农学院农学系农学专业本科。在读博期间，从事玉米基因组学领域里的研究，主要研究方向为玉米紧凑株型的分子调控机制。其研究成果在science, Plant cell, PNAS, Molecular plant等杂志发表论文7篇。其中2019年8月在Science上以第一作者发表的论文为我国玉米领域的首篇SCN主刊论文。
 
 ![](https://i.loli.net/2020/04/04/6JqvyCPR3OuiKfY.jpg)
-
 
 # 中文摘要
 
@@ -21,14 +23,9 @@ weight: 2
 
 Tian J*, Wang C*, Xia J, Wu L, Xu G, Wu W, Li D, Qin W, Han X, Chen Q, Jin W, Tian F†. 2019. Teosinte ligule allele narrows plant architecture and enhances high-density maize yields. Science 365: 658-664.
 
-# Zoom
+# YouTube
+Comming soon.
 
-主题：CGM 第89期：玉米密植高产的遗传密码
-
-时间：北京时间2020年4月8日9PM（美国西部时间 4 月 8 日（星期三）6AM）
-
-加入 Zoom 会议
-https://zoom.com.cn/j/709900288?pwd=cHVVNTNuaXpMTzdSa0FvcUF1ZG90Zz09
-
-会议 ID：709 900 288  密码：560808
+# Bilibili
+Comming soon.
 
