@@ -26,8 +26,11 @@ thumbnail: "https://i.imgur.com/J7cGsLa.png"
 Recessive deleterious variation has a limited impact on signals of adaptive introgression in human populations **Xinjun Zhang**, Bernard Kim, Kirk E. Lohmueller, Emilia Huerta-Sánchez. bioRxiv 2020.01.13.905174. doi: https://doi.org/10.1101/2020.01.13.905174
 
 # YouTube
-Comming soon.
+
+{{< youtube id="V72LsfACIdk" autoplay="false" >}}
 
 # Bilibili
-Comming soon.
+
+{{< bilibili id="1ME411W7XF" autoplay="false" >}}
+
 
