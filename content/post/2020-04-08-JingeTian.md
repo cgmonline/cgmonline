@@ -26,8 +26,10 @@ thumbnail: "https://i.loli.net/2020/04/04/6JqvyCPR3OuiKfY.jpg"
 Tian J*, Wang C*, Xia J, Wu L, Xu G, Wu W, Li D, Qin W, Han X, Chen Q, Jin W, Tian F†. 2019. Teosinte ligule allele narrows plant architecture and enhances high-density maize yields. Science 365: 658-664.
 
 # YouTube
-Comming soon.
+
+{{< youtube id="YIgq_kshQdA" autoplay="false" >}}
 
 # Bilibili
-Comming soon.
+
+{{< bilibili id="" autoplay="false" >}}
 

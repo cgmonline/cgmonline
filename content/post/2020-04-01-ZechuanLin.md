@@ -26,8 +26,11 @@ thumbnail: "https://i.imgur.com/F4iaSCL.png"
 **Lin, Z.**, Qin, P., Zhang, X., Fu, C., Deng, H., Fu, X., Huang, Z., Jiang, S., Li, C., Tang, X. and Wang, X., 2020. Divergent selection and genetic introgression shape the genome landscape of heterosis in hybrid rice. Proceedings of the National Academy of Sciences, 117(9), pp.4623-4631.
 
 # YouTube
-Comming soon.
+
+{{< youtube id="0848Ha6uknk" autoplay="false" >}}
 
 # Bilibili
-Comming soon.
+
+{{< bilibili id="" autoplay="false" >}}
+
 
