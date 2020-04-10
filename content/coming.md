@@ -12,7 +12,7 @@ weight: 2
 崔晓峰，《分子植物》（Molecular Plant）和其姊妹刊《植物通讯》（Plant Communications）执行主编。2004年于浙江大学生物技术所获得博士学位，博士论文荣获2006年度“全国百篇优秀博士论文”。2005-2007年在美国Purdue大学从事博士后研究，2012年6月起为Molecular Plant常务副主编，2013年获中国科学院文献情报和期刊出版领域引进优秀人才择优支持，2015年获聘为中科院特聘研究员。在Plant Cell, Molecular Plant, Plant Journal, Journal of Virology和Journal of Experimental Botany等国际知名期刊上以通讯作者或第一作者身份发表论文10余篇。
 
 <div align="center">
-<img src="https://i.imgur.com/GXuAo6x.jpg" height=500>
+<img src="https://i.imgur.com/GXuAo6x.jpg" height=200>
 </div>
 
 <br>
