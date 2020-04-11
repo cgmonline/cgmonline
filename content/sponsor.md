@@ -12,11 +12,15 @@ weight: 9
 [![LGC](https://biosearch-cdn.azureedge.net/assetsv6/banner-300x250-kasp-compilation.gif)](http://info.biosearchtech.com/see-how-leading-scientists-use-kasp?hs_preview=ZggIGtQb-27299473871)
 
 
-# 2020年度Silver赞助伙伴：
+## 2020年度Silver赞助伙伴：
 
 [![希望组](https://www.grandomics.com/wp-content/themes/grandomics/images/layout/logo.png)](https://www.grandomics.com/en/)
 
 <!-- [![投必得](https://i.imgur.com/KpG4Ujg.png?2)](https://www.topeditsci.com) -->
+
+## 2020年度Bronze赞助伙伴：
+
+[![百奥云](http://nwzimg.wezhan.cn/contents/sitefiles2024/10122391/images/4568480.png)](http://www.biobin.com.cn/)
 
 
 
