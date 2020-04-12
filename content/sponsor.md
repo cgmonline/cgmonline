@@ -10,7 +10,7 @@ weight: 9
 
 # 2020年度Gold赞助伙伴：LGC
 
-[![LGC](https://biosearch-cdn.azureedge.net/assetsv6/banner-300x250-kasp-compilation.gif)](http://info.biosearchtech.com/see-how-leading-scientists-use-kasp?hs_preview=ZggIGtQb-27299473871)
+[![LGC]([Imgur](https://i.imgur.com/sVW7CD0.png))
 
 
 ## 2020年度Silver赞助伙伴：未来组
