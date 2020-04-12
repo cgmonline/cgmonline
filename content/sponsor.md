@@ -10,7 +10,7 @@ weight: 9
 
 # 2020年度Gold赞助伙伴：LGC
 
-[![LGC]([Imgur](https://i.imgur.com/sVW7CD0.png))
+[![LGC]([Imgur](https://i.imgur.com/sVW7CD0.png)](https://www.lgcgroup.com/)
 
 
 ## 2020年度Silver赞助伙伴：未来组
