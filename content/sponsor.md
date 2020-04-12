@@ -10,14 +10,15 @@ weight: 9
 
 # 2020年度Gold赞助伙伴：LGC
 
-[![LGC]([Imgur](https://i.imgur.com/sVW7CD0.png)](https://www.lgcgroup.com/)
+[![LGC](https://i.imgur.com/sVW7CD0.png)](https://www.lgcgroup.com/)
 
+---------------
 
 ## 2020年度Silver赞助伙伴：未来组
 
 [![未来组](https://www.nextomics.cn/wp-content/uploads/2018/05/no-logo.png)](https://www.nextomics.cn/)
 
-
+----------------
 
 ### 2020年度Bronze赞助伙伴：百奥云
 
