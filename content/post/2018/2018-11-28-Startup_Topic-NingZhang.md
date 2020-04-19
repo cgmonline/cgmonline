@@ -10,7 +10,7 @@ thumbnail: "https://i.imgur.com/X48RIMq.jpg"
 
 
 - 题目：生物学博士如何创业--专访投必得（TopEdit）创办人张宁博士
-- 时间：2018 年 11 月 18 号（星期三），美西时间（Pacific Time）6:00 PM
+- 时间：2018 年 11 月 28 号（星期三），美西时间（Pacific Time）6:00 PM
 - 地点：YouTube live stream 
 - 主讲人：张宁（Ning Zhang）FDA
 
