@@ -1,18 +1,21 @@
 ﻿---
-title: "下期预告"
+title: "CGM 第91期：芡实和金鱼藻揭示被子植物早期演化关系"
 date: "2020-04-22"
-menu: [top]
-weight: 2
+categories:
+  - 学术报告
+tags: [Prickly waterlily, rigid hornwort , genome assembly, early angiosperm evolution]
+show_comments: true
+thumbnail: "https://i.loli.net/2020/04/19/VSIodgrDBvfR9lA.jpg"
 ---
 
 - 题目：芡实和金鱼藻揭示被子植物早期演化关系
-- 时间：北京时间2020年4月22日9PM（美国西部时间 4 月 22 日（星期三）6AM）
+- 时间：北京时间2020年4月22日9PM（美国西部PST时间 4 月 22 日（星期三）6AM）
 - 地点：Zoom and Bilibili live stream
 - 主讲人：杨勇志，兰州大学青年研究员，硕士生导师。2012年、2018年分别在兰州大学获得学士学位和博士学位，师从刘建全教授。主要使用比较基因组学、群体遗传学等手段，围绕物种适应性进化的遗传机制和濒危物种的群体维持机制开展研究。近年来以第一作者、并列一作和通讯作者在Nature Plants、Nature Communications、Molecular Ecology Resources等杂志发表多篇研究论文。
 
-![](https://i.loli.net/2020/04/19/VSIodgrDBvfR9lA.jpg)
-
-
+<div align="center">
+<img src="https://i.loli.net/2020/04/19/VSIodgrDBvfR9lA.jpg" height=500>
+</div>
 
 # 中文摘要
 
@@ -22,14 +25,11 @@ weight: 2
 
 Yang Y<sup>\#</sup>, Sun P<sup>\#</sup>, Lv L, Wang D, Ru D, Li Y, Ma T, Zhang L, Shen X, Meng F, Jiao B, Shan L, Liu M, Wang Q, Qin Z, Xi Z<sup>\*</sup>, Wang X<sup>\*</sup>, Davis C<sup>\*</sup>, Liu J<sup>\*</sup>. 2020. Prickly waterlily and rigid hornwort genomes shed light on early angiosperm evolution. *Nature Plants* 6, 215–222.
 
-# Zoom
+# YouTube
 
-主题：CGM 第91期：芡实和金鱼藻揭示被子植物早期演化关系
+{{< youtube id="YIgq_kshQdA" autoplay="false" >}}
 
-时间：北京时间2020年4月22日9PM（美国西部时间 4 月 22 日（星期三）6AM）
+# Bilibili
 
-加入 Zoom 会议
-https://zoom.com.cn/j/93886459512
-
-会议 ID：938 8645 9512  
+{{< bilibili id="" autoplay="false" >}}
 
