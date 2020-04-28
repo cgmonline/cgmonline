@@ -1,8 +1,11 @@
-﻿---
-title: "下期预告"
+---
+title: "CGM 第92期：专题讨论：如何申请国内教职？"
 date: "2020-04-29"
-menu: [top]
-weight: 2
+categories:
+  - 学术报告
+tags: [Job Application, Job Interview, China,Talent Recruitment Project, Young Talents]
+show_comments: true
+thumbnail: "https://i.imgur.com/Dk1qG4Z.png"
 ---
 
 - 题目：专题讨论：如何申请国内教职？
@@ -13,7 +16,6 @@ weight: 2
 <div align="center">
 <img src="https://i.imgur.com/BWe2W9a.jpg" height=500>
 </div>
-
 
 # 中文摘要
 
@@ -35,14 +37,11 @@ weight: 2
 
 Email: huabinzhao@whu.edu.cn
 
-# Zoom
+# YouTube
 
-主题：CGM 第92期：专题讨论：如何申请国内教职？
+{{< youtube id="" autoplay="false" >}}
 
-时间：美国中部时间 2020年 4月29日 8:00 PM（北京时间4月30日9AM）
+# Bilibili
 
-加入 Zoom 会议
-https://zoom.us/j/94707150877
-
-Meeting ID: 947 0715 0877
+{{< bilibili id="" autoplay="false" >}}
 
