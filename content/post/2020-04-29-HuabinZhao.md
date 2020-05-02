@@ -37,11 +37,4 @@ thumbnail: "https://i.imgur.com/Dk1qG4Z.png"
 
 Email: huabinzhao@whu.edu.cn
 
-# YouTube
-
-{{< youtube id="" autoplay="false" >}}
-
-# Bilibili
-
-{{< bilibili id="" autoplay="false" >}}
 
