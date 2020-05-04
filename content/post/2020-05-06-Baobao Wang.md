@@ -1,16 +1,21 @@
 ﻿---
-title: "下期预告"
+title: "CGM 第93期：现代玉米育种过程中的全基因组选择与遗传改良"
 date: "2020-05-06"
-menu: [top]
-weight: 2
+categories:
+  - 学术报告
+tags: [Genome-wide genetic changes, modern breeding of maize]
+show_comments: true
+thumbnail: "https://i.loli.net/2020/05/04/Kk9maqvIuGU8bOJ.jpg"
 ---
 
 - 题目：现代玉米育种过程中的全基因组选择与遗传改良
-- 时间：北京时间2020年5月06日9PM（美国西部时间 5 月 6 日（星期三）6AM）
+- 时间：北京时间2020年5月06日9PM（美国西部PST时间 5 月 06 日（星期三）6AM）
 - 地点：Zoom and Bilibili live stream
 - 主讲人：王宝宝，中国农业科学院生物技术研究所研究员。2009年河南农业大学农学（种子科学与工程）专业本科毕业；2015年中国农业大学作物遗传育种专业博士毕业，师从戴景瑞院士和赖锦盛教授，从事玉米数量遗传学及遗传育种相关研究；2015年8月至今在中国农业科学院生物技术研究所玉米功能基因组科研团队工作，从事“玉米耐密育种遗传基础及育种技术创新”相关研究。目前主持国家及省市级科学基金项目4项；作为第一或共同通讯作者已经在Nature Genetics、Molecular Plant 等国际知名杂志上发表研究论文8篇。
 
-![](https://i.loli.net/2020/05/04/Kk9maqvIuGU8bOJ.jpg)
+<div align="center">
+<img src="https://i.loli.net/2020/05/04/Kk9maqvIuGU8bOJ.jpg" height=500>
+</div>
 
 # 中文摘要
 
@@ -20,14 +25,11 @@ weight: 2
 
 Wang Baobao<sup>\#</sup>; Lin Zechuan<sup>\#</sup>; Li Xin<sup>\#</sup>; Zhao Yongping; Zhao Binbin; Wu Guangxia; Ma Xiaojing; Wang Hai; Xie Yurong; Li Quanquan; Song Guangshu; Kong Dexin; Zheng Zhigang; Wei Hongbin; Shen Rongxin; Wu Hong; Chen Cuixia; Meng Zhaodong; Wang Tianyu; Li Yu; Li Xinhai; Chen Yanhui; Lai Jinsheng; Matthew B. Hufford; Jeffrey Ross-Ibarra; He Hang<sup>\*</sup> and Wang Haiyang<sup>\*</sup>; Genome-wide selection and genetic improvement during modern maize breeding, *Nature Genetics*, 2020, DOI: 10.1038/s41588-020-0616-3.
 
-# Zoom
+# YouTube
 
-主题：CGM 第93期：现代玉米育种过程中的全基因组选择与遗传改良
+{{< youtube id="YIgq_kshQdA" autoplay="false" >}}
 
-时间：北京时间2020年5月06日9PM（美国西部时间 5 月 06 日（星期三）6AM）
+# Bilibili
 
-加入 Zoom 会议
-https://zoom.com.cn/j/95229510590
-
-会议 ID：952 2951 0590  
+{{< bilibili id="" autoplay="false" >}}
 
