@@ -27,7 +27,7 @@ Wang Baobao<sup>\#</sup>; Lin Zechuan<sup>\#</sup>; Li Xin<sup>\#</sup>; Zhao Yo
 
 # YouTube
 
-{{< youtube id="YIgq_kshQdA" autoplay="false" >}}
+{{< youtube id="" autoplay="false" >}}
 
 # Bilibili
 
