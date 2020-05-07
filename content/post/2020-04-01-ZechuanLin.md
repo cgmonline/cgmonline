@@ -31,6 +31,6 @@ thumbnail: "https://i.imgur.com/F4iaSCL.png"
 
 # Bilibili
 
-{{< bilibili id="" autoplay="false" >}}
+{{< bilibili id="BV1VV411o7HW" autoplay="false" >}}
 
 
