@@ -35,14 +35,17 @@ weight: 6
 ## CGM 公众号编辑委员会 (Editorial Committee)
 
 ### 现任编辑部成员：
-- **05 - 08, 2020：ED3** 马省伟(组长，排期统筹)，胡海飞（原创策划），[赵飞](https://kaopubear.top)（原创策划），杨雪蓉（学术文章速览），魏嘉璐（北京时区讲座预告），周鹏（北美时区讲座预告），吕菁（北美时区讲座预告）
+- **05 - 08, 2020 ED3**
+  - 组长、排期统筹：马省伟
+  - 原创策划：胡海飞，[赵飞](https://kaopubear.top)，杨雪蓉
+  - 北京时区讲座预告：魏嘉璐
+  - 北美时区讲座预告：周鹏，吕菁
+  
 - 09 - 12, 2020：ED4 狄晨露, 志愿者x3招募（联系微信beckyhao13)
 
 ### 曾任编辑部成员：
 - 01 - 12, 2019：ED1 [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)，[郝樾](https://yueyvettehao.github.io/)，胡海飞，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b) 
 - 01 - 04, 2020：ED2 马省伟（组长、北京时区讲座预告），胡海飞（原创策划），[赵飞](https://kaopubear.top)（原创策划），袁梦（北美时区讲座预告），苏维佳（北美时区讲座预告）
-
-
 
 ## CGM **China**
 - 07, 2019-: 何逸建 (组长），武志强,  李德林，邱杰，李钊，任宁宁，赵汀，马省伟
