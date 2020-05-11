@@ -40,7 +40,7 @@ disableKinds = ["section"]
 
 [[menu.top]]
   name = "往期活动"
-  url = "/post/"
+  url = "/tags/talk/"
   weight = 3
 
 [[menu.top]]
