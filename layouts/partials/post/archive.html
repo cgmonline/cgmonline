@@ -1,0 +1,14 @@
+{{ $year := .Date.Format "2006" }}
+{{ $month := .Date.Format "January" }}
+<section class="boxes">
+	<div class="archive archive-year box" data-date="{{ $year }}">
+		<ul class="archive-posts archive-month" data-date="{{ $year }}{{ $month }}">
+			<li class="archive-post archive-day">
+     			<a href="{{ .Permalink }}">{{ .Title }}</a>
+     			<span class="post-date">{{ .Date.Format "02 Jan 2006" }}</span>
+			</li>
+		</ul>
+	</div>
+</section>
+
+

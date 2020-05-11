@@ -1,9 +1,10 @@
 ---
 title: "CGM 第82期：近中性变异与生活史的进化"
-date: "2020-02-22"
+date: "2020-02-22T17:15:22.000Z"
+archive: ["2020","2020-02","2020-02-22"]
 categories:
   - 学术报告
-tags: [Neutral evolution, Slightly deleterious mutations, Mutation load, Life history, Fish]
+tags: [talk, Neutral evolution, Slightly deleterious mutations, Mutation load, Life history, Fish]
 show_comments: true
 thumbnail: "https://i.imgur.com/foINTN6.png"
 ---

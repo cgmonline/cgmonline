@@ -1,0 +1,58 @@
+{{ $context := .context }}
+{{ $year := .year }}
+{{ $isLeapYear := .isLeapYear }}
+{{ $month := .month }}
+
+{{ $daysPerMonth := dict "1" (seq 31) "2" (seq 28) "2-leap" (seq 29) "3" (seq 31) "4" (seq 30) "5" (seq 31) "6" (seq 30) "7" (seq 31) "8" (seq 31) "9" (seq 30) "10" (seq 31) "11" (seq 30) "12" (seq 31) }}
+{{ $daysPerWeekMap := dict "Mon" 0 "Tue" 1 "Wed" 2 "Thu" 3 "Fri" 4 "Sat" 5 "Sun" 6 }}
+{{ $daysPerWeek := slice "Mon" "Tue" "Wed" "Thu" "Fri" "Sat" "Sun" }}
+
+{{ $context.Scratch.Set "daysThisMonth" (index $daysPerMonth (string $month)) }}
+
+{{ if and $isLeapYear (eq $month 2) }}
+    {{ $context.Scratch.Set "daysThisMonth" (index $daysPerMonth "2-leap") }}
+{{ end }}
+
+{{ $daysThisMonth := $context.Scratch.Get "daysThisMonth" }}
+
+{{ $monthTwoLetters := printf "%02d" $month }}
+
+{{ $monthInLetters := dateFormat "January" (string (delimit (slice $year "-" $monthTwoLetters "-01") ""))  }}
+{{ $firstWeekdayInLetters := dateFormat "Mon" (string (delimit (slice $year "-" $monthTwoLetters "-01") ""))  }}
+{{ $firstWeekdayInNumbers := index $daysPerWeekMap $firstWeekdayInLetters }}
+{{ $firstWeekdayMondayOffset := (sub (add $firstWeekdayInNumbers 6) 6) }}
+
+<div class="calendar-month">
+
+<header>
+    <h4>
+    {{ $articlesThisMonth := index ($context.Scratch.Get "ArticlesPerMonth") (string (delimit (slice $year $monthTwoLetters) "-")) }}
+    {{ if gt $articlesThisMonth 0}}<a href="/archive/{{ delimit (slice $year $monthTwoLetters) "-" }}/">{{ end }}
+    {{ $monthInLetters }}
+    {{ if gt $articlesThisMonth 0}}</a>{{ end }}
+    </h4>
+</header>
+
+<ul class="calendar-weekdays">
+    {{- range $daysPerWeek -}}
+    <li class="calendar-weekday-{{ lower . }}">{{ . }}</li>
+    {{- end -}}
+</ul>
+
+<ul class="calendar-days">
+
+    {{ range seq $firstWeekdayMondayOffset }}
+        <li class="calendar-day-empty"></li>
+    {{ end }}
+
+    {{ range $daysThisMonth }}
+        {{ partial  "calendar/day" (dict "context" $context "year" $year "month" $month "day" .) (string (delimit (slice $year $month .) "")) }}
+    {{ end }}
+
+    {{ range (seq (mod (add (len $daysThisMonth) $firstWeekdayMondayOffset) 7)) }}
+    <li class="calendar-day-empty"></li>
+    {{ end }}
+
+</ul>
+
+</div>

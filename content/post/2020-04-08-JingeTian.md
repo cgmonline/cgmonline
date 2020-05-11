@@ -1,9 +1,10 @@
 ﻿---
 title: "CGM 第89期：玉米密植高产的遗传密码"
-date: "2020-04-08"
+date: "2020-04-08T17:15:22.000Z"
+archive: ["2020","2020-04","2020-04-08"]
 categories:
   - 学术报告
-tags: [Leaf angle, QTL, fine mapping, ZmRAVL1, functional verification, rare allele ]
+tags: [talk, Leaf angle, QTL, fine mapping, ZmRAVL1, functional verification, rare allele ]
 show_comments: true
 thumbnail: "https://i.loli.net/2020/04/04/6JqvyCPR3OuiKfY.jpg"
 ---
