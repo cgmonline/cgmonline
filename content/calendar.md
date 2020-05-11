@@ -1,5 +1,5 @@
 ---
-title: "讲座排期"
+title: "活动日历"
 menu: [top]
 weight: 8
 ---
