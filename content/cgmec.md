@@ -5,7 +5,7 @@ weight: 6
 ---
 
 ## CGM 指导委员会 (Steering Committee)
-- [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)(评奖委员会主席)，[郝樾](https://yueyvettehao.github.io/) (编辑部)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b) (EC China, CGM Business)，[雷栗](https://twitter.com/lilei0051)（Special Project）， [祁新帅](https://www.linkedin.com/in/xinshuaiqi/) (CGM Business, NGO, Finance)，[刘三震](https://www.plantgenomics.ksu.edu/liulab/)，[武志强](http://agis.caas.cn/rctd/yjtd/226826.htm) (EC China)， [杨金良](http://jyanglab.com/)(EC general, website)
+- [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)(评奖委员会主席)，[郝樾](https://yueyvettehao.github.io/) (编辑部, Meeting Minutes)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b) (EC China, CGM Business)，[雷栗](https://twitter.com/lilei0051)（Special Project）， [祁新帅](https://www.linkedin.com/in/xinshuaiqi/) (CGM Business, NGO, Finance)，[刘三震](https://www.plantgenomics.ksu.edu/liulab/)(SC general)，[武志强](http://agis.caas.cn/rctd/yjtd/226826.htm) (EC China)， [杨金良](http://jyanglab.com/)(EC general, website)
 
 ## CGM 执行委员会 (Executive Committee)
 
@@ -48,7 +48,7 @@ weight: 6
 - 01 - 04, 2020：ED2 马省伟（组长、北京时区讲座预告），胡海飞（原创策划），[赵飞](https://kaopubear.top)（原创策划），袁梦（北美时区讲座预告），苏维佳（北美时区讲座预告）
 
 ## CGM **China**
-- 07, 2019-: 何逸建 (组长），武志强,  李德林，邱杰，李钊，任宁宁，赵汀，马省伟
+- 07, 2019-: 何逸建 (组长），武志强，李德林，邱杰，李钊，任宁宁，赵汀，马省伟
 
 ## CGM **Business**
 - 09，2019-： [祁新帅](https://www.linkedin.com/in/xinshuaiqi/)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)，[雷栗](https://twitter.com/lilei0051), [卞杨](https://www.linkedin.com/in/yang-bian-a540a026/)
