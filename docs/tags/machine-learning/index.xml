@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machine learning on 北美华人基因组学在线沙龙</title>
+    <title>Machine learning on 华人基因组学在线沙龙</title>
     <link>http://cgmonline.co/tags/machine-learning/</link>
-    <description>Recent content in Machine learning on 北美华人基因组学在线沙龙</description>
+    <description>Recent content in Machine learning on 华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>华人基因组学在线沙龙 2020</copyright>
@@ -19,6 +19,10 @@
       
       <guid>http://cgmonline.co/2019/11/cgm-%E7%AC%AC72%E6%9C%9Fmosaicforecast-accurate-detection-of-mosaic-variants-in-sequencing-data-without-matched-controls/</guid>
       <description>题目：MosaicForecast: accurate detection of mosaic variants in sequencing data without matched controls 时间：2019 年 11 月 13 号（星期三），美西时间（Pacific Time）6:00 PM 地</description>
+    </item>
+    
+  </channel>
+</rss>京时间3月19日9AM） 地点：Zoom and Bilibili live</description>
     </item>
     
   </channel>
