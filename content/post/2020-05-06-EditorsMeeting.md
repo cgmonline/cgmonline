@@ -8,6 +8,7 @@ categories:
 
 - 题目：编辑部交接会议
 - 时间：2020年5月06日（星期三） 9PM 美东时间（EDT）
+- 主持：郝樾
 
 # Meeting Minutes
 
