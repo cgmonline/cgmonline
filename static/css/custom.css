@@ -292,7 +292,8 @@ article a:hover { font-weight: bold; color: #00b0cf; }
   border-radius: 50%;
 }
 .calendar-day.calendar-day-has-articles a {
-  color: #ffffff;
+  color: #663399;
+  font-weight: 900;
 }
 .calendar-day.calendar-day-has-articles a em {
   display: none;
