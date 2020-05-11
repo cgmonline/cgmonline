@@ -1,7 +1,7 @@
 ---
 title: "CGM Business Meetup
-date: "2020-01-22T17:15:22.000Z"
-archive: ["2020","2020-05","2020-05-13"]
+date: "2020-05-14T19:00:00.000Z"
+archive: ["2020","2020-05","2020-05-14"]
 categories:
   - CGM Business Meetup
 tags: [农业 产业]
