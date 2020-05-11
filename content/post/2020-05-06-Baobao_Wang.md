@@ -4,7 +4,7 @@ date: "2020-05-06T17:15:22.000Z"
 archive: ["2020","2020-05","2020-05-06"]
 categories:
   - 学术报告
-tags: [Genome-wide genetic changes, modern breeding of maize]
+tags: [talk, Genome-wide genetic changes, modern breeding of maize]
 show_comments: true
 thumbnail: "https://i.loli.net/2020/05/04/Kk9maqvIuGU8bOJ.jpg"
 ---

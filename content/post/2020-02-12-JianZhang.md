@@ -1,9 +1,10 @@
 ---
 title: "CGM 第81期：角苔基因组与早期陆地植物进化"
-date: "2020-02-12"
+date: "2020-02-12T17:15:22.000Z"
+archive: ["2020","2020-02","2020-02-12"]
 categories:
   - 学术报告
-tags: [hornwort genome, early land plant, evolution]
+tags: [talk, hornwort genome, early land plant, evolution]
 show_comments: true
 thumbnail: "https://i.imgur.com/9u7xZ1Z.png"
 ---
