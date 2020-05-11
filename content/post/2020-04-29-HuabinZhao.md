@@ -4,7 +4,7 @@ date: "2020-04-29T17:15:22.000Z"
 archive: ["2020","2020-04","2020-04-29"]
 categories:
   - 学术报告
-tags: [Job Application, Job Interview, China,Talent Recruitment Project, Young Talents]
+tags: [talk, Job Application, Job Interview, China,Talent Recruitment Project, Young Talents]
 show_comments: true
 thumbnail: "https://i.imgur.com/Dk1qG4Z.png"
 ---
