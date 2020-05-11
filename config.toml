@@ -14,7 +14,19 @@ publishDir = "docs"
 
 [blackfriday]
   extensionsmask = ["noIntraEmphasis"]
+  
+# prevent hugo from creating folders/indexes for each section
+disableKinds = ["section"]
 
+# adding taxonomy term 'archive'
+[taxonomies]
+  archive = "archive"
+    
+# Custom CSS. Put here your custom CSS files. They are loaded after the theme CSS;
+# they have to be referred from static root. Example
+[[params.customCSS]]
+  href = "css/style.css"
+    
 [permalinks]
   post = "/:year/:month/:slug/"
 
