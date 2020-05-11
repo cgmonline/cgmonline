@@ -272,12 +272,11 @@ article a:hover { font-weight: bold; color: #00b0cf; }
   font-size: 11.1111111111px;
   text-align: center;
 }
-.calendar-day.calendar-day-future {
-  opacity: 0.4;
-}
+
 .calendar-day.calendar-day-has-articles {
   color: #ffffff;
   position: relative;
+  opacity: 0.9;
 }
 .calendar-day.calendar-day-has-articles::before {
   content: "";
@@ -292,16 +291,20 @@ article a:hover { font-weight: bold; color: #00b0cf; }
   border-radius: 50%;
 }
 .calendar-day.calendar-day-has-articles a {
-  color: #663399;
+  color: #ffffff;
   font-weight: 900;
 }
 .calendar-day.calendar-day-has-articles a em {
   display: none;
 }
+.calendar-day.calendar-day-future {
+  opacity: 0.4;
+}
 .calendar-day.calendar-day-is-today {
   position: relative;
   font-weight: 800;
   color: #ff6600;
+  opacity: 0.9;
 }
 .calendar-day.calendar-day-is-today::before {
   content: "";
