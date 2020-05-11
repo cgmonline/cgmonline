@@ -1,0 +1,23 @@
+{{ partial "header.html" . }}
+  <body>
+    <div id="blog">
+      <div id="main" data-behavior="{{ .Scratch.Get "sidebarBehavior" }}"
+        class="{{ with .Params.coverImage }}hasCover{{ end }}
+               {{ if eq .Params.coverMeta "out" }}hasCoverMetaOut{{ else }}hasCoverMetaIn{{ end }}
+               {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
+
+        {{ $year := .Date.Format "2006" }}
+        {{ $currentTaxonomy := index (last 1 (split (delimit (split .URL "/") "," "") ",")) 0 }}
+        {{ $regex := index (findRE "-" $currentTaxonomy 2) 1 }}
+        {{ if eq $currentTaxonomy $year }} <!-- archive by year -->
+            {{ partial "archy.html" . }}
+        {{ else if eq $regex "-" }} <!-- archive by day -->
+            {{ partial "archd.html" . }}
+        {{ else }} <!-- archive by month -->
+            {{ partial "archm.html" . }}
+        {{ end }}
+	
+      </div>
+    </div>
+  </body>
+{{ partial "footer.html" . }}
