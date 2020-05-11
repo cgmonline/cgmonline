@@ -1,10 +1,9 @@
 ﻿---
 title: "CGM 第93期：现代玉米育种过程中的全基因组选择与遗传改良"
-date: "2020-05-06T17:15:22.000Z"
-archive: ["2020","2020-05","2020-05-06"]
+date: "2020-05-06"
 categories:
   - 学术报告
-tags: [talk, Genome-wide genetic changes, modern breeding of maize]
+tags: [Genome-wide genetic changes, modern breeding of maize]
 show_comments: true
 thumbnail: "https://i.loli.net/2020/05/04/Kk9maqvIuGU8bOJ.jpg"
 ---

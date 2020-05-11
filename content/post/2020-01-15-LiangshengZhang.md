@@ -1,10 +1,9 @@
 ---
 title: "CGM 第78期：睡莲基因组和早期开花植物进化"
-date: "2020-01-15T17:15:22.000Z"
-archive: ["2020","2020-01","2020-01-15"]
+date: "2020-01-15"
 categories:
   - 学术报告
-tags: [talk, water lily genome, flowering plants, evolution]
+tags: [water lily genome, flowering plants, evolution]
 show_comments: true
 thumbnail: "https://i.imgur.com/UHJ1pqb.jpg"
 ---

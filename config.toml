@@ -14,13 +14,6 @@ publishDir = "docs"
 
 [blackfriday]
   extensionsmask = ["noIntraEmphasis"]
-  
-# prevent hugo from creating folders/indexes for each section
-disableKinds = ["section"]
-
-# adding taxonomy term 'archive'
-[taxonomies]
-    archive = "archive"
 
 [permalinks]
   post = "/:year/:month/:slug/"
@@ -33,7 +26,7 @@ disableKinds = ["section"]
 
 [[menu.top]]
   name = "往期活动"
-  url = "/tags/talk/"
+  url = "/post/"
   weight = 3
 
 [[menu.top]]
@@ -94,12 +87,6 @@ disableKinds = ["section"]
 [params]
 	copyright = "华人基因组学在线沙龙 2020"
 	description = "基因组学在线讨论平台"
-	
-	
- # Custom CSS. Put here your custom CSS files. They are loaded after the theme CSS;
- # they have to be referred from static root. Example
-   [[params.customCSS]]
-     href = "css/style.css"
 
   summary_length = 200
   github_edit = "https://github.com/cgmonline/cgmonline/edit/master/content/"

@@ -1,10 +1,8 @@
 ---
 title: "CGM 第77期：我是如何爱上玉米的"
-date: "2020-01-09T17:15:22.000Z"
-archive: ["2020","2020-01","2020-01-09"]
+date: "2020-01-09"
 categories:
   - 人物专访
-tags: [talk]
 show_comments: true
 thumbnail: "https://i.imgur.com/VpDAeqt.png"
 ---

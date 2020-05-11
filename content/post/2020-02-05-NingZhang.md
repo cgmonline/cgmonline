@@ -1,10 +1,8 @@
 ---
 title: "CGM 第80期：逆境改变命运"
-date: "2020-02-05T17:15:22.000Z"
-archive: ["2020","2020-02","2020-02-05"]
+date: "2020-02-05"
 categories:
   - 人物专访
-tags: [talk]
 show_comments: true
 thumbnail: "https://i.imgur.com/norHKHt.jpg"
 ---
