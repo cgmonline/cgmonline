@@ -1,5 +1,5 @@
 ---
-title: "CGM Business Meetup
+title: "CGM Business Meetup"
 date: "2020-05-14T19:00:00.000Z"
 archive: ["2020","2020-05","2020-05-14"]
 categories:
