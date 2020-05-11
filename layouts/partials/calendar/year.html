@@ -1,0 +1,25 @@
+{{ $months := seq 12 }}
+{{ $context := .context }}
+{{ $year := .year }}
+{{ $from := .from }}
+{{ $fromMonth := .fromMonth }}
+{{ $to := .to }}
+{{ $toMonth := .toMonth }}
+
+{{ $isLeapYear := (modBool $year 4) }}
+
+<div class="calendar-year">
+<header>
+    <h2>
+        {{ $articlesThisYear := index ($context.Scratch.Get "ArticlesPerYear") (string $year) }}
+        {{ if gt $articlesThisYear 0}}<a href="/archive/{{ $year }}/">{{ end }}
+            {{ $year }}
+        {{ if gt $articlesThisYear 0}}</a>{{ end }}
+    </h2>
+</header>
+{{ range $months }}
+    {{ if or (and (ne $year $from) (ne $year $to)) (and (eq $year $from) (ge . $fromMonth)) (and (eq $year $to) (le . $toMonth))  }}
+    {{ partialCached "calendar/month" (dict "context" $context "year" $year "isLeapYear" $isLeapYear "month" .) (string (delimit (slice $year .) "")) }}
+    {{ end }}
+{{ end }}
+</div>

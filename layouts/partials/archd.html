@@ -1,0 +1,11 @@
+{{ $year := .Date.Format "2006" }}
+{{ $month := .Date.Format "January" }}
+{{ $day := .Date.Format "02" }}
+
+<h2>&emsp;Archive for {{ $month }} {{ $day }} {{ $year }}</h2>
+
+{{ range where .Site.Pages "Type" "post" }}
+  {{ if and (eq (.Date.Format "2006") $year) (eq (.Date.Format "January") $month) (eq (.Date.Format "02") $day) (ne (.Title) "Posts")}}
+    {{ partial "post/archive" . }}
+  {{ end }}
+{{ end }}
