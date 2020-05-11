@@ -1,8 +1,0 @@
-{{ $year := .Date.Format "2006" }}
-{{ $month := .Date.Format "January" }}
-<h2>&emsp;Archive for {{ $month }} {{ $year }}</h2>
-{{ range where .Site.Pages "Type" "post" }}
-{{ if and (eq (.Date.Format "2006") $year) (eq (.Date.Format "January") $month) (ne (.Title) "Posts")}}
-{{ partial "post/archive" . }}
-{{ end }}
-{{ end }}
