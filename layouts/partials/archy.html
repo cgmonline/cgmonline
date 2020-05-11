@@ -2,7 +2,7 @@
 
 <h2>&emsp;Archive for {{ $year }}</h2>
 {{ range where .Site.Pages "Type" "post" }}
-    {{ if (eq (.Date.Format "2006") $year) (ne (.Title) "Posts")}}
+    {{ if and (eq (.Date.Format "2006") $year) (ne (.Title) "Posts") }}
         {{ partial "post/archive" . }}
     {{ end }}
 {{ end }}
