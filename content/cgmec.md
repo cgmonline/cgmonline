@@ -5,7 +5,7 @@ weight: 6
 ---
 
 ## CGM 指导委员会 (Steering Committee)
-- [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)(评奖委员会主席)，[郝樾](https://yueyvettehao.github.io/) (编辑部, Meeting Minutes)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b) (EC China, CGM Business)，[雷栗](https://twitter.com/lilei0051)（Special Project, HR）， [祁新帅](https://www.linkedin.com/in/xinshuaiqi/) (CGM Business, NGO, Finance)，[刘三震](https://www.plantgenomics.ksu.edu/liulab/)(SC general)，[武志强](http://agis.caas.cn/rctd/yjtd/226826.htm) (EC China)， [杨金良](http://jyanglab.com/)(EC general, website)
+- [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)(评奖委员会主席)，[郝樾](https://yueyvettehao.github.io/) (编辑部， Meeting Minutes)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b) (EC China，CGM Business)，[雷栗](https://twitter.com/lilei0051)（Special Project，HR）， [祁新帅](https://www.linkedin.com/in/xinshuaiqi/) (CGM Business，NGO， Finance)，[刘三震](https://www.plantgenomics.ksu.edu/liulab/)(SC general)，[武志强](http://agis.caas.cn/rctd/yjtd/226826.htm) (EC China)，[杨金良](http://jyanglab.com/)(EC general，website)
 
 ## CGM 执行委员会 (Executive Committee)
 
