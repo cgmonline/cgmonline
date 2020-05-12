@@ -10,15 +10,15 @@
 {{ $context.Scratch.Set "currentYear" $from }}
 {{ $context.Scratch.Add "consideredYears" (slice $from) }}
 
-{{ range ($pages.GroupByDate "2006") }}
+{{ range ($pages.GroupByPublishDate "2006") }}
     {{ $context.Scratch.SetInMap "ArticlesPerYear" .Key (len .Pages) }}
 {{ end }}
 
-{{ range ($pages.GroupByDate "2006-01") }}
+{{ range ($pages.GroupByPublishDate "2006-01") }}
     {{ $context.Scratch.SetInMap "ArticlesPerMonth" .Key (len .Pages) }}
 {{ end }}
 
-{{ range ($pages.GroupByDate "2006-01-02") }}
+{{ range ($pages.GroupByPublishDate "2006-01-02") }}
     {{ $context.Scratch.SetInMap "ArticlesPerDay" .Key (len .Pages) }}
 {{ end }}
 
