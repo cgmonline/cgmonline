@@ -24,7 +24,7 @@
 {{- $articlesFound := index ($context.Scratch.Get "ArticlesPerDay") $dateString -}}
 <li class="calendar-day {{ if $isFuture }}calendar-day-future{{ end }} {{ if gt $articlesFound 0 }}calendar-day-has-articles{{ end }} {{ if eq (now.Format "2006-01-02") $dateString }}calendar-day-is-today{{ end }}">
     {{- if eq $articlesFound 1 -}} <!-- exactly one article that day -->
-        <a href="{{ $link }}">
+        <a href="{{ $link }}" title="{{ $articlesFound }} article">
         <time datetime="{{ $dateString }}">{{ $day }}<em>{{ $articlesFound }}</em></time></a>
     {{- else if gt $articlesFound 1 -}} <!-- multiple articles on one day -->
         <a href="/archive/{{ delimit (slice $year $monthTwoLetters $dayTwoLetters) "-" }}/" title="{{ $articlesFound }} article{{ if gt $articlesFound 1 }}s{{ end }}">
