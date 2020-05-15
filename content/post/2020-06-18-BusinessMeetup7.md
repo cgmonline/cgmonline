@@ -9,5 +9,6 @@ show_comments: true
 ---
 
 - 题目：未来医药产业方向
+- 主持人：待定
 - 时间：2020年6月18日（星期四） 7PM 美西时间（PST）
 - 地点：Zoom （private)
