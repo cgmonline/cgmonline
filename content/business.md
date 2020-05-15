@@ -38,12 +38,6 @@ CGM Business Meetup 申请表 QR code：
 ![](https://i.imgur.com/gcr4YLb.png)
 
 # 往期活动
-|时间|讨论主题|
-|---|---|
-|9/17/2019|活动形式的头脑风暴|
-|10/17/2019|Effective communication 企业内部有效沟通; Career development 怎样实现自升职加薪？|
-|11/14/2019|Project Management Tools的选择和使用;	How to effectively organize a meeting|
-|2/12/2019|Year End Performance Review|
 
 
 ### 往期职场话题：
