@@ -3,7 +3,7 @@ title: "CGM 企业沙龙4"
 date: "2020-03-26T19:00:00.000Z"
 archive: ["2020","2020-03","2020-03-26"]
 categories:
-  - 会议
+  - 企业沙龙
 tags: [career, industry]
 show_comments: true
 ---

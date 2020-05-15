@@ -3,7 +3,7 @@ title: "CGM 企业沙龙6"
 date: "2020-05-14T19:00:00.000Z"
 archive: ["2020","2020-05","2020-05-14"]
 categories:
-  - 会议
+  - 企业沙龙
 tags: [agriculture, industry]
 show_comments: true
 ---

@@ -3,7 +3,7 @@ title: "CGM 企业沙龙7"
 date: "2020-06-18T19:00:00.000Z"
 archive: ["2020","2020-06","2020-06-18"]
 categories:
-  - 会议
+  - 企业沙龙
 tags: [biomedical, industry]
 show_comments: true
 ---

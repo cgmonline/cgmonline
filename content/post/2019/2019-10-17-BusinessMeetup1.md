@@ -3,7 +3,7 @@ title: "CGM 企业沙龙"
 date: "2019-10-17T19:00:00.000Z"
 archive: ["2019","2019-10","2019-10-17"]
 categories:
-  - 会议
+  - 企业沙龙
 tags: [industry]
 show_comments: true
 ---
