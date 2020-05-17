@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>会议 on 华人基因组学在线沙龙</title>
@@ -6,19 +6,18 @@
     <description>Recent content in 会议 on 华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>华人基因组学在线沙龙 2020</copyright>
-    <lastBuildDate>Thu, 14 May 2020 19:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2020 21:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://cgmonline.co/categories/%E4%BC%9A%E8%AE%AE/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>CGM Business Meetup</title>
-      <link>http://cgmonline.co/2020/05/cgm-business-meetup/</link>
-      <pubDate>Thu, 14 May 2020 19:00:00 +0000</pubDate>
+      <title>CGM Editorial Committee Transition Meeting</title>
+      <link>http://cgmonline.co/2020/05/cgm-editorial-committee-transition-meeting/</link>
+      <pubDate>Wed, 06 May 2020 21:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2020/05/cgm-business-meetup/</guid>
-      <description>题目：未来农业产业方向 时间：2020年5月14日（星期四） 7PM 美西时间（PST） 地点：Zoom （private)</description>
+      <guid>http://cgmonline.co/2020/05/cgm-editorial-committee-transition-meeting/</guid>
+      <description>题目：编辑部交接会议 时间：2020年5月06日（星期三） 9PM 美东时间（EDT） 主持：郝樾 Meeting Minutes 1 感谢ED2 (2020年1月至4月）： - 马省伟，胡</description>
     </item>
     
   </channel>

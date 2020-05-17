@@ -28,19 +28,17 @@
   
   <li><a href="/"><span data-hover="首页">首页</span></a></li>
   
-  <li><a href="/coming/"><span data-hover="下期预告">下期预告</span></a></li>
-  
   <li><a href="/tags/talk/"><span data-hover="往期活动">往期活动</span></a></li>
   
   <li><a href="/wechat/"><span data-hover="公众号">公众号</span></a></li>
   
   <li><a href="/cgmec/"><span data-hover="组织管理">组织管理</span></a></li>
   
-  <li><a href="/business/"><span data-hover="企业Meetup">企业Meetup</span></a></li>
+  <li><a href="/business/"><span data-hover="企业沙龙">企业沙龙</span></a></li>
   
   <li><a href="/timeline/"><span data-hover="大事记">大事记</span></a></li>
   
-  <li><a href="/calendar/"><span data-hover="讲座排期">讲座排期</span></a></li>
+  <li><a href="/calendar/"><span data-hover="活动日历">活动日历</span></a></li>
   
   <li><a href="/subscribe/"><span data-hover="加入我们">加入我们</span></a></li>
   
@@ -93,27 +91,20 @@
 
 
 <main>
-
-
 <ul>
 <li>题目：My experience of facilitating both hypothesis-driven and data-driven research as a bioinformatician</li>
 <li>时间：2018 年 09 月 05 号（星期三），美西时间（Pacific Time）6:00 PM</li>
 <li>地点：YouTube live stream</li>
 <li>主讲人：唐星 (Xing Tang) (BioMarin)</li>
 </ul>
-
 <p>作为生物信息学家，经常遇到两种情况，第一种，生物学家根据明确的hypothesis设计实验，产生实验数据，本次报告我以一套single cell RNA-seq的数据分析为例，分享通过对数据进行QC控制，去除batch effect，降维处理等来回答生物学家已有的生物学问题。第二种情况是生物学家通过高通量实验手段产生了大量的数据，希望从数据中挖掘出新的知识和规律，这种情况需要借助数据整合分析平台，以我们的iGenomicsR为例，我将介绍如何使用它来实现多维组学数据（RNA-seq, DNA-seq, protein expression, clinical features）的整合分析，帮助生物学家找到新的病人分型，以及对应的致病基因或突变。</p>
-
 <h1 id="幻灯片和youtube视频">幻灯片和Youtube视频</h1>
 
-
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
-  <iframe src="//www.youtube.com/embed/WPKdbjQN_zw?" 
-  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0"></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/WPKdbjQN_zw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
 <h1 id="优酷视频">优酷视频</h1>
-
 
 <div class="embed-container">
 	<iframe width="560" height="315" src="//player.youku.com/embed/XMzgxMjc2NTY5Ng==" frameborder="0" allowfullscreen></iframe>
@@ -140,7 +131,7 @@
 
 
 <div id="disqus_thread"></div>
-<script>
+<script type="application/javascript">
     var disqus_config = function () {
     
     
@@ -157,8 +148,8 @@
         (d.head || d.body).appendChild(s);
     })();
 </script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
 
 
@@ -195,7 +186,7 @@
     
   </ul>
   
-  <div class="copyright">&copy; 北美华人基因组学在线沙龙 2017 | <a href="https://github.com/cgmonline">Github</a> | <a href="https://www.youtube.com/channel/UCk4tsPZOzGkP2IaU4YvUG_g">YouTube</a></div>
+  <div class="copyright">© 北美华人基因组学在线沙龙 2017 | <a href="https://github.com/cgmonline">Github</a> | <a href="https://www.youtube.com/channel/UCk4tsPZOzGkP2IaU4YvUG_g">YouTube</a></div>
   
 </div>
 </footer>
@@ -205,14 +196,17 @@
 
 
 
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-48206713-4', 'auto');
-ga('send', 'pageview');
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-48206713-4', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
 
 

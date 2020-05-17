@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Polyploidy on 华人基因组学在线沙龙</title>
+    <title>polyploidy on 华人基因组学在线沙龙</title>
     <link>http://cgmonline.co/tags/polyploidy/</link>
-    <description>Recent content in Polyploidy on 华人基因组学在线沙龙</description>
+    <description>Recent content in polyploidy on 华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>华人基因组学在线沙龙 2020</copyright>
     <lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://cgmonline.co/tags/polyploidy/index.xml" rel="self" type="application/rss+xml" />
@@ -19,6 +18,24 @@
       
       <guid>http://cgmonline.co/2019/07/cgm-%E7%AC%AC57%E6%9C%9F%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%AD%A6%E5%92%8C%E8%A1%A8%E8%A7%82%E5%9F%BA%E5%9B%A0%E7%BB%84%E7%A0%94%E7%A9%B6%E6%A4%8D%E7%89%A9%E9%87%8D%E5%A4%8D%E5%9F%BA%E5%9B%A0%E8%BF%9B%E5%8C%96/</guid>
       <description>题目：基因组学和表观基因组研究植物重复基因进化 时间：2019 年 07 月 10 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouT</description>
+    </item>
+    
+    <item>
+      <title>CGM 第32期：Preferential retention of homeologs from a single parental subgenome after polyploidy is shaped by functional interactions and dosage-based intrinsic selective constraint</title>
+      <link>http://cgmonline.co/2018/06/cgm-%E7%AC%AC32%E6%9C%9Fpreferential-retention-of-homeologs-from-a-single-parental-subgenome-after-polyploidy-is-shaped-by-functional-interactions-and-dosage-based-intrinsic-selective-constraint/</link>
+      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2018/06/cgm-%E7%AC%AC32%E6%9C%9Fpreferential-retention-of-homeologs-from-a-single-parental-subgenome-after-polyploidy-is-shaped-by-functional-interactions-and-dosage-based-intrinsic-selective-constraint/</guid>
+      <description>题目：Preferential retention of homeologs from a single parental subgenome after polyploidy is shaped by functional interactions and dosage-based intrinsic selective constraint 时间：2018 年 06 月 27 号（星期三），美西时间（Pacific Time）</description>
+    </item>
+    
+    <item>
+      <title>CGM 第23期：Polyploidy and duplicated gene regulation, stories of cotton 棉花进化那些事儿</title>
+      <link>http://cgmonline.co/2018/02/cgm-%E7%AC%AC23%E6%9C%9Fpolyploidy-and-duplicated-gene-regulation-stories-of-cotton-%E6%A3%89%E8%8A%B1%E8%BF%9B%E5%8C%96%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2018/02/cgm-%E7%AC%AC23%E6%9C%9Fpolyploidy-and-duplicated-gene-regulation-stories-of-cotton-%E6%A3%89%E8%8A%B1%E8%BF%9B%E5%8C%96%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/</guid>
+      <description>题目：Polyploidy and duplicated gene regulation, stories of cotton 棉花进化那些事儿 时间：2018 年 02 月 21 号（星期三），美西时间（Pacific Time）6:00 PM 地点</description>
     </item>
     
   </channel>

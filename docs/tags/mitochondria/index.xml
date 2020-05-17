@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mitochondria on 华人基因组学在线沙龙</title>
+    <title>mitochondria on 华人基因组学在线沙龙</title>
     <link>http://cgmonline.co/tags/mitochondria/</link>
-    <description>Recent content in Mitochondria on 华人基因组学在线沙龙</description>
+    <description>Recent content in mitochondria on 华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>华人基因组学在线沙龙 2020</copyright>
-    <lastBuildDate>Wed, 13 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://cgmonline.co/tags/mitochondria/index.xml" rel="self" type="application/rss+xml" />
     

@@ -1,38 +1,35 @@
----
+﻿---
 title: "下期预告"
-date: "2020-05-11"
+date: "2020-05-20"
 menu: [top]
 weight: 2
 ---
 
-- 题目：大数据在生物科学中的应用前景——来自人类基因组学研究的启示
-- 时间：美国中部时间 2020 年 5 月 13 日（星期三）8PM（北京时间5月14日 9AM）
+- 题目：杨柳科植物物种多样化的基因组基础：性染色体演化
+- 时间：北京时间2020年5月20日9PM（美国西部时间 5 月 20 日（星期三）6AM）
 - 地点：Zoom and Bilibili live stream
-- 主讲人：李潇，北大信息技术高等研究院高级研究员，麻省理工与哈佛博德研究所计算生物学家，连续创业者，原人类基因型及组织基因表达计划核心成员。在中国农业大学获得生物化学学士学位，爱荷华州立大学遗传学获得硕士学位后，师从哈佛医学院著名癌症计算生物学家Gad Getz博士及著名人类遗传学家Daniel MacArthur博士。
+- 主讲人：马涛，四川大学生命科学学院教授、博士生导师。分别于2009年和2014年获兰州大学学士、博士学位，师从刘建全教授，主要从事植物进化基因组学的相关研究，在Nature Communications、PNAS、New Phytologist等期刊发表多篇研究论文。
 
-![](https://i.ibb.co/gVf2zKB/640.jpg)
+![](https://i.loli.net/2020/05/17/G2yTavJnLx17sXV.jpg)
 
 # 中文摘要
 
-高通量测序技术正在深刻改变生物学研究的模式，多组学相结合的序列分析方法，正在以史无前例的速度揭示基因组、功能基因组以及表观基因组水平上的模式和细节。海量的数据为生物学研究带来了巨大的挑战，传统的分析方法和工具不再适用。因此，开发更高效的统计算法和计算工具迫在眉睫。在本期的讲座中，我将介绍大数据分析的难点，包括数据存储、并行计算、数据混杂以及结果的可视化。最后，我将展望大数据在生物学领域的前景，着重介绍多组学数据的整合，数据的挖掘，生物学数据库的兴起，以及一些非常前沿的诸如区块链和人工智能等信息技术, 这将会促进生物学研究的发展。
+性别是生活中和生物进化历史上最引人瞩目的现象，是在性染色体上的基因控制下而产生的一系列雌雄分化的两性特征，其在雌雄异株（Dioecy）植物的生态适应性方面具有重要作用。一般认为，基因组上的性别决定区域（Sex determination region；包括性别决定基因及其连锁的其他基因）在雌雄两性的个体发育、性状分化和成功繁殖等方面至关重要，早期的科学家都认为其在进化中应相对较为保守。<br>
+我们的研究表明，杨柳科植物（Salicaceae）不仅在形态和环境适应性方面表现出丰富的多样性，而且在性别决定系统和性染色体上也显示出动态的演化式样和极高的多样性，既有XY型也有ZW型性别决定系统，其性别决定区域以一种异乎寻常的速率在染色体之间来回跳跃。这些结果为理解性染色体形成初期的进化历史和遗传机制提供了优秀的模式系统。
 
-# 关键词
+# 参考文献
 
-Human genomics，Computational biology， Cloud computing
+Wenlu Yang<sup>\#</sup>, Zhiyang Zhang<sup>\#</sup>, Deyan Wang<sup>\#</sup>, Yiling Li, Shaofei Tong, Mengmeng Li, Xu Zhang, Lei Zhang, Liwen Ren, Xinzhi Ma, Ran Zhou, Brian J Sanderson, Ken Keefover-Ring, Tongming Yin, Lawrence B Smart, Jianquan Liu<sup>\*</sup>, Stephen P DiFazio<sup>\*</sup>, Matthew Olson<sup>\*</sup>, Tao Ma<sup>\*</sup>. A general model to explain repeated turnovers of sex determination in the Salicaceae. bioRxiv, 2020.
 
-# 主讲人简介
-
-李潇长期从事算法和统计方法的开发及其在医疗健康领域的应用和商业化运作。研究涉及机器学习、统计方法、自然语言处理、区块链、大数据处理、云计算和分布式计算等多个方面。开发的方法和软件在人类遗传学，基因组学，流行传染病，罕见遗传病，癌症以及电子健康病历处理交换等方面得到了广泛的应用，相关研究发表于Nature， Science，Nature Genetics， Nature Communication，Genome Research，American Journal of Human Genetics等多个重要杂志上。他在计算生物学、罕见遗传病与医疗数据交换领域创立的多家公司，已得到了麻省理工及哈佛大学相关机构的孵化。
-
-李潇目前担任PLOS ONE，BMC Bioinformatics，Biomarker Research，Anti-cancer Drugs， Journal of Experimental and Clinical Cancer，American Journal of Molecular Biology，Biopreservation and Biobanking等多个杂志的审稿人。
 
 # Zoom
 
-主题：CGM 第94期：大数据在生物科学中的应用前景——来自人类基因组学研究的启示
+主题：CGM 第95期：杨柳科植物物种多样化的基因组基础：性染色体演化
 
-时间：美国中部时间 2020 年 5 月 13 日（星期三）8PM（北京时间5月14日 9AM）
+时间：北京时间2020年5月20日9PM（美国西部时间 5 月 20 日（星期三）6AM）
 
 加入 Zoom 会议
-https://zoom.us/j/98830387159
+https://zoom.com.cn/j/6058218292
 
-会议 ID：988 3038 7159
+会议 ID：605 821 8292  
+

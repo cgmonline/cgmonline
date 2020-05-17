@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Maize on 华人基因组学在线沙龙</title>
+    <title>maize on 华人基因组学在线沙龙</title>
     <link>http://cgmonline.co/tags/maize/</link>
-    <description>Recent content in Maize on 华人基因组学在线沙龙</description>
+    <description>Recent content in maize on 华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>华人基因组学在线沙龙 2020</copyright>
     <lastBuildDate>Wed, 28 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://cgmonline.co/tags/maize/index.xml" rel="self" type="application/rss+xml" />
@@ -28,6 +27,24 @@
       
       <guid>http://cgmonline.co/2019/08/cgm-%E7%AC%AC59%E6%9C%9F%E8%A1%A8%E5%9E%8B%E7%BB%84%E5%AD%A6%E6%97%B6%E4%BB%A3%E5%A4%9A%E8%A1%A8%E5%9E%8B%E5%8A%A9%E5%8A%9B%E5%9F%BA%E5%9B%A0%E6%8C%96%E6%8E%98/</guid>
       <description>题目：表型组学时代，多表型助力基因挖掘 时间：2019 年 08 月 07 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live</description>
+    </item>
+    
+    <item>
+      <title>CGM 第41期：Understanding Domestication Through Maize Mutants</title>
+      <link>http://cgmonline.co/2018/11/cgm-%E7%AC%AC41%E6%9C%9Funderstanding-domestication-through-maize-mutants/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2018/11/cgm-%E7%AC%AC41%E6%9C%9Funderstanding-domestication-through-maize-mutants/</guid>
+      <description>题目：Understanding Domestication Through Maize Mutants 时间：2018 年 11 月 07 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube</description>
+    </item>
+    
+    <item>
+      <title>CGM 第22期：Quantitative disease resistance in maize</title>
+      <link>http://cgmonline.co/2018/02/cgm-%E7%AC%AC22%E6%9C%9Fquantitative-disease-resistance-in-maize/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2018/02/cgm-%E7%AC%AC22%E6%9C%9Fquantitative-disease-resistance-in-maize/</guid>
+      <description>题目：Quantitative disease resistance in maize 时间：2018 年 02 月 07 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live</description>
     </item>
     
     <item>

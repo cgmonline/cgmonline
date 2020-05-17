@@ -28,19 +28,17 @@
   
   <li><a href="/"><span data-hover="首页">首页</span></a></li>
   
-  <li><a href="/coming/"><span data-hover="下期预告">下期预告</span></a></li>
-  
   <li><a href="/tags/talk/"><span data-hover="往期活动">往期活动</span></a></li>
   
   <li><a href="/wechat/"><span data-hover="公众号">公众号</span></a></li>
   
   <li><a href="/cgmec/"><span data-hover="组织管理">组织管理</span></a></li>
   
-  <li><a href="/business/"><span data-hover="企业Meetup">企业Meetup</span></a></li>
+  <li><a href="/business/"><span data-hover="企业沙龙">企业沙龙</span></a></li>
   
   <li><a href="/timeline/"><span data-hover="大事记">大事记</span></a></li>
   
-  <li><a href="/calendar/"><span data-hover="讲座排期">讲座排期</span></a></li>
+  <li><a href="/calendar/"><span data-hover="活动日历">活动日历</span></a></li>
   
   <li><a href="/subscribe/"><span data-hover="加入我们">加入我们</span></a></li>
   
@@ -93,32 +91,22 @@
 
 
 <main>
-
-
 <ul>
 <li>时间：2017 年 10 月 11 号（星期三），美西时间（Pacific Time）6:00 PM</li>
 <li>地点：YouTube live stream</li>
 <li>主讲人: <a href="https://yihui.name/en/">谢益辉</a>（RStudio）</li>
 </ul>
-
 <h1 id="用-blogdown-搭建一个静态网站">用 blogdown 搭建一个静态网站</h1>
-
 <p>我作为一个业余人士折腾网站差不多已经 12 年，一路摸索过很多种建网站的工具，总觉得有这样那样的问题，不适合我这样的用户，直到今年我自己造了一个轮子 <a href="https://github.com/rstudio/blogdown">blogdown</a>，才感到心满意足。这是码农的通病，不过我想辩解一下我为什么要造这个轮子，以及这个轮子适合什么背景的用户。工具永远没有绝对的最好，而只有最合适，就看前提和背景是什么。blogdown 适合经常写涉及到数据分析的非正式文章（比如博客；当然正式文章也可以）或者写含有科技作品元素的文章的作者。它可以让你把计算机代码跟文本混编（R Markdown 的基本原理）从而得到易重现的数据分析结果，也可以让你在网页上呈现多数科技论文里常见的元素，如数学公式、图表、文献引用、甚至定理、证明等，而且同一篇文档既可以生成网页，也可以生成 PDF 等其它格式。我基本上可以吹个牛，在各位见过的建站工具里，能做到支持这三大特性（可重复性数据分析、科技写作元素、多种输出格式）的应该是还没有。当然，这个牛是站在巨人的肩膀上吹的（主要是要感谢 Pandoc 和 Hugo）。</p>
-
 <p>就算你只是想建一个口水博客，用 blogdown 当然也是没问题的。这次沙龙我会演示如何快速搭建一个有超级牛力的网站（具体能用到多少牛力，取决于用户怎么用了）。</p>
-
 <p>如果听众感兴趣，我也可以谈一些非技术性的话题，比如为什么要经常写作。这在前面第 8 期沙龙“怎样提高英文科技论文的写作”中似乎有提及，我也比较有感触。另外如果时间允许，我也很想吐槽一下学术界一直以来重 PDF 轻网页的陋习；在我眼中，把科研的时间大量浪费在 LaTeX 排版上实在太不值得。我理想中的论文发表形式应该是先网页后 PDF（排版），因为 CSS 排版比 LaTeX 排版省心无数倍。我认为 arXive（及其衍生品 bioRxiv）在这个问题上都走错了方向，希望不久的未来能有真的猛士出来把这条路扭转过来（对，我的意思就是说，整个学术界都错了，我们需要一场大地震把这个传统毁灭，然后重建学术发表的生态）。</p>
-
 <h1 id="幻灯片和youtube视频">幻灯片和Youtube视频</h1>
 
-
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;">
-  <iframe src="//www.youtube.com/embed/g-UnHlp_IgA?" 
-  style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen frameborder="0"></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/g-UnHlp_IgA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
 <h1 id="优酷视频">优酷视频</h1>
-
 
 <div class="embed-container">
 	<iframe width="560" height="315" src="//player.youku.com/embed/XMzI4MTI3OTUyNA==" frameborder="0" allowfullscreen></iframe>
@@ -145,7 +133,7 @@
 
 
 <div id="disqus_thread"></div>
-<script>
+<script type="application/javascript">
     var disqus_config = function () {
     
     
@@ -162,8 +150,8 @@
         (d.head || d.body).appendChild(s);
     })();
 </script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
 
 
@@ -200,7 +188,7 @@
     
   </ul>
   
-  <div class="copyright">&copy; 北美华人基因组学在线沙龙 2017 | <a href="https://github.com/cgmonline">Github</a> | <a href="https://www.youtube.com/channel/UCk4tsPZOzGkP2IaU4YvUG_g">YouTube</a></div>
+  <div class="copyright">© 北美华人基因组学在线沙龙 2017 | <a href="https://github.com/cgmonline">Github</a> | <a href="https://www.youtube.com/channel/UCk4tsPZOzGkP2IaU4YvUG_g">YouTube</a></div>
   
 </div>
 </footer>
@@ -210,14 +198,17 @@
 
 
 
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-48206713-4', 'auto');
-ga('send', 'pageview');
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-48206713-4', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
 
 

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computational biology on 华人基因组学在线沙龙</title>
+    <link>http://cgmonline.co/tags/computational-biology/</link>
+    <description>Recent content in Computational biology on 华人基因组学在线沙龙</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 13 May 2020 20:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://cgmonline.co/tags/computational-biology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CGM 第94期：大数据在生物科学中的应用前景——来自人类基因组学研究的启示</title>
+      <link>http://cgmonline.co/2020/05/cgm-%E7%AC%AC94%E6%9C%9F%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9C%A8%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%E5%89%8D%E6%99%AF%E6%9D%A5%E8%87%AA%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%9A%84%E5%90%AF%E7%A4%BA/</link>
+      <pubDate>Wed, 13 May 2020 20:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2020/05/cgm-%E7%AC%AC94%E6%9C%9F%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%9C%A8%E7%94%9F%E7%89%A9%E7%A7%91%E5%AD%A6%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8%E5%89%8D%E6%99%AF%E6%9D%A5%E8%87%AA%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%AD%A6%E7%A0%94%E7%A9%B6%E7%9A%84%E5%90%AF%E7%A4%BA/</guid>
+      <description>题目：大数据在生物科学中的应用前景——来自人类基因组学研究的启示 时间：美国中部时间 2020 年 5 月 13 日（星期三）8PM（北京时间5月14日 9AM） 地</description>
+    </item>
+    
+  </channel>
+</rss>
