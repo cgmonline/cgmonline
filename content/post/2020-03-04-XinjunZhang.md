@@ -1,9 +1,10 @@
 ---
 title: "CGM 第84期：当古人与现代人相遇：适应性基因渗入与有害突变对研究方法的影响"
-date: "2020-03-04"
+date: "2020-03-04T17:15:22.000Z"
+archive: ["2020","2020-03","2020-03-04"]
 categories:
   - 学术报告
-tags: [Adaptive introgression, Archaic humans, Deleterious variation, Population genetics]
+tags: [talk, Adaptive introgression, Archaic humans, Deleterious variation, Population genetics]
 show_comments: true
 thumbnail: "https://i.imgur.com/J7cGsLa.png"
 ---
@@ -31,6 +32,6 @@ Recessive deleterious variation has a limited impact on signals of adaptive intr
 
 # Bilibili
 
-{{< bilibili id="1ME411W7XF" autoplay="false" >}}
+{{< bilibili id="93879997" autoplay="false" >}}
 
 

@@ -1,9 +1,10 @@
 ﻿---
 title: "CGM 第91期：芡实和金鱼藻揭示被子植物早期演化关系"
-date: "2020-04-22"
+date: "2020-04-22T17:15:22.000Z"
+archive: ["2020","2020-04","2020-04-22"]
 categories:
   - 学术报告
-tags: [Prickly waterlily, rigid hornwort , genome assembly, early angiosperm evolution]
+tags: [talk, Prickly waterlily, rigid hornwort , genome assembly, early angiosperm evolution]
 show_comments: true
 thumbnail: "https://i.loli.net/2020/04/19/VSIodgrDBvfR9lA.jpg"
 ---
@@ -31,5 +32,5 @@ Yang Y<sup>\#</sup>, Sun P<sup>\#</sup>, Lv L, Wang D, Ru D, Li Y, Ma T, Zhang L
 
 # Bilibili
 
-{{< bilibili id="" autoplay="false" >}}
+{{< bilibili id="497981743" autoplay="false" >}}
 

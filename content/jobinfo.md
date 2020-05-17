@@ -1,7 +1,7 @@
 ---
 title: "工作信息"
-menu: [top]
-weight: 8
+menu: [main]
+weight: 10
 ---
 
 CGM试运行一个基因组学相关工作信息发布平台。招聘者或信息发布者可以进入基于OneDrive的工作表，添加工作信息。

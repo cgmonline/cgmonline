@@ -40,6 +40,7 @@ CGM_湾区 |ll68551551|
 CGM_东北小分队|mwb_njnuuf|
 CGM-SMBE2019|beckyhao13|
 CGM-Botany2019|beckyhao13|
+CGM Microbiome|linking_mumu|
 
 欢迎其他CGM成员创建相关的讨论组和活动群，新建的群请保持 “CGM XXX”的格式。
 

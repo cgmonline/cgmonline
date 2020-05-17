@@ -1,33 +1,35 @@
 ﻿---
 title: "下期预告"
-date: "2020-05-06"
+date: "2020-05-20"
 menu: [top]
 weight: 2
 ---
 
-- 题目：现代玉米育种过程中的全基因组选择与遗传改良
-- 时间：北京时间2020年5月06日9PM（美国西部时间 5 月 6 日（星期三）6AM）
+- 题目：杨柳科植物物种多样化的基因组基础：性染色体演化
+- 时间：北京时间2020年5月20日9PM（美国西部时间 5 月 20 日（星期三）6AM）
 - 地点：Zoom and Bilibili live stream
-- 主讲人：王宝宝，中国农业科学院生物技术研究所研究员。2009年河南农业大学农学（种子科学与工程）专业本科毕业；2015年中国农业大学作物遗传育种专业博士毕业，师从戴景瑞院士和赖锦盛教授，从事玉米数量遗传学及遗传育种相关研究；2015年8月至今在中国农业科学院生物技术研究所玉米功能基因组科研团队工作，从事“玉米耐密育种遗传基础及育种技术创新”相关研究。目前主持国家及省市级科学基金项目4项；作为第一或共同通讯作者已经在Nature Genetics、Molecular Plant 等国际知名杂志上发表研究论文8篇。
+- 主讲人：马涛，四川大学生命科学学院教授、博士生导师。分别于2009年和2014年获兰州大学学士、博士学位，师从刘建全教授，主要从事植物进化基因组学的相关研究，在Nature Communications、PNAS、New Phytologist等期刊发表多篇研究论文。
 
-![](https://i.loli.net/2020/05/04/Kk9maqvIuGU8bOJ.jpg)
+![](https://i.loli.net/2020/05/17/G2yTavJnLx17sXV.jpg)
 
 # 中文摘要
 
-玉米是目前世界第一大农作物，广泛作为粮食、饲料和工业原材料。在过去几十年间，品种耐密性和种植密度的连续提升，支撑着玉米单产的成倍增长。但玉米现代育种过程中品种耐密性改良的遗传基础和选择规律尚未系统解析。本研究中，作者收集了近几十年来中国和美国不同育种时期广泛使用的350份玉米育种材料，经过多环境表型分析，发现现代玉米育种过程中，育种材料均经历了向更低穗位、更少雄穗分枝数、更紧凑叶夹角及更早开花期方向的趋同选择；进一步采用全基因组重测序，结合全基因组关联分析 (GWAS)，挖掘出233个与15个农艺性状有显著关联的基因位点；鉴定到1,888个受育种选择的基因组区域（育种指纹），涉及逾5000个功能基因；基因富集分析发现，现代玉米育种主要选择与生物胁迫抗性、非生物胁迫抗性、植物激素代谢及信号转导、光信号转导及开花期调控通路相关的基因。最后，研究者利用CRISPR/Cas9 技术创制功能缺失突变体，证明2个在现代玉米育种过程中受到选择的基因ZmPIF3.3 和TSH4，分别在调控玉米株高（穗位高）和雄穗分枝数方面发挥重要作用。该研究本为耐密玉米品种遗传改良提供了方向性指引，为玉米耐密抗逆全基因组设计育种提供了理论基础和基因资源，并也可为其他作物（如水稻、小麦等）遗传育种规律的解析和优良基因挖掘提供有益借鉴。
+性别是生活中和生物进化历史上最引人瞩目的现象，是在性染色体上的基因控制下而产生的一系列雌雄分化的两性特征，其在雌雄异株（Dioecy）植物的生态适应性方面具有重要作用。一般认为，基因组上的性别决定区域（Sex determination region；包括性别决定基因及其连锁的其他基因）在雌雄两性的个体发育、性状分化和成功繁殖等方面至关重要，早期的科学家都认为其在进化中应相对较为保守。<br>
+我们的研究表明，杨柳科植物（Salicaceae）不仅在形态和环境适应性方面表现出丰富的多样性，而且在性别决定系统和性染色体上也显示出动态的演化式样和极高的多样性，既有XY型也有ZW型性别决定系统，其性别决定区域以一种异乎寻常的速率在染色体之间来回跳跃。这些结果为理解性染色体形成初期的进化历史和遗传机制提供了优秀的模式系统。
 
 # 参考文献
 
-Wang Baobao<sup>\#</sup>; Lin Zechuan<sup>\#</sup>; Li Xin<sup>\#</sup>; Zhao Yongping; Zhao Binbin; Wu Guangxia; Ma Xiaojing; Wang Hai; Xie Yurong; Li Quanquan; Song Guangshu; Kong Dexin; Zheng Zhigang; Wei Hongbin; Shen Rongxin; Wu Hong; Chen Cuixia; Meng Zhaodong; Wang Tianyu; Li Yu; Li Xinhai; Chen Yanhui; Lai Jinsheng; Matthew B. Hufford; Jeffrey Ross-Ibarra; He Hang<sup>\*</sup> and Wang Haiyang<sup>\*</sup>; Genome-wide selection and genetic improvement during modern maize breeding, *Nature Genetics*, 2020, DOI: 10.1038/s41588-020-0616-3.
+Wenlu Yang<sup>\#</sup>, Zhiyang Zhang<sup>\#</sup>, Deyan Wang<sup>\#</sup>, Yiling Li, Shaofei Tong, Mengmeng Li, Xu Zhang, Lei Zhang, Liwen Ren, Xinzhi Ma, Ran Zhou, Brian J Sanderson, Ken Keefover-Ring, Tongming Yin, Lawrence B Smart, Jianquan Liu<sup>\*</sup>, Stephen P DiFazio<sup>\*</sup>, Matthew Olson<sup>\*</sup>, Tao Ma<sup>\*</sup>. A general model to explain repeated turnovers of sex determination in the Salicaceae. bioRxiv, 2020.
+
 
 # Zoom
 
-主题：CGM 第93期：现代玉米育种过程中的全基因组选择与遗传改良
+主题：CGM 第95期：杨柳科植物物种多样化的基因组基础：性染色体演化
 
-时间：北京时间2020年5月06日9PM（美国西部时间 5 月 06 日（星期三）6AM）
+时间：北京时间2020年5月20日9PM（美国西部时间 5 月 20 日（星期三）6AM）
 
 加入 Zoom 会议
-https://zoom.com.cn/j/95229510590
+https://zoom.com.cn/j/6058218292
 
-会议 ID：952 2951 0590  
+会议 ID：605 821 8292  
 

@@ -1,5 +1,5 @@
 ---
-title: 企业Meetup
+title: 企业沙龙
 menu: [top]
 weight: 7
 ---
@@ -38,13 +38,7 @@ CGM Business Meetup 申请表 QR code：
 ![](https://i.imgur.com/gcr4YLb.png)
 
 # 往期活动
-|时间|讨论主题|
-|---|---|
-|9/17/2019|活动形式的头脑风暴|
-|10/17/2019|Effective communication 企业内部有效沟通; Career development 怎样实现自升职加薪？|
-|11/14/2019|Project Management Tools的选择和使用;	How to effectively organize a meeting|
-|2/12/2019|Year End Performance Review|
-
+https://cgmonline.co/categories/企业沙龙/
 
 ### 往期职场话题：
 1. 在工作中，我们需要与人合作。如果有合作，需要沟通，需要开会，需要打扰其他人来提问或者被人打扰问问题。因此，很多人经常遇到的情况是工作时间被多次会议分成零散的小块，并且不断切换，很容易筋疲力尽。 你怎么get things done?

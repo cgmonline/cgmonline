@@ -1,9 +1,10 @@
 ﻿---
 title: "CGM 第85期：西南山地柏木属物种的谱系分化与杂交历史研究"
-date: "2020-03-11"
+date: "2020-03-11T17:15:22.000Z"
+archive: ["2020","2020-03","2020-03-11"]
 categories:
   - 学术报告
-tags: [Introgression, population genetic, evolutionary, cypress species]
+tags: [talk, Introgression, population genetic, evolutionary, cypress species]
 show_comments: true
 thumbnail: "https://i.imgur.com/2j1N1F2.jpg.jpg"
 ---
@@ -34,5 +35,5 @@ Li JL, Milne RI, Ru DF, Miao JB, Tao WJ, Zhang L, Xu JJ, Liu JQ, Mao KS*. 2020. 
 
 # Bilibili
 
-{{< bilibili id="" autoplay="false" >}}
+{{< bilibili id="95560383" autoplay="false" >}}
 

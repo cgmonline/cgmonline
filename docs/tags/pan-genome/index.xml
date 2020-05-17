@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pan-genome on 北美华人基因组学在线沙龙</title>
+    <title>Pan-genome on 华人基因组学在线沙龙</title>
     <link>http://cgmonline.co/tags/pan-genome/</link>
-    <description>Recent content in Pan-genome on 北美华人基因组学在线沙龙</description>
+    <description>Recent content in Pan-genome on 华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>华人基因组学在线沙龙 2020</copyright>
@@ -19,6 +19,10 @@
       
       <guid>http://cgmonline.co/2018/10/cgm-%E7%AC%AC40%E6%9C%9Ftowards-eukaryotic-pan-genomics/</guid>
       <description>题目：Towards Eukaryotic Pan-genomics 时间：2018 年 10 月 17 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream 主讲人：胡智</description>
+    </item>
+    
+  </channel>
+</rss>�� 时间：2019 年 10 月 09 号（星期三），北京时间 9:00 PM 地点：全时云和哔哩哔哩直播 主讲人：段忠取，在读博士研究生。2</description>
     </item>
     
   </channel>

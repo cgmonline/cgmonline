@@ -1,0 +1,41 @@
+
+
+{{ $context := .context }}
+{{ $from := int .from }}
+{{ $fromMonth := int .fromMonth }}
+{{ $to := int .to }}
+{{ $toMonth := int .toMonth }}
+{{ $pages := .pages }}
+
+{{ $context.Scratch.Set "currentYear" $from }}
+{{ $context.Scratch.Add "consideredYears" (slice $from) }}
+
+{{ range ($pages.GroupByDate "2006") }}
+    {{ $context.Scratch.SetInMap "ArticlesPerYear" .Key (len .Pages) }}
+{{ end }}
+
+{{ range ($pages.GroupByDate "2006-01") }}
+    {{ $context.Scratch.SetInMap "ArticlesPerMonth" .Key (len .Pages) }}
+{{ end }}
+
+{{ range ($pages.GroupByDate "2006-01-02") }}
+    {{ $context.Scratch.SetInMap "ArticlesPerDay" .Key (len .Pages) }}
+    {{ range .Pages }}
+        {{ $context.Scratch.Set (.Date.Format "2006-01-02") .Permalink }}
+    {{ end }}
+{{ end }}
+
+{{ range $i, $sequence := (seq ((sub $to $from))) }}
+    {{ $currentYear := $context.Scratch.Get "currentYear" }}
+    {{ $nextYear := (add $from $sequence) }}
+
+    {{ if le $nextYear $to }}
+        {{ $context.Scratch.Add "consideredYears" (slice $nextYear) }}
+        {{ $context.Scratch.Set "currentYear" $nextYear }}
+    {{ end }}
+
+{{ end }}
+
+{{ range ($context.Scratch.Get "consideredYears") }}
+    {{ partialCached "calendar/year" (dict "context" $context "year" . "from" $from "fromMonth" $fromMonth "to" $to "toMonth" $toMonth) (string (delimit (slice $from $fromMonth $to $toMonth .) "")) }}
+{{ end }}

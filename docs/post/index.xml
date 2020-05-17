@@ -1,21 +1,102 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 北美华人基因组学在线沙龙</title>
+    <title>Posts on 华人基因组学在线沙龙</title>
     <link>http://cgmonline.co/post/</link>
-    <description>Recent content in Posts on 北美华人基因组学在线沙龙</description>
+    <description>Recent content in Posts on 华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>华人基因组学在线沙龙 2020</copyright>
-    <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2020 19:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://cgmonline.co/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>CGM Business Meetup</title>
+      <link>http://cgmonline.co/2020/05/cgm-business-meetup/</link>
+      <pubDate>Thu, 14 May 2020 19:00:00 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2020/05/cgm-business-meetup/</guid>
+      <description>题目：未来农业产业方向 时间：2020年5月14日（星期四） 7PM 美西时间（PST） 地点：Zoom （private)</description>
+    </item>
+    
+    <item>
+      <title>CGM 第93期：现代玉米育种过程中的全基因组选择与遗传改良</title>
+      <link>http://cgmonline.co/2020/05/cgm-%E7%AC%AC93%E6%9C%9F%E7%8E%B0%E4%BB%A3%E7%8E%89%E7%B1%B3%E8%82%B2%E7%A7%8D%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%9A%84%E5%85%A8%E5%9F%BA%E5%9B%A0%E7%BB%84%E9%80%89%E6%8B%A9%E4%B8%8E%E9%81%97%E4%BC%A0%E6%94%B9%E8%89%AF/</link>
+      <pubDate>Wed, 06 May 2020 17:15:22 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2020/05/cgm-%E7%AC%AC93%E6%9C%9F%E7%8E%B0%E4%BB%A3%E7%8E%89%E7%B1%B3%E8%82%B2%E7%A7%8D%E8%BF%87%E7%A8%8B%E4%B8%AD%E7%9A%84%E5%85%A8%E5%9F%BA%E5%9B%A0%E7%BB%84%E9%80%89%E6%8B%A9%E4%B8%8E%E9%81%97%E4%BC%A0%E6%94%B9%E8%89%AF/</guid>
+      <description>题目：现代玉米育种过程中的全基因组选择与遗传改良 时间：北京时间2020年5月06日9PM（美国西部PST时间 5 月 06 日（星期三）6AM） 地点：</description>
+    </item>
+    
+    <item>
+      <title>CGM 第92期：专题讨论：如何申请国内教职？</title>
+      <link>http://cgmonline.co/2020/04/cgm-%E7%AC%AC92%E6%9C%9F%E4%B8%93%E9%A2%98%E8%AE%A8%E8%AE%BA%E5%A6%82%E4%BD%95%E7%94%B3%E8%AF%B7%E5%9B%BD%E5%86%85%E6%95%99%E8%81%8C/</link>
+      <pubDate>Wed, 29 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2020/04/cgm-%E7%AC%AC92%E6%9C%9F%E4%B8%93%E9%A2%98%E8%AE%A8%E8%AE%BA%E5%A6%82%E4%BD%95%E7%94%B3%E8%AF%B7%E5%9B%BD%E5%86%85%E6%95%99%E8%81%8C/</guid>
+      <description>题目：专题讨论：如何申请国内教职？ 时间：美国中部时间 2020年 4月29日 8:00 PM（北京时间4月30日9AM） 地点：Zoom and Bilibili live stream 主讲人：赵华</description>
+    </item>
+    
+    <item>
+      <title>CGM 第91期：芡实和金鱼藻揭示被子植物早期演化关系</title>
+      <link>http://cgmonline.co/2020/04/cgm-%E7%AC%AC91%E6%9C%9F%E8%8A%A1%E5%AE%9E%E5%92%8C%E9%87%91%E9%B1%BC%E8%97%BB%E6%8F%AD%E7%A4%BA%E8%A2%AB%E5%AD%90%E6%A4%8D%E7%89%A9%E6%97%A9%E6%9C%9F%E6%BC%94%E5%8C%96%E5%85%B3%E7%B3%BB/</link>
+      <pubDate>Wed, 22 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2020/04/cgm-%E7%AC%AC91%E6%9C%9F%E8%8A%A1%E5%AE%9E%E5%92%8C%E9%87%91%E9%B1%BC%E8%97%BB%E6%8F%AD%E7%A4%BA%E8%A2%AB%E5%AD%90%E6%A4%8D%E7%89%A9%E6%97%A9%E6%9C%9F%E6%BC%94%E5%8C%96%E5%85%B3%E7%B3%BB/</guid>
+      <description>题目：芡实和金鱼藻揭示被子植物早期演化关系 时间：北京时间2020年4月22日9PM（美国西部PST时间 4 月 22 日（星期三）6AM） 地点：Zoo</description>
+    </item>
+    
+    <item>
+      <title>CGM 第90期：与顶尖植物科学期刊编辑聊论文投稿和发表那些事</title>
+      <link>http://cgmonline.co/2020/04/cgm-%E7%AC%AC90%E6%9C%9F%E4%B8%8E%E9%A1%B6%E5%B0%96%E6%A4%8D%E7%89%A9%E7%A7%91%E5%AD%A6%E6%9C%9F%E5%88%8A%E7%BC%96%E8%BE%91%E8%81%8A%E8%AE%BA%E6%96%87%E6%8A%95%E7%A8%BF%E5%92%8C%E5%8F%91%E8%A1%A8%E9%82%A3%E4%BA%9B%E4%BA%8B/</link>
+      <pubDate>Wed, 15 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2020/04/cgm-%E7%AC%AC90%E6%9C%9F%E4%B8%8E%E9%A1%B6%E5%B0%96%E6%A4%8D%E7%89%A9%E7%A7%91%E5%AD%A6%E6%9C%9F%E5%88%8A%E7%BC%96%E8%BE%91%E8%81%8A%E8%AE%BA%E6%96%87%E6%8A%95%E7%A8%BF%E5%92%8C%E5%8F%91%E8%A1%A8%E9%82%A3%E4%BA%9B%E4%BA%8B/</guid>
+      <description>题目：与顶尖植物科学期刊编辑聊论文投稿和发表那些事 时间：美国中部时间 4月15日 8:00 PM（北京时间2020年4月16号 9:00 AM） 地点：Zoom and Bilibili</description>
+    </item>
+    
+    <item>
+      <title>CGM 第89期：玉米密植高产的遗传密码</title>
+      <link>http://cgmonline.co/2020/04/cgm-%E7%AC%AC89%E6%9C%9F%E7%8E%89%E7%B1%B3%E5%AF%86%E6%A4%8D%E9%AB%98%E4%BA%A7%E7%9A%84%E9%81%97%E4%BC%A0%E5%AF%86%E7%A0%81/</link>
+      <pubDate>Wed, 08 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2020/04/cgm-%E7%AC%AC89%E6%9C%9F%E7%8E%89%E7%B1%B3%E5%AF%86%E6%A4%8D%E9%AB%98%E4%BA%A7%E7%9A%84%E9%81%97%E4%BC%A0%E5%AF%86%E7%A0%81/</guid>
+      <description>题目：玉米密植高产的遗传密码 时间：北京时间2020年4月8日9PM（美国西部PST时间 4 月 8 日（星期三）6AM） 地点：Zoom and Bilibili live stream 主讲人</description>
+    </item>
+    
+    <item>
+      <title>CGM 第88期：从历史演化角度分析水稻杂种优势构建的遗传机制</title>
+      <link>http://cgmonline.co/2020/04/cgm-%E7%AC%AC88%E6%9C%9F%E4%BB%8E%E5%8E%86%E5%8F%B2%E6%BC%94%E5%8C%96%E8%A7%92%E5%BA%A6%E5%88%86%E6%9E%90%E6%B0%B4%E7%A8%BB%E6%9D%82%E7%A7%8D%E4%BC%98%E5%8A%BF%E6%9E%84%E5%BB%BA%E7%9A%84%E9%81%97%E4%BC%A0%E6%9C%BA%E5%88%B6/</link>
+      <pubDate>Wed, 01 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2020/04/cgm-%E7%AC%AC88%E6%9C%9F%E4%BB%8E%E5%8E%86%E5%8F%B2%E6%BC%94%E5%8C%96%E8%A7%92%E5%BA%A6%E5%88%86%E6%9E%90%E6%B0%B4%E7%A8%BB%E6%9D%82%E7%A7%8D%E4%BC%98%E5%8A%BF%E6%9E%84%E5%BB%BA%E7%9A%84%E9%81%97%E4%BC%A0%E6%9C%BA%E5%88%B6/</guid>
+      <description>题目：从历史演化角度分析水稻杂种优势构建的遗传机制 时间：美国中部时间 2020 年 4 月 1 日（星期三）8PM（北京时间4月2日9AM） 地点：Zoom and Bilibili</description>
+    </item>
+    
+    <item>
+      <title>CGM 第87期：基因组数据分析揭示的番薯进化简史</title>
+      <link>http://cgmonline.co/2020/03/cgm-%E7%AC%AC87%E6%9C%9F%E5%9F%BA%E5%9B%A0%E7%BB%84%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%8F%AD%E7%A4%BA%E7%9A%84%E7%95%AA%E8%96%AF%E8%BF%9B%E5%8C%96%E7%AE%80%E5%8F%B2/</link>
+      <pubDate>Wed, 25 Mar 2020 17:15:22 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2020/03/cgm-%E7%AC%AC87%E6%9C%9F%E5%9F%BA%E5%9B%A0%E7%BB%84%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%8F%AD%E7%A4%BA%E7%9A%84%E7%95%AA%E8%96%AF%E8%BF%9B%E5%8C%96%E7%AE%80%E5%8F%B2/</guid>
+      <description>题目：基因组数据分析揭示的番薯进化简史 时间：北京 时间 2020 年 3 月 25 日（星期三）9PM（北美时间PST 3月25日6AM） 地点：Zoom and Bilibili live stream 主讲</description>
+    </item>
+    
+    <item>
+      <title>CGM 第86期：机器学习在基因组工程和生物技术中的应用</title>
+      <link>http://cgmonline.co/2020/03/cgm-%E7%AC%AC86%E6%9C%9F%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9C%A8%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%B7%A5%E7%A8%8B%E5%92%8C%E7%94%9F%E7%89%A9%E6%8A%80%E6%9C%AF%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/</link>
+      <pubDate>Wed, 18 Mar 2020 17:15:22 +0000</pubDate>
+      
+      <guid>http://cgmonline.co/2020/03/cgm-%E7%AC%AC86%E6%9C%9F%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9C%A8%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%B7%A5%E7%A8%8B%E5%92%8C%E7%94%9F%E7%89%A9%E6%8A%80%E6%9C%AF%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/</guid>
+      <description>题目：机器学习在基因组工程和生物技术中的应用 时间：北美PST 时间 2020 年 3 月 18 日（星期三）6PM（北京时间3月19日9AM） 地点：Zoom and Bilibili live</description>
+    </item>
+    
+    <item>
       <title>CGM 第85期：西南山地柏木属物种的谱系分化与杂交历史研究</title>
       <link>http://cgmonline.co/2020/03/cgm-%E7%AC%AC85%E6%9C%9F%E8%A5%BF%E5%8D%97%E5%B1%B1%E5%9C%B0%E6%9F%8F%E6%9C%A8%E5%B1%9E%E7%89%A9%E7%A7%8D%E7%9A%84%E8%B0%B1%E7%B3%BB%E5%88%86%E5%8C%96%E4%B8%8E%E6%9D%82%E4%BA%A4%E5%8E%86%E5%8F%B2%E7%A0%94%E7%A9%B6/</link>
-      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2020 17:15:22 +0000</pubDate>
       
       <guid>http://cgmonline.co/2020/03/cgm-%E7%AC%AC85%E6%9C%9F%E8%A5%BF%E5%8D%97%E5%B1%B1%E5%9C%B0%E6%9F%8F%E6%9C%A8%E5%B1%9E%E7%89%A9%E7%A7%8D%E7%9A%84%E8%B0%B1%E7%B3%BB%E5%88%86%E5%8C%96%E4%B8%8E%E6%9D%82%E4%BA%A4%E5%8E%86%E5%8F%B2%E7%A0%94%E7%A9%B6/</guid>
       <description>题目：西南山地柏木属物种的谱系分化与杂交历史研究 时间：北京时间CST 2020年3月11日 9PM （美西时间PST : 3月11日 6 AM ） 地点：Zoom and</description>
@@ -24,7 +105,7 @@
     <item>
       <title>CGM 第84期：当古人与现代人相遇：适应性基因渗入与有害突变对研究方法的影响</title>
       <link>http://cgmonline.co/2020/03/cgm-%E7%AC%AC84%E6%9C%9F%E5%BD%93%E5%8F%A4%E4%BA%BA%E4%B8%8E%E7%8E%B0%E4%BB%A3%E4%BA%BA%E7%9B%B8%E9%81%87%E9%80%82%E5%BA%94%E6%80%A7%E5%9F%BA%E5%9B%A0%E6%B8%97%E5%85%A5%E4%B8%8E%E6%9C%89%E5%AE%B3%E7%AA%81%E5%8F%98%E5%AF%B9%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%E7%9A%84%E5%BD%B1%E5%93%8D/</link>
-      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 Mar 2020 17:15:22 +0000</pubDate>
       
       <guid>http://cgmonline.co/2020/03/cgm-%E7%AC%AC84%E6%9C%9F%E5%BD%93%E5%8F%A4%E4%BA%BA%E4%B8%8E%E7%8E%B0%E4%BB%A3%E4%BA%BA%E7%9B%B8%E9%81%87%E9%80%82%E5%BA%94%E6%80%A7%E5%9F%BA%E5%9B%A0%E6%B8%97%E5%85%A5%E4%B8%8E%E6%9C%89%E5%AE%B3%E7%AA%81%E5%8F%98%E5%AF%B9%E7%A0%94%E7%A9%B6%E6%96%B9%E6%B3%95%E7%9A%84%E5%BD%B1%E5%93%8D/</guid>
       <description>题目：当古人与现代人相遇：适应性基因渗入与有害突变对研究方法的影响 时间：2020 年 3 月 4 日（星期三）8PM（北京时间 3 月 5 日 10AM） 地点：</description>
@@ -33,7 +114,7 @@
     <item>
       <title>CGM 第83期：探索水稻基因组中垃圾DNA的生物学意义</title>
       <link>http://cgmonline.co/2020/02/cgm-%E7%AC%AC83%E6%9C%9F%E6%8E%A2%E7%B4%A2%E6%B0%B4%E7%A8%BB%E5%9F%BA%E5%9B%A0%E7%BB%84%E4%B8%AD%E5%9E%83%E5%9C%BEdna%E7%9A%84%E7%94%9F%E7%89%A9%E5%AD%A6%E6%84%8F%E4%B9%89/</link>
-      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 26 Feb 2020 17:15:22 +0000</pubDate>
       
       <guid>http://cgmonline.co/2020/02/cgm-%E7%AC%AC83%E6%9C%9F%E6%8E%A2%E7%B4%A2%E6%B0%B4%E7%A8%BB%E5%9F%BA%E5%9B%A0%E7%BB%84%E4%B8%AD%E5%9E%83%E5%9C%BEdna%E7%9A%84%E7%94%9F%E7%89%A9%E5%AD%A6%E6%84%8F%E4%B9%89/</guid>
       <description>题目：探索水稻基因组中垃圾DNA的生物学意义 时间：北京时间CST 2020年2月26日（星期三）9PM 地点：Zoom and Bilibili live stream 主讲人：郑晓明，中</description>
@@ -42,7 +123,7 @@
     <item>
       <title>CGM 第82期：近中性变异与生活史的进化</title>
       <link>http://cgmonline.co/2020/02/cgm-%E7%AC%AC82%E6%9C%9F%E8%BF%91%E4%B8%AD%E6%80%A7%E5%8F%98%E5%BC%82%E4%B8%8E%E7%94%9F%E6%B4%BB%E5%8F%B2%E7%9A%84%E8%BF%9B%E5%8C%96/</link>
-      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Feb 2020 17:15:22 +0000</pubDate>
       
       <guid>http://cgmonline.co/2020/02/cgm-%E7%AC%AC82%E6%9C%9F%E8%BF%91%E4%B8%AD%E6%80%A7%E5%8F%98%E5%BC%82%E4%B8%8E%E7%94%9F%E6%B4%BB%E5%8F%B2%E7%9A%84%E8%BF%9B%E5%8C%96/</guid>
       <description>题目：近中性变异与生活史的进化 时间：美国中部时间CST 2020年2月22日（星期六）3PM 地点：Zoom and Bilibili live stream 主讲人：崔融丰，德国马克斯·</description>
@@ -51,7 +132,7 @@
     <item>
       <title>CGM 第81期：角苔基因组与早期陆地植物进化</title>
       <link>http://cgmonline.co/2020/02/cgm-%E7%AC%AC81%E6%9C%9F%E8%A7%92%E8%8B%94%E5%9F%BA%E5%9B%A0%E7%BB%84%E4%B8%8E%E6%97%A9%E6%9C%9F%E9%99%86%E5%9C%B0%E6%A4%8D%E7%89%A9%E8%BF%9B%E5%8C%96/</link>
-      <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Feb 2020 17:15:22 +0000</pubDate>
       
       <guid>http://cgmonline.co/2020/02/cgm-%E7%AC%AC81%E6%9C%9F%E8%A7%92%E8%8B%94%E5%9F%BA%E5%9B%A0%E7%BB%84%E4%B8%8E%E6%97%A9%E6%9C%9F%E9%99%86%E5%9C%B0%E6%A4%8D%E7%89%A9%E8%BF%9B%E5%8C%96/</guid>
       <description>题目：角苔基因组与早期陆地植物进化 时间：北京时间2020年2月12日周三晚上9点 地点：Zoom and Bilibili live stream 主讲人： 张剑，中国科学院植物研究所助理</description>
@@ -60,7 +141,7 @@
     <item>
       <title>CGM 第80期：逆境改变命运</title>
       <link>http://cgmonline.co/2020/02/cgm-%E7%AC%AC80%E6%9C%9F%E9%80%86%E5%A2%83%E6%94%B9%E5%8F%98%E5%91%BD%E8%BF%90/</link>
-      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Feb 2020 17:15:22 +0000</pubDate>
       
       <guid>http://cgmonline.co/2020/02/cgm-%E7%AC%AC80%E6%9C%9F%E9%80%86%E5%A2%83%E6%94%B9%E5%8F%98%E5%91%BD%E8%BF%90/</guid>
       <description>题目：逆境改变命运 时间：美中时间（CST）2020年1月22日（星期三） 8PM 地点：Zoom and YouTube live stream 主讲人：张宁，投必得论文编辑（TopEdit</description>
@@ -69,7 +150,7 @@
     <item>
       <title>CGM 第79期：Benchmarking transposable element annotation methods for creation of a streamlined, comprehensive pipeline</title>
       <link>http://cgmonline.co/2020/01/cgm-%E7%AC%AC79%E6%9C%9Fbenchmarking-transposable-element-annotation-methods-for-creation-of-a-streamlined-comprehensive-pipeline/</link>
-      <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Jan 2020 17:15:22 +0000</pubDate>
       
       <guid>http://cgmonline.co/2020/01/cgm-%E7%AC%AC79%E6%9C%9Fbenchmarking-transposable-element-annotation-methods-for-creation-of-a-streamlined-comprehensive-pipeline/</guid>
       <description>题目：Benchmarking transposable element annotation methods for creation of a streamlined, comprehensive pipeline 时间：美中时间（CST）2020年1月22日（星期三） 8PM 地点：Zoom and Bilibili live stream 主讲人：区</description>
@@ -78,7 +159,7 @@
     <item>
       <title>CGM 第78期：睡莲基因组和早期开花植物进化</title>
       <link>http://cgmonline.co/2020/01/cgm-%E7%AC%AC78%E6%9C%9F%E7%9D%A1%E8%8E%B2%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%92%8C%E6%97%A9%E6%9C%9F%E5%BC%80%E8%8A%B1%E6%A4%8D%E7%89%A9%E8%BF%9B%E5%8C%96/</link>
-      <pubDate>Wed, 15 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Jan 2020 17:15:22 +0000</pubDate>
       
       <guid>http://cgmonline.co/2020/01/cgm-%E7%AC%AC78%E6%9C%9F%E7%9D%A1%E8%8E%B2%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%92%8C%E6%97%A9%E6%9C%9F%E5%BC%80%E8%8A%B1%E6%A4%8D%E7%89%A9%E8%BF%9B%E5%8C%96/</guid>
       <description>题目：睡莲基因组和早期开花植物进化 时间：北京时间2020年1月15日 9PM 地点：Zoom and Bilibili live stream 主讲人：张亮生，福建农林大学海峡联合研究院教授（</description>
@@ -87,7 +168,7 @@
     <item>
       <title>CGM 第77期：我是如何爱上玉米的</title>
       <link>http://cgmonline.co/2020/01/cgm-%E7%AC%AC77%E6%9C%9F%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E7%88%B1%E4%B8%8A%E7%8E%89%E7%B1%B3%E7%9A%84/</link>
-      <pubDate>Thu, 09 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 09 Jan 2020 17:15:22 +0000</pubDate>
       
       <guid>http://cgmonline.co/2020/01/cgm-%E7%AC%AC77%E6%9C%9F%E6%88%91%E6%98%AF%E5%A6%82%E4%BD%95%E7%88%B1%E4%B8%8A%E7%8E%89%E7%B1%B3%E7%9A%84/</guid>
       <description>题目：我是如何爱上玉米的 时间：北京时间2020年1月9日 10AM (美国太平洋时间PST 1月8日 6PM) 地点：Zoom and YouTube live stream 主讲人：严建兵，华中农业大学</description>
@@ -396,7 +477,7 @@
       <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>http://cgmonline.co/2018/11/cgm-%E7%AC%AC43%E6%9C%9F%E7%94%9F%E7%89%A9%E5%AD%A6%E5%8D%9A%E5%A3%AB%E5%A6%82%E4%BD%95%E5%88%9B%E4%B8%9A--%E4%B8%93%E8%AE%BF%E6%8A%95%E5%BF%85%E5%BE%97topedit%E5%88%9B%E5%8A%9E%E4%BA%BA%E5%BC%A0%E5%AE%81%E5%8D%9A%E5%A3%AB/</guid>
-      <description>题目：生物学博士如何创业&amp;ndash;专访投必得（TopEdit）创办人张宁博士 时间：2018 年 11 月 18 号（星期三），美西时间（Pacific</description>
+      <description>题目：生物学博士如何创业&amp;ndash;专访投必得（TopEdit）创办人张宁博士 时间：2018 年 11 月 28 号（星期三），美西时间（Pacific</description>
     </item>
     
     <item>

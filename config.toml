@@ -1,6 +1,6 @@
 baseurl = "http://cgmonline.co/"
 languageCode = "zh-CN"
-title = "北美华人基因组学在线沙龙"
+title = "华人基因组学在线沙龙"
 theme = "hugo-xmag"
 disqusShortname = "cgmonline-co"
 googleAnalytics = "UA-48206713-4"
@@ -15,6 +15,20 @@ publishDir = "docs"
 [blackfriday]
   extensionsmask = ["noIntraEmphasis"]
 
+# prevent hugo from creating folders/indexes for each section
+disableKinds = ["section"]
+
+# adding taxonomy term 'archive'
+[taxonomies]
+  archive = "archive"
+  tag = "tags"
+  category = "categories"
+
+# Custom CSS. Put here your custom CSS files. They are loaded after the theme CSS;
+# they have to be referred from static root. Example
+[[params.customCSS]]
+  href = "css/custom.css"
+
 [permalinks]
   post = "/:year/:month/:slug/"
 
@@ -26,13 +40,9 @@ publishDir = "docs"
 
 [[menu.top]]
   name = "往期活动"
-  url = "/post/"
+  url = "/tags/talk/"
   weight = 3
 
-[[menu.top]]
-  name = "讨论列表"
-  url = "/archives/"
-  weight = 4
 
 [[menu.main]]
   name = "关键词"
@@ -53,7 +63,7 @@ publishDir = "docs"
   name = "学术报告"
   url = "/categories/学术报告/"
   weight = 3
-  
+
 
 [[menu.main]]
   name = "企业群"
