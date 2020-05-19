@@ -5,7 +5,8 @@
         class="{{ with .Params.coverImage }}hasCover{{ end }}
                {{ if eq .Params.coverMeta "out" }}hasCoverMetaOut{{ else }}hasCoverMetaIn{{ end }}
                {{ with .Params.coverCaption }}hasCoverCaption{{ end }}">
-
+        <div class="container">
+        <article>
         {{ $year := .Date.Format "2006" }}
         {{ $currentTaxonomy := index (last 1 (split (delimit (split .URL "/") "," "") ",")) 0 }}
         {{ $regex := index (findRE "-" $currentTaxonomy 2) 1 }}
@@ -16,7 +17,8 @@
         {{ else }} <!-- archive by month -->
             {{ partial "archm.html" . }}
         {{ end }}
-	
+	    </article>
+	    </div>
       </div>
     </div>
   </body>
