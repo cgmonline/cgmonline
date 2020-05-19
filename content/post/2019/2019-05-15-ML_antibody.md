@@ -1,9 +1,10 @@
 ---
 title: "CGM 第53期：人工智能在抗体中的应用"
-date: "2019-05-15"
+date: "2019-05-15T20:00:00.000Z"
+archive: ["2019","2019-05","2019-05-15"]
 categories:
   - 学术报告
-tags: [ML,Antibody]
+tags: [talks, ML,Antibody]
 show_comments: true
 thumbnail: "https://i.imgur.com/qfEKyKQ.jpg"
 ---

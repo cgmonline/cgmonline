@@ -1,9 +1,10 @@
 ---
 title: "CGM 第44期：管中窥豹：以我在湖南大学工作的五年谈PI就业与发展"
-date: "2018-12-19"
+date: "2018-12-19T20:00:00.000Z"
+archive: ["2018","2018-12","2018-12-19"]
 categories:
   - 人物专访
-tags: [Career, Academia, PI]
+tags: [talks, Career, Academia, PI]
 show_comments: true
 thumbnail: "https://i.imgur.com/JD8uZhS.jpg"
 ---

@@ -1,9 +1,10 @@
 ---
 title: "CGM 第21期：油菜素类内酯调节狗尾巴草分生组织特性及其特有花序结构的分化"
-date: "2018-01-24"
+date: "2018-01-24T20:00:00.000Z"
+archive: ["2018","2018-01","2018-01-24"]
 categories:
   - 学术报告
-tags: [Brassinosteroids, Setaria viridis, Inflorescence architecture]
+tags: [talks, Brassinosteroids, Setaria viridis, Inflorescence architecture]
 show_comments: true
 thumbnail: "https://i.imgur.com/TQRlz.jpg"
 ---

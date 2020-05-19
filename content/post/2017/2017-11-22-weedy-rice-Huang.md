@@ -1,9 +1,10 @@
 ---
 title: "CGM 第19期：All roads lead to weediness: stories about weedy rice origins and weedy genes"
-date: "2017-11-22"
+date: "2017-11-22T20:00:00.000Z"
+archive: ["2017","2017-11","2017-11-22"]
 categories:
   - 学术报告
-tags: [weedy rice, de-domestication, seed shattering, parallel evolution]
+tags: [talks, weedy rice, de-domestication, seed shattering, parallel evolution]
 show_comments: true
 thumbnail: "https://i.imgur.com/jTB2NgP.png"
 ---

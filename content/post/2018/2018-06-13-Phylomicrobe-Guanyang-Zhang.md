@@ -1,9 +1,10 @@
 ---
 title: "CGM 第31期：Phylogenetic identification of endosymbionts and microbiome"
-date: "2018-06-13"
+date: "2018-06-13T20:00:00.000Z"
+archive: ["2018","2018-06","2018-06-13"]
 categories:
   - 学术报告
-tags: [16s, microbiome, NGS, OTU, QIIME]
+tags: [talks, 16s, microbiome, NGS, OTU, QIIME]
 show_comments: true
 thumbnail: "https://i.imgur.com/mBFT9dW.jpg"
 ---

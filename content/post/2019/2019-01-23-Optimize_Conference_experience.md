@@ -1,9 +1,10 @@
 ---
 title: "CGM 第45期：如何在学术会议上最大化自己的收获？"
-date: "2019-01-23"
+date: "2019-01-23T20:00:00.000Z"
+archive: ["2019","2019-01","2019-01-23"]
 categories:
   - 专题讨论
-tags: [Conference, Academia]
+tags: [talks, Conference, Academia]
 show_comments: true
 thumbnail: "https://i.imgur.com/12ZPuUB.jpg"
 ---

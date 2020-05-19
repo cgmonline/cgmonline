@@ -1,9 +1,10 @@
 ---
 title: "CGM 第48期：水稻驯化之谜"
-date: "2019-03-06"
+date: "2019-03-06T20:00:00.000Z"
+archive: ["2019","2019-03","2019-03-06"]
 categories:
   - 学术报告
-tags: [Rice, Domestication]
+tags: [talks, Rice, Domestication]
 show_comments: true
 thumbnail: "https://i.imgur.com/dkCxBed.png"
 ---

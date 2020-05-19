@@ -1,9 +1,10 @@
 ---
 title: "CGM 第26期：How to Find a Job in Industry?"
-date: "2018-04-04"
+date: "2018-04-04T20:00:00.000Z"
+archive: ["2018","2018-04","2018-04-04"]
 categories:
   - 专题讨论
-tags: [job, discuss]
+tags: [talks, job, discuss]
 show_comments: true
 thumbnail: "http://i.imgur.com/QsMb2FP.jpg"
 ---

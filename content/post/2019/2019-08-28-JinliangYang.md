@@ -1,9 +1,10 @@
 ---
 title: "CGM 第61期：学科交叉与基因组学研究中的方法论"
-date: "2019-08-28"
+date: "2019-08-28T20:00:00.000Z"
+archive: ["2019","2019-08","2019-08-28"]
 categories:
   - 学术报告
-tags: [maize, popgen, quantgen]
+tags: [talks, maize, popgen, quantgen]
 show_comments: true
 thumbnail: "https://i.imgur.com/kCGS32J.png"
 ---

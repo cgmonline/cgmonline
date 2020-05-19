@@ -1,9 +1,10 @@
 ---
 title: "CGM 第25期：Profiling of Short-Tandem-Repeat Disease Alleles in 12,632 Human Genomes"
-date: "2018-03-21"
+date: "2018-03-21T20:00:00.000Z"
+archive: ["2018","2018-03","2018-03-21"]
 categories:
   - 学术报告
-tags: [STR, human genome, genetic diseases,TREDPARSE]
+tags: [talks, STR, human genome, genetic diseases,TREDPARSE]
 show_comments: true
 thumbnail: "https://i.imgur.com/IE4tyjt.jpg"
 ---

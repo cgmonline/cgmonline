@@ -1,9 +1,10 @@
 ---
 title: "CGM 第12期：番茄果实形状多变的背后?"
-date: "2017-08-16"
+date: "2017-08-16T20:00:00.000Z"
+archive: ["2017","2017-08","2017-08-16"]
 categories:
   - 学术报告
-tags: [tomato, molecular]
+tags: [talks, tomato, molecular]
 show_comments: true
 thumbnail: "http://i.imgur.com/hbBQyD8.png"
 time: August 16, 2017, 20:00:00

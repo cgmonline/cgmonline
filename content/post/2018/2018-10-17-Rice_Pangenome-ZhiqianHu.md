@@ -1,9 +1,10 @@
 ---
 title: "CGM 第40期：Towards Eukaryotic Pan-genomics"
-date: "2018-10-17"
+date: "2018-10-17T20:00:00.000Z"
+archive: ["2018","2018-10","2018-10-17"]
 categories:
   - 学术报告
-tags: [Rice, Pan-genome, Structural variants, Novel genes]
+tags: [talks, Rice, Pan-genome, Structural variants, Novel genes]
 show_comments: true
 thumbnail: "https://i.imgur.com/Dbjcs0A.jpg"
 ---

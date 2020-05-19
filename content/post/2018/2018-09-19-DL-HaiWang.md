@@ -1,9 +1,10 @@
 ---
 title: "CGM 第38期：在进化生物学的框架下利用深度学习预测基因表达"
-date: "2018-09-19"
+date: "2018-09-19T20:00:00.000Z"
+archive: ["2018","2018-09","2018-09-19"]
 categories:
   - 学术报告
-tags: [Deep learning, Prediction, DNA, Transcript]
+tags: [talks, Deep learning, Prediction, DNA, Transcript]
 show_comments: true
 thumbnail: "https://i.imgur.com/8Xf0QQw.png"
 ---

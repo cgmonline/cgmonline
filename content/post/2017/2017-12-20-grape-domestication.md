@@ -1,9 +1,10 @@
 ---
 title: "CGM 第20期：Population Genetics of Grape Domestication"
-date: "2017-12-20"
+date: "2017-12-20T20:00:00.000Z"
+archive: ["2017","2017-12","2017-12-20"]
 categories:
   - 学术报告
-tags: [grape, domestication, popgen]
+tags: [talks, grape, domestication, popgen]
 show_comments: true
 thumbnail: "https://i.imgur.com/wGBzHaB.png"
 ---

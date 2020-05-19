@@ -1,9 +1,10 @@
 ---
 title: "CGM 第7期：Rapidly define crop gene functions using Setaria viridis as a model"
-date: "2017-05-24"
+date: "2017-05-24T20:00:00.000Z"
+archive: ["2017","2017-05","2017-05-24"]
 categories:
   - 学术报告
-tags: [setaria, function, mapping]
+tags: [talks, setaria, function, mapping]
 show_comments: true
 thumbnail: "http://i.imgur.com/qcl0xi9.png"
 ---

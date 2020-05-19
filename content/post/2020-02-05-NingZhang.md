@@ -4,7 +4,7 @@ date: "2020-02-05T17:15:22.000Z"
 archive: ["2020","2020-02","2020-02-05"]
 categories:
   - 人物专访
-tags: [talk]
+tags: [talks]
 show_comments: true
 thumbnail: "https://i.imgur.com/norHKHt.jpg"
 ---

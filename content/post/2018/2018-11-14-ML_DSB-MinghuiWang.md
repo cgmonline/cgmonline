@@ -1,9 +1,10 @@
 ---
 title: "CGM 第42期：Using Machine Learning to Dissect Recombination Landscape"
-date: "2018-11-14"
+date: "2018-11-14T20:00:00.000Z"
+archive: ["2018","2018-11","2018-11-14"]
 categories:
   - 学术报告
-tags: [Machine Learning, Recombination, DNA, Double Strand Break]
+tags: [talks, Machine Learning, Recombination, DNA, Double Strand Break]
 show_comments: true
 thumbnail: "https://i.imgur.com/BV8MyDe.png"
 ---

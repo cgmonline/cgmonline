@@ -1,9 +1,10 @@
 ---
 title: "CGM 第47期：Environment-dependent pleiotropic effects of mutations on the maximum growth rate r and carrying capacity K of population growth"
-date: "2019-02-20"
+date: "2019-02-20T20:00:00.000Z"
+archive: ["2019","2019-02","2019-02-20"]
 categories:
   - 学术报告
-tags: [Population growth rate, carrying capacity, Environment-dependent pleiotropic effect]
+tags: [talks, Population growth rate, carrying capacity, Environment-dependent pleiotropic effect]
 show_comments: true
 thumbnail: "https://i.imgur.com/A9RRxP2.png"
 ---

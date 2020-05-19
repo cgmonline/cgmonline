@@ -1,9 +1,10 @@
 ---
 title: "CGM 第5期：白菜的前世今生"
-date: "2017-04-26"
+date: "2017-04-26T20:00:00.000Z"
+archive: ["2017","2017-04","2017-04-26"]
 categories:
   - 学术报告
-tags: [rapa, evolution]
+tags: [talks, rapa, evolution]
 show_comments: true
 thumbnail: "http://i.imgur.com/ZO5v0fH.png"
 ---

@@ -1,9 +1,10 @@
 ---
 title: "CGM 第69期：种群基因组学揭示的银杏进化历史"
-date: "2019-10-23"
+date: "2019-10-23T20:00:00.000Z"
+archive: ["2019","2019-10","2019-10-23"]
 categories:
   - 学术报告
-tags: [gingkgo，evolution]
+tags: [talks, gingkgo，evolution]
 show_comments: true
 thumbnail: "https://i.imgur.com/WxZYdHu.png"
 ---

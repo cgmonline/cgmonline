@@ -4,7 +4,7 @@ date: "2020-04-01T17:15:22.000Z"
 archive: ["2020","2020-04","2020-04-01"]
 categories:
   - 学术报告
-tags: [talk, hybrid rice, heterosis, divergent selection, genetic introgression]
+tags: [talks, hybrid rice, heterosis, divergent selection, genetic introgression]
 show_comments: true
 thumbnail: "https://i.imgur.com/F4iaSCL.png"
 ---

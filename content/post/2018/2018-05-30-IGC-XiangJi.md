@@ -1,9 +1,10 @@
 ---
 title: "CGM 第30期：Phylogenetic approaches for quantifying interlocus gene conversion"
-date: "2018-05-30"
+date: "2018-05-30T20:00:00.000Z"
+archive: ["2018","2018-05","2018-05-30"]
 categories:
   - 学术报告
-tags: [phylogenetics, interlocus gene conversion, multigene family evolution]
+tags: [talks, phylogenetics, interlocus gene conversion, multigene family evolution]
 show_comments: true
 thumbnail: "https://i.imgur.com/NgXajV3.png"
 ---

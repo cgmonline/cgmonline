@@ -1,9 +1,10 @@
 ---
 title: "CGM 第1期：以植物进化史为鉴，预测未来优良作物"
-date: "2017-03-01"
+date: "2017-03-01T20:00:00.000Z"
+archive: ["2017","2017-03","2017-03-01"]
 categories:
   - 学术报告
-tags: [maize, deleterious, GWAS, GS]
+tags: [talks, maize, deleterious, GWAS, GS]
 show_comments: true
 thumbnail: "http://i.imgur.com/Bs0SleV.png"
 ---

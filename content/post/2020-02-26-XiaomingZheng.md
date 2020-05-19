@@ -4,7 +4,7 @@ date: "2020-02-26T17:15:22.000Z"
 archive: ["2020","2020-02","2020-02-26"]
 categories:
   - 学术报告
-tags: [talk, Genome-wide selection, lncRNA, domestication traits, Rice]
+tags: [talks, Genome-wide selection, lncRNA, domestication traits, Rice]
 show_comments: true
 thumbnail: "https://i.imgur.com/0x22kL7.jpg"
 ---

@@ -1,9 +1,10 @@
 ---
 title: "CGM 第59期：表型组学时代，多表型助力基因挖掘"
-date: "2019-08-07"
+date: "2019-08-07T20:00:00.000Z"
+archive: ["2019","2019-08","2019-08-07"]
 categories:
   - 学术报告
-tags: [maize, phenomics, genetics]
+tags: [talks, maize, phenomics, genetics]
 show_comments: true
 thumbnail: "https://i.imgur.com/TbRPeFv.png"
 ---

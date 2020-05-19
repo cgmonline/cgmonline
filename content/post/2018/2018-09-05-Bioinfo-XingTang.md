@@ -1,9 +1,10 @@
 ---
 title: "CGM 第37期：My experience of facilitating both hypothesis-driven and data-driven research as a bioinformatician"
-date: "2018-09-05"
+date: "2018-09-05T20:00:00.000Z"
+archive: ["2018","2018-09","2018-09-05"]
 categories:
   - 学术报告
-tags: [Bioinformatics, Data, Hypothesis]
+tags: [talks, Bioinformatics, Data, Hypothesis]
 show_comments: true
 thumbnail: "https://i.imgur.com/2SuwH9F.png"
 ---

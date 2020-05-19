@@ -4,7 +4,7 @@ date: "2020-02-12T17:15:22.000Z"
 archive: ["2020","2020-02","2020-02-12"]
 categories:
   - 学术报告
-tags: [talk, hornwort genome, early land plant, evolution]
+tags: [talks, hornwort genome, early land plant, evolution]
 show_comments: true
 thumbnail: "https://i.imgur.com/9u7xZ1Z.png"
 ---

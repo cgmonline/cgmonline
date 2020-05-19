@@ -1,9 +1,10 @@
 ---
 title: "CGM 第41期：Understanding Domestication Through Maize Mutants"
-date: "2018-11-07"
+date: "2018-11-07T20:00:00.000Z"
+archive: ["2018","2018-11","2018-11-07"]
 categories:
   - 学术报告
-tags: [Maize, Domestication, Branch, Mutants]
+tags: [talks, Maize, Domestication, Branch, Mutants]
 show_comments: true
 thumbnail: "https://i.imgur.com/8T47z9f.png"
 ---

@@ -1,9 +1,10 @@
 ---
 title: "CGM 第3期：植物的微生物世界"
-date: "2017-03-29"
+date: "2017-03-29T20:00:00.000Z"
+archive: ["2017","2017-03","2017-03-29"]
 categories:
   - 学术报告
-tags: [plants, microbiome, biology]
+tags: [talks, plants, microbiome, biology]
 show_comments: true
 thumbnail: "http://i.imgur.com/Sev5B6K.png"
 ---

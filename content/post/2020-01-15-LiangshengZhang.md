@@ -4,7 +4,7 @@ date: "2020-01-15T17:15:22.000Z"
 archive: ["2020","2020-01","2020-01-15"]
 categories:
   - 学术报告
-tags: [water lily genome, flowering plants, evolution]
+tags: [talks, water lily genome, flowering plants, evolution]
 show_comments: true
 thumbnail: "https://i.imgur.com/UHJ1pqb.jpg"
 ---

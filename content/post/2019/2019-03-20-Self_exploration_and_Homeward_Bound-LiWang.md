@@ -1,9 +1,10 @@
 ---
 title: "CGM 第49期：向外探索世界，向内探索自己"
-date: "2019-03-20"
+date: "2019-03-20T20:00:00.000Z"
+archive: ["2019","2019-03","2019-03-20"]
 categories:
   - 专题讨论
-tags: [Women in Science, Antarctic trip]
+tags: [talks, Women in Science, Antarctic trip]
 show_comments: true
 thumbnail: "https://i.imgur.com/eminUIt.png"
 ---

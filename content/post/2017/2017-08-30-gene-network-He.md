@@ -1,9 +1,10 @@
 ---
 title: "CGM 第13期：公共基因表达数据挖掘"
-date: "2017-08-30"
+date: "2017-08-30T20:00:00.000Z"
+archive: ["2017","2017-08","2017-08-30"]
 categories:
   - 学术报告
-tags: [arabidopsis, expression, bigdata]
+tags: [talks, arabidopsis, expression, bigdata]
 show_comments: true
 thumbnail: "http://i.imgur.com/zHowgjg.png"
 time: August 30, 2017, 20:00:00

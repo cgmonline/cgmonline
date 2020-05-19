@@ -1,9 +1,10 @@
 ---
 title: "CGM 第11期：How to find a job in academic field?"
-date: "2017-08-02"
+date: "2017-08-02T20:00:00.000Z"
+archive: ["2017","2017-08","2017-08-02"]
 categories:
   - 专题讨论
-tags: [job, discuss]
+tags: [talks, job, discuss]
 show_comments: true
 thumbnail: "http://i.imgur.com/8B3VDte.png"
 time: August 2, 2017, 20:00:00

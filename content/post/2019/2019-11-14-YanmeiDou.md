@@ -1,9 +1,10 @@
 ---
 title: "CGM 第72期：MosaicForecast: accurate detection of mosaic variants in sequencing data without matched controls"
-date: "2019-11-13"
+date: "2019-11-13T20:00:00.000Z"
+archive: ["2019","2019-11","2019-11-13"]
 categories:
   - 学术报告
-tags: [mosaic variant, haplotype phasing, machine learning]
+tags: [talks, mosaic variant, haplotype phasing, machine learning]
 show_comments: true
 thumbnail: "https://imgur.com/XquzzUl.jpg"
 ---

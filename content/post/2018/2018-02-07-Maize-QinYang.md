@@ -1,9 +1,10 @@
 ---
 title: "CGM 第22期：Quantitative disease resistance in maize"
-date: "2018-02-07"
+date: "2018-02-07T20:00:00.000Z"
+archive: ["2018","2018-02","2018-02-07"]
 categories:
   - 学术报告
-tags: [Maize, disease resistance, gene mining]
+tags: [talks, Maize, disease resistance, gene mining]
 show_comments: true
 thumbnail: "https://i.imgur.com/35nixFR.jpg"
 ---

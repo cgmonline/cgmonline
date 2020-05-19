@@ -1,9 +1,10 @@
 ---
 title: "CGM 第74期：全基因组变异图谱揭示甜瓜驯化历史及农艺性状形成基因位点"
-date: "2019-12-04"
+date: "2019-12-04T20:00:00.000Z"
+archive: ["2019","2019-12","2019-12-04"]
 categories:
   - 学术报告
-tags: [melon, domestication, breeding, genome variation map]
+tags: [talks, melon, domestication, breeding, genome variation map]
 show_comments: true
 thumbnail: "https://i.imgur.com/BJFQwtP.png"
 ---

@@ -1,9 +1,10 @@
 ---
 title: "CGM 第24期：Genome Plasticity of Wheat"
-date: "2018-03-07"
+date: "2018-03-07T20:00:00.000Z"
+archive: ["2018","2018-03","2018-03-07"]
 categories:
   - 学术报告
-tags: [wheat, genome plasticity, reverse genetics]
+tags: [talks, wheat, genome plasticity, reverse genetics]
 show_comments: true
 thumbnail: "https://i.imgur.com/5CXf7uy.jpg"
 ---

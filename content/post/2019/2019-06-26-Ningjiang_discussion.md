@@ -1,9 +1,10 @@
 ---
 title: "CGM 第56期：人物专访 蒋宁教授：与跳跃基因共舞"
-date: "2019-06-26"
+date: "2019-06-26T20:00:00.000Z"
+archive: ["2019","2019-06","2019-06-26"]
 categories:
   - 人物专访
-tags: [academia,transposon]
+tags: [talks, academia,transposon]
 show_comments: true
 thumbnail: "https://imgur.com/R4UCRM8.jpg"
 ---

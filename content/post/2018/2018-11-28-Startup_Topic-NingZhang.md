@@ -1,9 +1,10 @@
 ---
 title: "CGM 第43期：生物学博士如何创业--专访投必得（TopEdit）创办人张宁博士"
-date: "2018-11-28"
+date: "2018-11-28T20:00:00.000Z"
+archive: ["2018","2018-11","2018-11-28"]
 categories:
   - 人物专访
-tags: [Career, Startup]
+tags: [talks, Career, Startup]
 show_comments: true
 thumbnail: "https://i.imgur.com/X48RIMq.jpg"
 ---

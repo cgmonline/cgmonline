@@ -1,9 +1,10 @@
 ---
 title: "CGM 第52期：Genome-resolved metagenomics 解码宏基因组"
-date: "2019-05-01"
+date: "2019-05-01T20:00:00.000Z"
+archive: ["2019","2019-05","2019-05-01"]
 categories:
   - 学术报告
-tags: [metagenome]
+tags: [talks, metagenome]
 show_comments: true
 thumbnail: "https://i.imgur.com/Ffomt34.png"
 ---

@@ -1,9 +1,10 @@
 ---
 title: "CGM 第58期：玉米可变剪接变异研究"
-date: "2019-07-24"
+date: "2019-07-24T20:00:00.000Z"
+archive: ["2019","2019-07","2019-07-24"]
 categories:
   - 学术报告
-tags: [rice,breeding]
+tags: [talks, rice,breeding]
 show_comments: true
 thumbnail: "https://i.imgur.com/iJGS9BQ.jpg"
 ---

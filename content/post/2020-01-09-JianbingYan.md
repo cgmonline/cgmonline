@@ -4,6 +4,7 @@ date: "2020-01-09T17:15:22.000Z"
 archive: ["2020","2020-01","2020-01-09"]
 categories:
   - 人物专访
+tags: [talks]
 show_comments: true
 thumbnail: "https://i.imgur.com/VpDAeqt.png"
 ---

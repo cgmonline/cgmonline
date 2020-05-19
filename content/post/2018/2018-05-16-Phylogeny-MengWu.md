@@ -1,9 +1,10 @@
 ---
 title: "CGM 第29期：Dissecting the basis of novel trait evolution in a radiation with widespread phylogenetic discordance"
-date: "2018-05-16"
+date: "2018-05-16T20:00:00.000Z"
+archive: ["2018","2018-05","2018-05-16"]
 categories:
   - 学术报告
-tags: [phylogenomics, rapid radiation, hemiplasy, convergence]
+tags: [talks, phylogenomics, rapid radiation, hemiplasy, convergence]
 show_comments: true
 thumbnail: "https://i.imgur.com/OapOuQO.png"
 ---

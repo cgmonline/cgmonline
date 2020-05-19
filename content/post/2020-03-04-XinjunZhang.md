@@ -4,7 +4,7 @@ date: "2020-03-04T17:15:22.000Z"
 archive: ["2020","2020-03","2020-03-04"]
 categories:
   - 学术报告
-tags: [talk, Adaptive introgression, Archaic humans, Deleterious variation, Population genetics]
+tags: [talks, Adaptive introgression, Archaic humans, Deleterious variation, Population genetics]
 show_comments: true
 thumbnail: "https://i.imgur.com/J7cGsLa.png"
 ---

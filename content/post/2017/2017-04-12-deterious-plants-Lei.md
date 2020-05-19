@@ -1,9 +1,10 @@
 ---
 title: "CGM 第4期：Comparative genomics approaches accurately predict deleterious variants in plants"
-date: "2017-04-12"
+date: "2017-04-12T20:00:00.000Z"
+archive: ["2017","2017-04","2017-04-12"]
 categories:
   - 学术报告
-tags: [plants, domestication, evolution]
+tags: [talks, plants, domestication, evolution]
 show_comments: true
 thumbnail: "http://i.imgur.com/NhOe8z4.png"
 ---

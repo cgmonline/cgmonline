@@ -1,9 +1,10 @@
 ---
 title: "CGM 第27期：Host genetic control of symbiosis specificity in Medicago truncatula"
-date: "2018-04-18"
+date: "2018-04-18T20:00:00.000Z"
+archive: ["2018","2018-04","2018-04-18"]
 categories:
   - 学术报告
-tags: [symbiosis, medicago, nitrogen fixation,rhizobium]
+tags: [talks, symbiosis, medicago, nitrogen fixation,rhizobium]
 show_comments: true
 thumbnail: "https://i.imgur.com/U9fIHTQ.png"
 ---

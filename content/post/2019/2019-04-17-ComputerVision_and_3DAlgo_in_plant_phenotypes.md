@@ -1,9 +1,10 @@
 ---
 title: "CGM 第51期：计算机视觉及三维算法设计在植物表型测量中的应用"
-date: "2019-04-17"
+date: "2019-04-17T20:00:00.000Z"
+archive: ["2019","2019-04","2019-04-17"]
 categories:
   - 学术报告
-tags: [Phenotype, Computer Vision]
+tags: [talks, Phenotype, Computer Vision]
 show_comments: true
 thumbnail: "https://i.imgur.com/CJUsjMr.jpg"
 ---

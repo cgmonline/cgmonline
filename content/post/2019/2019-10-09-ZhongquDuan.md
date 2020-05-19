@@ -1,9 +1,10 @@
 ---
 title: "CGM 第67期：人类泛基因组分析流程的构建"
-date: "2019-10-09"
+date: "2019-10-09T20:00:00.000Z"
+archive: ["2019","2019-10","2019-10-09"]
 categories:
   - 学术报告
-tags: [Human, Pan Genome]
+tags: [talks, Human, Pan Genome]
 show_comments: true
 thumbnail: "https://i.imgur.com/YQ8JutI.png"
 ---

@@ -1,9 +1,10 @@
 ---
 title: "CGM 第54期：酵母菌进化模式"
-date: "2019-05-29"
+date: "2019-05-29T20:00:00.000Z"
+archive: ["2019","2019-05","2019-05-29"]
 categories:
   - 学术报告
-tags: [Yeast,evolution]
+tags: [talks, Yeast,evolution]
 show_comments: true
 thumbnail: "https://imgur.com/Rj82yww.jpg"
 ---

@@ -1,9 +1,10 @@
 ---
 title: "CGM 第6期：基于版本控制的数据分析及流程管理"
-date: "2017-05-10"
+date: "2017-05-10T20:00:00.000Z"
+archive: ["2017","2017-05","2017-05-10"]
 categories:
   - 专题讨论
-tags: [github, NGS, discuss, bigdata, computation]
+tags: [talks, github, NGS, discuss, bigdata, computation]
 show_comments: true
 thumbnail: "http://i.imgur.com/uXxAENu.png"
 ---

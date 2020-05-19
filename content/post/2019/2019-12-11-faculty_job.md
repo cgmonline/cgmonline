@@ -1,9 +1,10 @@
 ---
 title: "CGM 第75期：如何在北美学术界找工作 (How to Find a Job in Academic Field?)"
-date: "2019-12-11"
+date: "2019-12-11T20:00:00.000Z"
+archive: ["2019","2019-12","2019-12-11"]
 categories:
   - 专题讨论
-tags: [job, academic]
+tags: [talks, job, academic]
 show_comments: true
 thumbnail: "https://imgur.com/XhZPiFX.jpg"
 ---

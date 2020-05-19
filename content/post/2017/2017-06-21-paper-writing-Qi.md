@@ -1,9 +1,10 @@
 ---
 title: "CGM 第8期：怎样提高英文科技论文的写作？"
-date: "2017-06-21"
+date: "2017-06-21T20:00:00.000Z"
+archive: ["2017","2017-06","2017-06-21"]
 categories:
   - 专题讨论
-tags: [paper, writing, discuss]
+tags: [talks, paper, writing, discuss]
 show_comments: true
 thumbnail: "http://i.imgur.com/33BNlnC.png"
 ---

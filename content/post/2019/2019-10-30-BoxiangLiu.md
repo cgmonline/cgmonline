@@ -1,9 +1,10 @@
 ---
 title: "CGM 第70期：Abundant associations with gene expression complicate GWAS follow-up"
-date: "2019-10-30"
+date: "2019-10-30T20:00:00.000Z"
+archive: ["2019","2019-10","2019-10-30"]
 categories:
   - 学术报告
-tags: [GWAS, eQTL, colocalization]
+tags: [talks, GWAS, eQTL, colocalization]
 show_comments: true
 thumbnail: "https://imgur.com/gKHPvv1.jpg"
 ---

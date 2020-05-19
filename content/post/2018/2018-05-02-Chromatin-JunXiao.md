@@ -1,9 +1,10 @@
 ---
 title: "CGM 第28期：Plant cell identity determination by Chromatin regulators"
-date: "2018-05-02"
+date: "2018-05-02T20:00:00.000Z"
+archive: ["2018","2018-05","2018-05-02"]
 categories:
   - 学术报告
-tags: [cell identity, chromatin remodeling complex, polycomb repressive complex, plant]
+tags: [talks, cell identity, chromatin remodeling complex, polycomb repressive complex, plant]
 show_comments: true
 thumbnail: "https://i.imgur.com/smWiaeK.png"
 ---

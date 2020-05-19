@@ -1,9 +1,10 @@
 ---
 title: "CGM 第76期：植物细胞器基因组的“那些事”"
-date: "2019-12-18"
+date: "2019-12-18T20:00:00.000Z"
+archive: ["2019","2019-12","2019-12-18"]
 categories:
   - 学术报告
-tags: [chloroplast genome, mitochondrial genome]
+tags: [talks, chloroplast genome, mitochondrial genome]
 show_comments: true
 thumbnail: "https://i.imgur.com/lzDQQAS.png"
 ---

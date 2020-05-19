@@ -1,9 +1,10 @@
 ---
 title: "CGM 第55期：水稻株型驯化极简史：1+3=1"
-date: "2019-06-12"
+date: "2019-06-12T20:00:00.000Z"
+archive: ["2019","2019-06","2019-06-12"]
 categories:
   - 学术报告
-tags: [rice,breeding]
+tags: [talks, rice,breeding]
 show_comments: true
 thumbnail: "https://i.imgur.com/6U0KpzW.jpg"
 ---

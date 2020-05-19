@@ -1,9 +1,10 @@
 ---
 title: "CGM 第34期：基因和环境因子共同解析表型可塑性（Phenotype plasticity）"
-date: "2018-07-25"
+date: "2018-07-25T20:00:00.000Z"
+archive: ["2018","2018-07","2018-07-25"]
 categories:
   - 学术报告
-tags: [GxE, phenotype plasticity]
+tags: [talks, GxE, phenotype plasticity]
 show_comments: true
 thumbnail: "https://i.imgur.com/1UUXpi5.png"
 ---

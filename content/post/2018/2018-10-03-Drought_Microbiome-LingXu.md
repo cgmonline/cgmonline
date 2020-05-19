@@ -1,9 +1,10 @@
 ---
 title: "CGM 第39期：Drought delays development of the sorghum root microbiome and enriches for monoderm bacteria"
-date: "2018-10-03"
+date: "2018-10-03T20:00:00.000Z"
+archive: ["2018","2018-10","2018-10-03"]
 categories:
   - 学术报告
-tags: [Microbiome, Drought, Crop]
+tags: [talks, Microbiome, Drought, Crop]
 show_comments: true
 thumbnail: "https://i.imgur.com/ErPrdrm.jpg"
 ---

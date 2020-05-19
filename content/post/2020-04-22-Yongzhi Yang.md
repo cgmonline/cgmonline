@@ -4,7 +4,7 @@ date: "2020-04-22T17:15:22.000Z"
 archive: ["2020","2020-04","2020-04-22"]
 categories:
   - 学术报告
-tags: [talk, Prickly waterlily, rigid hornwort , genome assembly, early angiosperm evolution]
+tags: [talks, Prickly waterlily, rigid hornwort , genome assembly, early angiosperm evolution]
 show_comments: true
 thumbnail: "https://i.loli.net/2020/04/19/VSIodgrDBvfR9lA.jpg"
 ---

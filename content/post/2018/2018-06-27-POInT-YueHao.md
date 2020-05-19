@@ -1,9 +1,10 @@
 ---
 title: "CGM 第32期：Preferential retention of homeologs from a single parental subgenome after polyploidy is shaped by functional interactions and dosage-based intrinsic selective constraint"
-date: "2018-06-27"
+date: "2018-06-27T20:00:00.000Z"
+archive: ["2018","2018-06","2018-06-27"]
 categories:
   - 学术报告
-tags: [polyploidy, biased fractionation, selection, dosage, Arabidopsis, Brassica]
+tags: [talks, polyploidy, biased fractionation, selection, dosage, Arabidopsis, Brassica]
 show_comments: true
 thumbnail: "https://i.imgur.com/vYRPJy4.jpg"
 ---

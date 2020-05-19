@@ -1,9 +1,10 @@
 ---
 title: "CGM 第9期：The cause and consequence of alternative splicing in maize and across species"
-date: "2017-07-05"
+date: "2017-07-05T20:00:00.000Z"
+archive: ["2017","2017-07","2017-07-05"]
 categories:
   - 学术报告
-tags: [laternative splicing, maize, plants, function]
+tags: [talks, laternative splicing, maize, plants, function]
 show_comments: true
 thumbnail: "http://i.imgur.com/83WKZI9.png"
 ---

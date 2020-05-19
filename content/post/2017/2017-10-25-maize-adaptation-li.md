@@ -1,9 +1,10 @@
 ---
 title: "CGM 第17期：The Evolution of Maize during Post-Domestication Expansion across Americas"
-date: "2017-10-25"
+date: "2017-10-25T20:00:00.000Z"
+archive: ["2017","2017-10","2017-10-25"]
 categories:
   - 学术报告
-tags: [maize, evolution, domestication]
+tags: [talks, maize, evolution, domestication]
 show_comments: true
 thumbnail: "https://i.imgur.com/2ZrYiuw.png"
 ---

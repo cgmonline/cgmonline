@@ -1,9 +1,10 @@
 ---
 title: "CGM 第35期：Female in Academic Field"
-date: "2018-08-08"
+date: "2018-08-08T20:00:00.000Z"
+archive: ["2018","2018-08","2018-08-08"]
 categories:
   - 专题讨论
-tags: [job, discuss, female]
+tags: [talks, job, discuss, female]
 show_comments: true
 thumbnail: "https://imgur.com/SXzAS1A.jpg"
 ---

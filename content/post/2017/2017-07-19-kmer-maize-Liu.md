@@ -1,9 +1,10 @@
 ---
 title: "CGM 第10期：Unbiased k-mer Analysis for Comparative Genomics"
-date: "2017-07-19"
+date: "2017-07-19T20:00:00.000Z"
+archive: ["2017","2017-07","2017-07-19"]
 categories:
   - 学术报告
-tags: [k-mer, maize, mapping, repeats]
+tags: [talks, k-mer, maize, mapping, repeats]
 show_comments: true
 thumbnail: "http://i.imgur.com/YX9Rqn5.png"
 ---

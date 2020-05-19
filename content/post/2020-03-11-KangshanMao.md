@@ -4,7 +4,7 @@ date: "2020-03-11T17:15:22.000Z"
 archive: ["2020","2020-03","2020-03-11"]
 categories:
   - 学术报告
-tags: [talk, Introgression, population genetic, evolutionary, cypress species]
+tags: [talks, Introgression, population genetic, evolutionary, cypress species]
 show_comments: true
 thumbnail: "https://i.imgur.com/2j1N1F2.jpg.jpg"
 ---

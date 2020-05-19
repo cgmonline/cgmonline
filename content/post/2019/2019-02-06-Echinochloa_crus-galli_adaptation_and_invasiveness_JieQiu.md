@@ -1,9 +1,10 @@
 ---
 title: "CGM 第46期：稻田杂草之首稗草与水稻相争的*秘密武器*"
-date: "2019-02-06"
+date: "2019-02-06T20:00:00.000Z"
+archive: ["2019","2019-02","2019-02-06"]
 categories:
   - 学术报告
-tags: [Weedy rice, Echinochloa crus-galli, Adaptation, Invasiveness]
+tags: [talks, Weedy rice, Echinochloa crus-galli, Adaptation, Invasiveness]
 show_comments: true
 thumbnail: "https://i.imgur.com/5QP9xlL.png"
 ---

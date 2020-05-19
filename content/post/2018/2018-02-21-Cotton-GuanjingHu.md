@@ -1,9 +1,10 @@
 ---
 title: "CGM 第23期：Polyploidy and duplicated gene regulation, stories of cotton 棉花进化那些事儿"
-date: "2018-02-21"
+date: "2018-02-21T20:00:00.000Z"
+archive: ["2018","2018-02","2018-02-21"]
 categories:
   - 学术报告
-tags: [cotton, polyploidy, gene regulation, domestication]
+tags: [talks, cotton, polyploidy, gene regulation, domestication]
 show_comments: true
 thumbnail: "https://i.imgur.com/zv2dCnz.png"
 ---

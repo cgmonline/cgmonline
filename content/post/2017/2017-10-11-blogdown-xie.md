@@ -1,9 +1,10 @@
 ---
 title: "CGM 第16期：用 blogdown 搭建一个静态网站"
-date: "2017-10-11"
+date: "2017-10-11T20:00:00.000Z"
+archive: ["2017","2017-10","2017-10-11"]
 categories:
   - 学术报告
-tags: [R, writing, blog, website]
+tags: [talks, R, writing, blog, website]
 show_comments: true
 thumbnail: "https://i.imgur.com/2PGSUCK.png"
 ---

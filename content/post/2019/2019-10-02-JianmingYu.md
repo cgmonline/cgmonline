@@ -1,8 +1,10 @@
 ---
 title: "CGM 第66期：Grow Through What You Go through (通过你经历的事情成长)"
-date: "2019-10-02"
+date: "2019-10-02T20:00:00.000Z"
+archive: ["2019","2019-10","2019-10-02"]
 categories:
   - 人物专访
+tags: [talks]
 show_comments: true
 thumbnail: "https://i.imgur.com/Rne2dS8.png"
 ---

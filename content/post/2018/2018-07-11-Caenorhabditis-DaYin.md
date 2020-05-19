@@ -1,9 +1,10 @@
 ---
 title: "CGM 第33期：比较基因组发现线虫控制性选择的新基因家族"
-date: "2018-07-11"
+date: "2018-07-11T20:00:00.000Z"
+archive: ["2018","2018-07","2018-07-11"]
 categories:
   - 学术报告
-tags: [mating system evolution, genome evolution, sexual selection]
+tags: [talks, mating system evolution, genome evolution, sexual selection]
 show_comments: true
 thumbnail: "https://i.imgur.com/zVXvIND.jpg"
 ---

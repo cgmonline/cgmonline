@@ -1,9 +1,10 @@
 ---
 title: "CGM 第2期：作物驯化的进化遗传学展望"
-date: "2017-03-15"
+date: "2017-03-15T20:00:00.000Z"
+archive: ["2017","2017-03","2017-03-15"]
 categories:
   - 学术报告
-tags: [plants, domestication, evolution]
+tags: [talks, plants, domestication, evolution]
 show_comments: true
 thumbnail: "http://i.imgur.com/OrAf70M.png"
 ---
