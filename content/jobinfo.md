@@ -9,5 +9,6 @@ CGM不对信息负责。请自行联系信息发布者。
 
 
 ## 工作信息列表
+- [2020](https://docs.qq.com/sheet/DY0VDdlRlc2dzV1Rt?c=A2A0A0)
 
 - [2019 9-12月](https://1drv.ms/x/s!ApL8ekkjd7QEf2oDvj8g_Os3m9s)
