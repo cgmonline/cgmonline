@@ -1,16 +1,21 @@
 ﻿---
-title: "下期预告"
+title: "Fhb7的水平转移塑造小麦赤霉病抗性"
 date: "2020-06-10"
-menu: [top]
-weight: 2
+categories:
+  - 学术报告
+tags: [Wheat, horizontal gene transfer, Fusarium head blight resistance ]
+show_comments: true
+thumbnail: "https://i.loli.net/2020/06/07/pEae3rHG1LxfU2q.jpg"
 ---
 
 - 题目：Fhb7的水平转移塑造小麦赤霉病抗性
-- 时间：北京时间2020年6月10日9PM（美国西部时间 6 月 10 日（星期三）6AM）
+- 时间：北京时间2020年6月10日9PM（美国西部PST时间 6 月 10 日（星期三）6AM）
 - 地点：Zoom and Bilibili live stream
 - 主讲人：王宏伟，山东农业大学农学院教授，博士生导师。本科就读于烟台大学， 2011年于高丽大学获得博士学位，2012年入职山东农业大学，现任山东遗传学会副秘书长。主要从事小麦分子遗传学、群体遗传学、功能基因组学及分子育种学等研究，先后主持国家自然基金、国家“973”计划子课题、国家转基因重大专项子课题等，参编书籍《Methods in Molecular Biology》。以第一或通讯作者在SCIENCE、PNAS、ANAL CHEM、DNA RESEARCH、THEOR APPL GENET等杂志发表学术成果。
 
-![](https://i.loli.net/2020/06/07/pEae3rHG1LxfU2q.jpg)
+<div align="center">
+<img src="https://i.loli.net/2020/06/07/pEae3rHG1LxfU2q.jpg" height=500>
+</div>
 
 # 中文摘要
 
@@ -22,19 +27,16 @@ weight: 2
 
 利用远缘杂交将Fhb7回交到普通小麦中显示，其的确可以起到抗赤霉病和茎基腐病的广谱抗病作用，但不带来明显负面产量影响，为作物抗镰刀菌的遗传改良提供了一种有效基因资源。
 
+
 # 参考文献
 
 Wang, Hongwei<sup>\#</sup><sup>\*</sup> & Sun, Silong<sup>\#</sup> & Ge, Wenyang<sup>\#</sup> & Zhao, Lanfei<sup>\#</sup> & Hou, Bingqian<sup>\#</sup> & Wang, Kai<sup>\#</sup> & Lyu, Zhongfan<sup>\#</sup> & Chen, Liyang & Xu, Shoushen & Guo, Jun & Li, Min & Su, Peisen & Li, Xuefeng & Wang, Guiping & Bo, Cunyao & Fang, Xiaojian & Zhuang, Wenwen & Cheng, Xinxin & Wu, Jianwen & Kong, Lingrang<sup>\*</sup>. (2020). Horizontal gene transfer of Fhb7 from fungus underlies Fusarium head blight resistance in wheat. Science. 368. eaba5435. 10.1126/science.aba5435. 
 
+# YouTube
 
-# Zoom
+{{< youtube id="YIgq_kshQdA" autoplay="false" >}}
 
-主题：CGM 第98期：Fhb7的水平转移塑造小麦赤霉病抗性
+# Bilibili
 
-时间：北京时间2020年6月10日9PM（美国西部时间 6 月 10 日（星期三）6AM）
-
-加入 Zoom 会议
-https://zoom.com.cn/j/6058218292
-
-会议 ID：605 821 8292  
+{{< bilibili id="" autoplay="false" >}}
 
