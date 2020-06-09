@@ -3,7 +3,7 @@ title: "CGM Editorial Committee Transition Meeting"
 date: "2020-05-06T21:00:00.000Z"
 archive: ["2020","2020-05","2020-05-06"]
 categories:
-  - 会议
+  - 专题讨论
 ---
 
 - 题目：编辑部交接会议
