@@ -3,7 +3,7 @@ title: "CGM 第97期：黄三文：中国农科院深圳基因组所建设和人
 date: "2020-06-03T20:00:00.000Z"
 archive: ["2020","2020-06","2020-06-03"]
 categories:
-  - 学术报告, 专题讨论
+  - 专题讨论
 tags: [talks]
 show_comments: true
 thumbnail: "https://i.ibb.co/v49ryGN/640.jpg"

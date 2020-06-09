@@ -35,7 +35,7 @@ Wang, Hongwei<sup>\#</sup><sup>\*</sup> & Sun, Silong<sup>\#</sup> & Ge, Wenyang
 
 # YouTube
 
-{{< youtube id="YIgq_kshQdA" autoplay="false" >}}
+{{< youtube id="" autoplay="false" >}}
 
 # Bilibili
 
