@@ -1,6 +1,7 @@
 ---
 title: "CGM 第98期：Fhb7的水平转移塑造小麦赤霉病抗性"
 date: "2020-06-10"
+archive: ["2020","2020-06","2020-06-10"]
 categories:
   - 学术报告
 tags: [Wheat, horizontal gene transfer, Fusarium head blight resistance ]
@@ -8,7 +9,7 @@ show_comments: true
 thumbnail: "https://i.loli.net/2020/06/07/pEae3rHG1LxfU2q.jpg"
 ---
 
-- 题目：Fhb7的水平转移塑造小麦赤霉病抗性
+- 题目：CGM 第98期：Fhb7的水平转移塑造小麦赤霉病抗性
 - 时间：北京时间2020年6月10日9PM（美国西部PST时间 6 月 10 日（星期三）6AM）
 - 地点：Zoom and Bilibili live stream
 - 主讲人：王宏伟，山东农业大学农学院教授，博士生导师。本科就读于烟台大学， 2011年于高丽大学获得博士学位，2012年入职山东农业大学，现任山东遗传学会副秘书长。主要从事小麦分子遗传学、群体遗传学、功能基因组学及分子育种学等研究，先后主持国家自然基金、国家“973”计划子课题、国家转基因重大专项子课题等，参编书籍《Methods in Molecular Biology》。以第一或通讯作者在SCIENCE、PNAS、ANAL CHEM、DNA RESEARCH、THEOR APPL GENET等杂志发表学术成果。
