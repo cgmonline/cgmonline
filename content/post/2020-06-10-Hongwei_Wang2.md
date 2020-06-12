@@ -4,7 +4,7 @@ date: "2020-06-10T20:00:00.000Z"
 archive: ["2020","2020-06","2020-06-10"]
 categories:
   - 学术报告
-tags: [Wheat, horizontal gene transfer, Fusarium head blight resistance ]
+tags: [talks, Wheat, horizontal gene transfer, Fusarium head blight resistance]
 show_comments: true
 thumbnail: "https://i.loli.net/2020/06/07/pEae3rHG1LxfU2q.jpg"
 ---
