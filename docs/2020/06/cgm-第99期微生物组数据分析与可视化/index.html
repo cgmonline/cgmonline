@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>CGM 第99期：微生物组数据分析与可视化 | 华人基因组学在线沙龙</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    <link href="//cdn.bootcss.com/highlight.js/9.12.0/styles/github.min.css" rel="stylesheet">
+<link href="/css/custom.css" rel="stylesheet">
+<script async src="//yihui.name/js/no-highlight.js"></script>
+<script async src="/js/pangu.js"></script>
+
+  </head>
+
+  <body class="page">
+    <nav class="header">
+      <div class="banner-wrapper">
+<div class="banner">
+<div class="banner-image"><a href="/">
+<picture>
+  <source media="(min-width: 715px)" srcset="/img/new-logo-wide2020.png"><source media="(max-width: 380px)" srcset="/img/new-logo-wide2020.png">
+  <img src="/img/logo.png" alt="CGM标志">
+</picture>
+</a></div>
+<ul class="menu-top">
+  
+  <li><a href="/"><span data-hover="首页">首页</span></a></li>
+  
+  <li><a href="/coming/"><span data-hover="下期预告">下期预告</span></a></li>
+  
+  <li><a href="/tags/talks/"><span data-hover="往期活动">往期活动</span></a></li>
+  
+  <li><a href="/wechat/"><span data-hover="公众号">公众号</span></a></li>
+  
+  <li><a href="/cgmec/"><span data-hover="组织管理">组织管理</span></a></li>
+  
+  <li><a href="/business/"><span data-hover="企业沙龙">企业沙龙</span></a></li>
+  
+  <li><a href="/timeline/"><span data-hover="大事记">大事记</span></a></li>
+  
+  <li><a href="/calendar/"><span data-hover="活动日历">活动日历</span></a></li>
+  
+  <li><a href="/subscribe/"><span data-hover="加入我们">加入我们</span></a></li>
+  
+  <li><a href="/archives/"><span data-hover="讨论列表">讨论列表</span></a></li>
+  
+</ul>
+</div>
+</div>
+
+      <div class="head-meta">
+      
+        <span><a href="/">&larr; 返回首页</a></span>
+        <span class="date">2020-06-17</span>
+        
+        
+        
+          
+        
+        
+        <span><a href="https://github.com/cgmonline/cgmonline/edit/master/content/post/2020-06-17-Yongxin_Liu.md">编辑本页 &rarr;</a></span>
+        
+        
+      
+      </div>
+    </nav>
+
+<div class="container">
+<article>
+<div class="article-meta">
+
+  <div class="categories">
+  
+    <a href="/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A">学术报告</a>
+  
+  </div>
+
+  <h1><span class="title">CGM 第99期：微生物组数据分析与可视化</span></h1>
+
+  
+
+  
+  <p>关键词：<a href="/tags/talks">talks</a>; <a href="/tags/%E6%89%A9%E5%A2%9E%E5%AD%90">扩增子</a>; <a href="/tags/%E5%AE%8F%E5%9F%BA%E5%9B%A0%E7%BB%84">宏基因组</a>; <a href="/tags/%E5%88%86%E6%9E%90%E6%B5%81%E7%A8%8B">分析流程</a>; <a href="/tags/%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96">统计分析与可视化</a>
+  </p>
+  
+  
+
+
+</div>
+
+
+
+<main>
+<ul>
+<li>题目：CGM 第99期：微生物组数据分析与可视化</li>
+<li>时间：北京时间2020年6月17日9PM（美国西部PST时间 6 月 17 日（星期三）6AM）</li>
+<li>地点：Zoom and Bilibili live stream</li>
+<li>主讲人：刘永鑫，博士。2008年毕业于东北农业大学微生物学专业，2014年于中科院遗传发育所获生物信息学博士学位，2016年博士后出站留所任宏基因组学实验室工程师。目前主要研究方向有微生物组数据挖掘、分析方法开发和科学传播。目前以第一作者(含共同)或微生物组数据分析负责人在<em><strong>Science</strong></em>、<em><strong>Nature Biotechnology</strong></em>、<em><strong>Cell Host &amp; Microbe</strong></em> 等杂志发表论文20余篇，引用1100余次。参与微生物组分析平台<strong>QIIME 2</strong>开发。受邀以第一作者和/或通讯作者(含共同)在<em><strong>Protein &amp; Cell</strong></em>、<em><strong>Current Opinion in Microbiology</strong></em>、<em><strong>遗传</strong></em>等杂志发表微生物组研究方法综述。2017年7月创办“宏基因组”公众号，目前分享本领域相关原创文章1900余篇，代表作品有**《微生物组图表解读、分析流程和统计绘图》**、**《QIIME2中文教程》**等系列，关注人数9万+，累计阅读1400万+，2020年6月发起**宏基因组中文百科全书计划**，欢迎广大同行参与。</li>
+</ul>
+<!-- raw HTML omitted -->
+<h1 id="中文摘要">中文摘要</h1>
+<p>近年来高通量测序技术的发展，开发一系列适合微生物组研究的技术，快速推动了微生物组领域的发展并积累了海量数据。而微生物组数据分析过程复杂、软件和方法的种类多样让初涉本领域的同行非常茫然。<!-- raw HTML omitted --></p>
+<p>本次演讲系统概述了微生物组常用测序技术-扩增子、宏基因组等方法的优缺点，方便同行根据科学问题快速选择合适的研究手段。同时在众种的分析软件中，挑选主流软件整合的分析流程推荐给同行，方便快速实现较优的扩增子和宏基因组分析流程，对并常用软件和数据库进入介绍，方便同行选择和优化特征表。最后介绍基于特征表的微生物组下游通用统计分析和可视化方法，包括多样性、物种种组、网络分析、进化分析、机器学习、来源追溯等方法和常用可视化图表类型，帮助同行看懂图表并选择合适的方析方法和可视化方案。<!-- raw HTML omitted --></p>
+<p>本文拟通过对当前微生物组主流分析方法的整理和总结，为同领域研究者更方便、灵活的开展数据分析，快速选择研究分析工具，高效挖掘数据背后的生物学意义提供参考，进一步推动微生物组研究在生物学领域的发展。</p>
+<h1 id="参考文献">参考文献</h1>
+<p><strong>Yong-Xin Liu</strong>, Yuan Qin, Tong Chen, Meiping Lu, Xubo Qian, Xiaoxuan Guo &amp; Yang Bai. A practical guide to amplicon and metagenomic analysis of microbiome data. <em><strong>Protein Cell</strong></em> 41, 1-16, doi:10.1007/s13238-020-00724-8 (<strong>2020</strong>).</p>
+<p><strong>Yong-Xin Liu</strong>, Yuan Qin &amp; Yang Bai. Reductionist synthetic community approaches in root microbiome research. <em><strong>Current Opinion Microbiolgy</strong></em> 49, 97-102, doi:10.1016/j.mib.2019.10.010 (<strong>2019</strong>).</p>
+<p>Jingying Zhang, <strong>Yong-Xin Liu</strong>, Na Zhang, Bin Hu, Tao Jin, Haoran Xu, Yuan Qin, Pengxu Yan, Xiaoning Zhang, Xiaoxuan Guo, Jing Hui, Shouyun Cao, Xin Wang, Chao Wang, Hui Wang, Baoyuan Qu, Guangyi Fan, Lixing Yuan, Ruben Garrido-Oter, Chengcai Chu &amp; Yang Bai. NRT1.1B is associated with root microbiota composition and nitrogen use in field-grown rice. <em><strong>Nature Biotechnology</strong></em> 37, 676-684, doi:10.1038/s41587-019-0104-4 (<strong>2019</strong>).</p>
+<p>Ancheng C. Huang, Ting Jiang, <strong>Yong-Xin Liu</strong>, Yue-Chen Bai, James Reed, Baoyuan Qu, Alain Goossens, Hans-Wilhelm Nützmann, Yang Bai &amp; Anne Osbourn. A specialized metabolic network selectively modulates Arabidopsis root microbiota. <em><strong>Science</strong></em> 364, eaau6389, doi:10.1126/science.aau6389 (<strong>2019</strong>).</p>
+<p><strong>刘永鑫</strong>, 秦媛, 郭晓璇 &amp; 白洋. 微生物组数据分析方法与应用. <em><strong>遗传</strong></em> 41, 845-826, doi:10.16288/j.yczz.19-222 (<strong>2019</strong>).</p>
+<h1 id="youtube">YouTube</h1>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h1 id="bilibili">Bilibili</h1>
+
+<div class="embed-container">
+	<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+
+
+</main>
+
+
+
+<section class="article-meta article-footer">
+
+</section>
+
+
+<nav class="post-nav">
+  <span class="nav-prev"><a href="/2020/06/cgm-%E4%BC%81%E4%B8%9A%E6%B2%99%E9%BE%997/">&larr; CGM 企业沙龙7</a></span>
+  <span class="nav-next"><a href="/2020/06/cgm-%E7%AC%AC98%E6%9C%9Ffhb7%E7%9A%84%E6%B0%B4%E5%B9%B3%E8%BD%AC%E7%A7%BB%E5%A1%91%E9%80%A0%E5%B0%8F%E9%BA%A6%E8%B5%A4%E9%9C%89%E7%97%85%E6%8A%97%E6%80%A7/">CGM 第98期：Fhb7的水平转移塑造小麦赤霉病抗性 &rarr;</a></span>
+</nav>
+
+
+
+
+
+<div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "cgmonline-co" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+
+</article>
+</div>
+
+<script async src="//yihui.name/js/center-img.js"></script>
+
+<footer>
+<script src="/js/article-titles.js"></script>
+
+<div class="footer">
+  <ul class="menu">
+    
+    <li><a href="/categories/%E4%BA%BA%E7%89%A9%E4%B8%93%E8%AE%BF/"><span data-hover="人物专访">人物专访</span></a></li>
+    
+    <li><a href="/categories/%E4%B8%93%E9%A2%98%E8%AE%A8%E8%AE%BA/"><span data-hover="专题讨论">专题讨论</span></a></li>
+    
+    <li><a href="/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/"><span data-hover="学术报告">学术报告</span></a></li>
+    
+    <li><a href="/tags/"><span data-hover="关键词">关键词</span></a></li>
+    
+    <li><a href="/categories/%E4%BC%81%E4%B8%9A%E7%BE%A4/"><span data-hover="企业群">企业群</span></a></li>
+    
+    <li><a href="/search/"><span data-hover="搜索CGM">搜索CGM</span></a></li>
+    
+    <li><a href="/sponsor/"><span data-hover="赞助伙伴">赞助伙伴</span></a></li>
+    
+    <li><a href="/jobinfo/"><span data-hover="工作信息">工作信息</span></a></li>
+    
+    <li><a href="/"><span data-hover="关于我们">关于我们</span></a></li>
+    
+    <li><a href="/knowledgebase/"><span data-hover="知识库">知识库</span></a></li>
+    
+  </ul>
+  
+  <div class="copyright">© 北美华人基因组学在线沙龙 2017 | <a href="https://github.com/cgmonline">Github</a> | <a href="https://www.youtube.com/channel/UCk4tsPZOzGkP2IaU4YvUG_g">YouTube</a></div>
+  
+</div>
+</footer>
+
+
+
+
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-48206713-4', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+</body>
+</html>
+
