@@ -1,10 +1,10 @@
-baseurl = "http://cgmonline.co/"
+baseurl = "https://cgmonline.co/"
 languageCode = "zh-CN"
 title = "华人基因组学在线沙龙"
 theme = "hugo-xmag"
 disqusShortname = "cgmonline-co"
 googleAnalytics = "UA-48206713-4"
-paginate = 6
+paginate = 10
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 hasCJKLanguage = true
 enableEmoji = true
