@@ -4,7 +4,7 @@ date: "2020-06-17T20:00:00.000Z"
 archive: ["2020","2020-06","2020-06-17"]
 categories:
   - 学术报告
-tags: [扩增子, 宏基因组, 分析流程, 统计分析与可视化 ]
+tags: [talks, 扩增子, 宏基因组, 分析流程, 统计分析与可视化 ]
 show_comments: true
 thumbnail: "https://i.loli.net/2020/06/12/VIlbZGxumzokXht.jpg"
 ---
