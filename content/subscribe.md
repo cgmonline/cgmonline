@@ -33,14 +33,14 @@ CGM已经建立了多个专题讨论组和活动群，如果感兴趣，可以�
  ------ | -------------- | ------ 
 CGM北京时区 | e--jan |
 PAG20XX              | qxs718          | [Plant and Animal Genome conference](http://www.intlpag.org) 
-CGM 三代测序技术交流群  | DongliangDu1983 |   
-CGM Machine Learning | qxs718          |   
 CGM EVOLUTION | TTUCSUISU |
-CGM_湾区 |ll68551551|
-CGM_东北小分队|mwb_njnuuf|
 CGM-SMBE2019|beckyhao13|
 CGM-Botany2019|beckyhao13|
+CGM 三代测序技术交流群  | DongliangDu1983 |   
+CGM Machine Learning | qxs718          |   
 CGM Microbiome|linking_mumu|
+CGM_湾区 |ll68551551|
+CGM_东北小分队|mwb_njnuuf|
 
 欢迎其他CGM成员创建相关的讨论组和活动群，新建的群请保持 “CGM XXX”的格式。
 
