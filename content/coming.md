@@ -31,8 +31,8 @@ optical mapping, *Frontiers in Plant Science*, 9, 971, doi: 10.3389/fpls.2018.00
 
 时间：北京时间2020年7月1日9PM（美国西部时间7月1日（星期三）6AM）
 
-加入 Zoom 会议
-https://zoom.com.cn/j/6058218292
+加入 腾讯 会议
+https://meeting.tencent.com/s/F3KajRX3yBe3
 
-会议 ID：605 821 8292  
+会议 ID：931 782 884
 
