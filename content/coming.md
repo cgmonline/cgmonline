@@ -5,12 +5,14 @@ menu: [top]
 weight: 2
 ---
 
-- 题目：光学图谱在基因组学中的应用
+- 题目：表观基因组学发掘植物顺式调控序列
 - 时间：2020年7月8日（星期三）8PM（北京时间7月9日 9AM）
 - 地点：Zoom and Bilibili live stream
 - 主讲人：路则府，中国农业科学院作物科学研究所研究员，博士生导师，中国农业科学院“青年英才计划”引进人才。2008年获得山东大学学士学位，2015年获得中国科学院遗传与发育生物学研究所博士学位。2015年-2019年在佐治亚大学进行博士后研究。2020年3月加入作物科学研究所，主要从事植物表观基因组学与基因表达调控等方面的研究。近年来以第一作者在Nature Plants、Cell Research、Molecular Plant、Plant Cell、Nucleic Acids Research等期刊发表论文7篇，受邀在Current Opinion in Plant Biology发表综述1篇 。
 
-![](https://i.ibb.co/NmML4Vf/640.jpg)
+<div align="center">
+<img src="https://i.ibb.co/NmML4Vf/640.jpg" height=500>
+</div>
 
 # 中文摘要
 
