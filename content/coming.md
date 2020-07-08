@@ -1,38 +1,33 @@
 ﻿---
 title: "下期预告"
-date: "2020-07-01"
+date: "2020-07-08"
 menu: [top]
 weight: 2
 ---
 
 - 题目：光学图谱在基因组学中的应用
-- 时间：北京时间2020年7月1日9PM（美国西部时间7月1日（星期三）6AM）
+- 时间：2020年7月8日（星期三）8PM（北京时间7月9日 9AM）
 - 地点：Zoom and Bilibili live stream
-- 主讲人：袁玉轩，香港中文大学博士后。2014年硕士毕业于澳洲昆士兰大学，2019年博士毕业于澳洲西澳大学，师从David Edwards教授。主要研究方向为运用最新DNA测序技术及光学图谱信息，对油菜，小麦，大豆及三叶草进行基因组组装，并进行基因组结构变异挖掘。同时参与了油菜及大豆泛基因组等研究项目。以第一作者身份在*Trends in Biotechnology*，*Bioinformatics*，*BMC Bioinformatics*以及*Frontiers in Plant Science*发表论文8篇，其中光学图谱相关研究文章3篇。
+- 主讲人：路则府，中国农业科学院作物科学研究所研究员，博士生导师，中国农业科学院“青年英才计划”引进人才。2008年获得山东大学学士学位，2015年获得中国科学院遗传与发育生物学研究所博士学位。2015年-2019年在佐治亚大学进行博士后研究。2020年3月加入作物科学研究所，主要从事植物表观基因组学与基因表达调控等方面的研究。近年来以第一作者在Nature Plants、Cell Research、Molecular Plant、Plant Cell、Nucleic Acids Research等期刊发表论文7篇，受邀在Current Opinion in Plant Biology发表综述1篇 。
 
-![](https://i.loli.net/2020/06/29/Pith4UwykeNxVAX.jpg)
+![](https://i.ibb.co/NmML4Vf/640.jpg)
 
 # 中文摘要
 
-光学图谱作为DNA测序技术的一个重要补充，在基因组学中发挥重要的作用。在近30年的发展过程中，光学图谱已被应用到微生物以及高等动、植物的基因组研究中。大体上，光学图谱多应用于基因组组装，大范围结构变异挖掘以及菌株区分。随着技术的进一步发展，以及算法的不断提升，光学图谱的应用仍具有重要前景。在此次报告中，我将与大家分享如何利用光学图谱来提升基因组学相关研究吧。
+非编码区是植物基因组中的重要组成部分，在小麦、玉米等作物中甚至超过95%。非编码区中存在与基因表达密切相关的顺式调控序列(Cis-Regulatory   Elements，CREs)，包括启动子、增强子、抑制子等。转录因子等DNA结合蛋白与CREs的互作决定了基因的时空特异表达。CREs中的多态性位点可以解释众多的表型变异与数量性状，与抗病、分枝、开花时间、抗逆等重要表型密切相关。CREs通常表现出特异的表观修饰特性，其开放程度较高、邻近核小体往往存在特定的组蛋白修饰。基于这些特点我们在大豆、玉米、水稻等13种植物中鉴定了调控序列，并证明了植物中也广泛存在远距离的调控元件。远距离CREs可以通过染色体高级结构与目标基因互作，参与目标基因的表达调控。此外，CREs在进化上更为保守，其与目标基因的距离与转座子的插入跳跃密切相关。这些结果对阐明植物基因表达调控机制，解释高等植物非编码区调控序列的起源进化都有重要意义。
 
 # 参考文献
 
-1. **Yuan Y**, Bayer P, Lee H, Edwards D. (2017) runBNG: A software package for
-BioNano genomic analysis on the command line. *Bioinformatics*. doi: 10.1093/bioinformatics/btx366
-2. **Yuan Y**, Bayer P, Scheben A, Chan CKK, Edwards D. (2017) BioNanoAnalyst: A visualisation tool to assess genome assembly quality using BioNano data. *BMC Bioinformatics*. doi: 10.1186/s12859-017-1735-4
-3. **Yuan Y**, Bayer P, Vrana, J, Dolezel J, Edwards D, Erskine W, Kaur P. (2018)
-Large-scale structural variation detection in subterranean clover subtypes using
-optical mapping, *Frontiers in Plant Science*, 9, 971, doi: 10.3389/fpls.2018.00971
+1. Lu, Z., Marand, A.P., Ricci, W.A., Ethridge, C.L., Zhang, X., Schmitz, R.J. (2019) The prevalence, evolution, and chromatin signatures of plant regulatory elements. Nat Plants 5:1250-1259
+2. Ricci W.A.\*, Lu Z.\*, Ji L.\*, Marand A.P., EthridgeC.L., Murphy N.G., Noshay J.M., Galli M., Mejia-Guerra M.K., Colome-Tatche M., Johannes F., Rowley M.J., Corces V.G., Zhai J., Scanlon M.J., Buckler E.S, Gallavotti A., Springer N.M., Schmitz R.J., Zhang X. (2019) WidespreadLong-range Cis-Regulatory Elements in the Maize Genome. Nat Plants 5:1237-1249
 
 # Zoom
 
-主题：CGM 第101期：光学图谱在基因组学中的应用
+主题：CGM第102期在线沙龙预告 通过表观基因组学发掘植物顺式调控序列
 
-时间：北京时间2020年7月1日9PM（美国西部时间7月1日（星期三）6AM）
+时间：2020年7月8日（星期三）8PM（北京时间7月9日 9AM）
 
-加入 腾讯 会议
-https://meeting.tencent.com/s/F3KajRX3yBe3
+会议链接：https://zoom.us/j/95519756123
 
-会议 ID：931 782 884
+会议 ID: 955 1975 6123
 
