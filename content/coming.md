@@ -10,8 +10,10 @@ weight: 2
 - 地点：Zoom and Bilibili live stream
 - 主讲人：刘羽诚，2016至今，中科院遗传所，博士在读，遗传学。2012-2015，中科院植物所，硕士，理学。2008-2012，北京林业大学，学士，农学。
 
+<div align="center">
+<img src="https://i.loli.net/2020/07/08/DxXH18IVhAnvNBL.jpg" height=500>
+</div>
 
-![](https://i.loli.net/2020/07/08/DxXH18IVhAnvNBL.jpg)
 
 # 中文摘要
 
