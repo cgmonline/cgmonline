@@ -1,38 +1,34 @@
 ﻿---
 title: "下期预告"
-date: "2020-07-01"
+date: "2020-07-15"
 menu: [top]
 weight: 2
 ---
 
-- 题目：光学图谱在基因组学中的应用
-- 时间：北京时间2020年7月1日9PM（美国西部时间7月1日（星期三）6AM）
+- 题目：大豆泛基因组研究
+- 时间：北京时间2020年7月15日9PM（美国西部时间7月15日（星期三）6AM）
 - 地点：Zoom and Bilibili live stream
-- 主讲人：袁玉轩，香港中文大学博士后。2014年硕士毕业于澳洲昆士兰大学，2019年博士毕业于澳洲西澳大学，师从David Edwards教授。主要研究方向为运用最新DNA测序技术及光学图谱信息，对油菜，小麦，大豆及三叶草进行基因组组装，并进行基因组结构变异挖掘。同时参与了油菜及大豆泛基因组等研究项目。以第一作者身份在*Trends in Biotechnology*，*Bioinformatics*，*BMC Bioinformatics*以及*Frontiers in Plant Science*发表论文8篇，其中光学图谱相关研究文章3篇。
+- 主讲人：刘羽诚，2016至今，中科院遗传所，博士在读，遗传学。2012-2015，中科院植物所，硕士，理学。2008-2012，北京林业大学，学士，农学。
 
-![](https://i.loli.net/2020/06/29/Pith4UwykeNxVAX.jpg)
+
+![](https://i.loli.net/2020/07/08/DxXH18IVhAnvNBL.jpg)
 
 # 中文摘要
 
-光学图谱作为DNA测序技术的一个重要补充，在基因组学中发挥重要的作用。在近30年的发展过程中，光学图谱已被应用到微生物以及高等动、植物的基因组研究中。大体上，光学图谱多应用于基因组组装，大范围结构变异挖掘以及菌株区分。随着技术的进一步发展，以及算法的不断提升，光学图谱的应用仍具有重要前景。在此次报告中，我将与大家分享如何利用光学图谱来提升基因组学相关研究吧。
+基因组是开展遗传研究的重要工具，单基因组参考的局限性催生了泛基因组的发展。大豆是世界重要的经济作物，有着丰富的表型和遗传变异，是进行泛基因组研究的理想材料。本文进行了 2,898 份大豆材料的重测序，从中选择了 26 个代表性的大豆种质材料进行了三代测序和从头组装。结合以前发表的中黄13、 W82 和 W05 基因组，深度挖掘了短读长序列比对方法未能有效检测的大尺度变异数据，并且使用图形结构方式（graph-based）组织重塑了大豆属的泛基因组。借此，本文讨论了大豆演化/驯化过程中一些重要事件及性状在泛基因组水平的变异特征。该工作进一步说明了泛基因组对于遗传变异挖掘的重要性，并且为大豆遗传育种研究提供了一套高质量，易于参考的组学数据，同时也为图形结构基因组形式在植物中的应用做出了实践。
 
 # 参考文献
 
-1. **Yuan Y**, Bayer P, Lee H, Edwards D. (2017) runBNG: A software package for
-BioNano genomic analysis on the command line. *Bioinformatics*. doi: 10.1093/bioinformatics/btx366
-2. **Yuan Y**, Bayer P, Scheben A, Chan CKK, Edwards D. (2017) BioNanoAnalyst: A visualisation tool to assess genome assembly quality using BioNano data. *BMC Bioinformatics*. doi: 10.1186/s12859-017-1735-4
-3. **Yuan Y**, Bayer P, Vrana, J, Dolezel J, Edwards D, Erskine W, Kaur P. (2018)
-Large-scale structural variation detection in subterranean clover subtypes using
-optical mapping, *Frontiers in Plant Science*, 9, 971, doi: 10.3389/fpls.2018.00971
+**Yucheng Liu**, Huilong Du, Pengcheng Li, Yanting Shen, Hua Peng, Shulin Liu, Guo-An Zhou, Haikuan Zhang, Zhi Liu, Miao Shi, Xuehui Huang, Yan Li, Min Zhang, Zheng Wang, Baoge Zhu, Bin Han, Chengzhi Liang, and Zhixi Tian. Pan-Genome of Wild and Cultivated Soybeans. Cell. 2020, 182, 1–15
 
 # Zoom
 
-主题：CGM 第101期：光学图谱在基因组学中的应用
+主题：CGM 第103期：大豆泛基因组研究
 
-时间：北京时间2020年7月1日9PM（美国西部时间7月1日（星期三）6AM）
+时间：北京时间2020年7月15日9PM（美国西部时间7月15日（星期三）6AM）
 
 加入 腾讯 会议
-https://meeting.tencent.com/s/F3KajRX3yBe3
+https://meeting.tencent.com/s/hdoZBVDFYC9G
 
-会议 ID：931 782 884
+会议 ID：976 504 522
 
