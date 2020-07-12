@@ -21,7 +21,7 @@ weight: 2
 
 # 参考文献
 
-**Yucheng Liu**, Huilong Du, Pengcheng Li, Yanting Shen, Hua Peng, Shulin Liu, Guo-An Zhou, Haikuan Zhang, Zhi Liu, Miao Shi, Xuehui Huang, Yan Li, Min Zhang, Zheng Wang, Baoge Zhu, Bin Han, Chengzhi Liang, and Zhixi Tian. Pan-Genome of Wild and Cultivated Soybeans. Cell. 2020, 182, 1–15
+Yucheng Liu#, Huilong Du#, Pengcheng Li, Yanting Shen, Hua Peng, Shulin Liu, Guo-An Zhou, Haikuan Zhang, Zhi Liu, Miao Shi, Xuehui Huang, Yan Li, Min Zhang, Zheng Wang, Baoge Zhu, Bin Han, Chengzhi Liang, and Zhixi Tian. Pan-Genome of Wild and Cultivated Soybeans. Cell. 2020, 182, 1–15 (#co-first author)
 
 # Zoom
 
