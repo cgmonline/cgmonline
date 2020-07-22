@@ -1,15 +1,18 @@
 ---
-title: "下期预告"
-date: "2020-07-22"
-menu: [top]
-weight: 2
+title: "CGM 第102期：通过表观基因组学发掘植物顺式调控序列"
+date: "2020-07-22T20:00:00.000Z"
+archive: ["2020","2020-07","2020-07-22"]
+categories:
+  - 学术报告
+tags: [talks, 基因组组装 ]
+show_comments: true
+thumbnail: ""
 ---
 
-- 题目：基于单分子测序数据的基因组组装软件开发及应用
+- 题目：CGM 第104期：基于单分子测序数据的基因组组装软件开发及应用"
 - 时间：美国中部时间 2020 年 7 月 22 日（星期三）8PM（北京时间7月23日 9AM）
 - 地点：Zoom and Bilibili live stream
 - 主讲人：杜会龙，2020年7月河北大学高层次引进人才，教授。2014 年获得河北大学学士学位，2020年获得中国科学院遗传与发育生物学研究所博士学位。主要从事基因组组装技术研发、高质量基因组构建、比较基因组分析及泛基因组分析的研究。近年来以第一或共同第一作者在 Cell、Nature Communications、Molecular Plant、Sci. China Life Sci.等期刊发表论文 7 篇。
-
 
 <div align="center">
 <img src="https://i.ibb.co/QMtCs8b/640.jpg" height=500>
@@ -26,13 +29,11 @@ weight: 2
 2. Du, H., Liang, C. (2019). Assembly of chromosome-scale contigs by efficiently resolving repetitive sequences with long reads. Nature Communications 10, 5360(2019).
 3.Liu, Y., Du, H., Li, P., Shen, Y., Peng, H., Liu, S., Zhou, G., Zhang, H., Liu, Z., Shi, M., et al. (2020). Pan-genome of wild and cultivated soybeans. Cell, 2020 Jul 9;182(1):162-176.e13.
 
-# Zoom
+# YouTube
 
-主题：CGM第104期 基于单分子测序数据的基因组组装软件开发及应用
+{{< youtube id="" autoplay="false" >}}
 
-时间：美国中部时间 2020 年 7 月 22 日（星期三）8PM（北京时间7月23日 9AM）
+# Bilibili
 
-https://zoom.us/j/96149976433
-
-会议 ID：961 4997 6433
+{{< bilibili id="" autoplay="false" >}}
 
