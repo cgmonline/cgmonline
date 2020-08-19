@@ -28,8 +28,6 @@ weight: 2
 Morel et al. Phylogenetic analysis of SARS-CoV-2 data is difficult. https://www.biorxiv.org/content/10.1101/2020.08.05.239046v1
 
 
-# Zoom
-
 主题：CGM第108期在线沙龙预告 SARS-Cov-2 的系统发育树构建
 
 时间：2020 年 8 月 19 日（星期三）8PM（北京时间8月20日 9AM）
