@@ -20,6 +20,6 @@ Chinese Genomics online Meet-up (CGM) was launched by several young Chinese scie
 
 # YouTuBe 和 B站：
 
-[![youtube](https://i.imgur.com/Ibp97X5.png)](https://www.youtube.com/channel/UCk4tsPZOzGkP2IaU4YvUG_g/videos)
+[![youtube](https://i.imgur.com/lpRE6AW.png)](https://www.youtube.com/channel/UCk4tsPZOzGkP2IaU4YvUG_g/videos)
 [![bilibili](https://i.imgur.com/nDiHERQ.png)](https://space.bilibili.com/298768313)
 
