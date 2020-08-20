@@ -12,7 +12,7 @@ weight: 2
 
 
 <div align="center">
-<img src="https://i.ibb.co/2dRMD0m/covid19tree.png" height=321>
+<img src="https://i.ibb.co/2dRMD0m/covid19tree.png" height=100>
 </div>
 
 
