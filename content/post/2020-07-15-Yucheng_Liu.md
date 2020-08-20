@@ -4,7 +4,7 @@ date: "2020-07-15T20:00:00.000Z"
 archive: ["2020","2020-07","2020-07-15"]
 categories:
   - 学术报告
-tags: [soybean, pan-genome, graph-based genome, structural variation, domestication]
+tags: [talks, soybean, pan-genome, graph-based genome, structural variation, domestication]
 show_comments: true
 thumbnail: ""
 ---
