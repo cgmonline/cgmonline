@@ -12,7 +12,7 @@ weight: 2
 
 
 <div align="center">
-<img src="https://i.loli.net/2020/08/23/73lkeL1W2XSJgov.jpg" height=100>
+<img src="https://i.loli.net/2020/08/23/73lkeL1W2XSJgov.jpg" height=250>
 </div>
 
 
