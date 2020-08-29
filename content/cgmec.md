@@ -22,7 +22,9 @@ weight: 6
 
 - 09 - 12, 2020 征集志愿者x3（微信群 @杨金良或者祁新帅)
 
-### 曾任执行委员：  
+### 曾任执行委员： 
+** - 09 - 12, 2020：EC NA10 周鹏（组长 **
+- 05 - 08, 2020：EC NA9 郑子豪（组长），杨小灵，吕菁，周鹏
 - 01 - 04, 2020：EC NA8 狄晨露（组长），苏维佳，郑子豪，[袁梦](https://imengyuan.github.io/)
 - 09 - 12, 2019：EC NA7 [胡冠菁](https://huguanjing.github.io/about/)（组长），唐星（联络）， 狄晨露（公众号协调）， 魏嘉璐（网站）
 - 05 - 08，2019：EC NA6 [郭婷婷](https://scholar.google.com/citations?user=4WYQNa4AAAAJ&hl=en)（组长），汪捷（网站），周文彬（联络），李秋实（公众号协调）
