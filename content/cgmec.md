@@ -9,20 +9,6 @@ weight: 6
 
 ## CGM 执行委员会 (Executive Committee) US
 
-本届CGM执委会成员包括：
-
-### 常务委员：
-- [杨金良](http://jyanglab.com/)，[祁新帅](https://www.linkedin.com/in/xinshuaiqi/)
-
-### 现任执行委员：
-  - **05 - 08, 2020 EC9** 
-  - 组长：郑子豪
-  - 邀请嘉宾和视频直播：郑子豪，杨小灵
-  - 网站和公众号预告更新：吕菁，周鹏
-
-- 09 - 12, 2020 征集志愿者x3（微信群 @杨金良或者祁新帅)
-
-### 曾任执行委员： 
 - **09 - 12, 2020：EC NA10 周鹏（组长 **
 - 05 - 08, 2020：EC NA9 郑子豪（组长），杨小灵，吕菁，周鹏
 - 01 - 04, 2020：EC NA8 狄晨露（组长），苏维佳，郑子豪，[袁梦](https://imengyuan.github.io/)
@@ -34,7 +20,8 @@ weight: 6
 - 01 - 04, 2018：EC NA2 [黄璞](https://scholar.google.com/citations?user=r5cGFI8AAAAJ&hl=en)（组长），[梅文彬](https://wenbinmei.github.io/)（视频直播），[郝樾](https://yueyvettehao.github.io/)（网站）
 - 09 - 12, 2017：EC NA1 [刘三震](http://plantgenomics.ksu.edu/liulab)（组长），邓斯文（网站），安宏（视频直播）
 
-## CCGM 执行委员会 (Executive Committee) China
+## CGM 执行委员会 (Executive Committee) China
+
 **- 01 - 12 2020: EC CN2 武志强(组长），李德林，邱杰，李钊，任宁宁，赵汀，马省伟, 何逸建 **
 - 07 - 12 2019: EC CN1 何逸建 (组长），武志强，李德林，邱杰，李钊，任宁宁，赵汀，马省伟
 
