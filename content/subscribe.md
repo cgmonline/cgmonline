@@ -39,6 +39,7 @@ CGM-Botany2019|beckyhao13|
 CGM 三代测序技术交流群  | DongliangDu1983 |   
 CGM Machine Learning | qxs718          |   
 CGM Microbiome|linking_mumu|
+CGM CGM Multiomics|ll68551551|
 CGM_湾区 |ll68551551|
 CGM_东北小分队|mwb_njnuuf|
 
