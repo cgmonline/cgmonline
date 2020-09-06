@@ -9,9 +9,11 @@ weight: 6
 
 ## CGM 执行委员会 (Executive Committee) US
 
-- **09 - 12, 2020：EC NA10 周鹏（组长)**
-- 05 - 08, 2020：EC NA9 郑子豪（组长），杨小灵，吕菁，周鹏
-- 01 - 04, 2020：EC NA8 狄晨露（组长），苏维佳，郑子豪，[袁梦](https://imengyuan.github.io/)
+- **09 - 12, 2020：EC NA10 周鹏（组长)，[袁梦](https://imengyuan.github.io/)（联络），彭浩然（技术），王凯（公众号协调）**
+
+
+- 05 - 08, 2020：EC NA9 郑子豪（组长），杨小灵（联络+主持），吕菁（公众号协调），周鹏（技术）
+- 01 - 04, 2020：EC NA8 狄晨露（组长），苏维佳（公众号协调），郑子豪（联络），[袁梦](https://imengyuan.github.io/)（技术）
 - 09 - 12, 2019：EC NA7 [胡冠菁](https://huguanjing.github.io/about/)（组长），唐星（联络）， 狄晨露（公众号协调）， 魏嘉璐（网站）
 - 05 - 08，2019：EC NA6 [郭婷婷](https://scholar.google.com/citations?user=4WYQNa4AAAAJ&hl=en)（组长），汪捷（网站），周文彬（联络），李秋实（公众号协调）
 - 01 - 04, 2019：EC NA5 区树俊（组长+公众号协调），汲翔（网站），谢丽蒙（技术）
