@@ -1,39 +1,37 @@
 ---
 title: "下期预告"
-date: "2020-09-02"
+date: "2020-09-09"
 menu: [top]
 weight: 2
 ---
 
-- 题目：CGM 第110期: R-loop的全基因组水平检测与功能研究
-- 时间：美国中部时间 2020年9月2日（星期三）8AM（北京时间9月2日 9PM）
-- 地点：Tecent and Bilibili live stream
-- 主讲人：徐炜，2016年获得中国科学院大学博士学位。2016-2020年在清华大学生命学院孙前文课题组进行博士后研究。2020年加入深圳农业基因组研究所组学技术研究中心，担任课题组长。从事R-loop测序技术、新型DNA损伤测序技术及新型ChIP-seq的开发与应用。研究成果以第一作者或共同第一作者身份发表于Nature Plants、Cell Research、Plant Cell、Science Advances等知名学术期刊。
+- 题目：CGM 第111期: 玉米适应高海拔的平行进化机制
+- 时间：美国中部时间 2020年9月9日（星期三）8PM（北京时间9月10日 9AM）
+- 地点：Zoom and Youtube live stream
+- 主讲人：王丽，所聘研究员，中国农业科学院农业基因组研究所课题组组长。2006年武汉大学本科毕业，2011年获得中国科学院植物研究所植物进化方向博士学位。其后，她相继在美国德州理工大学，爱荷华州立大学和加州大学戴维斯分校从事博士后研究。团队一方面运用多组学数据和生态环境因子来探讨重要中草药植物的道地性和有效成分的分子基础，另一方面研究作物在驯化、扩散和培育过程中选择和群体历史动态对遗传多样性的影响。
 
 
 <div align="center">
-<img src="https://i.loli.net/2020/08/29/OAlUWmwBjCKv78H.jpg" height=250>
+<img src="https://i.ibb.co/wLHzJsR/wangli.png" height=250>
 </div>
 
 
 # 内容简介
 
-R-loop是一种特殊的三链核酸结构，广泛存在于几乎所有的生物体中，并发挥重要的生物学功能，包括影响基因转录起始、延伸、终止，调控DNA甲基化，诱导基因组不稳定性等。R-loop作为特殊的核酸结构，需要通过特定的技术手段进行检测。我们基于单链DNA连接技术，开发了稳定可靠且提供R-loop链特异性信息的全基因组R-loop检测方法——ssDRIP-seq，成功绘制了拟南芥、人、鼠等多个物种的全基因组R-loop图谱，并系统研究了R-loop在RNA表观遗传修饰、细胞减数分裂、多功能干细胞诱导等多个重要生物学过程中的作用及分子机制。ssDRIP-seq技术为R-loop生物学研究领域提供了稳定高效的工具，大幅度拓展了我们对R-loop形成与调控的认识，也为其他生物学研究领域提供了新的思路。
+平行进化是指几个不同的生物类群，因生活在相似生态环境而产生相似性状的进化方式。平行进化使得适应性进化具有可重复性和可预测性。玉米是人类驯化的代表性物种，约九千年前在墨西哥低热河谷被人类驯化后迅速扩散至多个独立的高海拔地区，是研究平行进化的理想对象。报告人以玉米为体系，回答平行进化领域的以下问题：1）适应性进化的平行性是否体现在核苷酸，基因和信号通路上；2）反复受选择的位点的遗传来源（全新的突变；基因流；祖先多态性）；3）产生平行进化的限制性因素；4）开花时间信号通路在玉米适应高海拔过程中的作用。
 
 # 参考文献
 
-1. **Xu Wei**, Xu Hui, Li Kuan, Fan Yingxu, Liu Yang, Yang Xuerui, Sun Qianwen. The R-loop is a common chromatin feature of the Arabidopsis genome. Nature Plants, 2017, 3(9):704. 
-2. **Xu Wei***, Li Kuan*, Li Shuai*, Hou Quancan*, Zhang Yushun, Liu Kunpeng, Sun Qianwen. The R-loop atlas of Arabidopsis development and responses to environmental stimuli. The Plant Cell, 2020, 32(4): 888-903. 
-3. Li Yaoyi*, Song Yawei*, **Xu Wei***, Li Qin*, Wang Xinxiu, Li Kuan, Wang Juehan, Liu Zicong, Velychko Sergiy, Ye Rong, Xia Qing, Wang Lei, Guo Rong, Dong Xiaotao, Zheng Zhikai, Dai Yushuang, Li Haojie, Yao Mingze, Xue Yuanchao, Schöler Hans R., Sun Qianwen, Yao Hongjie. R-loops Coordinate with SOX2 in Regulating Reprogramming to Pluripotency. Science Advances, 2020, 6(24):eaba0777. 
-4. Yang Xin*, Liu Qian-Lan*, **Xu Wei***, Zhang Yi-Chang*, Yang Ying, Ju Lin-Fang, Chen Jing, Chen Yu-Sheng, Li Kuan, Ren Jie, Sun Qianwen, Yang Yun-Gui. m6A promotes R-loop formation to facilitate transcription termination. Cell Research, 2019, 29(12):1035-1038. 
+1. Wang, L., Josephs, E. B., Lee, K. M., Roberts, L. M., Rellán-Álvarez, R., Ross-Ibarra, J., & Hufford, M. B. (2020). Molecular Parallelism Underlies Convergent Highland Adaptation of Maize Landraces. bioRxiv. 
 
 
 
-主题：CGM 第110期: R-loop的全基因组水平检测与功能研究
+主题：CGM 第111期: 玉米适应高海拔的平行进化机制
 
-时间：美国中部时间 2020 年 9 月 2 日（星期三）8AM（北京时间9月2日 9PM）
+时间：美国中部时间 2020 年 9 月 9 日（星期三）8PM（北京时间9月10日 9AM）
 
-https://meeting.tencent.com/s/6DiqkhVe8Qpi
+https://zoom.us/j/92043958015
 
-会议 ID：632 702 816
+
+会议 ID：920 4395 8015
 
