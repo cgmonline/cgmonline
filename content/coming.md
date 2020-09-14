@@ -21,7 +21,7 @@ weight: 2
 
 # 参考文献
 
-**Zhang, X.**, et al., *Transposable elements employ distinct integration strategies with respect to transcriptional landscapes in eukaryotic genomes*. Nucleic Acids Res, 2020. 48(12): p. 6685-6698.
+**Zhang X.**, et al., *Transposable elements employ distinct integration strategies with respect to transcriptional landscapes in eukaryotic genomes*. Nucleic Acids Res., 2020. 48(12): p. 6685-6698.
 
 
 主题：CGM 第112期:转座子依赖宿主基因转录的多样转座策略
