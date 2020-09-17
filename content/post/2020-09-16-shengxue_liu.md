@@ -27,9 +27,9 @@ thumbnail: ""
 1. Liu S, Li C, Wang H, Wang S, Yang S, Liu X, Yan J, Li B, Beatty M, Zastrow-Hayes G, Song S, Qin F (2020) Mapping regulatory variants controlling gene expression in drought response and tolerance in maize. Genome Biol 21 (1):163.
 # YouTube
 
-{{< youtube id="" autoplay="false" >}}
+{{< youtube id="u5mC73Lo7oA" autoplay="false" >}}
 
 # Bilibili
 
-{{< bilibili id="" autoplay="false" >}}
+{{< bilibili id="797063830" autoplay="false" >}}
 
