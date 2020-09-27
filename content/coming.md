@@ -29,10 +29,11 @@ Ding, B., Patterson, E. L., Holalu, S. V., Li, J., Johnson, G. A., Stanley, L. E
 
 时间：美国中部时间 2020年9月30日（星期三）8PM（北京时间10月1日 9AM）
 
-https://meeting.
+https://zoom.us/j/95200419326?pwd=MjE5V0FCb2FuTExPYTlkeDVyRkVBZz09
 
 
-会议 ID：
+会议 ID：952 0041 9326
+密码：123456
 
 
 
