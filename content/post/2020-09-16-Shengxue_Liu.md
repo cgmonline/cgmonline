@@ -1,10 +1,10 @@
 ---
 title: "CGM 第113期: 玉米干旱响应的遗传变异解析"
-date: "2020-09-016T20:00:00.000Z"
-archive: ["2020","2020-09","2020-09-16"]
+date: "2020-09-017T09:00:00.000Z"
+archive: ["2020","2020-09","2020-09-17"]
 categories:
 - 学术报告
-tags: [talks, Regulatory variants, Gene expression, Drought response, Stress tolerance, Maize]
+tags: [talks, 基因表达, 干旱胁迫响应, 抗逆性, 玉米]
 show_comments: true
 thumbnail: ""
 ---
