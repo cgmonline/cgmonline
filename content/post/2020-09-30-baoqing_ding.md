@@ -1,5 +1,5 @@
 ---
-title: "CGM 第115期: 离散型花青素斑点的分子调控机"
+title: "CGM 第115期: 离散型花青素斑点的分子调控机制"
 date: "2020-09-30T20:00:00.000Z"
 archive: ["2020","2020-09","2020-09-30"]
 categories:
@@ -9,7 +9,7 @@ show_comments: true
 thumbnail: ""
 ---
 
-- 题目：CGM 第115期:离散型花青素斑点的分子调控机
+- 题目：CGM 第115期:离散型花青素斑点的分子调控机制
 - 时间：美国中部时间 2020年9月30日（星期三）8PM（北京时间10月1日 9AM）
 - 地点：YouTube and Zoom live stream
 - 主讲人：丁宝清，博士，长期致力于生物多样性的研究。在美国贝勒大学攻读博士期间，以非洲三大湖泊之一的马拉维湖丽鱼（Cichlids）为研究对象，从生态，行为，和分子生物学的角度对该湖泊的鱼类物种多样性做出一系列原创性研究。博士毕业之后，在美国康乃狄克大学转以植物为研究对象，通过对模式植物 Mimulus 花的颜色以及形态等性状的研究，为理解开花植物花的颜色和形态多样性的演化机制做出重要贡献。
@@ -24,7 +24,7 @@ thumbnail: ""
 
 # 参考文献
 
-Ding, B., Patterson, E. L., Holalu, S. V., Li, J., Johnson, G. A., Stanley, L. E., ... & Blackman, B. K. (2020). Two myb proteins in a self-organizing activator-inhibitor system produce spotted pigmentation patterns. Current Biology, 30(5), 802-814.
+Ding, B., Patterson, E. L., Holalu, S. V., Li, J., Johnson, G. A., Stanley, L. E., Greenlee, A. B., Peng, F., Bradshaw, H. D., Jr, Blinov, M. L., Blackman, B. K., & Yuan, Y. W. (2020). Two MYB Proteins in a Self-Organizing Activator-Inhibitor System Produce Spotted Pigmentation Patterns. Current biology : CB, 30(5), 802–814.e8. https://doi.org/10.1016/j.cub.2019.12.067
 
 # YouTube
 
