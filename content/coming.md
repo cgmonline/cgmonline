@@ -22,7 +22,7 @@ weight: 2
 
 # 参考文献
 
-Ding, B., Patterson, E. L., Holalu, S. V., Li, J., Johnson, G. A., Stanley, L. E., ... & Blackman, B. K. (2020). Two myb proteins in a self-organizing activator-inhibitor system produce spotted pigmentation patterns. Current Biology, 30(5), 802-814.
+Ding, B., Patterson, E. L., Holalu, S. V., Li, J., Johnson, G. A., Stanley, L. E., Greenlee, A. B., Peng, F., Bradshaw, H. D., Jr, Blinov, M. L., Blackman, B. K., & Yuan, Y. W. (2020). Two MYB Proteins in a Self-Organizing Activator-Inhibitor System Produce Spotted Pigmentation Patterns. Current biology : CB, 30(5), 802–814.e8. https://doi.org/10.1016/j.cub.2019.12.067
 
 
 主题：CGM 第115期:离散型花青素斑点的分子调控机
