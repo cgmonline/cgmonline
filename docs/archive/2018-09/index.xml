@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2018-09 on 华人基因组学在线沙龙</title>
+    <link>https://cgmonline.co/archive/2018-09/</link>
+    <description>Recent content in 2018-09 on 华人基因组学在线沙龙</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 19 Sep 2018 20:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cgmonline.co/archive/2018-09/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CGM 第38期：在进化生物学的框架下利用深度学习预测基因表达</title>
+      <link>https://cgmonline.co/2018/09/cgm-%E7%AC%AC38%E6%9C%9F%E5%9C%A8%E8%BF%9B%E5%8C%96%E7%94%9F%E7%89%A9%E5%AD%A6%E7%9A%84%E6%A1%86%E6%9E%B6%E4%B8%8B%E5%88%A9%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%A2%84%E6%B5%8B%E5%9F%BA%E5%9B%A0%E8%A1%A8%E8%BE%BE/</link>
+      <pubDate>Wed, 19 Sep 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/2018/09/cgm-%E7%AC%AC38%E6%9C%9F%E5%9C%A8%E8%BF%9B%E5%8C%96%E7%94%9F%E7%89%A9%E5%AD%A6%E7%9A%84%E6%A1%86%E6%9E%B6%E4%B8%8B%E5%88%A9%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%A2%84%E6%B5%8B%E5%9F%BA%E5%9B%A0%E8%A1%A8%E8%BE%BE/</guid>
+      <description>题目：在进化生物学的框架下利用深度学习预测基因表达 时间：2018 年 09 月 19 号（星期三），美西时间（Pacific Time）6:00 PM 地点：Yo</description>
+    </item>
+    
+    <item>
+      <title>CGM 第37期：My experience of facilitating both hypothesis-driven and data-driven research as a bioinformatician</title>
+      <link>https://cgmonline.co/2018/09/cgm-%E7%AC%AC37%E6%9C%9Fmy-experience-of-facilitating-both-hypothesis-driven-and-data-driven-research-as-a-bioinformatician/</link>
+      <pubDate>Wed, 05 Sep 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/2018/09/cgm-%E7%AC%AC37%E6%9C%9Fmy-experience-of-facilitating-both-hypothesis-driven-and-data-driven-research-as-a-bioinformatician/</guid>
+      <description>题目：My experience of facilitating both hypothesis-driven and data-driven research as a bioinformatician 时间：2018 年 09 月 05 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream 主讲</description>
+    </item>
+    
+  </channel>
+</rss>

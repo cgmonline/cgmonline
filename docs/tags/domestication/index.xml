@@ -2,84 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>domestication on 华人基因组学在线沙龙</title>
-    <link>http://cgmonline.co/tags/domestication/</link>
+    <link>https://cgmonline.co/tags/domestication/</link>
     <description>Recent content in domestication on 华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 26 Feb 2020 17:15:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2020 20:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://cgmonline.co/tags/domestication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cgmonline.co/tags/domestication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>CGM 第74期：全基因组变异图谱揭示甜瓜驯化历史及农艺性状形成基因位点</title>
-      <link>http://cgmonline.co/2019/12/cgm-%E7%AC%AC74%E6%9C%9F%E5%85%A8%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%8F%98%E5%BC%82%E5%9B%BE%E8%B0%B1%E6%8F%AD%E7%A4%BA%E7%94%9C%E7%93%9C%E9%A9%AF%E5%8C%96%E5%8E%86%E5%8F%B2%E5%8F%8A%E5%86%9C%E8%89%BA%E6%80%A7%E7%8A%B6%E5%BD%A2%E6%88%90%E5%9F%BA%E5%9B%A0%E4%BD%8D%E7%82%B9/</link>
-      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
+      <title>CGM 第103期：大豆泛基因组研究</title>
+      <link>https://cgmonline.co/2020/07/cgm-%E7%AC%AC103%E6%9C%9F%E5%A4%A7%E8%B1%86%E6%B3%9B%E5%9F%BA%E5%9B%A0%E7%BB%84%E7%A0%94%E7%A9%B6/</link>
+      <pubDate>Wed, 15 Jul 2020 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2019/12/cgm-%E7%AC%AC74%E6%9C%9F%E5%85%A8%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%8F%98%E5%BC%82%E5%9B%BE%E8%B0%B1%E6%8F%AD%E7%A4%BA%E7%94%9C%E7%93%9C%E9%A9%AF%E5%8C%96%E5%8E%86%E5%8F%B2%E5%8F%8A%E5%86%9C%E8%89%BA%E6%80%A7%E7%8A%B6%E5%BD%A2%E6%88%90%E5%9F%BA%E5%9B%A0%E4%BD%8D%E7%82%B9/</guid>
+      <guid>https://cgmonline.co/2020/07/cgm-%E7%AC%AC103%E6%9C%9F%E5%A4%A7%E8%B1%86%E6%B3%9B%E5%9F%BA%E5%9B%A0%E7%BB%84%E7%A0%94%E7%A9%B6/</guid>
+      <description>题目：CGM 第103期：大豆泛基因组研究 时间：北京时间2020年7月15日9PM（美国西部PST时间7月15日（星期三）6AM） 地点：Zoo</description>
+    </item>
+    
+    <item>
+      <title>CGM 第74期：全基因组变异图谱揭示甜瓜驯化历史及农艺性状形成基因位点</title>
+      <link>https://cgmonline.co/2019/12/cgm-%E7%AC%AC74%E6%9C%9F%E5%85%A8%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%8F%98%E5%BC%82%E5%9B%BE%E8%B0%B1%E6%8F%AD%E7%A4%BA%E7%94%9C%E7%93%9C%E9%A9%AF%E5%8C%96%E5%8E%86%E5%8F%B2%E5%8F%8A%E5%86%9C%E8%89%BA%E6%80%A7%E7%8A%B6%E5%BD%A2%E6%88%90%E5%9F%BA%E5%9B%A0%E4%BD%8D%E7%82%B9/</link>
+      <pubDate>Wed, 04 Dec 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/2019/12/cgm-%E7%AC%AC74%E6%9C%9F%E5%85%A8%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%8F%98%E5%BC%82%E5%9B%BE%E8%B0%B1%E6%8F%AD%E7%A4%BA%E7%94%9C%E7%93%9C%E9%A9%AF%E5%8C%96%E5%8E%86%E5%8F%B2%E5%8F%8A%E5%86%9C%E8%89%BA%E6%80%A7%E7%8A%B6%E5%BD%A2%E6%88%90%E5%9F%BA%E5%9B%A0%E4%BD%8D%E7%82%B9/</guid>
       <description>题目：全基因组变异图谱揭示甜瓜驯化历史及农艺性状形成基因位点 时间：2019 年 12 月 04 号（星期三），北京时间 9:00 PM 地点：zoom和bilibili</description>
     </item>
     
     <item>
       <title>CGM 第48期：水稻驯化之谜</title>
-      <link>http://cgmonline.co/2019/03/cgm-%E7%AC%AC48%E6%9C%9F%E6%B0%B4%E7%A8%BB%E9%A9%AF%E5%8C%96%E4%B9%8B%E8%B0%9C/</link>
-      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/2019/03/cgm-%E7%AC%AC48%E6%9C%9F%E6%B0%B4%E7%A8%BB%E9%A9%AF%E5%8C%96%E4%B9%8B%E8%B0%9C/</link>
+      <pubDate>Wed, 06 Mar 2019 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2019/03/cgm-%E7%AC%AC48%E6%9C%9F%E6%B0%B4%E7%A8%BB%E9%A9%AF%E5%8C%96%E4%B9%8B%E8%B0%9C/</guid>
+      <guid>https://cgmonline.co/2019/03/cgm-%E7%AC%AC48%E6%9C%9F%E6%B0%B4%E7%A8%BB%E9%A9%AF%E5%8C%96%E4%B9%8B%E8%B0%9C/</guid>
       <description>题目：水稻驯化之谜 时间：2019 年 03 月 06 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream 主讲人：汪鸿儒 Postdoc in</description>
     </item>
     
     <item>
       <title>CGM 第41期：Understanding Domestication Through Maize Mutants</title>
-      <link>http://cgmonline.co/2018/11/cgm-%E7%AC%AC41%E6%9C%9Funderstanding-domestication-through-maize-mutants/</link>
-      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/2018/11/cgm-%E7%AC%AC41%E6%9C%9Funderstanding-domestication-through-maize-mutants/</link>
+      <pubDate>Wed, 07 Nov 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2018/11/cgm-%E7%AC%AC41%E6%9C%9Funderstanding-domestication-through-maize-mutants/</guid>
+      <guid>https://cgmonline.co/2018/11/cgm-%E7%AC%AC41%E6%9C%9Funderstanding-domestication-through-maize-mutants/</guid>
       <description>题目：Understanding Domestication Through Maize Mutants 时间：2018 年 11 月 07 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube</description>
     </item>
     
     <item>
       <title>CGM 第23期：Polyploidy and duplicated gene regulation, stories of cotton 棉花进化那些事儿</title>
-      <link>http://cgmonline.co/2018/02/cgm-%E7%AC%AC23%E6%9C%9Fpolyploidy-and-duplicated-gene-regulation-stories-of-cotton-%E6%A3%89%E8%8A%B1%E8%BF%9B%E5%8C%96%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/</link>
-      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/2018/02/cgm-%E7%AC%AC23%E6%9C%9Fpolyploidy-and-duplicated-gene-regulation-stories-of-cotton-%E6%A3%89%E8%8A%B1%E8%BF%9B%E5%8C%96%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/</link>
+      <pubDate>Wed, 21 Feb 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2018/02/cgm-%E7%AC%AC23%E6%9C%9Fpolyploidy-and-duplicated-gene-regulation-stories-of-cotton-%E6%A3%89%E8%8A%B1%E8%BF%9B%E5%8C%96%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/</guid>
+      <guid>https://cgmonline.co/2018/02/cgm-%E7%AC%AC23%E6%9C%9Fpolyploidy-and-duplicated-gene-regulation-stories-of-cotton-%E6%A3%89%E8%8A%B1%E8%BF%9B%E5%8C%96%E9%82%A3%E4%BA%9B%E4%BA%8B%E5%84%BF/</guid>
       <description>题目：Polyploidy and duplicated gene regulation, stories of cotton 棉花进化那些事儿 时间：2018 年 02 月 21 号（星期三），美西时间（Pacific Time）6:00 PM 地点</description>
     </item>
     
     <item>
       <title>CGM 第20期：Population Genetics of Grape Domestication</title>
-      <link>http://cgmonline.co/2017/12/cgm-%E7%AC%AC20%E6%9C%9Fpopulation-genetics-of-grape-domestication/</link>
-      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/2017/12/cgm-%E7%AC%AC20%E6%9C%9Fpopulation-genetics-of-grape-domestication/</link>
+      <pubDate>Wed, 20 Dec 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2017/12/cgm-%E7%AC%AC20%E6%9C%9Fpopulation-genetics-of-grape-domestication/</guid>
+      <guid>https://cgmonline.co/2017/12/cgm-%E7%AC%AC20%E6%9C%9Fpopulation-genetics-of-grape-domestication/</guid>
       <description>题目：Population Genetics of Grape Domestication 时间：2017 年 12 月 20 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream 主</description>
     </item>
     
     <item>
       <title>CGM 第17期：The Evolution of Maize during Post-Domestication Expansion across Americas</title>
-      <link>http://cgmonline.co/2017/10/cgm-%E7%AC%AC17%E6%9C%9Fthe-evolution-of-maize-during-post-domestication-expansion-across-americas/</link>
-      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/2017/10/cgm-%E7%AC%AC17%E6%9C%9Fthe-evolution-of-maize-during-post-domestication-expansion-across-americas/</link>
+      <pubDate>Wed, 25 Oct 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2017/10/cgm-%E7%AC%AC17%E6%9C%9Fthe-evolution-of-maize-during-post-domestication-expansion-across-americas/</guid>
+      <guid>https://cgmonline.co/2017/10/cgm-%E7%AC%AC17%E6%9C%9Fthe-evolution-of-maize-during-post-domestication-expansion-across-americas/</guid>
       <description>时间：2017 年 10 月 25 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream 主讲人: 王丽（Iowa State Univer</description>
     </item>
     
     <item>
       <title>CGM 第4期：Comparative genomics approaches accurately predict deleterious variants in plants</title>
-      <link>http://cgmonline.co/2017/04/cgm-%E7%AC%AC4%E6%9C%9Fcomparative-genomics-approaches-accurately-predict-deleterious-variants-in-plants/</link>
-      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/2017/04/cgm-%E7%AC%AC4%E6%9C%9Fcomparative-genomics-approaches-accurately-predict-deleterious-variants-in-plants/</link>
+      <pubDate>Wed, 12 Apr 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2017/04/cgm-%E7%AC%AC4%E6%9C%9Fcomparative-genomics-approaches-accurately-predict-deleterious-variants-in-plants/</guid>
+      <guid>https://cgmonline.co/2017/04/cgm-%E7%AC%AC4%E6%9C%9Fcomparative-genomics-approaches-accurately-predict-deleterious-variants-in-plants/</guid>
       <description>时间：2017年4月12号（星期三），美西时间（Pacific Time）6:00 PM 地点：Youtube live stream 主讲人：Li Lei（雷栗） 摘要： 您</description>
     </item>
     
     <item>
       <title>CGM 第2期：作物驯化的进化遗传学展望</title>
-      <link>http://cgmonline.co/2017/03/cgm-%E7%AC%AC2%E6%9C%9F%E4%BD%9C%E7%89%A9%E9%A9%AF%E5%8C%96%E7%9A%84%E8%BF%9B%E5%8C%96%E9%81%97%E4%BC%A0%E5%AD%A6%E5%B1%95%E6%9C%9B/</link>
-      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/2017/03/cgm-%E7%AC%AC2%E6%9C%9F%E4%BD%9C%E7%89%A9%E9%A9%AF%E5%8C%96%E7%9A%84%E8%BF%9B%E5%8C%96%E9%81%97%E4%BC%A0%E5%AD%A6%E5%B1%95%E6%9C%9B/</link>
+      <pubDate>Wed, 15 Mar 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2017/03/cgm-%E7%AC%AC2%E6%9C%9F%E4%BD%9C%E7%89%A9%E9%A9%AF%E5%8C%96%E7%9A%84%E8%BF%9B%E5%8C%96%E9%81%97%E4%BC%A0%E5%AD%A6%E5%B1%95%E6%9C%9B/</guid>
+      <guid>https://cgmonline.co/2017/03/cgm-%E7%AC%AC2%E6%9C%9F%E4%BD%9C%E7%89%A9%E9%A9%AF%E5%8C%96%E7%9A%84%E8%BF%9B%E5%8C%96%E9%81%97%E4%BC%A0%E5%AD%A6%E5%B1%95%E6%9C%9B/</guid>
       <description>时间：2017年3月15号（星期三），美西时间下午六点 地点：Youtube live stream 主讲人：祁新帅（博士） 摘要： 在过去的13000年时间里，人类的</description>
     </item>
     

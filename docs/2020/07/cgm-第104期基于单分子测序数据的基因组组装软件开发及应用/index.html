@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>CGM 第104期：基于单分子测序数据的基因组组装软件开发及应用 | 华人基因组学在线沙龙</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    <link href="//cdn.bootcss.com/highlight.js/9.12.0/styles/github.min.css" rel="stylesheet">
+<link href="/css/custom.css" rel="stylesheet">
+<script async src="//yihui.name/js/no-highlight.js"></script>
+<script async src="/js/pangu.js"></script>
+
+  </head>
+
+  <body class="page">
+    <nav class="header">
+      <div class="banner-wrapper">
+<div class="banner">
+<div class="banner-image"><a href="/">
+<picture>
+  <source media="(min-width: 715px)" srcset="/img/new-logo-wide2020.png"><source media="(max-width: 380px)" srcset="/img/new-logo-wide2020.png">
+  <img src="/img/logo.png" alt="CGM标志">
+</picture>
+</a></div>
+<ul class="menu-top">
+  
+  <li><a href="/"><span data-hover="首页">首页</span></a></li>
+  
+  <li><a href="/coming/"><span data-hover="下期预告">下期预告</span></a></li>
+  
+  <li><a href="/tags/talks/"><span data-hover="往期活动">往期活动</span></a></li>
+  
+  <li><a href="/wechat/"><span data-hover="公众号">公众号</span></a></li>
+  
+  <li><a href="/cgmec/"><span data-hover="组织管理">组织管理</span></a></li>
+  
+  <li><a href="/business/"><span data-hover="企业沙龙">企业沙龙</span></a></li>
+  
+  <li><a href="/timeline/"><span data-hover="大事记">大事记</span></a></li>
+  
+  <li><a href="/calendar/"><span data-hover="活动日历">活动日历</span></a></li>
+  
+  <li><a href="/subscribe/"><span data-hover="加入我们">加入我们</span></a></li>
+  
+  <li><a href="/archives/"><span data-hover="讨论列表">讨论列表</span></a></li>
+  
+</ul>
+</div>
+</div>
+
+      <div class="head-meta">
+      
+        <span><a href="/">&larr; 返回首页</a></span>
+        <span class="date">2020-07-22</span>
+        
+        
+        
+          
+        
+        
+        <span><a href="https://github.com/cgmonline/cgmonline/edit/master/content/post/2020-07-22-Huilong_Du.md">编辑本页 &rarr;</a></span>
+        
+        
+      
+      </div>
+    </nav>
+
+<div class="container">
+<article>
+<div class="article-meta">
+
+  <div class="categories">
+  
+    <a href="/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A">学术报告</a>
+  
+  </div>
+
+  <h1><span class="title">CGM 第104期：基于单分子测序数据的基因组组装软件开发及应用</span></h1>
+
+  
+
+  
+  <p>关键词：<a href="/tags/talks">talks</a>; <a href="/tags/%E5%9F%BA%E5%9B%A0%E7%BB%84%E7%BB%84%E8%A3%85">基因组组装</a>
+  </p>
+  
+  
+
+
+</div>
+
+
+
+<main>
+<ul>
+<li>题目：CGM 第104期：基于单分子测序数据的基因组组装软件开发及应用</li>
+<li>时间：美国中部时间 2020 年 7 月 22 日（星期三）8PM（北京时间7月23日 9AM）</li>
+<li>地点：Zoom and Bilibili live stream</li>
+<li>主讲人：杜会龙，2020年7月河北大学高层次引进人才，教授。2014 年获得河北大学学士学位，2020年获得中国科学院遗传与发育生物学研究所博士学位。主要从事基因组组装技术研发、高质量基因组构建、比较基因组分析及泛基因组分析的研究。近年来以第一或共同第一作者在 Cell、Nature Communications、Molecular Plant、Sci. China Life Sci.等期刊发表论文 7 篇。</li>
+</ul>
+<!-- raw HTML omitted -->
+<h1 id="中文摘要">中文摘要</h1>
+<p>随着测序技术的不断更新以及各种辅助基因组技术的出现，很多复杂基因组的组装变得可行。然而，由于真核生物基因组的复杂性、测序数据的多样性以及组装软件的局限性，导致染色体水平且无大量缺失的高质量基因组的构建仍然非常困难，尤其是高杂合、高重复、高AT、多倍体甚至是同源多倍体的大型复杂基因组的组装。所以我们结合Fosmid（可以用10X Genomics代替）、BioNano和HiC测序技术开发了多种组装流程，并成功构建了水稻R498，苦荞麦，玉米B73和中国人HX1等150多个高质量的基因组，其中包括多个高杂合和多倍体等复杂基因组，并且在Contig水平上显著提高基因组的连续性以及基因组的完整度。
+同时，传统的基因组学研究将不同碱基以线性的形式存储于染色体上，并且多基于一个参考基因组来获取一个物种的基因信息。由于一个物种中不同个体间存在遗传变异，线性基因组不能同时体现不同个体的遗传变异情况，这极大地限制了对不同个体遗传变异的鉴定和分析。我们利用开发的流程构建了27个高质量的大豆基因组，从而尽可能地保证基因组的完整度，并利用泛基因组分析的结果在植物中首次实现了基于图形结构的基因组构建，突破了传统线性基因组的存储形式，有望引领下一代基因组学研究思路和方法，被审稿人称为“基因组学的里程碑工作” 。</p>
+<h1 id="参考文献">参考文献</h1>
+<ol>
+<li>Du, H., Yu, Y., Ma, Y., Gao, Q., Cao, Y., Chen, Z., Ma, B., Qi, M., Li, Y., and Zhao, X. (2017). Sequencing and de novo assembly of a near complete indica rice genome. Nat. Commun. 8, 15324.</li>
+<li>Du, H., Liang, C. (2019). Assembly of chromosome-scale contigs by efficiently resolving repetitive sequences with long reads. Nature Communications 10, 5360(2019).
+3.Liu, Y., Du, H., Li, P., Shen, Y., Peng, H., Liu, S., Zhou, G., Zhang, H., Liu, Z., Shi, M., et al. (2020). Pan-genome of wild and cultivated soybeans. Cell, 2020 Jul 9;182(1):162-176.e13.</li>
+</ol>
+<h1 id="youtube">YouTube</h1>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h1 id="bilibili">Bilibili</h1>
+
+<div class="embed-container">
+	<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+
+
+</main>
+
+
+
+<section class="article-meta article-footer">
+
+</section>
+
+
+<nav class="post-nav">
+  <span class="nav-prev"><a href="/2020/07/cgm-%E7%AC%AC105%E6%9C%9F%E7%8E%89%E7%B1%B3%E5%8D%95%E5%80%8D%E4%BD%93%E8%AF%B1%E5%AF%BC%E5%85%B3%E9%94%AE%E5%9F%BA%E5%9B%A0zmdmp%E7%9A%84%E5%85%8B%E9%9A%86%E5%8F%8A%E5%8A%9F%E8%83%BD%E9%AA%8C%E8%AF%81/">&larr; CGM 第105期：玉米单倍体诱导关键基因ZmDMP的克隆及功能验证</a></span>
+  <span class="nav-next"><a href="/2020/07/cgm-%E7%AC%AC103%E6%9C%9F%E5%A4%A7%E8%B1%86%E6%B3%9B%E5%9F%BA%E5%9B%A0%E7%BB%84%E7%A0%94%E7%A9%B6/">CGM 第103期：大豆泛基因组研究 &rarr;</a></span>
+</nav>
+
+
+
+
+
+<div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "cgmonline-co" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+
+</article>
+</div>
+
+<script async src="//yihui.name/js/center-img.js"></script>
+
+<footer>
+<script src="/js/article-titles.js"></script>
+
+<div class="footer">
+  <ul class="menu">
+    
+    <li><a href="/categories/%E4%BA%BA%E7%89%A9%E4%B8%93%E8%AE%BF/"><span data-hover="人物专访">人物专访</span></a></li>
+    
+    <li><a href="/categories/%E4%B8%93%E9%A2%98%E8%AE%A8%E8%AE%BA/"><span data-hover="专题讨论">专题讨论</span></a></li>
+    
+    <li><a href="/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/"><span data-hover="学术报告">学术报告</span></a></li>
+    
+    <li><a href="/tags/"><span data-hover="关键词">关键词</span></a></li>
+    
+    <li><a href="/categories/%E4%BC%81%E4%B8%9A%E7%BE%A4/"><span data-hover="企业群">企业群</span></a></li>
+    
+    <li><a href="/search/"><span data-hover="搜索CGM">搜索CGM</span></a></li>
+    
+    <li><a href="/sponsor/"><span data-hover="赞助伙伴">赞助伙伴</span></a></li>
+    
+    <li><a href="/jobinfo/"><span data-hover="工作信息">工作信息</span></a></li>
+    
+    <li><a href="/"><span data-hover="关于我们">关于我们</span></a></li>
+    
+    <li><a href="/knowledgebase/"><span data-hover="知识库">知识库</span></a></li>
+    
+  </ul>
+  
+  <div class="copyright">© 北美华人基因组学在线沙龙 2017 | <a href="https://github.com/cgmonline">Github</a> | <a href="https://www.youtube.com/channel/UCk4tsPZOzGkP2IaU4YvUG_g">YouTube</a></div>
+  
+</div>
+</footer>
+
+
+
+
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-48206713-4', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+</body>
+</html>
+

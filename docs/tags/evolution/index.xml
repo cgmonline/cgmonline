@@ -2,102 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>evolution on 华人基因组学在线沙龙</title>
-    <link>http://cgmonline.co/tags/evolution/</link>
+    <link>https://cgmonline.co/tags/evolution/</link>
     <description>Recent content in evolution on 华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 11 Mar 2020 17:15:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2020 20:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://cgmonline.co/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cgmonline.co/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CGM 第81期：角苔基因组与早期陆地植物进化</title>
-      <link>http://cgmonline.co/2020/02/cgm-%E7%AC%AC81%E6%9C%9F%E8%A7%92%E8%8B%94%E5%9F%BA%E5%9B%A0%E7%BB%84%E4%B8%8E%E6%97%A9%E6%9C%9F%E9%99%86%E5%9C%B0%E6%A4%8D%E7%89%A9%E8%BF%9B%E5%8C%96/</link>
+      <link>https://cgmonline.co/2020/02/cgm-%E7%AC%AC81%E6%9C%9F%E8%A7%92%E8%8B%94%E5%9F%BA%E5%9B%A0%E7%BB%84%E4%B8%8E%E6%97%A9%E6%9C%9F%E9%99%86%E5%9C%B0%E6%A4%8D%E7%89%A9%E8%BF%9B%E5%8C%96/</link>
       <pubDate>Wed, 12 Feb 2020 17:15:22 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2020/02/cgm-%E7%AC%AC81%E6%9C%9F%E8%A7%92%E8%8B%94%E5%9F%BA%E5%9B%A0%E7%BB%84%E4%B8%8E%E6%97%A9%E6%9C%9F%E9%99%86%E5%9C%B0%E6%A4%8D%E7%89%A9%E8%BF%9B%E5%8C%96/</guid>
+      <guid>https://cgmonline.co/2020/02/cgm-%E7%AC%AC81%E6%9C%9F%E8%A7%92%E8%8B%94%E5%9F%BA%E5%9B%A0%E7%BB%84%E4%B8%8E%E6%97%A9%E6%9C%9F%E9%99%86%E5%9C%B0%E6%A4%8D%E7%89%A9%E8%BF%9B%E5%8C%96/</guid>
       <description>题目：角苔基因组与早期陆地植物进化 时间：北京时间2020年2月12日周三晚上9点 地点：Zoom and Bilibili live stream 主讲人： 张剑，中国科学院植物研究所助理</description>
     </item>
     
     <item>
       <title>CGM 第78期：睡莲基因组和早期开花植物进化</title>
-      <link>http://cgmonline.co/2020/01/cgm-%E7%AC%AC78%E6%9C%9F%E7%9D%A1%E8%8E%B2%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%92%8C%E6%97%A9%E6%9C%9F%E5%BC%80%E8%8A%B1%E6%A4%8D%E7%89%A9%E8%BF%9B%E5%8C%96/</link>
+      <link>https://cgmonline.co/2020/01/cgm-%E7%AC%AC78%E6%9C%9F%E7%9D%A1%E8%8E%B2%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%92%8C%E6%97%A9%E6%9C%9F%E5%BC%80%E8%8A%B1%E6%A4%8D%E7%89%A9%E8%BF%9B%E5%8C%96/</link>
       <pubDate>Wed, 15 Jan 2020 17:15:22 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2020/01/cgm-%E7%AC%AC78%E6%9C%9F%E7%9D%A1%E8%8E%B2%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%92%8C%E6%97%A9%E6%9C%9F%E5%BC%80%E8%8A%B1%E6%A4%8D%E7%89%A9%E8%BF%9B%E5%8C%96/</guid>
+      <guid>https://cgmonline.co/2020/01/cgm-%E7%AC%AC78%E6%9C%9F%E7%9D%A1%E8%8E%B2%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%92%8C%E6%97%A9%E6%9C%9F%E5%BC%80%E8%8A%B1%E6%A4%8D%E7%89%A9%E8%BF%9B%E5%8C%96/</guid>
       <description>题目：睡莲基因组和早期开花植物进化 时间：北京时间2020年1月15日 9PM 地点：Zoom and Bilibili live stream 主讲人：张亮生，福建农林大学海峡联合研究院教授（</description>
     </item>
     
     <item>
       <title>CGM 第71期：杨树适应性进化的遗传基础</title>
-      <link>http://cgmonline.co/2019/11/cgm-%E7%AC%AC71%E6%9C%9F%E6%9D%A8%E6%A0%91%E9%80%82%E5%BA%94%E6%80%A7%E8%BF%9B%E5%8C%96%E7%9A%84%E9%81%97%E4%BC%A0%E5%9F%BA%E7%A1%80/</link>
-      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/2019/11/cgm-%E7%AC%AC71%E6%9C%9F%E6%9D%A8%E6%A0%91%E9%80%82%E5%BA%94%E6%80%A7%E8%BF%9B%E5%8C%96%E7%9A%84%E9%81%97%E4%BC%A0%E5%9F%BA%E7%A1%80/</link>
+      <pubDate>Wed, 06 Nov 2019 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2019/11/cgm-%E7%AC%AC71%E6%9C%9F%E6%9D%A8%E6%A0%91%E9%80%82%E5%BA%94%E6%80%A7%E8%BF%9B%E5%8C%96%E7%9A%84%E9%81%97%E4%BC%A0%E5%9F%BA%E7%A1%80/</guid>
+      <guid>https://cgmonline.co/2019/11/cgm-%E7%AC%AC71%E6%9C%9F%E6%9D%A8%E6%A0%91%E9%80%82%E5%BA%94%E6%80%A7%E8%BF%9B%E5%8C%96%E7%9A%84%E9%81%97%E4%BC%A0%E5%9F%BA%E7%A1%80/</guid>
       <description>题目：杨树适应性进化的遗传基础 时间：2019 年 11 月 06 号（星期三），北京时间 9:00 PM 地点：全时云和bilibili直播 主讲人：王婧，四川大学生命科</description>
     </item>
     
     <item>
       <title>CGM 第60期：管中窥豹，亦别有洞天。外显子组重测序描绘小麦基因组进化蓝图</title>
-      <link>http://cgmonline.co/2019/08/cgm-%E7%AC%AC60%E6%9C%9F%E7%AE%A1%E4%B8%AD%E7%AA%A5%E8%B1%B9%E4%BA%A6%E5%88%AB%E6%9C%89%E6%B4%9E%E5%A4%A9%E5%A4%96%E6%98%BE%E5%AD%90%E7%BB%84%E9%87%8D%E6%B5%8B%E5%BA%8F%E6%8F%8F%E7%BB%98%E5%B0%8F%E9%BA%A6%E5%9F%BA%E5%9B%A0%E7%BB%84%E8%BF%9B%E5%8C%96%E8%93%9D%E5%9B%BE/</link>
-      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/2019/08/cgm-%E7%AC%AC60%E6%9C%9F%E7%AE%A1%E4%B8%AD%E7%AA%A5%E8%B1%B9%E4%BA%A6%E5%88%AB%E6%9C%89%E6%B4%9E%E5%A4%A9%E5%A4%96%E6%98%BE%E5%AD%90%E7%BB%84%E9%87%8D%E6%B5%8B%E5%BA%8F%E6%8F%8F%E7%BB%98%E5%B0%8F%E9%BA%A6%E5%9F%BA%E5%9B%A0%E7%BB%84%E8%BF%9B%E5%8C%96%E8%93%9D%E5%9B%BE/</link>
+      <pubDate>Wed, 21 Aug 2019 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2019/08/cgm-%E7%AC%AC60%E6%9C%9F%E7%AE%A1%E4%B8%AD%E7%AA%A5%E8%B1%B9%E4%BA%A6%E5%88%AB%E6%9C%89%E6%B4%9E%E5%A4%A9%E5%A4%96%E6%98%BE%E5%AD%90%E7%BB%84%E9%87%8D%E6%B5%8B%E5%BA%8F%E6%8F%8F%E7%BB%98%E5%B0%8F%E9%BA%A6%E5%9F%BA%E5%9B%A0%E7%BB%84%E8%BF%9B%E5%8C%96%E8%93%9D%E5%9B%BE/</guid>
+      <guid>https://cgmonline.co/2019/08/cgm-%E7%AC%AC60%E6%9C%9F%E7%AE%A1%E4%B8%AD%E7%AA%A5%E8%B1%B9%E4%BA%A6%E5%88%AB%E6%9C%89%E6%B4%9E%E5%A4%A9%E5%A4%96%E6%98%BE%E5%AD%90%E7%BB%84%E9%87%8D%E6%B5%8B%E5%BA%8F%E6%8F%8F%E7%BB%98%E5%B0%8F%E9%BA%A6%E5%9F%BA%E5%9B%A0%E7%BB%84%E8%BF%9B%E5%8C%96%E8%93%9D%E5%9B%BE/</guid>
       <description>题目：管中窥豹，亦别有洞天——外显子组重测序描绘小麦基因组进化蓝图 时间：2019 年 08 月 21 号（星期三），美西时间（Pacific Time）6:</description>
     </item>
     
     <item>
       <title>CGM 第54期：酵母菌进化模式</title>
-      <link>http://cgmonline.co/2019/05/cgm-%E7%AC%AC54%E6%9C%9F%E9%85%B5%E6%AF%8D%E8%8F%8C%E8%BF%9B%E5%8C%96%E6%A8%A1%E5%BC%8F/</link>
-      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/2019/05/cgm-%E7%AC%AC54%E6%9C%9F%E9%85%B5%E6%AF%8D%E8%8F%8C%E8%BF%9B%E5%8C%96%E6%A8%A1%E5%BC%8F/</link>
+      <pubDate>Wed, 29 May 2019 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2019/05/cgm-%E7%AC%AC54%E6%9C%9F%E9%85%B5%E6%AF%8D%E8%8F%8C%E8%BF%9B%E5%8C%96%E6%A8%A1%E5%BC%8F/</guid>
+      <guid>https://cgmonline.co/2019/05/cgm-%E7%AC%AC54%E6%9C%9F%E9%85%B5%E6%AF%8D%E8%8F%8C%E8%BF%9B%E5%8C%96%E6%A8%A1%E5%BC%8F/</guid>
       <description>题目：酵母菌进化模式: “loss is more” 时间：2019 年 05 月 29 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTu</description>
     </item>
     
     <item>
       <title>CGM 第17期：The Evolution of Maize during Post-Domestication Expansion across Americas</title>
-      <link>http://cgmonline.co/2017/10/cgm-%E7%AC%AC17%E6%9C%9Fthe-evolution-of-maize-during-post-domestication-expansion-across-americas/</link>
-      <pubDate>Wed, 25 Oct 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/2017/10/cgm-%E7%AC%AC17%E6%9C%9Fthe-evolution-of-maize-during-post-domestication-expansion-across-americas/</link>
+      <pubDate>Wed, 25 Oct 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2017/10/cgm-%E7%AC%AC17%E6%9C%9Fthe-evolution-of-maize-during-post-domestication-expansion-across-americas/</guid>
+      <guid>https://cgmonline.co/2017/10/cgm-%E7%AC%AC17%E6%9C%9Fthe-evolution-of-maize-during-post-domestication-expansion-across-americas/</guid>
       <description>时间：2017 年 10 月 25 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream 主讲人: 王丽（Iowa State Univer</description>
     </item>
     
     <item>
       <title>CGM 第14期：线粒体的反转座过程-以禾本科为例</title>
-      <link>http://cgmonline.co/2017/09/cgm-%E7%AC%AC14%E6%9C%9F%E7%BA%BF%E7%B2%92%E4%BD%93%E7%9A%84%E5%8F%8D%E8%BD%AC%E5%BA%A7%E8%BF%87%E7%A8%8B-%E4%BB%A5%E7%A6%BE%E6%9C%AC%E7%A7%91%E4%B8%BA%E4%BE%8B/</link>
-      <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/2017/09/cgm-%E7%AC%AC14%E6%9C%9F%E7%BA%BF%E7%B2%92%E4%BD%93%E7%9A%84%E5%8F%8D%E8%BD%AC%E5%BA%A7%E8%BF%87%E7%A8%8B-%E4%BB%A5%E7%A6%BE%E6%9C%AC%E7%A7%91%E4%B8%BA%E4%BE%8B/</link>
+      <pubDate>Wed, 13 Sep 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2017/09/cgm-%E7%AC%AC14%E6%9C%9F%E7%BA%BF%E7%B2%92%E4%BD%93%E7%9A%84%E5%8F%8D%E8%BD%AC%E5%BA%A7%E8%BF%87%E7%A8%8B-%E4%BB%A5%E7%A6%BE%E6%9C%AC%E7%A7%91%E4%B8%BA%E4%BE%8B/</guid>
+      <guid>https://cgmonline.co/2017/09/cgm-%E7%AC%AC14%E6%9C%9F%E7%BA%BF%E7%B2%92%E4%BD%93%E7%9A%84%E5%8F%8D%E8%BD%AC%E5%BA%A7%E8%BF%87%E7%A8%8B-%E4%BB%A5%E7%A6%BE%E6%9C%AC%E7%A7%91%E4%B8%BA%E4%BE%8B/</guid>
       <description>时间：2017 年 9 月 13 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream 主讲人: 武志强 (Iowa State Univ.) 题目：线粒体的反</description>
     </item>
     
     <item>
       <title>CGM 第5期：白菜的前世今生</title>
-      <link>http://cgmonline.co/2017/04/cgm-%E7%AC%AC5%E6%9C%9F%E7%99%BD%E8%8F%9C%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F/</link>
-      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/2017/04/cgm-%E7%AC%AC5%E6%9C%9F%E7%99%BD%E8%8F%9C%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F/</link>
+      <pubDate>Wed, 26 Apr 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2017/04/cgm-%E7%AC%AC5%E6%9C%9F%E7%99%BD%E8%8F%9C%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F/</guid>
+      <guid>https://cgmonline.co/2017/04/cgm-%E7%AC%AC5%E6%9C%9F%E7%99%BD%E8%8F%9C%E7%9A%84%E5%89%8D%E4%B8%96%E4%BB%8A%E7%94%9F/</guid>
       <description>时间：2017年4月26号（星期三），美西时间（Pacific Time）6:00 PM 地点：Youtube live stream 主讲人：Hong An (安宏) 摘要： 白</description>
     </item>
     
     <item>
       <title>CGM 第4期：Comparative genomics approaches accurately predict deleterious variants in plants</title>
-      <link>http://cgmonline.co/2017/04/cgm-%E7%AC%AC4%E6%9C%9Fcomparative-genomics-approaches-accurately-predict-deleterious-variants-in-plants/</link>
-      <pubDate>Wed, 12 Apr 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/2017/04/cgm-%E7%AC%AC4%E6%9C%9Fcomparative-genomics-approaches-accurately-predict-deleterious-variants-in-plants/</link>
+      <pubDate>Wed, 12 Apr 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2017/04/cgm-%E7%AC%AC4%E6%9C%9Fcomparative-genomics-approaches-accurately-predict-deleterious-variants-in-plants/</guid>
+      <guid>https://cgmonline.co/2017/04/cgm-%E7%AC%AC4%E6%9C%9Fcomparative-genomics-approaches-accurately-predict-deleterious-variants-in-plants/</guid>
       <description>时间：2017年4月12号（星期三），美西时间（Pacific Time）6:00 PM 地点：Youtube live stream 主讲人：Li Lei（雷栗） 摘要： 您</description>
     </item>
     
     <item>
       <title>CGM 第2期：作物驯化的进化遗传学展望</title>
-      <link>http://cgmonline.co/2017/03/cgm-%E7%AC%AC2%E6%9C%9F%E4%BD%9C%E7%89%A9%E9%A9%AF%E5%8C%96%E7%9A%84%E8%BF%9B%E5%8C%96%E9%81%97%E4%BC%A0%E5%AD%A6%E5%B1%95%E6%9C%9B/</link>
-      <pubDate>Wed, 15 Mar 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/2017/03/cgm-%E7%AC%AC2%E6%9C%9F%E4%BD%9C%E7%89%A9%E9%A9%AF%E5%8C%96%E7%9A%84%E8%BF%9B%E5%8C%96%E9%81%97%E4%BC%A0%E5%AD%A6%E5%B1%95%E6%9C%9B/</link>
+      <pubDate>Wed, 15 Mar 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2017/03/cgm-%E7%AC%AC2%E6%9C%9F%E4%BD%9C%E7%89%A9%E9%A9%AF%E5%8C%96%E7%9A%84%E8%BF%9B%E5%8C%96%E9%81%97%E4%BC%A0%E5%AD%A6%E5%B1%95%E6%9C%9B/</guid>
+      <guid>https://cgmonline.co/2017/03/cgm-%E7%AC%AC2%E6%9C%9F%E4%BD%9C%E7%89%A9%E9%A9%AF%E5%8C%96%E7%9A%84%E8%BF%9B%E5%8C%96%E9%81%97%E4%BC%A0%E5%AD%A6%E5%B1%95%E6%9C%9B/</guid>
       <description>时间：2017年3月15号（星期三），美西时间下午六点 地点：Youtube live stream 主讲人：祁新帅（博士） 摘要： 在过去的13000年时间里，人类的</description>
     </item>
     
