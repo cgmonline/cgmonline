@@ -31,11 +31,9 @@ Wang, F. X., Shang, G. D., Wu, L. Y., Xu, Z. G., Zhao, X. Y., & Wang, J. W. (202
 
 时间：美国中部时间 2020年10月14日（星期三）8PM（北京时间10月15日 9AM）
 
-https://zoom.us/j
-
-
-会议 ID：
-密码：
+https://zoom.us/j/93118788174?pwd=WVRDYWNrM2tUZG1JcENuQnBOQ0FqUT09
+会议 ID：931 1878 8174
+密码：123456
 
 
 
