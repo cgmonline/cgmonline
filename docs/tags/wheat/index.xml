@@ -2,30 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>wheat on 华人基因组学在线沙龙</title>
-    <link>http://cgmonline.co/tags/wheat/</link>
+    <link>https://cgmonline.co/tags/wheat/</link>
     <description>Recent content in wheat on 华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 20:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://cgmonline.co/tags/wheat/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cgmonline.co/tags/wheat/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>CGM 第60期：管中窥豹，亦别有洞天。外显子组重测序描绘小麦基因组进化蓝图</title>
-      <link>http://cgmonline.co/2019/08/cgm-%E7%AC%AC60%E6%9C%9F%E7%AE%A1%E4%B8%AD%E7%AA%A5%E8%B1%B9%E4%BA%A6%E5%88%AB%E6%9C%89%E6%B4%9E%E5%A4%A9%E5%A4%96%E6%98%BE%E5%AD%90%E7%BB%84%E9%87%8D%E6%B5%8B%E5%BA%8F%E6%8F%8F%E7%BB%98%E5%B0%8F%E9%BA%A6%E5%9F%BA%E5%9B%A0%E7%BB%84%E8%BF%9B%E5%8C%96%E8%93%9D%E5%9B%BE/</link>
-      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      <title>CGM 第98期：Fhb7的水平转移塑造小麦赤霉病抗性</title>
+      <link>https://cgmonline.co/2020/06/cgm-%E7%AC%AC98%E6%9C%9Ffhb7%E7%9A%84%E6%B0%B4%E5%B9%B3%E8%BD%AC%E7%A7%BB%E5%A1%91%E9%80%A0%E5%B0%8F%E9%BA%A6%E8%B5%A4%E9%9C%89%E7%97%85%E6%8A%97%E6%80%A7/</link>
+      <pubDate>Wed, 10 Jun 2020 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2019/08/cgm-%E7%AC%AC60%E6%9C%9F%E7%AE%A1%E4%B8%AD%E7%AA%A5%E8%B1%B9%E4%BA%A6%E5%88%AB%E6%9C%89%E6%B4%9E%E5%A4%A9%E5%A4%96%E6%98%BE%E5%AD%90%E7%BB%84%E9%87%8D%E6%B5%8B%E5%BA%8F%E6%8F%8F%E7%BB%98%E5%B0%8F%E9%BA%A6%E5%9F%BA%E5%9B%A0%E7%BB%84%E8%BF%9B%E5%8C%96%E8%93%9D%E5%9B%BE/</guid>
+      <guid>https://cgmonline.co/2020/06/cgm-%E7%AC%AC98%E6%9C%9Ffhb7%E7%9A%84%E6%B0%B4%E5%B9%B3%E8%BD%AC%E7%A7%BB%E5%A1%91%E9%80%A0%E5%B0%8F%E9%BA%A6%E8%B5%A4%E9%9C%89%E7%97%85%E6%8A%97%E6%80%A7/</guid>
+      <description>题目：CGM 第98期：Fhb7的水平转移塑造小麦赤霉病抗性 时间：北京时间2020年6月10日9PM（美国西部PST时间 6 月 10 日（星期三）6A</description>
+    </item>
+    
+    <item>
+      <title>CGM 第60期：管中窥豹，亦别有洞天。外显子组重测序描绘小麦基因组进化蓝图</title>
+      <link>https://cgmonline.co/2019/08/cgm-%E7%AC%AC60%E6%9C%9F%E7%AE%A1%E4%B8%AD%E7%AA%A5%E8%B1%B9%E4%BA%A6%E5%88%AB%E6%9C%89%E6%B4%9E%E5%A4%A9%E5%A4%96%E6%98%BE%E5%AD%90%E7%BB%84%E9%87%8D%E6%B5%8B%E5%BA%8F%E6%8F%8F%E7%BB%98%E5%B0%8F%E9%BA%A6%E5%9F%BA%E5%9B%A0%E7%BB%84%E8%BF%9B%E5%8C%96%E8%93%9D%E5%9B%BE/</link>
+      <pubDate>Wed, 21 Aug 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/2019/08/cgm-%E7%AC%AC60%E6%9C%9F%E7%AE%A1%E4%B8%AD%E7%AA%A5%E8%B1%B9%E4%BA%A6%E5%88%AB%E6%9C%89%E6%B4%9E%E5%A4%A9%E5%A4%96%E6%98%BE%E5%AD%90%E7%BB%84%E9%87%8D%E6%B5%8B%E5%BA%8F%E6%8F%8F%E7%BB%98%E5%B0%8F%E9%BA%A6%E5%9F%BA%E5%9B%A0%E7%BB%84%E8%BF%9B%E5%8C%96%E8%93%9D%E5%9B%BE/</guid>
       <description>题目：管中窥豹，亦别有洞天——外显子组重测序描绘小麦基因组进化蓝图 时间：2019 年 08 月 21 号（星期三），美西时间（Pacific Time）6:</description>
     </item>
     
     <item>
       <title>CGM 第24期：Genome Plasticity of Wheat</title>
-      <link>http://cgmonline.co/2018/03/cgm-%E7%AC%AC24%E6%9C%9Fgenome-plasticity-of-wheat/</link>
-      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/2018/03/cgm-%E7%AC%AC24%E6%9C%9Fgenome-plasticity-of-wheat/</link>
+      <pubDate>Wed, 07 Mar 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2018/03/cgm-%E7%AC%AC24%E6%9C%9Fgenome-plasticity-of-wheat/</guid>
+      <guid>https://cgmonline.co/2018/03/cgm-%E7%AC%AC24%E6%9C%9Fgenome-plasticity-of-wheat/</guid>
       <description>题目：Genome Plasticity of Wheat 时间：2018 年 03 月 07 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTube live stream 主讲人：张军</description>
     </item>
     

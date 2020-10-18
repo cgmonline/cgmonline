@@ -2,2001 +2,2352 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 华人基因组学在线沙龙</title>
-    <link>http://cgmonline.co/tags/</link>
+    <link>https://cgmonline.co/tags/</link>
     <description>Recent content in Tags on 华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 18 Jun 2020 19:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2020 20:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://cgmonline.co/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cgmonline.co/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>biomedical</title>
-      <link>http://cgmonline.co/tags/biomedical/</link>
-      <pubDate>Thu, 18 Jun 2020 19:00:00 +0000</pubDate>
+      <title>anthocyanin</title>
+      <link>https://cgmonline.co/tags/anthocyanin/</link>
+      <pubDate>Wed, 30 Sep 2020 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/biomedical/</guid>
+      <guid>https://cgmonline.co/tags/anthocyanin/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>industry</title>
-      <link>http://cgmonline.co/tags/industry/</link>
-      <pubDate>Thu, 18 Jun 2020 19:00:00 +0000</pubDate>
+      <title>Mimulus</title>
+      <link>https://cgmonline.co/tags/mimulus/</link>
+      <pubDate>Wed, 30 Sep 2020 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/industry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Salicaceae</title>
-      <link>http://cgmonline.co/tags/salicaceae/</link>
-      <pubDate>Wed, 20 May 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/salicaceae/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sex determination</title>
-      <link>http://cgmonline.co/tags/sex-determination/</link>
-      <pubDate>Wed, 20 May 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/sex-determination/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>agriculture</title>
-      <link>http://cgmonline.co/tags/agriculture/</link>
-      <pubDate>Thu, 14 May 2020 19:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/agriculture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cloud computing</title>
-      <link>http://cgmonline.co/tags/cloud-computing/</link>
-      <pubDate>Wed, 13 May 2020 20:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/cloud-computing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>computation</title>
-      <link>http://cgmonline.co/tags/computation/</link>
-      <pubDate>Wed, 13 May 2020 20:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/computation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computational biology</title>
-      <link>http://cgmonline.co/tags/computational-biology/</link>
-      <pubDate>Wed, 13 May 2020 20:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/computational-biology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Human</title>
-      <link>http://cgmonline.co/tags/human/</link>
-      <pubDate>Wed, 13 May 2020 20:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/human/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Human genomics</title>
-      <link>http://cgmonline.co/tags/human-genomics/</link>
-      <pubDate>Wed, 13 May 2020 20:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/human-genomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talk</title>
-      <link>http://cgmonline.co/tags/talk/</link>
-      <pubDate>Wed, 13 May 2020 20:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genome-wide genetic changes</title>
-      <link>http://cgmonline.co/tags/genome-wide-genetic-changes/</link>
-      <pubDate>Wed, 06 May 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/genome-wide-genetic-changes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>modern breeding of maize</title>
-      <link>http://cgmonline.co/tags/modern-breeding-of-maize/</link>
-      <pubDate>Wed, 06 May 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/modern-breeding-of-maize/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>China</title>
-      <link>http://cgmonline.co/tags/china/</link>
-      <pubDate>Wed, 29 Apr 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/china/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>job</title>
-      <link>http://cgmonline.co/tags/job/</link>
-      <pubDate>Wed, 29 Apr 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/job/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Job Application</title>
-      <link>http://cgmonline.co/tags/job-application/</link>
-      <pubDate>Wed, 29 Apr 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/job-application/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Job Interview</title>
-      <link>http://cgmonline.co/tags/job-interview/</link>
-      <pubDate>Wed, 29 Apr 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/job-interview/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Talent Recruitment Project</title>
-      <link>http://cgmonline.co/tags/talent-recruitment-project/</link>
-      <pubDate>Wed, 29 Apr 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/talent-recruitment-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Young Talents</title>
-      <link>http://cgmonline.co/tags/young-talents/</link>
-      <pubDate>Wed, 29 Apr 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/young-talents/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>early angiosperm evolution</title>
-      <link>http://cgmonline.co/tags/early-angiosperm-evolution/</link>
-      <pubDate>Wed, 22 Apr 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/early-angiosperm-evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>genome assembly</title>
-      <link>http://cgmonline.co/tags/genome-assembly/</link>
-      <pubDate>Wed, 22 Apr 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/genome-assembly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prickly waterlily</title>
-      <link>http://cgmonline.co/tags/prickly-waterlily/</link>
-      <pubDate>Wed, 22 Apr 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/prickly-waterlily/</guid>
+      <guid>https://cgmonline.co/tags/mimulus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>http://cgmonline.co/tags/r/</link>
-      <pubDate>Wed, 22 Apr 2020 17:15:22 +0000</pubDate>
+      <link>https://cgmonline.co/tags/r/</link>
+      <pubDate>Wed, 30 Sep 2020 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/r/</guid>
+      <guid>https://cgmonline.co/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>rigid hornwort </title>
-      <link>http://cgmonline.co/tags/rigid-hornwort/</link>
-      <pubDate>Wed, 22 Apr 2020 17:15:22 +0000</pubDate>
+      <title>reaction-diffusion model</title>
+      <link>https://cgmonline.co/tags/reaction-diffusion-model/</link>
+      <pubDate>Wed, 30 Sep 2020 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/rigid-hornwort/</guid>
+      <guid>https://cgmonline.co/tags/reaction-diffusion-model/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>criteria for acceptance</title>
-      <link>http://cgmonline.co/tags/criteria-for-acceptance/</link>
-      <pubDate>Wed, 15 Apr 2020 17:15:22 +0000</pubDate>
+      <title>talks</title>
+      <link>https://cgmonline.co/tags/talks/</link>
+      <pubDate>Wed, 30 Sep 2020 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/criteria-for-acceptance/</guid>
+      <guid>https://cgmonline.co/tags/talks/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>molecular</title>
-      <link>http://cgmonline.co/tags/molecular/</link>
-      <pubDate>Wed, 15 Apr 2020 17:15:22 +0000</pubDate>
+      <title>wintersweet， floral scent biosynthesis， flowering</title>
+      <link>https://cgmonline.co/tags/wintersweet-floral-scent-biosynthesis-flowering/</link>
+      <pubDate>Wed, 23 Sep 2020 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/molecular/</guid>
+      <guid>https://cgmonline.co/tags/wintersweet-floral-scent-biosynthesis-flowering/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Molecular Plant</title>
-      <link>http://cgmonline.co/tags/molecular-plant/</link>
-      <pubDate>Wed, 15 Apr 2020 17:15:22 +0000</pubDate>
+      <title>转座子，转录，基因组，靶向性</title>
+      <link>https://cgmonline.co/tags/%E8%BD%AC%E5%BA%A7%E5%AD%90%E8%BD%AC%E5%BD%95%E5%9F%BA%E5%9B%A0%E7%BB%84%E9%9D%B6%E5%90%91%E6%80%A7/</link>
+      <pubDate>Wed, 16 Sep 2020 08:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/molecular-plant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>plant</title>
-      <link>http://cgmonline.co/tags/plant/</link>
-      <pubDate>Wed, 15 Apr 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/plant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Plant Communications</title>
-      <link>http://cgmonline.co/tags/plant-communications/</link>
-      <pubDate>Wed, 15 Apr 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/plant-communications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>review process</title>
-      <link>http://cgmonline.co/tags/review-process/</link>
-      <pubDate>Wed, 15 Apr 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/review-process/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>services to authors</title>
-      <link>http://cgmonline.co/tags/services-to-authors/</link>
-      <pubDate>Wed, 15 Apr 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/services-to-authors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fine mapping</title>
-      <link>http://cgmonline.co/tags/fine-mapping/</link>
-      <pubDate>Wed, 08 Apr 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/fine-mapping/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>function</title>
-      <link>http://cgmonline.co/tags/function/</link>
-      <pubDate>Wed, 08 Apr 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/function/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>functional verification</title>
-      <link>http://cgmonline.co/tags/functional-verification/</link>
-      <pubDate>Wed, 08 Apr 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/functional-verification/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Leaf angle</title>
-      <link>http://cgmonline.co/tags/leaf-angle/</link>
-      <pubDate>Wed, 08 Apr 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/leaf-angle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>QTL</title>
-      <link>http://cgmonline.co/tags/qtl/</link>
-      <pubDate>Wed, 08 Apr 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/qtl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rare allele</title>
-      <link>http://cgmonline.co/tags/rare-allele/</link>
-      <pubDate>Wed, 08 Apr 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/rare-allele/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ZmRAVL1</title>
-      <link>http://cgmonline.co/tags/zmravl1/</link>
-      <pubDate>Wed, 08 Apr 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/zmravl1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>divergent selection</title>
-      <link>http://cgmonline.co/tags/divergent-selection/</link>
-      <pubDate>Wed, 01 Apr 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/divergent-selection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>genetic introgression</title>
-      <link>http://cgmonline.co/tags/genetic-introgression/</link>
-      <pubDate>Wed, 01 Apr 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/genetic-introgression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>heterosis</title>
-      <link>http://cgmonline.co/tags/heterosis/</link>
-      <pubDate>Wed, 01 Apr 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/heterosis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hybrid rice</title>
-      <link>http://cgmonline.co/tags/hybrid-rice/</link>
-      <pubDate>Wed, 01 Apr 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/hybrid-rice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Career</title>
-      <link>http://cgmonline.co/tags/career/</link>
-      <pubDate>Thu, 26 Mar 2020 19:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/career/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genomics</title>
-      <link>http://cgmonline.co/tags/genomics/</link>
-      <pubDate>Wed, 25 Mar 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/genomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Polyploidexplainable</title>
-      <link>http://cgmonline.co/tags/polyploidexplainable/</link>
-      <pubDate>Wed, 25 Mar 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/polyploidexplainable/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sweet potato</title>
-      <link>http://cgmonline.co/tags/sweet-potato/</link>
-      <pubDate>Wed, 25 Mar 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/sweet-potato/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>explainable AI</title>
-      <link>http://cgmonline.co/tags/explainable-ai/</link>
-      <pubDate>Wed, 18 Mar 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/explainable-ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>genome editing</title>
-      <link>http://cgmonline.co/tags/genome-editing/</link>
-      <pubDate>Wed, 18 Mar 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/genome-editing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>http://cgmonline.co/tags/machine-learning/</link>
-      <pubDate>Wed, 18 Mar 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cypress species</title>
-      <link>http://cgmonline.co/tags/cypress-species/</link>
-      <pubDate>Wed, 11 Mar 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/cypress-species/</guid>
+      <guid>https://cgmonline.co/tags/%E8%BD%AC%E5%BA%A7%E5%AD%90%E8%BD%AC%E5%BD%95%E5%9F%BA%E5%9B%A0%E7%BB%84%E9%9D%B6%E5%90%91%E6%80%A7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>evolution</title>
-      <link>http://cgmonline.co/tags/evolution/</link>
-      <pubDate>Wed, 11 Mar 2020 17:15:22 +0000</pubDate>
+      <link>https://cgmonline.co/tags/evolution/</link>
+      <pubDate>Wed, 09 Sep 2020 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/evolution/</guid>
+      <guid>https://cgmonline.co/tags/evolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>evolutionary</title>
-      <link>http://cgmonline.co/tags/evolutionary/</link>
-      <pubDate>Wed, 11 Mar 2020 17:15:22 +0000</pubDate>
+      <link>https://cgmonline.co/tags/evolutionary/</link>
+      <pubDate>Wed, 09 Sep 2020 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/evolutionary/</guid>
+      <guid>https://cgmonline.co/tags/evolutionary/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>introgression</title>
-      <link>http://cgmonline.co/tags/introgression/</link>
-      <pubDate>Wed, 11 Mar 2020 17:15:22 +0000</pubDate>
+      <title>evolutionary constraint</title>
+      <link>https://cgmonline.co/tags/evolutionary-constraint/</link>
+      <pubDate>Wed, 09 Sep 2020 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/introgression/</guid>
+      <guid>https://cgmonline.co/tags/evolutionary-constraint/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>population genetic</title>
-      <link>http://cgmonline.co/tags/population-genetic/</link>
-      <pubDate>Wed, 11 Mar 2020 17:15:22 +0000</pubDate>
+      <title>flowering time</title>
+      <link>https://cgmonline.co/tags/flowering-time/</link>
+      <pubDate>Wed, 09 Sep 2020 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/population-genetic/</guid>
+      <guid>https://cgmonline.co/tags/flowering-time/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Adaptive introgression</title>
-      <link>http://cgmonline.co/tags/adaptive-introgression/</link>
-      <pubDate>Wed, 04 Mar 2020 17:15:22 +0000</pubDate>
+      <title>migration</title>
+      <link>https://cgmonline.co/tags/migration/</link>
+      <pubDate>Wed, 09 Sep 2020 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/adaptive-introgression/</guid>
+      <guid>https://cgmonline.co/tags/migration/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Archaic humans</title>
-      <link>http://cgmonline.co/tags/archaic-humans/</link>
-      <pubDate>Wed, 04 Mar 2020 17:15:22 +0000</pubDate>
+      <title>parallel adaptation</title>
+      <link>https://cgmonline.co/tags/parallel-adaptation/</link>
+      <pubDate>Wed, 09 Sep 2020 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/archaic-humans/</guid>
+      <guid>https://cgmonline.co/tags/parallel-adaptation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>deleterious</title>
-      <link>http://cgmonline.co/tags/deleterious/</link>
-      <pubDate>Wed, 04 Mar 2020 17:15:22 +0000</pubDate>
+      <title>polygenic adaptation</title>
+      <link>https://cgmonline.co/tags/polygenic-adaptation/</link>
+      <pubDate>Wed, 09 Sep 2020 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/deleterious/</guid>
+      <guid>https://cgmonline.co/tags/polygenic-adaptation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Deleterious variation</title>
-      <link>http://cgmonline.co/tags/deleterious-variation/</link>
-      <pubDate>Wed, 04 Mar 2020 17:15:22 +0000</pubDate>
+      <title>next-generation sequencing</title>
+      <link>https://cgmonline.co/tags/next-generation-sequencing/</link>
+      <pubDate>Wed, 02 Sep 2020 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/deleterious-variation/</guid>
+      <guid>https://cgmonline.co/tags/next-generation-sequencing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Population genetics</title>
-      <link>http://cgmonline.co/tags/population-genetics/</link>
-      <pubDate>Wed, 04 Mar 2020 17:15:22 +0000</pubDate>
+      <title>non-coding RNA</title>
+      <link>https://cgmonline.co/tags/non-coding-rna/</link>
+      <pubDate>Wed, 02 Sep 2020 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/population-genetics/</guid>
+      <guid>https://cgmonline.co/tags/non-coding-rna/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>domestication</title>
-      <link>http://cgmonline.co/tags/domestication/</link>
-      <pubDate>Wed, 26 Feb 2020 17:15:22 +0000</pubDate>
+      <title>R-loop</title>
+      <link>https://cgmonline.co/tags/r-loop/</link>
+      <pubDate>Wed, 02 Sep 2020 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/domestication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>domestication traits</title>
-      <link>http://cgmonline.co/tags/domestication-traits/</link>
-      <pubDate>Wed, 26 Feb 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/domestication-traits/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Genome-wide selection</title>
-      <link>http://cgmonline.co/tags/genome-wide-selection/</link>
-      <pubDate>Wed, 26 Feb 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/genome-wide-selection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lncRNA</title>
-      <link>http://cgmonline.co/tags/lncrna/</link>
-      <pubDate>Wed, 26 Feb 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/lncrna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rice</title>
-      <link>http://cgmonline.co/tags/rice/</link>
-      <pubDate>Wed, 26 Feb 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/rice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fish</title>
-      <link>http://cgmonline.co/tags/fish/</link>
-      <pubDate>Sat, 22 Feb 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/fish/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Life history</title>
-      <link>http://cgmonline.co/tags/life-history/</link>
-      <pubDate>Sat, 22 Feb 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/life-history/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mutation load</title>
-      <link>http://cgmonline.co/tags/mutation-load/</link>
-      <pubDate>Sat, 22 Feb 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/mutation-load/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neutral evolution</title>
-      <link>http://cgmonline.co/tags/neutral-evolution/</link>
-      <pubDate>Sat, 22 Feb 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/neutral-evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Slightly deleterious mutations</title>
-      <link>http://cgmonline.co/tags/slightly-deleterious-mutations/</link>
-      <pubDate>Sat, 22 Feb 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/slightly-deleterious-mutations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>early land plant</title>
-      <link>http://cgmonline.co/tags/early-land-plant/</link>
-      <pubDate>Wed, 12 Feb 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/early-land-plant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hornwort genome</title>
-      <link>http://cgmonline.co/tags/hornwort-genome/</link>
-      <pubDate>Wed, 12 Feb 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/hornwort-genome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PI</title>
-      <link>http://cgmonline.co/tags/pi/</link>
-      <pubDate>Wed, 22 Jan 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/pi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pipeline</title>
-      <link>http://cgmonline.co/tags/pipeline/</link>
-      <pubDate>Wed, 22 Jan 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/pipeline/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>transposable element</title>
-      <link>http://cgmonline.co/tags/transposable-element/</link>
-      <pubDate>Wed, 22 Jan 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/transposable-element/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>flowering plants</title>
-      <link>http://cgmonline.co/tags/flowering-plants/</link>
-      <pubDate>Wed, 15 Jan 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/flowering-plants/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>water lily genome</title>
-      <link>http://cgmonline.co/tags/water-lily-genome/</link>
-      <pubDate>Wed, 15 Jan 2020 17:15:22 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/water-lily-genome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>chloroplast genome</title>
-      <link>http://cgmonline.co/tags/chloroplast-genome/</link>
-      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/chloroplast-genome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mitochondria</title>
-      <link>http://cgmonline.co/tags/mitochondria/</link>
-      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/mitochondria/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mitochondrial genome</title>
-      <link>http://cgmonline.co/tags/mitochondrial-genome/</link>
-      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/mitochondrial-genome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>academic</title>
-      <link>http://cgmonline.co/tags/academic/</link>
-      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/academic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>breeding</title>
-      <link>http://cgmonline.co/tags/breeding/</link>
-      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/breeding/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>genome variation map</title>
-      <link>http://cgmonline.co/tags/genome-variation-map/</link>
-      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/genome-variation-map/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>melon</title>
-      <link>http://cgmonline.co/tags/melon/</link>
-      <pubDate>Wed, 04 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/melon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>eQTL</title>
-      <link>http://cgmonline.co/tags/eqtl/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/eqtl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GWAS</title>
-      <link>http://cgmonline.co/tags/gwas/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/gwas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>human diseases</title>
-      <link>http://cgmonline.co/tags/human-diseases/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/human-diseases/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mQTL</title>
-      <link>http://cgmonline.co/tags/mqtl/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/mqtl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>multi-omics</title>
-      <link>http://cgmonline.co/tags/multi-omics/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/multi-omics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>haplotype phasing</title>
-      <link>http://cgmonline.co/tags/haplotype-phasing/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/haplotype-phasing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mosaic variant</title>
-      <link>http://cgmonline.co/tags/mosaic-variant/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/mosaic-variant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Adaptation</title>
-      <link>http://cgmonline.co/tags/adaptation/</link>
-      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/adaptation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Poplar</title>
-      <link>http://cgmonline.co/tags/poplar/</link>
-      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/poplar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>colocalization</title>
-      <link>http://cgmonline.co/tags/colocalization/</link>
-      <pubDate>Wed, 30 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/colocalization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gingkgo，evolution</title>
-      <link>http://cgmonline.co/tags/gingkgoevolution/</link>
-      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/gingkgoevolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TAL，ABA，disease susceptibility</title>
-      <link>http://cgmonline.co/tags/talabadisease-susceptibility/</link>
-      <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/talabadisease-susceptibility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pan-genome</title>
-      <link>http://cgmonline.co/tags/pan-genome/</link>
-      <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/pan-genome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>parallel speciation</title>
-      <link>http://cgmonline.co/tags/parallel-speciation/</link>
-      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/parallel-speciation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>reproductive isolation</title>
-      <link>http://cgmonline.co/tags/reproductive-isolation/</link>
-      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/reproductive-isolation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>wild rice</title>
-      <link>http://cgmonline.co/tags/wild-rice/</link>
-      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/wild-rice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nodulation</title>
-      <link>http://cgmonline.co/tags/nodulation/</link>
-      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/nodulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rhizobium</title>
-      <link>http://cgmonline.co/tags/rhizobium/</link>
-      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/rhizobium/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>soybean</title>
-      <link>http://cgmonline.co/tags/soybean/</link>
-      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/soybean/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tRNA</title>
-      <link>http://cgmonline.co/tags/trna/</link>
-      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/trna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mimicry; evolution</title>
-      <link>http://cgmonline.co/tags/mimicry-evolution/</link>
-      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/mimicry-evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brassica</title>
-      <link>http://cgmonline.co/tags/brassica/</link>
-      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/brassica/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brassica; phylogeny; genetic structure; selective sweep</title>
-      <link>http://cgmonline.co/tags/brassica-phylogeny-genetic-structure-selective-sweep/</link>
-      <pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/brassica-phylogeny-genetic-structure-selective-sweep/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>maize</title>
-      <link>http://cgmonline.co/tags/maize/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/maize/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>popgen</title>
-      <link>http://cgmonline.co/tags/popgen/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/popgen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>quantgen</title>
-      <link>http://cgmonline.co/tags/quantgen/</link>
-      <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/quantgen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>wheat</title>
-      <link>http://cgmonline.co/tags/wheat/</link>
-      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/wheat/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>genetics</title>
-      <link>http://cgmonline.co/tags/genetics/</link>
-      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/genetics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>phenomics</title>
-      <link>http://cgmonline.co/tags/phenomics/</link>
-      <pubDate>Wed, 07 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/phenomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Co-evolution</title>
-      <link>http://cgmonline.co/tags/co-evolution/</link>
-      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/co-evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fractionation</title>
-      <link>http://cgmonline.co/tags/fractionation/</link>
-      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/fractionation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MIRNA Genes</title>
-      <link>http://cgmonline.co/tags/mirna-genes/</link>
-      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/mirna-genes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>polyploidy</title>
-      <link>http://cgmonline.co/tags/polyploidy/</link>
-      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/polyploidy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recombination</title>
-      <link>http://cgmonline.co/tags/recombination/</link>
-      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/recombination/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Academia</title>
-      <link>http://cgmonline.co/tags/academia/</link>
-      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/academia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Transposon</title>
-      <link>http://cgmonline.co/tags/transposon/</link>
-      <pubDate>Wed, 26 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/transposon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yeast</title>
-      <link>http://cgmonline.co/tags/yeast/</link>
-      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/yeast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Antibody</title>
-      <link>http://cgmonline.co/tags/antibody/</link>
-      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/antibody/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ML</title>
-      <link>http://cgmonline.co/tags/ml/</link>
-      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/ml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>metagenome</title>
-      <link>http://cgmonline.co/tags/metagenome/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/metagenome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Computer Vision</title>
-      <link>http://cgmonline.co/tags/computer-vision/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/computer-vision/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Phenotype</title>
-      <link>http://cgmonline.co/tags/phenotype/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/phenotype/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Antarctic trip</title>
-      <link>http://cgmonline.co/tags/antarctic-trip/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/antarctic-trip/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Women in Science</title>
-      <link>http://cgmonline.co/tags/women-in-science/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/women-in-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>carrying capacity</title>
-      <link>http://cgmonline.co/tags/carrying-capacity/</link>
-      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/carrying-capacity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Environment-dependent pleiotropic effect</title>
-      <link>http://cgmonline.co/tags/environment-dependent-pleiotropic-effect/</link>
-      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/environment-dependent-pleiotropic-effect/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Population growth rate</title>
-      <link>http://cgmonline.co/tags/population-growth-rate/</link>
-      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/population-growth-rate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Echinochloa crus-galli</title>
-      <link>http://cgmonline.co/tags/echinochloa-crus-galli/</link>
-      <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/echinochloa-crus-galli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Invasiveness</title>
-      <link>http://cgmonline.co/tags/invasiveness/</link>
-      <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/invasiveness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>weedy rice</title>
-      <link>http://cgmonline.co/tags/weedy-rice/</link>
-      <pubDate>Wed, 06 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/weedy-rice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conference</title>
-      <link>http://cgmonline.co/tags/conference/</link>
-      <pubDate>Wed, 23 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/conference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Startup</title>
-      <link>http://cgmonline.co/tags/startup/</link>
-      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/startup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DNA</title>
-      <link>http://cgmonline.co/tags/dna/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/dna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Double Strand Break</title>
-      <link>http://cgmonline.co/tags/double-strand-break/</link>
-      <pubDate>Wed, 14 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/double-strand-break/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Branch</title>
-      <link>http://cgmonline.co/tags/branch/</link>
-      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/branch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mutants</title>
-      <link>http://cgmonline.co/tags/mutants/</link>
-      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/mutants/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Novel genes</title>
-      <link>http://cgmonline.co/tags/novel-genes/</link>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/novel-genes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>STR</title>
-      <link>http://cgmonline.co/tags/str/</link>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/str/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Structural variants</title>
-      <link>http://cgmonline.co/tags/structural-variants/</link>
-      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/structural-variants/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Crop</title>
-      <link>http://cgmonline.co/tags/crop/</link>
-      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/crop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Drought</title>
-      <link>http://cgmonline.co/tags/drought/</link>
-      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/drought/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>microbiome</title>
-      <link>http://cgmonline.co/tags/microbiome/</link>
-      <pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/microbiome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep learning</title>
-      <link>http://cgmonline.co/tags/deep-learning/</link>
-      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Prediction</title>
-      <link>http://cgmonline.co/tags/prediction/</link>
-      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/tags/prediction/</guid>
+      <guid>https://cgmonline.co/tags/r-loop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transcript</title>
-      <link>http://cgmonline.co/tags/transcript/</link>
-      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/transcript/</link>
+      <pubDate>Wed, 02 Sep 2020 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/transcript/</guid>
+      <guid>https://cgmonline.co/tags/transcript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transcriptional regulation</title>
+      <link>https://cgmonline.co/tags/transcriptional-regulation/</link>
+      <pubDate>Wed, 02 Sep 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/transcriptional-regulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>合成生物学</title>
+      <link>https://cgmonline.co/tags/%E5%90%88%E6%88%90%E7%94%9F%E7%89%A9%E5%AD%A6/</link>
+      <pubDate>Wed, 26 Aug 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/%E5%90%88%E6%88%90%E7%94%9F%E7%89%A9%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基因组</title>
+      <link>https://cgmonline.co/tags/%E5%9F%BA%E5%9B%A0%E7%BB%84/</link>
+      <pubDate>Wed, 26 Aug 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/%E5%9F%BA%E5%9B%A0%E7%BB%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>药用植物</title>
+      <link>https://cgmonline.co/tags/%E8%8D%AF%E7%94%A8%E6%A4%8D%E7%89%A9/</link>
+      <pubDate>Wed, 26 Aug 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/%E8%8D%AF%E7%94%A8%E6%A4%8D%E7%89%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>资源鉴定</title>
+      <link>https://cgmonline.co/tags/%E8%B5%84%E6%BA%90%E9%89%B4%E5%AE%9A/</link>
+      <pubDate>Wed, 26 Aug 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/%E8%B5%84%E6%BA%90%E9%89%B4%E5%AE%9A/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基因组组装</title>
+      <link>https://cgmonline.co/tags/%E5%9F%BA%E5%9B%A0%E7%BB%84%E7%BB%84%E8%A3%85/</link>
+      <pubDate>Wed, 19 Aug 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/%E5%9F%BA%E5%9B%A0%E7%BB%84%E7%BB%84%E8%A3%85/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>希望组，三代测序，三代组装软件应用，长读长测序产品</title>
+      <link>https://cgmonline.co/tags/%E5%B8%8C%E6%9C%9B%E7%BB%84%E4%B8%89%E4%BB%A3%E6%B5%8B%E5%BA%8F%E4%B8%89%E4%BB%A3%E7%BB%84%E8%A3%85%E8%BD%AF%E4%BB%B6%E5%BA%94%E7%94%A8%E9%95%BF%E8%AF%BB%E9%95%BF%E6%B5%8B%E5%BA%8F%E4%BA%A7%E5%93%81/</link>
+      <pubDate>Wed, 12 Aug 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/%E5%B8%8C%E6%9C%9B%E7%BB%84%E4%B8%89%E4%BB%A3%E6%B5%8B%E5%BA%8F%E4%B8%89%E4%BB%A3%E7%BB%84%E8%A3%85%E8%BD%AF%E4%BB%B6%E5%BA%94%E7%94%A8%E9%95%BF%E8%AF%BB%E9%95%BF%E6%B5%8B%E5%BA%8F%E4%BA%A7%E5%93%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eBook</title>
+      <link>https://cgmonline.co/tags/ebook/</link>
+      <pubDate>Wed, 05 Aug 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/ebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>生物信息学</title>
+      <link>https://cgmonline.co/tags/%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6/</link>
+      <pubDate>Wed, 05 Aug 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/%E7%94%9F%E7%89%A9%E4%BF%A1%E6%81%AF%E5%AD%A6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>玉米，双子叶植物，单倍体诱导，图位克隆，功能验证</title>
+      <link>https://cgmonline.co/tags/%E7%8E%89%E7%B1%B3%E5%8F%8C%E5%AD%90%E5%8F%B6%E6%A4%8D%E7%89%A9%E5%8D%95%E5%80%8D%E4%BD%93%E8%AF%B1%E5%AF%BC%E5%9B%BE%E4%BD%8D%E5%85%8B%E9%9A%86%E5%8A%9F%E8%83%BD%E9%AA%8C%E8%AF%81/</link>
+      <pubDate>Wed, 29 Jul 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/%E7%8E%89%E7%B1%B3%E5%8F%8C%E5%AD%90%E5%8F%B6%E6%A4%8D%E7%89%A9%E5%8D%95%E5%80%8D%E4%BD%93%E8%AF%B1%E5%AF%BC%E5%9B%BE%E4%BD%8D%E5%85%8B%E9%9A%86%E5%8A%9F%E8%83%BD%E9%AA%8C%E8%AF%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>domestication</title>
+      <link>https://cgmonline.co/tags/domestication/</link>
+      <pubDate>Wed, 15 Jul 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/domestication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>graph-based genome</title>
+      <link>https://cgmonline.co/tags/graph-based-genome/</link>
+      <pubDate>Wed, 15 Jul 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/graph-based-genome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pan-genome</title>
+      <link>https://cgmonline.co/tags/pan-genome/</link>
+      <pubDate>Wed, 15 Jul 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/pan-genome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>soybean</title>
+      <link>https://cgmonline.co/tags/soybean/</link>
+      <pubDate>Wed, 15 Jul 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/soybean/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STR</title>
+      <link>https://cgmonline.co/tags/str/</link>
+      <pubDate>Wed, 15 Jul 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/str/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>structural variation</title>
+      <link>https://cgmonline.co/tags/structural-variation/</link>
+      <pubDate>Wed, 15 Jul 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/structural-variation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>表观基因组学，顺式调控序列</title>
+      <link>https://cgmonline.co/tags/%E8%A1%A8%E8%A7%82%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%AD%A6%E9%A1%BA%E5%BC%8F%E8%B0%83%E6%8E%A7%E5%BA%8F%E5%88%97/</link>
+      <pubDate>Wed, 08 Jul 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/%E8%A1%A8%E8%A7%82%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%AD%A6%E9%A1%BA%E5%BC%8F%E8%B0%83%E6%8E%A7%E5%BA%8F%E5%88%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>光学图谱，基因组装，结构变异，菌株区分，单倍体划分</title>
+      <link>https://cgmonline.co/tags/%E5%85%89%E5%AD%A6%E5%9B%BE%E8%B0%B1%E5%9F%BA%E5%9B%A0%E7%BB%84%E8%A3%85%E7%BB%93%E6%9E%84%E5%8F%98%E5%BC%82%E8%8F%8C%E6%A0%AA%E5%8C%BA%E5%88%86%E5%8D%95%E5%80%8D%E4%BD%93%E5%88%92%E5%88%86/</link>
+      <pubDate>Wed, 01 Jul 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/%E5%85%89%E5%AD%A6%E5%9B%BE%E8%B0%B1%E5%9F%BA%E5%9B%A0%E7%BB%84%E8%A3%85%E7%BB%93%E6%9E%84%E5%8F%98%E5%BC%82%E8%8F%8C%E6%A0%AA%E5%8C%BA%E5%88%86%E5%8D%95%E5%80%8D%E4%BD%93%E5%88%92%E5%88%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CGM发展，颁奖仪式</title>
+      <link>https://cgmonline.co/tags/cgm%E5%8F%91%E5%B1%95%E9%A2%81%E5%A5%96%E4%BB%AA%E5%BC%8F/</link>
+      <pubDate>Sat, 27 Jun 2020 21:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/cgm%E5%8F%91%E5%B1%95%E9%A2%81%E5%A5%96%E4%BB%AA%E5%BC%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>专题讨论</title>
+      <link>https://cgmonline.co/tags/%E4%B8%93%E9%A2%98%E8%AE%A8%E8%AE%BA/</link>
+      <pubDate>Sat, 27 Jun 2020 21:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/%E4%B8%93%E9%A2%98%E8%AE%A8%E8%AE%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>biomedical</title>
+      <link>https://cgmonline.co/tags/biomedical/</link>
+      <pubDate>Thu, 18 Jun 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/biomedical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>industry</title>
+      <link>https://cgmonline.co/tags/industry/</link>
+      <pubDate>Thu, 18 Jun 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>分析流程</title>
+      <link>https://cgmonline.co/tags/%E5%88%86%E6%9E%90%E6%B5%81%E7%A8%8B/</link>
+      <pubDate>Wed, 17 Jun 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/%E5%88%86%E6%9E%90%E6%B5%81%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>宏基因组</title>
+      <link>https://cgmonline.co/tags/%E5%AE%8F%E5%9F%BA%E5%9B%A0%E7%BB%84/</link>
+      <pubDate>Wed, 17 Jun 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/%E5%AE%8F%E5%9F%BA%E5%9B%A0%E7%BB%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>扩增子</title>
+      <link>https://cgmonline.co/tags/%E6%89%A9%E5%A2%9E%E5%AD%90/</link>
+      <pubDate>Wed, 17 Jun 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/%E6%89%A9%E5%A2%9E%E5%AD%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>统计分析与可视化</title>
+      <link>https://cgmonline.co/tags/%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96/</link>
+      <pubDate>Wed, 17 Jun 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/%E7%BB%9F%E8%AE%A1%E5%88%86%E6%9E%90%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fusarium head blight resistance</title>
+      <link>https://cgmonline.co/tags/fusarium-head-blight-resistance/</link>
+      <pubDate>Wed, 10 Jun 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/fusarium-head-blight-resistance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>horizontal gene transfer</title>
+      <link>https://cgmonline.co/tags/horizontal-gene-transfer/</link>
+      <pubDate>Wed, 10 Jun 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/horizontal-gene-transfer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wheat</title>
+      <link>https://cgmonline.co/tags/wheat/</link>
+      <pubDate>Wed, 10 Jun 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/wheat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salicaceae</title>
+      <link>https://cgmonline.co/tags/salicaceae/</link>
+      <pubDate>Wed, 20 May 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/salicaceae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sex determination</title>
+      <link>https://cgmonline.co/tags/sex-determination/</link>
+      <pubDate>Wed, 20 May 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/sex-determination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>agriculture</title>
+      <link>https://cgmonline.co/tags/agriculture/</link>
+      <pubDate>Thu, 14 May 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/agriculture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud computing</title>
+      <link>https://cgmonline.co/tags/cloud-computing/</link>
+      <pubDate>Wed, 13 May 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/cloud-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computation</title>
+      <link>https://cgmonline.co/tags/computation/</link>
+      <pubDate>Wed, 13 May 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/computation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational biology</title>
+      <link>https://cgmonline.co/tags/computational-biology/</link>
+      <pubDate>Wed, 13 May 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/computational-biology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human</title>
+      <link>https://cgmonline.co/tags/human/</link>
+      <pubDate>Wed, 13 May 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/human/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human genomics</title>
+      <link>https://cgmonline.co/tags/human-genomics/</link>
+      <pubDate>Wed, 13 May 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/human-genomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide genetic changes</title>
+      <link>https://cgmonline.co/tags/genome-wide-genetic-changes/</link>
+      <pubDate>Wed, 06 May 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/genome-wide-genetic-changes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>modern breeding of maize</title>
+      <link>https://cgmonline.co/tags/modern-breeding-of-maize/</link>
+      <pubDate>Wed, 06 May 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/modern-breeding-of-maize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>China</title>
+      <link>https://cgmonline.co/tags/china/</link>
+      <pubDate>Wed, 29 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/china/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>job</title>
+      <link>https://cgmonline.co/tags/job/</link>
+      <pubDate>Wed, 29 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/job/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Job Application</title>
+      <link>https://cgmonline.co/tags/job-application/</link>
+      <pubDate>Wed, 29 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/job-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Job Interview</title>
+      <link>https://cgmonline.co/tags/job-interview/</link>
+      <pubDate>Wed, 29 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/job-interview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talent Recruitment Project</title>
+      <link>https://cgmonline.co/tags/talent-recruitment-project/</link>
+      <pubDate>Wed, 29 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/talent-recruitment-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Young Talents</title>
+      <link>https://cgmonline.co/tags/young-talents/</link>
+      <pubDate>Wed, 29 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/young-talents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>early angiosperm evolution</title>
+      <link>https://cgmonline.co/tags/early-angiosperm-evolution/</link>
+      <pubDate>Wed, 22 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/early-angiosperm-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genome assembly</title>
+      <link>https://cgmonline.co/tags/genome-assembly/</link>
+      <pubDate>Wed, 22 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/genome-assembly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prickly waterlily</title>
+      <link>https://cgmonline.co/tags/prickly-waterlily/</link>
+      <pubDate>Wed, 22 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/prickly-waterlily/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rigid hornwort </title>
+      <link>https://cgmonline.co/tags/rigid-hornwort/</link>
+      <pubDate>Wed, 22 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/rigid-hornwort/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>criteria for acceptance</title>
+      <link>https://cgmonline.co/tags/criteria-for-acceptance/</link>
+      <pubDate>Wed, 15 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/criteria-for-acceptance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>molecular</title>
+      <link>https://cgmonline.co/tags/molecular/</link>
+      <pubDate>Wed, 15 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/molecular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular Plant</title>
+      <link>https://cgmonline.co/tags/molecular-plant/</link>
+      <pubDate>Wed, 15 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/molecular-plant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plant</title>
+      <link>https://cgmonline.co/tags/plant/</link>
+      <pubDate>Wed, 15 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/plant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plant Communications</title>
+      <link>https://cgmonline.co/tags/plant-communications/</link>
+      <pubDate>Wed, 15 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/plant-communications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>review process</title>
+      <link>https://cgmonline.co/tags/review-process/</link>
+      <pubDate>Wed, 15 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/review-process/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>services to authors</title>
+      <link>https://cgmonline.co/tags/services-to-authors/</link>
+      <pubDate>Wed, 15 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/services-to-authors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fine mapping</title>
+      <link>https://cgmonline.co/tags/fine-mapping/</link>
+      <pubDate>Wed, 08 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/fine-mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>function</title>
+      <link>https://cgmonline.co/tags/function/</link>
+      <pubDate>Wed, 08 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/function/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>functional verification</title>
+      <link>https://cgmonline.co/tags/functional-verification/</link>
+      <pubDate>Wed, 08 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/functional-verification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leaf angle</title>
+      <link>https://cgmonline.co/tags/leaf-angle/</link>
+      <pubDate>Wed, 08 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/leaf-angle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QTL</title>
+      <link>https://cgmonline.co/tags/qtl/</link>
+      <pubDate>Wed, 08 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/qtl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rare allele</title>
+      <link>https://cgmonline.co/tags/rare-allele/</link>
+      <pubDate>Wed, 08 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/rare-allele/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ZmRAVL1</title>
+      <link>https://cgmonline.co/tags/zmravl1/</link>
+      <pubDate>Wed, 08 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/zmravl1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>divergent selection</title>
+      <link>https://cgmonline.co/tags/divergent-selection/</link>
+      <pubDate>Wed, 01 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/divergent-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genetic introgression</title>
+      <link>https://cgmonline.co/tags/genetic-introgression/</link>
+      <pubDate>Wed, 01 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/genetic-introgression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>heterosis</title>
+      <link>https://cgmonline.co/tags/heterosis/</link>
+      <pubDate>Wed, 01 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/heterosis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hybrid rice</title>
+      <link>https://cgmonline.co/tags/hybrid-rice/</link>
+      <pubDate>Wed, 01 Apr 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/hybrid-rice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Career</title>
+      <link>https://cgmonline.co/tags/career/</link>
+      <pubDate>Thu, 26 Mar 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/career/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomics</title>
+      <link>https://cgmonline.co/tags/genomics/</link>
+      <pubDate>Wed, 25 Mar 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/genomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polyploidexplainable</title>
+      <link>https://cgmonline.co/tags/polyploidexplainable/</link>
+      <pubDate>Wed, 25 Mar 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/polyploidexplainable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sweet potato</title>
+      <link>https://cgmonline.co/tags/sweet-potato/</link>
+      <pubDate>Wed, 25 Mar 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/sweet-potato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>explainable AI</title>
+      <link>https://cgmonline.co/tags/explainable-ai/</link>
+      <pubDate>Wed, 18 Mar 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/explainable-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genome editing</title>
+      <link>https://cgmonline.co/tags/genome-editing/</link>
+      <pubDate>Wed, 18 Mar 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/genome-editing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://cgmonline.co/tags/machine-learning/</link>
+      <pubDate>Wed, 18 Mar 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cypress species</title>
+      <link>https://cgmonline.co/tags/cypress-species/</link>
+      <pubDate>Wed, 11 Mar 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/cypress-species/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>introgression</title>
+      <link>https://cgmonline.co/tags/introgression/</link>
+      <pubDate>Wed, 11 Mar 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/introgression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>population genetic</title>
+      <link>https://cgmonline.co/tags/population-genetic/</link>
+      <pubDate>Wed, 11 Mar 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/population-genetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive introgression</title>
+      <link>https://cgmonline.co/tags/adaptive-introgression/</link>
+      <pubDate>Wed, 04 Mar 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/adaptive-introgression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Archaic humans</title>
+      <link>https://cgmonline.co/tags/archaic-humans/</link>
+      <pubDate>Wed, 04 Mar 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/archaic-humans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deleterious</title>
+      <link>https://cgmonline.co/tags/deleterious/</link>
+      <pubDate>Wed, 04 Mar 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/deleterious/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deleterious variation</title>
+      <link>https://cgmonline.co/tags/deleterious-variation/</link>
+      <pubDate>Wed, 04 Mar 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/deleterious-variation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population genetics</title>
+      <link>https://cgmonline.co/tags/population-genetics/</link>
+      <pubDate>Wed, 04 Mar 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/population-genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>domestication traits</title>
+      <link>https://cgmonline.co/tags/domestication-traits/</link>
+      <pubDate>Wed, 26 Feb 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/domestication-traits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide selection</title>
+      <link>https://cgmonline.co/tags/genome-wide-selection/</link>
+      <pubDate>Wed, 26 Feb 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/genome-wide-selection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lncRNA</title>
+      <link>https://cgmonline.co/tags/lncrna/</link>
+      <pubDate>Wed, 26 Feb 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/lncrna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rice</title>
+      <link>https://cgmonline.co/tags/rice/</link>
+      <pubDate>Wed, 26 Feb 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/rice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fish</title>
+      <link>https://cgmonline.co/tags/fish/</link>
+      <pubDate>Sat, 22 Feb 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/fish/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Life history</title>
+      <link>https://cgmonline.co/tags/life-history/</link>
+      <pubDate>Sat, 22 Feb 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/life-history/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutation load</title>
+      <link>https://cgmonline.co/tags/mutation-load/</link>
+      <pubDate>Sat, 22 Feb 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/mutation-load/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neutral evolution</title>
+      <link>https://cgmonline.co/tags/neutral-evolution/</link>
+      <pubDate>Sat, 22 Feb 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/neutral-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slightly deleterious mutations</title>
+      <link>https://cgmonline.co/tags/slightly-deleterious-mutations/</link>
+      <pubDate>Sat, 22 Feb 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/slightly-deleterious-mutations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>early land plant</title>
+      <link>https://cgmonline.co/tags/early-land-plant/</link>
+      <pubDate>Wed, 12 Feb 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/early-land-plant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hornwort genome</title>
+      <link>https://cgmonline.co/tags/hornwort-genome/</link>
+      <pubDate>Wed, 12 Feb 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/hornwort-genome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PI</title>
+      <link>https://cgmonline.co/tags/pi/</link>
+      <pubDate>Wed, 22 Jan 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/pi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pipeline</title>
+      <link>https://cgmonline.co/tags/pipeline/</link>
+      <pubDate>Wed, 22 Jan 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/pipeline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transposable element</title>
+      <link>https://cgmonline.co/tags/transposable-element/</link>
+      <pubDate>Wed, 22 Jan 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/transposable-element/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flowering plants</title>
+      <link>https://cgmonline.co/tags/flowering-plants/</link>
+      <pubDate>Wed, 15 Jan 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/flowering-plants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>water lily genome</title>
+      <link>https://cgmonline.co/tags/water-lily-genome/</link>
+      <pubDate>Wed, 15 Jan 2020 17:15:22 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/water-lily-genome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chloroplast genome</title>
+      <link>https://cgmonline.co/tags/chloroplast-genome/</link>
+      <pubDate>Wed, 18 Dec 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/chloroplast-genome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mitochondria</title>
+      <link>https://cgmonline.co/tags/mitochondria/</link>
+      <pubDate>Wed, 18 Dec 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/mitochondria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mitochondrial genome</title>
+      <link>https://cgmonline.co/tags/mitochondrial-genome/</link>
+      <pubDate>Wed, 18 Dec 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/mitochondrial-genome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>academic</title>
+      <link>https://cgmonline.co/tags/academic/</link>
+      <pubDate>Wed, 11 Dec 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>breeding</title>
+      <link>https://cgmonline.co/tags/breeding/</link>
+      <pubDate>Wed, 04 Dec 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/breeding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genome variation map</title>
+      <link>https://cgmonline.co/tags/genome-variation-map/</link>
+      <pubDate>Wed, 04 Dec 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/genome-variation-map/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>melon</title>
+      <link>https://cgmonline.co/tags/melon/</link>
+      <pubDate>Wed, 04 Dec 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/melon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eQTL</title>
+      <link>https://cgmonline.co/tags/eqtl/</link>
+      <pubDate>Wed, 20 Nov 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/eqtl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GWAS</title>
+      <link>https://cgmonline.co/tags/gwas/</link>
+      <pubDate>Wed, 20 Nov 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/gwas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>human diseases</title>
+      <link>https://cgmonline.co/tags/human-diseases/</link>
+      <pubDate>Wed, 20 Nov 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/human-diseases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mQTL</title>
+      <link>https://cgmonline.co/tags/mqtl/</link>
+      <pubDate>Wed, 20 Nov 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/mqtl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multi-omics</title>
+      <link>https://cgmonline.co/tags/multi-omics/</link>
+      <pubDate>Wed, 20 Nov 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/multi-omics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>haplotype phasing</title>
+      <link>https://cgmonline.co/tags/haplotype-phasing/</link>
+      <pubDate>Wed, 13 Nov 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/haplotype-phasing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mosaic variant</title>
+      <link>https://cgmonline.co/tags/mosaic-variant/</link>
+      <pubDate>Wed, 13 Nov 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/mosaic-variant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptation</title>
+      <link>https://cgmonline.co/tags/adaptation/</link>
+      <pubDate>Wed, 06 Nov 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/adaptation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poplar</title>
+      <link>https://cgmonline.co/tags/poplar/</link>
+      <pubDate>Wed, 06 Nov 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/poplar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>colocalization</title>
+      <link>https://cgmonline.co/tags/colocalization/</link>
+      <pubDate>Wed, 30 Oct 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/colocalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gingkgo，evolution</title>
+      <link>https://cgmonline.co/tags/gingkgoevolution/</link>
+      <pubDate>Wed, 23 Oct 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/gingkgoevolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TAL，ABA，disease susceptibility</title>
+      <link>https://cgmonline.co/tags/talabadisease-susceptibility/</link>
+      <pubDate>Wed, 16 Oct 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/talabadisease-susceptibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>parallel speciation</title>
+      <link>https://cgmonline.co/tags/parallel-speciation/</link>
+      <pubDate>Wed, 25 Sep 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/parallel-speciation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reproductive isolation</title>
+      <link>https://cgmonline.co/tags/reproductive-isolation/</link>
+      <pubDate>Wed, 25 Sep 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/reproductive-isolation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wild rice</title>
+      <link>https://cgmonline.co/tags/wild-rice/</link>
+      <pubDate>Wed, 25 Sep 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/wild-rice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nodulation</title>
+      <link>https://cgmonline.co/tags/nodulation/</link>
+      <pubDate>Wed, 18 Sep 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/nodulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rhizobium</title>
+      <link>https://cgmonline.co/tags/rhizobium/</link>
+      <pubDate>Wed, 18 Sep 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/rhizobium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tRNA</title>
+      <link>https://cgmonline.co/tags/trna/</link>
+      <pubDate>Wed, 18 Sep 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/trna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mimicry; evolution</title>
+      <link>https://cgmonline.co/tags/mimicry-evolution/</link>
+      <pubDate>Wed, 11 Sep 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/mimicry-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brassica</title>
+      <link>https://cgmonline.co/tags/brassica/</link>
+      <pubDate>Wed, 04 Sep 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/brassica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brassica; phylogeny; genetic structure; selective sweep</title>
+      <link>https://cgmonline.co/tags/brassica-phylogeny-genetic-structure-selective-sweep/</link>
+      <pubDate>Wed, 04 Sep 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/brassica-phylogeny-genetic-structure-selective-sweep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>maize</title>
+      <link>https://cgmonline.co/tags/maize/</link>
+      <pubDate>Wed, 28 Aug 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/maize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>popgen</title>
+      <link>https://cgmonline.co/tags/popgen/</link>
+      <pubDate>Wed, 28 Aug 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/popgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quantgen</title>
+      <link>https://cgmonline.co/tags/quantgen/</link>
+      <pubDate>Wed, 28 Aug 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/quantgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genetics</title>
+      <link>https://cgmonline.co/tags/genetics/</link>
+      <pubDate>Wed, 07 Aug 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/genetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phenomics</title>
+      <link>https://cgmonline.co/tags/phenomics/</link>
+      <pubDate>Wed, 07 Aug 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/phenomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-evolution</title>
+      <link>https://cgmonline.co/tags/co-evolution/</link>
+      <pubDate>Wed, 10 Jul 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/co-evolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fractionation</title>
+      <link>https://cgmonline.co/tags/fractionation/</link>
+      <pubDate>Wed, 10 Jul 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/fractionation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MIRNA Genes</title>
+      <link>https://cgmonline.co/tags/mirna-genes/</link>
+      <pubDate>Wed, 10 Jul 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/mirna-genes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>polyploidy</title>
+      <link>https://cgmonline.co/tags/polyploidy/</link>
+      <pubDate>Wed, 10 Jul 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/polyploidy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recombination</title>
+      <link>https://cgmonline.co/tags/recombination/</link>
+      <pubDate>Wed, 10 Jul 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/recombination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academia</title>
+      <link>https://cgmonline.co/tags/academia/</link>
+      <pubDate>Wed, 26 Jun 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/academia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transposon</title>
+      <link>https://cgmonline.co/tags/transposon/</link>
+      <pubDate>Wed, 26 Jun 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/transposon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yeast</title>
+      <link>https://cgmonline.co/tags/yeast/</link>
+      <pubDate>Wed, 29 May 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/yeast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antibody</title>
+      <link>https://cgmonline.co/tags/antibody/</link>
+      <pubDate>Wed, 15 May 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/antibody/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML</title>
+      <link>https://cgmonline.co/tags/ml/</link>
+      <pubDate>Wed, 15 May 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metagenome</title>
+      <link>https://cgmonline.co/tags/metagenome/</link>
+      <pubDate>Wed, 01 May 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/metagenome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>https://cgmonline.co/tags/computer-vision/</link>
+      <pubDate>Wed, 17 Apr 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phenotype</title>
+      <link>https://cgmonline.co/tags/phenotype/</link>
+      <pubDate>Wed, 17 Apr 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/phenotype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antarctic trip</title>
+      <link>https://cgmonline.co/tags/antarctic-trip/</link>
+      <pubDate>Wed, 20 Mar 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/antarctic-trip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Women in Science</title>
+      <link>https://cgmonline.co/tags/women-in-science/</link>
+      <pubDate>Wed, 20 Mar 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/women-in-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>carrying capacity</title>
+      <link>https://cgmonline.co/tags/carrying-capacity/</link>
+      <pubDate>Wed, 20 Feb 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/carrying-capacity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Environment-dependent pleiotropic effect</title>
+      <link>https://cgmonline.co/tags/environment-dependent-pleiotropic-effect/</link>
+      <pubDate>Wed, 20 Feb 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/environment-dependent-pleiotropic-effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population growth rate</title>
+      <link>https://cgmonline.co/tags/population-growth-rate/</link>
+      <pubDate>Wed, 20 Feb 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/population-growth-rate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Echinochloa crus-galli</title>
+      <link>https://cgmonline.co/tags/echinochloa-crus-galli/</link>
+      <pubDate>Wed, 06 Feb 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/echinochloa-crus-galli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invasiveness</title>
+      <link>https://cgmonline.co/tags/invasiveness/</link>
+      <pubDate>Wed, 06 Feb 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/invasiveness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>weedy rice</title>
+      <link>https://cgmonline.co/tags/weedy-rice/</link>
+      <pubDate>Wed, 06 Feb 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/weedy-rice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference</title>
+      <link>https://cgmonline.co/tags/conference/</link>
+      <pubDate>Wed, 23 Jan 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Startup</title>
+      <link>https://cgmonline.co/tags/startup/</link>
+      <pubDate>Wed, 28 Nov 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/startup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DNA</title>
+      <link>https://cgmonline.co/tags/dna/</link>
+      <pubDate>Wed, 14 Nov 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/dna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Double Strand Break</title>
+      <link>https://cgmonline.co/tags/double-strand-break/</link>
+      <pubDate>Wed, 14 Nov 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/double-strand-break/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Branch</title>
+      <link>https://cgmonline.co/tags/branch/</link>
+      <pubDate>Wed, 07 Nov 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/branch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutants</title>
+      <link>https://cgmonline.co/tags/mutants/</link>
+      <pubDate>Wed, 07 Nov 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/mutants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Novel genes</title>
+      <link>https://cgmonline.co/tags/novel-genes/</link>
+      <pubDate>Wed, 17 Oct 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/novel-genes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural variants</title>
+      <link>https://cgmonline.co/tags/structural-variants/</link>
+      <pubDate>Wed, 17 Oct 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/structural-variants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crop</title>
+      <link>https://cgmonline.co/tags/crop/</link>
+      <pubDate>Wed, 03 Oct 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/crop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drought</title>
+      <link>https://cgmonline.co/tags/drought/</link>
+      <pubDate>Wed, 03 Oct 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/drought/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>microbiome</title>
+      <link>https://cgmonline.co/tags/microbiome/</link>
+      <pubDate>Wed, 03 Oct 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/microbiome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning</title>
+      <link>https://cgmonline.co/tags/deep-learning/</link>
+      <pubDate>Wed, 19 Sep 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediction</title>
+      <link>https://cgmonline.co/tags/prediction/</link>
+      <pubDate>Wed, 19 Sep 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/prediction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bioinformatics</title>
-      <link>http://cgmonline.co/tags/bioinformatics/</link>
-      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/bioinformatics/</link>
+      <pubDate>Wed, 05 Sep 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/bioinformatics/</guid>
+      <guid>https://cgmonline.co/tags/bioinformatics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data</title>
-      <link>http://cgmonline.co/tags/data/</link>
-      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/data/</link>
+      <pubDate>Wed, 05 Sep 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/data/</guid>
+      <guid>https://cgmonline.co/tags/data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hypothesis</title>
-      <link>http://cgmonline.co/tags/hypothesis/</link>
-      <pubDate>Wed, 05 Sep 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/hypothesis/</link>
+      <pubDate>Wed, 05 Sep 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/hypothesis/</guid>
+      <guid>https://cgmonline.co/tags/hypothesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>comparative biology</title>
-      <link>http://cgmonline.co/tags/comparative-biology/</link>
-      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/comparative-biology/</link>
+      <pubDate>Wed, 22 Aug 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/comparative-biology/</guid>
+      <guid>https://cgmonline.co/tags/comparative-biology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>conservation</title>
-      <link>http://cgmonline.co/tags/conservation/</link>
-      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/conservation/</link>
+      <pubDate>Wed, 22 Aug 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/conservation/</guid>
+      <guid>https://cgmonline.co/tags/conservation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>diversity</title>
-      <link>http://cgmonline.co/tags/diversity/</link>
-      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/diversity/</link>
+      <pubDate>Wed, 22 Aug 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/diversity/</guid>
+      <guid>https://cgmonline.co/tags/diversity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>phylogeny</title>
-      <link>http://cgmonline.co/tags/phylogeny/</link>
-      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/phylogeny/</link>
+      <pubDate>Wed, 22 Aug 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/phylogeny/</guid>
+      <guid>https://cgmonline.co/tags/phylogeny/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tree of life</title>
-      <link>http://cgmonline.co/tags/tree-of-life/</link>
-      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/tree-of-life/</link>
+      <pubDate>Wed, 22 Aug 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/tree-of-life/</guid>
+      <guid>https://cgmonline.co/tags/tree-of-life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>discuss</title>
-      <link>http://cgmonline.co/tags/discuss/</link>
-      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/discuss/</link>
+      <pubDate>Wed, 08 Aug 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/discuss/</guid>
+      <guid>https://cgmonline.co/tags/discuss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>female</title>
-      <link>http://cgmonline.co/tags/female/</link>
-      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/female/</link>
+      <pubDate>Wed, 08 Aug 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/female/</guid>
+      <guid>https://cgmonline.co/tags/female/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GxE</title>
-      <link>http://cgmonline.co/tags/gxe/</link>
-      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/gxe/</link>
+      <pubDate>Wed, 25 Jul 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/gxe/</guid>
+      <guid>https://cgmonline.co/tags/gxe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>phenotype plasticity</title>
-      <link>http://cgmonline.co/tags/phenotype-plasticity/</link>
-      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/phenotype-plasticity/</link>
+      <pubDate>Wed, 25 Jul 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/phenotype-plasticity/</guid>
+      <guid>https://cgmonline.co/tags/phenotype-plasticity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>genome evolution</title>
-      <link>http://cgmonline.co/tags/genome-evolution/</link>
-      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/genome-evolution/</link>
+      <pubDate>Wed, 11 Jul 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/genome-evolution/</guid>
+      <guid>https://cgmonline.co/tags/genome-evolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mating system evolution</title>
-      <link>http://cgmonline.co/tags/mating-system-evolution/</link>
-      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/mating-system-evolution/</link>
+      <pubDate>Wed, 11 Jul 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/mating-system-evolution/</guid>
+      <guid>https://cgmonline.co/tags/mating-system-evolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sexual selection</title>
-      <link>http://cgmonline.co/tags/sexual-selection/</link>
-      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/sexual-selection/</link>
+      <pubDate>Wed, 11 Jul 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/sexual-selection/</guid>
+      <guid>https://cgmonline.co/tags/sexual-selection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>arabidopsis</title>
-      <link>http://cgmonline.co/tags/arabidopsis/</link>
-      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/arabidopsis/</link>
+      <pubDate>Wed, 27 Jun 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/arabidopsis/</guid>
+      <guid>https://cgmonline.co/tags/arabidopsis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>biased fractionation</title>
-      <link>http://cgmonline.co/tags/biased-fractionation/</link>
-      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/biased-fractionation/</link>
+      <pubDate>Wed, 27 Jun 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/biased-fractionation/</guid>
+      <guid>https://cgmonline.co/tags/biased-fractionation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dosage</title>
-      <link>http://cgmonline.co/tags/dosage/</link>
-      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/dosage/</link>
+      <pubDate>Wed, 27 Jun 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/dosage/</guid>
+      <guid>https://cgmonline.co/tags/dosage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>selection</title>
-      <link>http://cgmonline.co/tags/selection/</link>
-      <pubDate>Wed, 27 Jun 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/selection/</link>
+      <pubDate>Wed, 27 Jun 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/selection/</guid>
+      <guid>https://cgmonline.co/tags/selection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>16s</title>
-      <link>http://cgmonline.co/tags/16s/</link>
-      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/16s/</link>
+      <pubDate>Wed, 13 Jun 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/16s/</guid>
+      <guid>https://cgmonline.co/tags/16s/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NGS</title>
-      <link>http://cgmonline.co/tags/ngs/</link>
-      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/ngs/</link>
+      <pubDate>Wed, 13 Jun 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/ngs/</guid>
+      <guid>https://cgmonline.co/tags/ngs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OTU</title>
-      <link>http://cgmonline.co/tags/otu/</link>
-      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/otu/</link>
+      <pubDate>Wed, 13 Jun 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/otu/</guid>
+      <guid>https://cgmonline.co/tags/otu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QIIME</title>
-      <link>http://cgmonline.co/tags/qiime/</link>
-      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/qiime/</link>
+      <pubDate>Wed, 13 Jun 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/qiime/</guid>
+      <guid>https://cgmonline.co/tags/qiime/</guid>
       <description></description>
     </item>
     
     <item>
       <title>interlocus gene conversion</title>
-      <link>http://cgmonline.co/tags/interlocus-gene-conversion/</link>
-      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/interlocus-gene-conversion/</link>
+      <pubDate>Wed, 30 May 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/interlocus-gene-conversion/</guid>
+      <guid>https://cgmonline.co/tags/interlocus-gene-conversion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>multigene family evolution</title>
-      <link>http://cgmonline.co/tags/multigene-family-evolution/</link>
-      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/multigene-family-evolution/</link>
+      <pubDate>Wed, 30 May 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/multigene-family-evolution/</guid>
+      <guid>https://cgmonline.co/tags/multigene-family-evolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>phylogenetics</title>
-      <link>http://cgmonline.co/tags/phylogenetics/</link>
-      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/phylogenetics/</link>
+      <pubDate>Wed, 30 May 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/phylogenetics/</guid>
+      <guid>https://cgmonline.co/tags/phylogenetics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>convergence</title>
-      <link>http://cgmonline.co/tags/convergence/</link>
-      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/convergence/</link>
+      <pubDate>Wed, 16 May 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/convergence/</guid>
+      <guid>https://cgmonline.co/tags/convergence/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hemiplasy</title>
-      <link>http://cgmonline.co/tags/hemiplasy/</link>
-      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/hemiplasy/</link>
+      <pubDate>Wed, 16 May 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/hemiplasy/</guid>
+      <guid>https://cgmonline.co/tags/hemiplasy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>phylogenomics</title>
-      <link>http://cgmonline.co/tags/phylogenomics/</link>
-      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/phylogenomics/</link>
+      <pubDate>Wed, 16 May 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/phylogenomics/</guid>
+      <guid>https://cgmonline.co/tags/phylogenomics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rapid radiation</title>
-      <link>http://cgmonline.co/tags/rapid-radiation/</link>
-      <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/rapid-radiation/</link>
+      <pubDate>Wed, 16 May 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/rapid-radiation/</guid>
+      <guid>https://cgmonline.co/tags/rapid-radiation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cell identity</title>
-      <link>http://cgmonline.co/tags/cell-identity/</link>
-      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/cell-identity/</link>
+      <pubDate>Wed, 02 May 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/cell-identity/</guid>
+      <guid>https://cgmonline.co/tags/cell-identity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>chromatin remodeling complex</title>
-      <link>http://cgmonline.co/tags/chromatin-remodeling-complex/</link>
-      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/chromatin-remodeling-complex/</link>
+      <pubDate>Wed, 02 May 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/chromatin-remodeling-complex/</guid>
+      <guid>https://cgmonline.co/tags/chromatin-remodeling-complex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>polycomb repressive complex</title>
-      <link>http://cgmonline.co/tags/polycomb-repressive-complex/</link>
-      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/polycomb-repressive-complex/</link>
+      <pubDate>Wed, 02 May 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/polycomb-repressive-complex/</guid>
+      <guid>https://cgmonline.co/tags/polycomb-repressive-complex/</guid>
       <description></description>
     </item>
     
     <item>
       <title>medicago</title>
-      <link>http://cgmonline.co/tags/medicago/</link>
-      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/medicago/</link>
+      <pubDate>Wed, 18 Apr 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/medicago/</guid>
+      <guid>https://cgmonline.co/tags/medicago/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nitrogen fixation</title>
-      <link>http://cgmonline.co/tags/nitrogen-fixation/</link>
-      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/nitrogen-fixation/</link>
+      <pubDate>Wed, 18 Apr 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/nitrogen-fixation/</guid>
+      <guid>https://cgmonline.co/tags/nitrogen-fixation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>symbiosis</title>
-      <link>http://cgmonline.co/tags/symbiosis/</link>
-      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/symbiosis/</link>
+      <pubDate>Wed, 18 Apr 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/symbiosis/</guid>
+      <guid>https://cgmonline.co/tags/symbiosis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>genetic diseases</title>
-      <link>http://cgmonline.co/tags/genetic-diseases/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/genetic-diseases/</link>
+      <pubDate>Wed, 21 Mar 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/genetic-diseases/</guid>
+      <guid>https://cgmonline.co/tags/genetic-diseases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>human genome</title>
-      <link>http://cgmonline.co/tags/human-genome/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/human-genome/</link>
+      <pubDate>Wed, 21 Mar 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/human-genome/</guid>
+      <guid>https://cgmonline.co/tags/human-genome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TREDPARSE</title>
-      <link>http://cgmonline.co/tags/tredparse/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/tredparse/</link>
+      <pubDate>Wed, 21 Mar 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/tredparse/</guid>
+      <guid>https://cgmonline.co/tags/tredparse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>genome plasticity</title>
-      <link>http://cgmonline.co/tags/genome-plasticity/</link>
-      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/genome-plasticity/</link>
+      <pubDate>Wed, 07 Mar 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/genome-plasticity/</guid>
+      <guid>https://cgmonline.co/tags/genome-plasticity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reverse genetics</title>
-      <link>http://cgmonline.co/tags/reverse-genetics/</link>
-      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/reverse-genetics/</link>
+      <pubDate>Wed, 07 Mar 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/reverse-genetics/</guid>
+      <guid>https://cgmonline.co/tags/reverse-genetics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cotton</title>
-      <link>http://cgmonline.co/tags/cotton/</link>
-      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/cotton/</link>
+      <pubDate>Wed, 21 Feb 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/cotton/</guid>
+      <guid>https://cgmonline.co/tags/cotton/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gene regulation</title>
-      <link>http://cgmonline.co/tags/gene-regulation/</link>
-      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/gene-regulation/</link>
+      <pubDate>Wed, 21 Feb 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/gene-regulation/</guid>
+      <guid>https://cgmonline.co/tags/gene-regulation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>disease resistance</title>
-      <link>http://cgmonline.co/tags/disease-resistance/</link>
-      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/disease-resistance/</link>
+      <pubDate>Wed, 07 Feb 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/disease-resistance/</guid>
+      <guid>https://cgmonline.co/tags/disease-resistance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gene mining</title>
-      <link>http://cgmonline.co/tags/gene-mining/</link>
-      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/gene-mining/</link>
+      <pubDate>Wed, 07 Feb 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/gene-mining/</guid>
+      <guid>https://cgmonline.co/tags/gene-mining/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Brassinosteroids</title>
-      <link>http://cgmonline.co/tags/brassinosteroids/</link>
-      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/brassinosteroids/</link>
+      <pubDate>Wed, 24 Jan 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/brassinosteroids/</guid>
+      <guid>https://cgmonline.co/tags/brassinosteroids/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inflorescence architecture</title>
-      <link>http://cgmonline.co/tags/inflorescence-architecture/</link>
-      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/inflorescence-architecture/</link>
+      <pubDate>Wed, 24 Jan 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/inflorescence-architecture/</guid>
+      <guid>https://cgmonline.co/tags/inflorescence-architecture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>setaria</title>
-      <link>http://cgmonline.co/tags/setaria/</link>
-      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/setaria/</link>
+      <pubDate>Wed, 24 Jan 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/setaria/</guid>
+      <guid>https://cgmonline.co/tags/setaria/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Setaria viridis</title>
-      <link>http://cgmonline.co/tags/setaria-viridis/</link>
-      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/setaria-viridis/</link>
+      <pubDate>Wed, 24 Jan 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/setaria-viridis/</guid>
+      <guid>https://cgmonline.co/tags/setaria-viridis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>grape</title>
-      <link>http://cgmonline.co/tags/grape/</link>
-      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/grape/</link>
+      <pubDate>Wed, 20 Dec 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/grape/</guid>
+      <guid>https://cgmonline.co/tags/grape/</guid>
       <description></description>
     </item>
     
     <item>
       <title>de-domestication</title>
-      <link>http://cgmonline.co/tags/de-domestication/</link>
-      <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/de-domestication/</link>
+      <pubDate>Wed, 22 Nov 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/de-domestication/</guid>
+      <guid>https://cgmonline.co/tags/de-domestication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>parallel evolution</title>
-      <link>http://cgmonline.co/tags/parallel-evolution/</link>
-      <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/parallel-evolution/</link>
+      <pubDate>Wed, 22 Nov 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/parallel-evolution/</guid>
+      <guid>https://cgmonline.co/tags/parallel-evolution/</guid>
       <description></description>
     </item>
     
     <item>
       <title>seed shattering</title>
-      <link>http://cgmonline.co/tags/seed-shattering/</link>
-      <pubDate>Wed, 22 Nov 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/seed-shattering/</link>
+      <pubDate>Wed, 22 Nov 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/seed-shattering/</guid>
+      <guid>https://cgmonline.co/tags/seed-shattering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>high performance computing</title>
-      <link>http://cgmonline.co/tags/high-performance-computing/</link>
-      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/high-performance-computing/</link>
+      <pubDate>Wed, 08 Nov 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/high-performance-computing/</guid>
+      <guid>https://cgmonline.co/tags/high-performance-computing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Science Grid</title>
-      <link>http://cgmonline.co/tags/open-science-grid/</link>
-      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/open-science-grid/</link>
+      <pubDate>Wed, 08 Nov 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/open-science-grid/</guid>
+      <guid>https://cgmonline.co/tags/open-science-grid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blog</title>
-      <link>http://cgmonline.co/tags/blog/</link>
-      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/blog/</link>
+      <pubDate>Wed, 11 Oct 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/blog/</guid>
+      <guid>https://cgmonline.co/tags/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>website</title>
-      <link>http://cgmonline.co/tags/website/</link>
-      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/website/</link>
+      <pubDate>Wed, 11 Oct 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/website/</guid>
+      <guid>https://cgmonline.co/tags/website/</guid>
       <description></description>
     </item>
     
     <item>
       <title>writing</title>
-      <link>http://cgmonline.co/tags/writing/</link>
-      <pubDate>Wed, 11 Oct 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/writing/</link>
+      <pubDate>Wed, 11 Oct 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/writing/</guid>
+      <guid>https://cgmonline.co/tags/writing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LTR</title>
-      <link>http://cgmonline.co/tags/ltr/</link>
-      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/ltr/</link>
+      <pubDate>Wed, 27 Sep 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/ltr/</guid>
+      <guid>https://cgmonline.co/tags/ltr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TE</title>
-      <link>http://cgmonline.co/tags/te/</link>
-      <pubDate>Wed, 27 Sep 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/te/</link>
+      <pubDate>Wed, 27 Sep 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/te/</guid>
+      <guid>https://cgmonline.co/tags/te/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bigdata</title>
-      <link>http://cgmonline.co/tags/bigdata/</link>
-      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/bigdata/</link>
+      <pubDate>Wed, 30 Aug 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/bigdata/</guid>
+      <guid>https://cgmonline.co/tags/bigdata/</guid>
       <description></description>
     </item>
     
     <item>
       <title>expression</title>
-      <link>http://cgmonline.co/tags/expression/</link>
-      <pubDate>Wed, 30 Aug 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/expression/</link>
+      <pubDate>Wed, 30 Aug 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/expression/</guid>
+      <guid>https://cgmonline.co/tags/expression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tomato</title>
-      <link>http://cgmonline.co/tags/tomato/</link>
-      <pubDate>Wed, 16 Aug 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/tomato/</link>
+      <pubDate>Wed, 16 Aug 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/tomato/</guid>
+      <guid>https://cgmonline.co/tags/tomato/</guid>
       <description></description>
     </item>
     
     <item>
       <title>k-mer</title>
-      <link>http://cgmonline.co/tags/k-mer/</link>
-      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/k-mer/</link>
+      <pubDate>Wed, 19 Jul 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/k-mer/</guid>
+      <guid>https://cgmonline.co/tags/k-mer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mapping</title>
-      <link>http://cgmonline.co/tags/mapping/</link>
-      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/mapping/</link>
+      <pubDate>Wed, 19 Jul 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/mapping/</guid>
+      <guid>https://cgmonline.co/tags/mapping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>repeats</title>
-      <link>http://cgmonline.co/tags/repeats/</link>
-      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/repeats/</link>
+      <pubDate>Wed, 19 Jul 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/repeats/</guid>
+      <guid>https://cgmonline.co/tags/repeats/</guid>
       <description></description>
     </item>
     
     <item>
       <title>laternative splicing</title>
-      <link>http://cgmonline.co/tags/laternative-splicing/</link>
-      <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/laternative-splicing/</link>
+      <pubDate>Wed, 05 Jul 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/laternative-splicing/</guid>
+      <guid>https://cgmonline.co/tags/laternative-splicing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plants</title>
-      <link>http://cgmonline.co/tags/plants/</link>
-      <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/plants/</link>
+      <pubDate>Wed, 05 Jul 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/plants/</guid>
+      <guid>https://cgmonline.co/tags/plants/</guid>
       <description></description>
     </item>
     
     <item>
       <title>paper</title>
-      <link>http://cgmonline.co/tags/paper/</link>
-      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/paper/</link>
+      <pubDate>Wed, 21 Jun 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/paper/</guid>
+      <guid>https://cgmonline.co/tags/paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>github</title>
-      <link>http://cgmonline.co/tags/github/</link>
-      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/github/</link>
+      <pubDate>Wed, 10 May 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/github/</guid>
+      <guid>https://cgmonline.co/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rapa</title>
-      <link>http://cgmonline.co/tags/rapa/</link>
-      <pubDate>Wed, 26 Apr 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/rapa/</link>
+      <pubDate>Wed, 26 Apr 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/rapa/</guid>
+      <guid>https://cgmonline.co/tags/rapa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>biology</title>
-      <link>http://cgmonline.co/tags/biology/</link>
-      <pubDate>Wed, 29 Mar 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/biology/</link>
+      <pubDate>Wed, 29 Mar 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/biology/</guid>
+      <guid>https://cgmonline.co/tags/biology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GS</title>
-      <link>http://cgmonline.co/tags/gs/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/tags/gs/</link>
+      <pubDate>Wed, 01 Mar 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/tags/gs/</guid>
+      <guid>https://cgmonline.co/tags/gs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drought response</title>
+      <link>https://cgmonline.co/tags/drought-response/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/drought-response/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gene expression</title>
+      <link>https://cgmonline.co/tags/gene-expression/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/gene-expression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regulatory variants</title>
+      <link>https://cgmonline.co/tags/regulatory-variants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/regulatory-variants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stress tolerance</title>
+      <link>https://cgmonline.co/tags/stress-tolerance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/stress-tolerance/</guid>
       <description></description>
     </item>
     

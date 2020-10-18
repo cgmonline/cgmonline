@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2017-07-19 on 华人基因组学在线沙龙</title>
+    <link>https://cgmonline.co/archive/2017-07-19/</link>
+    <description>Recent content in 2017-07-19 on 华人基因组学在线沙龙</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 19 Jul 2017 20:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cgmonline.co/archive/2017-07-19/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CGM 第10期：Unbiased k-mer Analysis for Comparative Genomics</title>
+      <link>https://cgmonline.co/2017/07/cgm-%E7%AC%AC10%E6%9C%9Funbiased-k-mer-analysis-for-comparative-genomics/</link>
+      <pubDate>Wed, 19 Jul 2017 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/2017/07/cgm-%E7%AC%AC10%E6%9C%9Funbiased-k-mer-analysis-for-comparative-genomics/</guid>
+      <description>时间：2017年7月19号（星期三），美西时间（Pacific Time）6:00 PM 地点：Youtube live stream 主讲人：Sanzhen Liu (刘三震)</description>
+    </item>
+    
+  </channel>
+</rss>

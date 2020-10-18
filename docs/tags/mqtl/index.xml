@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mQTL on 华人基因组学在线沙龙</title>
-    <link>http://cgmonline.co/tags/mqtl/</link>
+    <link>https://cgmonline.co/tags/mqtl/</link>
     <description>Recent content in mQTL on 华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 20 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2019 20:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://cgmonline.co/tags/mqtl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cgmonline.co/tags/mqtl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CGM 第73期：整合多组学数据解析人类复杂性状和疾病的遗传机制</title>
-      <link>http://cgmonline.co/2019/11/cgm-%E7%AC%AC73%E6%9C%9F%E6%95%B4%E5%90%88%E5%A4%9A%E7%BB%84%E5%AD%A6%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90%E4%BA%BA%E7%B1%BB%E5%A4%8D%E6%9D%82%E6%80%A7%E7%8A%B6%E5%92%8C%E7%96%BE%E7%97%85%E7%9A%84%E9%81%97%E4%BC%A0%E6%9C%BA%E5%88%B6/</link>
-      <pubDate>Wed, 20 Nov 2019 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/2019/11/cgm-%E7%AC%AC73%E6%9C%9F%E6%95%B4%E5%90%88%E5%A4%9A%E7%BB%84%E5%AD%A6%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90%E4%BA%BA%E7%B1%BB%E5%A4%8D%E6%9D%82%E6%80%A7%E7%8A%B6%E5%92%8C%E7%96%BE%E7%97%85%E7%9A%84%E9%81%97%E4%BC%A0%E6%9C%BA%E5%88%B6/</link>
+      <pubDate>Wed, 20 Nov 2019 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2019/11/cgm-%E7%AC%AC73%E6%9C%9F%E6%95%B4%E5%90%88%E5%A4%9A%E7%BB%84%E5%AD%A6%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90%E4%BA%BA%E7%B1%BB%E5%A4%8D%E6%9D%82%E6%80%A7%E7%8A%B6%E5%92%8C%E7%96%BE%E7%97%85%E7%9A%84%E9%81%97%E4%BC%A0%E6%9C%BA%E5%88%B6/</guid>
+      <guid>https://cgmonline.co/2019/11/cgm-%E7%AC%AC73%E6%9C%9F%E6%95%B4%E5%90%88%E5%A4%9A%E7%BB%84%E5%AD%A6%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90%E4%BA%BA%E7%B1%BB%E5%A4%8D%E6%9D%82%E6%80%A7%E7%8A%B6%E5%92%8C%E7%96%BE%E7%97%85%E7%9A%84%E9%81%97%E4%BC%A0%E6%9C%BA%E5%88%B6/</guid>
       <description>题目：整合多组学数据解析人类复杂性状和疾病的遗传机制 时间：2019 年 11 月 20 号（星期三），北京时间 9:00 PM 地点：全时云和bilibili直播，会议</description>
     </item>
     

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2019-05 on 华人基因组学在线沙龙</title>
+    <link>https://cgmonline.co/archive/2019-05/</link>
+    <description>Recent content in 2019-05 on 华人基因组学在线沙龙</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 29 May 2019 20:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cgmonline.co/archive/2019-05/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CGM 第54期：酵母菌进化模式</title>
+      <link>https://cgmonline.co/2019/05/cgm-%E7%AC%AC54%E6%9C%9F%E9%85%B5%E6%AF%8D%E8%8F%8C%E8%BF%9B%E5%8C%96%E6%A8%A1%E5%BC%8F/</link>
+      <pubDate>Wed, 29 May 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/2019/05/cgm-%E7%AC%AC54%E6%9C%9F%E9%85%B5%E6%AF%8D%E8%8F%8C%E8%BF%9B%E5%8C%96%E6%A8%A1%E5%BC%8F/</guid>
+      <description>题目：酵母菌进化模式: “loss is more” 时间：2019 年 05 月 29 号（星期三），美西时间（Pacific Time）6:00 PM 地点：YouTu</description>
+    </item>
+    
+    <item>
+      <title>CGM 第53期：人工智能在抗体中的应用</title>
+      <link>https://cgmonline.co/2019/05/cgm-%E7%AC%AC53%E6%9C%9F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9C%A8%E6%8A%97%E4%BD%93%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/</link>
+      <pubDate>Wed, 15 May 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/2019/05/cgm-%E7%AC%AC53%E6%9C%9F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%9C%A8%E6%8A%97%E4%BD%93%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/</guid>
+      <description>题目：The quest for the ideal antibody, AI driven product knowledge extraction from scientific publications （人工智能在抗体中的应用） 时间：2019 年 05 月 15 号（星期三），美西时间（Pacific Time）6:0</description>
+    </item>
+    
+    <item>
+      <title>CGM 第52期：Genome-resolved metagenomics 解码宏基因组</title>
+      <link>https://cgmonline.co/2019/05/cgm-%E7%AC%AC52%E6%9C%9Fgenome-resolved-metagenomics-%E8%A7%A3%E7%A0%81%E5%AE%8F%E5%9F%BA%E5%9B%A0%E7%BB%84/</link>
+      <pubDate>Wed, 01 May 2019 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/2019/05/cgm-%E7%AC%AC52%E6%9C%9Fgenome-resolved-metagenomics-%E8%A7%A3%E7%A0%81%E5%AE%8F%E5%9F%BA%E5%9B%A0%E7%BB%84/</guid>
+      <description>题目：Genome-resolved metagenomics （解码宏基因组） 时间：2019 年 05 月 01 号（星期三），美西时间（Pacific Time）6:00 PM 地点：</description>
+    </item>
+    
+  </channel>
+</rss>

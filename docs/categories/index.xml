@@ -2,57 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 华人基因组学在线沙龙</title>
-    <link>http://cgmonline.co/categories/</link>
+    <link>https://cgmonline.co/categories/</link>
     <description>Recent content in Categories on 华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 18 Jun 2020 19:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2020 20:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://cgmonline.co/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cgmonline.co/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>企业沙龙</title>
-      <link>http://cgmonline.co/categories/%E4%BC%81%E4%B8%9A%E6%B2%99%E9%BE%99/</link>
-      <pubDate>Thu, 18 Jun 2020 19:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/categories/%E4%BC%81%E4%B8%9A%E6%B2%99%E9%BE%99/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>学术报告</title>
-      <link>http://cgmonline.co/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</link>
-      <pubDate>Wed, 20 May 2020 17:15:22 +0000</pubDate>
+      <link>https://cgmonline.co/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</link>
+      <pubDate>Wed, 30 Sep 2020 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>会议</title>
-      <link>http://cgmonline.co/categories/%E4%BC%9A%E8%AE%AE/</link>
-      <pubDate>Wed, 06 May 2020 21:00:00 +0000</pubDate>
-      
-      <guid>http://cgmonline.co/categories/%E4%BC%9A%E8%AE%AE/</guid>
+      <guid>https://cgmonline.co/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</guid>
       <description></description>
     </item>
     
     <item>
       <title>专题讨论</title>
-      <link>http://cgmonline.co/categories/%E4%B8%93%E9%A2%98%E8%AE%A8%E8%AE%BA/</link>
-      <pubDate>Wed, 15 Apr 2020 17:15:22 +0000</pubDate>
+      <link>https://cgmonline.co/categories/%E4%B8%93%E9%A2%98%E8%AE%A8%E8%AE%BA/</link>
+      <pubDate>Wed, 05 Aug 2020 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/categories/%E4%B8%93%E9%A2%98%E8%AE%A8%E8%AE%BA/</guid>
+      <guid>https://cgmonline.co/categories/%E4%B8%93%E9%A2%98%E8%AE%A8%E8%AE%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>企业沙龙</title>
+      <link>https://cgmonline.co/categories/%E4%BC%81%E4%B8%9A%E6%B2%99%E9%BE%99/</link>
+      <pubDate>Thu, 18 Jun 2020 19:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/categories/%E4%BC%81%E4%B8%9A%E6%B2%99%E9%BE%99/</guid>
       <description></description>
     </item>
     
     <item>
       <title>人物专访</title>
-      <link>http://cgmonline.co/categories/%E4%BA%BA%E7%89%A9%E4%B8%93%E8%AE%BF/</link>
-      <pubDate>Wed, 05 Feb 2020 17:15:22 +0000</pubDate>
+      <link>https://cgmonline.co/categories/%E4%BA%BA%E7%89%A9%E4%B8%93%E8%AE%BF/</link>
+      <pubDate>Wed, 27 May 2020 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/categories/%E4%BA%BA%E7%89%A9%E4%B8%93%E8%AE%BF/</guid>
+      <guid>https://cgmonline.co/categories/%E4%BA%BA%E7%89%A9%E4%B8%93%E8%AE%BF/</guid>
       <description></description>
     </item>
     

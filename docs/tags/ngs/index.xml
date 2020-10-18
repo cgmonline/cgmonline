@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NGS on 华人基因组学在线沙龙</title>
-    <link>http://cgmonline.co/tags/ngs/</link>
+    <link>https://cgmonline.co/tags/ngs/</link>
     <description>Recent content in NGS on 华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 13 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Jun 2018 20:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://cgmonline.co/tags/ngs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cgmonline.co/tags/ngs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CGM 第31期：Phylogenetic identification of endosymbionts and microbiome</title>
-      <link>http://cgmonline.co/2018/06/cgm-%E7%AC%AC31%E6%9C%9Fphylogenetic-identification-of-endosymbionts-and-microbiome/</link>
-      <pubDate>Wed, 13 Jun 2018 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/2018/06/cgm-%E7%AC%AC31%E6%9C%9Fphylogenetic-identification-of-endosymbionts-and-microbiome/</link>
+      <pubDate>Wed, 13 Jun 2018 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2018/06/cgm-%E7%AC%AC31%E6%9C%9Fphylogenetic-identification-of-endosymbionts-and-microbiome/</guid>
+      <guid>https://cgmonline.co/2018/06/cgm-%E7%AC%AC31%E6%9C%9Fphylogenetic-identification-of-endosymbionts-and-microbiome/</guid>
       <description>题目：Phylogenetic identification of endosymbionts and microbiome 用系统发育学办法鉴定共生菌和微生物组 时间：2018 年 06 月 13 号（星期三），美西时间（Pacific Ti</description>
     </item>
     
     <item>
       <title>CGM 第6期：基于版本控制的数据分析及流程管理</title>
-      <link>http://cgmonline.co/2017/05/cgm-%E7%AC%AC6%E6%9C%9F%E5%9F%BA%E4%BA%8E%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%8F%8A%E6%B5%81%E7%A8%8B%E7%AE%A1%E7%90%86/</link>
-      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      <link>https://cgmonline.co/2017/05/cgm-%E7%AC%AC6%E6%9C%9F%E5%9F%BA%E4%BA%8E%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%8F%8A%E6%B5%81%E7%A8%8B%E7%AE%A1%E7%90%86/</link>
+      <pubDate>Wed, 10 May 2017 20:00:00 +0000</pubDate>
       
-      <guid>http://cgmonline.co/2017/05/cgm-%E7%AC%AC6%E6%9C%9F%E5%9F%BA%E4%BA%8E%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%8F%8A%E6%B5%81%E7%A8%8B%E7%AE%A1%E7%90%86/</guid>
+      <guid>https://cgmonline.co/2017/05/cgm-%E7%AC%AC6%E6%9C%9F%E5%9F%BA%E4%BA%8E%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%8F%8A%E6%B5%81%E7%A8%8B%E7%AE%A1%E7%90%86/</guid>
       <description>时间：2017年05月10 号（星期三），美西时间（Pacific Time）6:00 PM 地点：Youtube live stream 主讲人：杨金良 摘要： 子曰：“By</description>
     </item>
     
