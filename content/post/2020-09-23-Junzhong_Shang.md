@@ -4,7 +4,7 @@ date: "2020-09-23T20:00:00.000Z"
 archive: ["2020","2020-09","2020-09-23"]
 categories:
   - 学术报告
-tags: [wintersweet， floral scent biosynthesis， flowering]
+tags: [talks, wintersweet， floral scent biosynthesis， flowering]
 show_comments: true
 thumbnail: ""
 ---
