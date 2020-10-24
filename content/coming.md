@@ -5,7 +5,7 @@ menu: [top]
 weight: 2
 ---
 
-- 题目：CGM 第120期：玉米DNA甲基化的驯化及其对功能基因组的影响
+- 题目：CGM 第119期：玉米DNA甲基化的驯化及其对功能基因组的影响
 - 时间：美国中部时间 2020年10月28日（星期三）8PM（北京时间10月29日 9AM）
 - 地点：Zoom and YouTube live stream
 - 主讲人：徐根，2011年在扬州大学获得农学学士学位；2018年在中国农业大学作物遗传育种专业毕业，获农学博士学位，博士期间主要从事高油玉米人工选择响应的研究；2018年至今在University of Nebraska-Lincoln Dr. Jinliang Yang实验室进行博士后研究，主要从事玉米群体基因组和表观基因组学的研究。
@@ -25,7 +25,7 @@ DNA甲基化作为一种重要的表观修饰，影响DNA的染色质状态以�
 G. Xu, J. Lyu, Q. Li, H. Liu, D. Wang, M. Zhang, N. M. Springer, J. Ross-Ibarra, J. Yang, Evolutionary and functional genomics of DNA methylation in maize domestication and improvement, Nature Communications (in press), 2020.
 
 
-主题：CGM 第120期：玉米DNA甲基化的驯化及其对功能基因组的影响
+主题：CGM 第119期：玉米DNA甲基化的驯化及其对功能基因组的影响
 
 时间：美国中部时间 2020年10月28日（星期三）8PM（北京时间10月29日 9AM）
 
