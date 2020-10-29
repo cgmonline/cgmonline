@@ -34,9 +34,9 @@ optical mapping, *Frontiers in Plant Science*, 9, 971, doi: 10.3389/fpls.2018.00
 
 # YouTube
 
-{{< youtube id="" autoplay="false" >}}
+{{< youtube id="ul2hOTcZ2U8" autoplay="false" >}}
 
 # Bilibili
 
-{{< bilibili id="" autoplay="false" >}}
+{{< bilibili id="371129106" autoplay="false" >}}
 

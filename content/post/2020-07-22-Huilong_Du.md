@@ -31,9 +31,9 @@ thumbnail: ""
 
 # YouTube
 
-{{< youtube id="" autoplay="false" >}}
+{{< youtube id="pwagwIVW8KM" autoplay="false" >}}
 
 # Bilibili
 
-{{< bilibili id="" autoplay="false" >}}
+{{< bilibili id="498969655" autoplay="false" >}}
 

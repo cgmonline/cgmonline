@@ -33,5 +33,5 @@ thumbnail: ""
 
 # Bilibili
 
-{{< bilibili id="" autoplay="false" >}}
+{{< bilibili id="329518471" autoplay="false" >}}
 
