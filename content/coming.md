@@ -22,10 +22,10 @@ weight: 2
 
 # 参考文献
 
-**G Yu**. Using ggtree to visualize data on tree-like structures. **Current Protocols in Bioinformatics**, 2020, 69:e96. 
-LG Wang, TTY Lam, S Xu, Z Dai, L Zhou, T Feng, P Guo, CW Dunn, BR Jones, T Bradley, H Zhu, Y Guan, Y Jiang, G Yu\*. treeio: an R package for phylogenetic tree input and output with richly annotated and associated data. **Molecular Biology and Evolution**. 2020, 37(2):599-603. 
-**G Yu\***, TTY Lam, H Zhu, Y Guan\*. Two methods for mapping and visualizing associated data on phylogeny using ggtree. **Molecular Biology and Evolution**. 2018, 35(2):3041-3043. 
-**G Yu**, DK Smith, H Zhu, Y Guan, TTY Lam\*. ggtree: an R package for visualization and annotation of phylogenetic trees with their covariates and other associated data. **Methods in Ecology and Evolution**. 2017, 8(1):28-36. 
+- **G Yu**. Using ggtree to visualize data on tree-like structures. **Current Protocols in Bioinformatics**, 2020, 69:e96.   
+- LG Wang, TTY Lam, S Xu, Z Dai, L Zhou, T Feng, P Guo, CW Dunn, BR Jones, T Bradley, H Zhu, Y Guan, Y Jiang, G Yu\*. treeio: an R package for phylogenetic tree input and output with richly annotated and associated data. **Molecular Biology and Evolution**. 2020, 37(2):599-603.   
+- **G Yu\***, TTY Lam, H Zhu, Y Guan\*. Two methods for mapping and visualizing associated data on phylogeny using ggtree. **Molecular Biology and Evolution**. 2018, 35(2):3041-3043.   
+- **G Yu**, DK Smith, H Zhu, Y Guan, TTY Lam\*. ggtree: an R package for visualization and annotation of phylogenetic trees with their covariates and other associated data. **Methods in Ecology and Evolution**. 2017, 8(1):28-36.   
 
 
 
