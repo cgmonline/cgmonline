@@ -30,7 +30,9 @@ Alonge, M.*, Wang, X.*, Benoit, M., Soyk, S., Pereira, L., Zhang, L., Suresh, H.
 
 时间：美国中部时间 2020 年 11 月 11 日（星期三）8AM（北京时间11月12日 10PM）
 
-https://
+https://zoom.us/j/98112844493?pwd=ZDRJeEplUUpMYzl5RUJETFlnbW42dz09
 
-会议 ID：90
+
+会议 ID：981 1284 4493
+密码：358204
 
