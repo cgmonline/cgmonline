@@ -22,9 +22,9 @@ weight: 2
 
 # 参考文献
 
-**W. Pan**, T. Jiang, S. Lonardi. “OMGS: Optical Map-based Genome Scaffolding.” Proceedings of Conference on Research in Computational Molecular Biology (RECOMB), pp. 190-207, Washington, DC, 2019. 
-**W. Pan**, S. Lonardi. “Accurate detection of chimeric contigs via Bionano optical maps.” Bioinformatics, vol. 35, no. 10, pp. 1760-1762, 2018. 
-**W. Pan**, S. Wanamaker, A. Ah-Fong, H. Judelson, S. Lonardi. “Novo&Stitch: Accurate Reconciliation of Genome Assemblies via Optical Maps.” Proceedings of Conference on Intelligent Systems for Molecular Biology (ISMB), Chicago, IL, 2018. Bioinformatics, vol. 34, no. 13, pp. i43-i51.
+- **W. Pan**, T. Jiang, S. Lonardi. “OMGS: Optical Map-based Genome Scaffolding.” Proceedings of Conference on Research in Computational Molecular Biology (RECOMB), pp. 190-207, Washington, DC, 2019. 
+- **W. Pan**, S. Lonardi. “Accurate detection of chimeric contigs via Bionano optical maps.” Bioinformatics, vol. 35, no. 10, pp. 1760-1762, 2018. 
+- **W. Pan**, S. Wanamaker, A. Ah-Fong, H. Judelson, S. Lonardi. “Novo&Stitch: Accurate Reconciliation of Genome Assemblies via Optical Maps.” Proceedings of Conference on Intelligent Systems for Molecular Biology (ISMB), Chicago, IL, 2018. Bioinformatics, vol. 34, no. 13, pp. i43-i51.
 
 
 
