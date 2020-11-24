@@ -12,7 +12,7 @@ weight: 2
 
 
 <div align="center">
-<img src="https://ibb.co/rFWbKFK" height=250>
+<img src="https://i.ibb.co/q7Z0L7L/1.png" height=250>
 </div>
 
 # 内容简介
