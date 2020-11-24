@@ -1,39 +1,42 @@
 ---
 title: "下期预告"
-date: "2020-11-19"
+date: "2020-11-25"
 menu: [top]
 weight: 2
 ---
 
-- 题目：CGM 第124期: GWAS summary statistics: a powerful resource for biomedical research
-- 时间：美国中部时间 2020年11月19日（星期四）8AM（北京时间11月19日 9PM）
-- 地点：Tecent and Bilibili live stream
-- 主讲人：沈侠教授2007年本科毕业于中国人民大学统计学院，2012年于瑞典乌普萨拉大学获得生物信息学博士学位。曾任英国爱丁堡大学医学院和瑞典卡罗琳斯卡医学院两所世界知名院校助理教授兼博士生导师，现就任于中山大学生命科学学院。研究成果发表于 Nature Genetics、Nature Communications、American Journal of Human Genetics、PLOS Genetics等国际知名期刊，受到生物统计与统计遗传学领域的高度认可，曾在海外主持多项有国际竞争力的科研项目。沈教授团队开展广泛的国内外交叉学科合作，致力于从多种生物组学大数据分析中挖掘出新颖且具有高影响力的研究成果。
+- 题目：CGM 第125期: 重建动物和真菌的生命树
+- 时间：美国中部时间 2020年11月25日（星期三）8PM（北京时间11月26日 10AM）
+- 地点：YouTube and Zoom live stream
+- 主讲人：李远宁，美国范德堡大学生物系Antonis Rokas实验室博士后。2017年在Ken Halanych教授指导下获得美国奥本大学博士学位。2018年至2019年在美国耶鲁大学Casey Dunn教授实验室进行博士后研究。通过结合计算生物学和动物和真菌的大规模数据，开展大尺度系统发育，比较基因组和生物信息学研究。
 
 
 <div align="center">
-<img src="https://i.loli.net/2020/11/18/hUfy2QN1z9XTOcV.jpg" height=250>
+<img src="https://ibb.co/rFWbKFK" height=250>
 </div>
 
 # 内容简介
 
-全基因组关联研究（GWAS）已经成功地发现了许多与复杂性状和疾病相关的遗传变异，提供了十分丰富的关联统计资源。 本次介绍利用关联数据的统计方法的发展，包括我们最近用于遗传性和遗传相关性估计的全新方法 ---"HDL"。
+重建早期动物的系统进化关系是进化生物学研究的热点和难点问题之一。这一难题对我们理解动物进化的早期事件（包括神经系统的起源）具有重要意义。一些研究支持海绵动物，另一些研究支持栉水母动物为最早的动物进化分支。这些分析在很多方面都有所不同，包括所基因和物种的选择，分子进化模型和软件的不同。在这里，我们通过综合15项以前的研究的数据和结果，并进行一套全面的新的标准化分析，系统地探索了动物生命树的最早进化分支。
+另一方面我们通过分析1644个真菌基因组，重建了基于基因组水平的真菌生命树，并揭示了系统发育与现阶段真菌分类学之间的关系以及差异性。
+
 
 # 参考文献
 
-Ning Z, Pawitan Y, Shen X (2020). High-definition likelihood inference of genetic correlations across human complex traits. Nature Genetics, 52: 859–864.
-Luo R, Zheng C, Yang H, Chen X, Jiang P, Wu X, Yang Z, Shen X, Li X (2020). Identification of potential candidate genes and pathways in atrioventricular nodal reentry tachycardia by whole-exome Sequencing. Clinical and Translational Medicine, 10: 238-257.
-Wu D, Yan J, Shen X, Sun Y, Thulin M, Cai Y, Wik L, Shen Q, Oelrich J, Qian X, Dubois KL, Ronquist KG, Nilsson M, Landegren U, Kamali-Moghaddam M (2019). Profiling surface proteins on individual exosomes using a proximity barcoding assay. Nature Communications, 10, 3854.
+Li, Y., Shen, X. X., Evans, B., Dunn, C. W., & Rokas, A. (2020). Rooting the animal tree of life. bioRxiv.
+Li, Y., Steenwyk, J. L., Chang, Y., Wang, Y., James, T. Y., Stajich, J. E., ... & Shen, X. X. (2020). A genome-scale phylogeny of Fungi; insights into early evolution, radiations, and the relationship between taxonomy and phylogeny. bioRxiv.
 
 
 
 
 
-主题：CGM 第124期: GWAS summary statistics: a powerful resource for biomedical research
+主题：CGM 第125期: 重建动物和真菌的生命树
 
-时间：美国中部时间 2020 年 11 月 19 日（星期四）8AM（北京时间11月19日 9PM）
+时间：美国中部时间 2020 年 11 月 25 日（星期三）8PM（北京时间11月26日 10AM）
 
-https://meeting.tencent.com/s/SMOUFOr9xIEM
+https://zoom.us/j/95412742156?pwd=cmFCRXNmelBTODlLdnpFVHh3Wk1GZz09
 
-会议 ID：776 538 476
+
+会议 ID：954 1274 2156
+密码：123456
 
