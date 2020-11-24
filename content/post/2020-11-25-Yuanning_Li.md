@@ -31,9 +31,9 @@ Li, Y., Steenwyk, J. L., Chang, Y., Wang, Y., James, T. Y., Stajich, J. E., ... 
 
 # YouTube
 
-{{< youtube id="HQJl5dDxAkQ" autoplay="false" >}}
+{{< youtube id="" autoplay="false" >}}
 
 # Bilibili
 
-{{< bilibili id="542793364" autoplay="false" >}}
+{{< bilibili id="" autoplay="false" >}}
 
