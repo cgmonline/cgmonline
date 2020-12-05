@@ -22,9 +22,13 @@ weight: 2
 # 参考文献
 
 Sun Y.*, Bossdorf O., Diaz Grados R., Liao Z.Y. and Müller-Schärer H. 2020. Rapid genomic and phenotypic change in response to climate warming in a widespread plant invader. Global Change Biology, 26,6511-6522.
+
 Sun Y.* and Roderick R.K. 2019. Rapid evolution of invasive traits facilitates the invasion of common ragweed, Ambrosia artemisiifolia. Journal of Ecology, 107: 2673-2687.
+
 Augustinus B.#, Sun Y.*#, Beuchat C., Schaffner U. and Müller-Schärer H. 2020. Predicting impact of a biocontrol agent: integrating distribution modelling with climate-dependent vital rates. Ecological Applications: e02003.
+
 Schaffner U., Steinbach S., Sun Y., Skjøth C., de Weger L.A., Lommen S.T., Augustinus B.A., Bonini M., Karrer G., Šikoparija B., Thibaudon M. and Müller-Schärer H. 2020. Biological control to relieve millions from Ambrosia allergies in Europe. Nature Communications, 11, 1745.
+
 Sun Y.*, Ding J.Q., Siemann E. and Keller S.R. 2020. Biological control of invasive weeds under climate change: progress, challenges and management implications. Current Opinion in Insect Science, 38: 72-78. 
 
 
