@@ -34,9 +34,11 @@ Sun Y.*, Ding J.Q., Siemann E. and Keller S.R. 2020. Biological control of invas
 
 主题：CGM 第127期: Species interactions alter ecological and evolutionary responses to novel environments
 
-时间：美国中部时间 2020 年 12 月 12 日（星期六）2PM（北京时间12月13日 4AM）
+时间：美国中部时间 2020 年 12 月 12 日（星期六）2PM（北京时间12月13日 星期日 4AM）
 
-https://
+https://zoom.us/j/99656544360?pwd=K2dhTUg4c0d3L0dSQkQyNjh3UlJNQT09
 
-会议 ID：
+
+会议 ID：996 5654 4360
+密码：123456
 
