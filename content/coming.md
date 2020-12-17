@@ -30,5 +30,8 @@ Gao L, Koo D-H, Juliana P, et al (2020) The Aegilops ventricosa 2NvS segment in 
 
 时间：美国中部时间 2020年12月23日（星期三）8PM（北京时间12月24日 星期四 10AM）
 
-Zoom会议 ID：8
-会议链接：htt
+Zoom会议 ID：930 0982 9500
+
+密码：123456
+
+会议链接：https://zoom.us/j/93009829500?pwd=LyttK29YTVFyQ1p5WDFFbFVpY3hQUT09
