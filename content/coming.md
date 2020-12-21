@@ -5,7 +5,7 @@ menu: [top]
 weight: 2
 ---
 
-- 题目：CGM 第129期: 揭示全球小麦当代育种材料丰富的变异
+- 题目：CGM 第129期: 揭示全球小麦当代育种材料的变异多样性
 - 时间：美国中部时间 2020年12月23日（星期三）8PM（北京时间12月24日 星期四 10AM）
 - 地点：Zoom and YouTube live stream
 - 主讲人：高亮亮，于国内读了本科（2004，生物科学）和硕士（2007，小麦遗传）后赴美国明尼苏达大学读了博士（2013，马铃薯病理和基因组）。高博士长期从事小麦，大麦，中间小麦草(IWG)，马铃薯等作物的遗传，病理，育种及基因组学研究。现就职（博后）于堪萨斯州立大学Jesse Poland组，研究方向为小麦和野生小麦的基因组学及生物信息学。
@@ -26,7 +26,7 @@ Walkowiak S*, Gao L* (共同第一作者), Monat C*, et al (2020) Multiple Wheat
 Gao L, Koo D-H, Juliana P, et al (2020) The Aegilops ventricosa 2NvS segment in bread wheat: cytology, genomics and breeding. Theoretical and Applied Genetics https://doi.org/10.1007/s00122-020-03712-y 
 
 
-主题：CGM 第129期: 揭示全球小麦当代育种材料丰富的变异
+主题：CGM 第129期: 揭示全球小麦当代育种材料的变异多样性
 
 时间：美国中部时间 2020年12月23日（星期三）8PM（北京时间12月24日 星期四 10AM）
 
