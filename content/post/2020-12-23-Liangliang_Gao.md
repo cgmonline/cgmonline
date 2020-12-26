@@ -30,9 +30,9 @@ Gao L, Koo D-H, Juliana P, et al (2020) The Aegilops ventricosa 2NvS segment in 
 
 # YouTube
 
-{{< youtube id="" autoplay="false" >}}
+{{< youtube id="TjostvBqp9w" autoplay="false" >}}
 
 # Bilibili
 
-{{< bilibili id="" autoplay="false" >}}
+{{< bilibili id="458262263" autoplay="false" >}}
 
