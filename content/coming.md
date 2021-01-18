@@ -5,6 +5,37 @@ menu: [top]
 weight: 2
 ---
 
+
+- 题目：CGM 第133期: 农业呼唤新的绿色革命
+- 时间：美国中部时间 2021年1月20日（星期三）6AM（北京时间1月20日 8PM）
+- 地点：Tecent and Bilibili live stream
+- 主讲人：储成才，1966年生，安徽岳西人，中科院遗传发育所研究员，博士生导师。
+
+1986年7月获安徽师范大学学士学位。1989年7月获中国科学院植物研究所硕士学位。1996年12月获德国马丁.路德大学(Martin-Luther University)博士学位，1997年进入德国 Institute of Plant Genetics and Crop Plant Research (IPK) 进行博士后研究。1999年入选中国科学院“百人计划”，引进国外杰出人才；2004年入选首批新世纪百千万人才工程国家级人选；2006年经国务院批准享受政府特殊津贴专家；2008年国家杰出青年基金获得者。
+
+储老师实验室长期致力于水稻营养高效吸收利用的分子基础解析及作物的分子设计育种研究。实验室以通讯/共同通讯在包括Nature, Nature Genetics (2), Nature Biotechnology, Nature Plants (6), Nature Communications (2), Genome Research, PNAS (4), Plant Cell (6), Molecular Plant (7) 等刊物发表论文90多篇。发表论文中8篇入选杂志封面文章，3篇入选ESI热点论文，17篇入选高被引论文，总引用12600多次(Google Scholar 数据)，连续入选2019、2020年度 Clarivate Analytics（科睿唯安）“高被引科学家”。
+
+多次应邀在Nat Plants, Trends Plant Sci, Curr Opin Plant Biol, Mol Plant, New Phytol, J Exp Bot, Theor Appl Genet, Plant Cell Physiol, Crop J.等杂志撰写综述、趋势和评论；申请专利40多项，其中国际专利8项，与育种单位合作培育水稻新品种5个，其中秀水134累积推广面积1200多万亩。实验室"本土培养(无出国研究经历)" 2 位同学入选国家基金委优秀青年。
+
+
+<div align="center">
+<img src="https://i.loli.net/2021/01/18/cA7UWwfJ9yYqOGL.jpg" height=250>
+</div>
+
+全球粮食产量自上世纪60年代初起持续增加，据联合国粮农组织统计，截至2018年末，以小麦、水稻、玉米计的全球粮食年总产量达26.6亿吨，是1961年的3.6倍，为全球范围粮食安全提供了基本保障。
+在全球耕地面积仅增加15.5%的条件下，粮食不断增产的主要推动力是化肥的大量施用，其中绝大部分是氮肥。化肥在大幅度提升农作物产量的同时，增加了人们对它的依赖性，甚至过度重视。
+2018年，全球化肥用量达2亿吨，而我国年化肥用量超过全世界化肥总消耗量的33%，氮肥利用效率只有30%左右，不到西方发达国家的一半。
+化肥的过量施用，不仅对空气、土壤和水体造成污染，也给农业可持续发展带来了巨大的环境压力。
+面对人口的爆炸式增长，长期以来育种的首要目标是高产，推动水稻第一次绿色革命的矮秆育种，使之能在大量施用化肥情况下，植株不会过高而造成倒伏，从而在高肥下获得较高产量。
+然而，长期高肥下的育种导致一些重要基因资源的丢失，以致主栽水稻品种肥料利用效率普遍较低。
+
+为解决这一问题，中国科学院遗传与发育生物学研究所储成才研究组对过去100年间收集于全球不同地理区域52个国家（地区）的110份早期水稻农家种进行了全面的农艺性状鉴定，
+发现不同氮肥条件下，在众多农艺性状中，水稻分蘖（分枝）氮响应能力与氮肥利用效率变异间存在高度关联。
+研究组利用全基因组关联分析技术鉴定到一个水稻氮高效基因OsTCP19，其作为转录因子调控水稻分蘖。
+
+
+----------------------
+
 - 题目：CGM 第134期: RAF-SnRK2激酶级联途径介导的渗透胁迫和脱落酸信号途径
 - 时间：美国中部时间 2021年1月20日（星期三）8PM（北京时间1月21日 10AM）
 - 地点：Zoom and Youtube live stream
@@ -15,21 +46,12 @@ weight: 2
 <img src="https://i.loli.net/2021/01/18/yFNGE9eIU5fTcQS.jpg" height=350>
 </div>
 
+
 # 内容简介
+干旱、冷和盐会导致渗透胁迫，抑制植物的生长并严重影响农业生产。目前对于植物如何感受和响应渗透胁迫的分子机制了解较少。
+已知SnRK2蛋白激酶迅速被渗透胁迫所激活。我们通过磷酸化蛋白组学和遗传学方法发现RAF蛋白激酶能磷酸化并激活SnRK2蛋白激酶。
+raf多突变体对于渗透胁迫敏感。同时我们还发现RAF-SnRK2激酶途径参与了植物激素脱落酸（Abscisic Acid）的信号途径，对于ABA激活的SnRK2也是必需的。
+我们和其它实验室的研究工作揭示了RAF-SnRK2级联途径在渗透胁迫和ABA信号转导过程的关键作用。
 
-干旱、冷和盐会导致渗透胁迫，抑制植物的生长并严重影响农业生产。目前对于植物如何感受和响应渗透胁迫的分子机制了解较少。已知SnRK2蛋白激酶迅速被渗透胁迫所激活。我们通过磷酸化蛋白组学和遗传学方法发现RAF蛋白激酶能磷酸化并激活SnRK2蛋白激酶。raf多突变体对于渗透胁迫敏感。同时我们还发现RAF-SnRK2激酶途径参与了植物激素脱落酸（Abscisic Acid）的信号途径，对于ABA激活的SnRK2也是必需的。我们和其它实验室的研究工作揭示了RAF-SnRK2级联途径在渗透胁迫和ABA信号转导过程的关键作用。
+- Lin Z, Li Y, Zhang Z, Liu X, Hsu C-C, Du Y, Sang T, Zhu C, Wang Y, Satheesh V, Pratibha P, Zhao Y, Song C-P, Tao WA, Zhu J-K, **Wang P** (2020) A RAF-SnRK2 kinase cascade mediates early osmotic stress signaling in higher plants. *Nature Communications* 11 (1):613. doi:10.1038/s41467-020-14477-9
 
-
-# 参考文献
-
-Lin Z, Li Y, Zhang Z, Liu X, Hsu C-C, Du Y, Sang T, Zhu C, Wang Y, Satheesh V, Pratibha P, Zhao Y, Song C-P, Tao WA, Zhu J-K, **Wang P** (2020) A RAF-SnRK2 kinase cascade mediates early osmotic stress signaling in higher plants. *Nature Communications* 11 (1):613. doi:10.1038/s41467-020-14477-9
-
-
-
-主题：CGM 第134期: RAF-SnRK2激酶级联途径介导的渗透胁迫和脱落酸信号途径
-
-时间：美国中部时间 2021年1月20日（星期三）8PM（北京时间1月21日 10AM）
-
-Zoom会议 ID：939 9958 7330；密码：184224
-
-Zoom会议链接：https://zoom.us/j/93999587330?pwd=TnB2cE5XM1g0cGhocHlBSjZ1VmJVQT09
