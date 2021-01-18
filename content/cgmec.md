@@ -9,8 +9,8 @@ weight: 6
 
 ## CGM 执行委员会 (Executive Committee) US
 
-- **01 - 04, 2021 EC11： 解少俊(组长)，陈雨露，端韵成（邀请嘉宾和视频直播），袁玉轩（网站和公众号预告更新）**
-- 09 - 12, 2020: EC10：周鹏(组长); 周鹏，[袁梦](https://imengyuan.github.io/)(邀请嘉宾和视频直播); 彭浩然，王凯(网站和公众号预告更新)
+- **01 - 04, 2021 EC NA11： 解少俊(组长)，陈雨露（联络+主持)，端韵成（邀请嘉宾和视频直播），袁玉轩（网站和公众号预告更新）**
+- 09 - 12, 20200：EC NA10：周鹏(组长)，周鹏，[袁梦](https://imengyuan.github.io/)(邀请嘉宾和视频直播)，彭浩然（联络+主持)，王凯(网站和公众号预告更新)
 - 05 - 08, 2020：EC NA9 郑子豪（组长），杨小灵（联络+主持），吕菁（公众号协调），周鹏（技术）
 - 01 - 04, 2020：EC NA8 狄晨露（组长），苏维佳（公众号协调），郑子豪（联络），[袁梦](https://imengyuan.github.io/)（技术）
 - 09 - 12, 2019：EC NA7 [胡冠菁](https://huguanjing.github.io/about/)（组长），唐星（联络）， 狄晨露（公众号协调）， 魏嘉璐（网站）
@@ -22,9 +22,9 @@ weight: 6
 - 09 - 12, 2017：EC NA1 [刘三震](http://plantgenomics.ksu.edu/liulab)（组长），邓斯文（网站），安宏（视频直播）
 
 ## CGM 执行委员会 (Executive Committee) China
-- **07 - 12 2020:EC CN3 武志强(组长）李钊 候壮伟 李爱富 魏璐嘉**
-- 01 - 06 2020: EC CN2 武志强(组长），李德林，邱杰，李钊，任宁宁，赵汀，马省伟, 何逸建
-- 07 - 12 2019: EC CN1 何逸建 (组长），武志强，李德林，邱杰，李钊，任宁宁，赵汀，马省伟
+- **07 - 12 2020: EC CN3 武志强(组长）李钊 候壮伟 李爱富 魏璐嘉**  
+- 01 - 06 2020: EC CN2 武志强(组长），李德林，邱杰，李钊，任宁宁，赵汀，马省伟, 何逸建  
+- 07 - 12 2019: EC CN1 何逸建 (组长），武志强，李德林，邱杰，李钊，任宁宁，赵汀，马省伟  
 
 
 ## CGM 公众号编辑委员会 (Editorial Committee)
@@ -44,7 +44,7 @@ weight: 6
 
 
 ## CGM **Business**
-- 09，2019-： [祁新帅](https://www.linkedin.com/in/xinshuaiqi/)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)，[雷栗](https://twitter.com/lilei0051), [卞杨](https://www.linkedin.com/in/yang-bian-a540a026/)
+- 09 - 至今，2019： [祁新帅](https://www.linkedin.com/in/xinshuaiqi/)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)，[雷栗](https://twitter.com/lilei0051), [卞杨](https://www.linkedin.com/in/yang-bian-a540a026/)
 
 ------------------
 
