@@ -6,10 +6,28 @@
     <description>Recent content in maize on 华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 28 Aug 2019 20:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2020 20:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cgmonline.co/tags/maize/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CGM 第119期：玉米DNA甲基化的驯化及其对功能基因组的影响</title>
+      <link>https://cgmonline.co/2020/10/cgm-%E7%AC%AC119%E6%9C%9F%E7%8E%89%E7%B1%B3dna%E7%94%B2%E5%9F%BA%E5%8C%96%E7%9A%84%E9%A9%AF%E5%8C%96%E5%8F%8A%E5%85%B6%E5%AF%B9%E5%8A%9F%E8%83%BD%E5%9F%BA%E5%9B%A0%E7%BB%84%E7%9A%84%E5%BD%B1%E5%93%8D/</link>
+      <pubDate>Wed, 28 Oct 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/2020/10/cgm-%E7%AC%AC119%E6%9C%9F%E7%8E%89%E7%B1%B3dna%E7%94%B2%E5%9F%BA%E5%8C%96%E7%9A%84%E9%A9%AF%E5%8C%96%E5%8F%8A%E5%85%B6%E5%AF%B9%E5%8A%9F%E8%83%BD%E5%9F%BA%E5%9B%A0%E7%BB%84%E7%9A%84%E5%BD%B1%E5%93%8D/</guid>
+      <description>题目：CGM 第119期：玉米DNA甲基化的驯化及其对功能基因组的影响 时间：美国中部时间 2020年10月28日（星期三）8PM（北京时间10月</description>
+    </item>
+    
+    <item>
+      <title>CGM 第113期: 玉米干旱响应的遗传变异解析</title>
+      <link>https://cgmonline.co/2020/09/cgm-%E7%AC%AC113%E6%9C%9F-%E7%8E%89%E7%B1%B3%E5%B9%B2%E6%97%B1%E5%93%8D%E5%BA%94%E7%9A%84%E9%81%97%E4%BC%A0%E5%8F%98%E5%BC%82%E8%A7%A3%E6%9E%90/</link>
+      <pubDate>Wed, 16 Sep 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/2020/09/cgm-%E7%AC%AC113%E6%9C%9F-%E7%8E%89%E7%B1%B3%E5%B9%B2%E6%97%B1%E5%93%8D%E5%BA%94%E7%9A%84%E9%81%97%E4%BC%A0%E5%8F%98%E5%BC%82%E8%A7%A3%E6%9E%90/</guid>
+      <description>题目：CGM 第113期:玉米干旱响应的遗传变异解析 时间：美国中部时间 2020年9月16日（星期三）8PM（北京时间9月17日 9AM） 地点：Z</description>
+    </item>
     
     <item>
       <title>CGM 第61期：学科交叉与基因组学研究中的方法论</title>
@@ -81,15 +99,6 @@
       
       <guid>https://cgmonline.co/2017/03/cgm-%E7%AC%AC1%E6%9C%9F%E4%BB%A5%E6%A4%8D%E7%89%A9%E8%BF%9B%E5%8C%96%E5%8F%B2%E4%B8%BA%E9%89%B4%E9%A2%84%E6%B5%8B%E6%9C%AA%E6%9D%A5%E4%BC%98%E8%89%AF%E4%BD%9C%E7%89%A9/</guid>
       <description>时间：2017年三月一号（星期三），美西时间下午六点 地点：Youtube live stream 主讲人：杨金良 摘要： 中文摘要，于是可以搞得文艺一点。 七万年前，关</description>
-    </item>
-    
-    <item>
-      <title>CGM 第113期: 玉米干旱响应的遗传变异解析</title>
-      <link>https://cgmonline.co/1/01/cgm-%E7%AC%AC113%E6%9C%9F-%E7%8E%89%E7%B1%B3%E5%B9%B2%E6%97%B1%E5%93%8D%E5%BA%94%E7%9A%84%E9%81%97%E4%BC%A0%E5%8F%98%E5%BC%82%E8%A7%A3%E6%9E%90/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cgmonline.co/1/01/cgm-%E7%AC%AC113%E6%9C%9F-%E7%8E%89%E7%B1%B3%E5%B9%B2%E6%97%B1%E5%93%8D%E5%BA%94%E7%9A%84%E9%81%97%E4%BC%A0%E5%8F%98%E5%BC%82%E8%A7%A3%E6%9E%90/</guid>
-      <description>题目：CGM 第113期:玉米干旱响应的遗传变异解析 时间：美国中部时间 2020年9月16日（星期三）8PM（北京时间9月17日 9AM） 地点：Z</description>
     </item>
     
   </channel>

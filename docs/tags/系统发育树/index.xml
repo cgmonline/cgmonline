@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>系统发育树 on 华人基因组学在线沙龙</title>
+    <link>https://cgmonline.co/tags/%E7%B3%BB%E7%BB%9F%E5%8F%91%E8%82%B2%E6%A0%91/</link>
+    <description>Recent content in 系统发育树 on 华人基因组学在线沙龙</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 31 Oct 2020 20:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cgmonline.co/tags/%E7%B3%BB%E7%BB%9F%E5%8F%91%E8%82%B2%E6%A0%91/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CGM 第120期:Data integration and visualization of phylogenetic trees</title>
+      <link>https://cgmonline.co/2020/10/cgm-%E7%AC%AC120%E6%9C%9Fdata-integration-and-visualization-of-phylogenetic-trees/</link>
+      <pubDate>Sat, 31 Oct 2020 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/2020/10/cgm-%E7%AC%AC120%E6%9C%9Fdata-integration-and-visualization-of-phylogenetic-trees/</guid>
+      <description>题目：CGM 第120期:Data integration and visualization of phylogenetic trees 时间：美国中部时间 2020年10月31日（星期三）8AM（北京时间10月31日 9PM） 地点：Te</description>
+    </item>
+    
+  </channel>
+</rss>
