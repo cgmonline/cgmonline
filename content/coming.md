@@ -5,6 +5,7 @@ menu: [top]
 weight: 2
 ---
 
+
 - 题目：CGM 第133期: 农业呼唤新的绿色革命
 - 时间：美国中部时间 2021年1月20日（星期三）6AM（北京时间1月20日 8PM）
 - 地点：Tecent and Bilibili live stream
@@ -21,30 +22,36 @@ weight: 2
 <img src="https://i.loli.net/2021/01/18/cA7UWwfJ9yYqOGL.jpg" height=250>
 </div>
 
+全球粮食产量自上世纪60年代初起持续增加，据联合国粮农组织统计，截至2018年末，以小麦、水稻、玉米计的全球粮食年总产量达26.6亿吨，是1961年的3.6倍，为全球范围粮食安全提供了基本保障。
+在全球耕地面积仅增加15.5%的条件下，粮食不断增产的主要推动力是化肥的大量施用，其中绝大部分是氮肥。化肥在大幅度提升农作物产量的同时，增加了人们对它的依赖性，甚至过度重视。
+2018年，全球化肥用量达2亿吨，而我国年化肥用量超过全世界化肥总消耗量的33%，氮肥利用效率只有30%左右，不到西方发达国家的一半。
+化肥的过量施用，不仅对空气、土壤和水体造成污染，也给农业可持续发展带来了巨大的环境压力。
+面对人口的爆炸式增长，长期以来育种的首要目标是高产，推动水稻第一次绿色革命的矮秆育种，使之能在大量施用化肥情况下，植株不会过高而造成倒伏，从而在高肥下获得较高产量。
+然而，长期高肥下的育种导致一些重要基因资源的丢失，以致主栽水稻品种肥料利用效率普遍较低。
+
+为解决这一问题，中国科学院遗传与发育生物学研究所储成才研究组对过去100年间收集于全球不同地理区域52个国家（地区）的110份早期水稻农家种进行了全面的农艺性状鉴定，
+发现不同氮肥条件下，在众多农艺性状中，水稻分蘖（分枝）氮响应能力与氮肥利用效率变异间存在高度关联。
+研究组利用全基因组关联分析技术鉴定到一个水稻氮高效基因OsTCP19，其作为转录因子调控水稻分蘖。
+
+
+----------------------
+
+- 题目：CGM 第134期: RAF-SnRK2激酶级联途径介导的渗透胁迫和脱落酸信号途径
+- 时间：美国中部时间 2021年1月20日（星期三）8PM（北京时间1月21日 10AM）
+- 地点：Zoom and Youtube live stream
+- 主讲人：王鹏程博士，中国科学院上海植物逆境生物学研究中心PI。2010年博士毕业于河南大学，2011-2017年在美国普渡大学朱健康实验室从事博士后研究员一职。主要从事植物渗透胁迫信号转导和植物蛋白蛋白组学研究
+
+
+<div align="center">
+<img src="https://i.loli.net/2021/01/18/yFNGE9eIU5fTcQS.jpg" height=350>
+</div>
+
 
 # 内容简介
+干旱、冷和盐会导致渗透胁迫，抑制植物的生长并严重影响农业生产。目前对于植物如何感受和响应渗透胁迫的分子机制了解较少。
+已知SnRK2蛋白激酶迅速被渗透胁迫所激活。我们通过磷酸化蛋白组学和遗传学方法发现RAF蛋白激酶能磷酸化并激活SnRK2蛋白激酶。
+raf多突变体对于渗透胁迫敏感。同时我们还发现RAF-SnRK2激酶途径参与了植物激素脱落酸（Abscisic Acid）的信号途径，对于ABA激活的SnRK2也是必需的。
+我们和其它实验室的研究工作揭示了RAF-SnRK2级联途径在渗透胁迫和ABA信号转导过程的关键作用。
 
-全球粮食产量自上世纪60年代初起持续增加，据联合国粮农组织统计，截至2018年末，以小麦、水稻、玉米计的全球粮食年总产量达26.6亿吨，是1961年的3.6倍，为全球范围粮食安全提供了基本保障。在全球耕地面积仅增加15.5%的条件下，粮食不断增产的主要推动力是化肥的大量施用，其中绝大部分是氮肥。化肥在大幅度提升农作物产量的同时，增加了人们对它的依赖性，甚至过度重视。2018年，全球化肥用量达2亿吨，而我国年化肥用量超过全世界化肥总消耗量的33%，氮肥利用效率只有30%左右，不到西方发达国家的一半。化肥的过量施用，不仅对空气、土壤和水体造成污染，也给农业可持续发展带来了巨大的环境压力。
+- Lin Z, Li Y, Zhang Z, Liu X, Hsu C-C, Du Y, Sang T, Zhu C, Wang Y, Satheesh V, Pratibha P, Zhao Y, Song C-P, Tao WA, Zhu J-K, **Wang P** (2020) A RAF-SnRK2 kinase cascade mediates early osmotic stress signaling in higher plants. *Nature Communications* 11 (1):613. doi:10.1038/s41467-020-14477-9
 
-面对人口的爆炸式增长，长期以来育种的首要目标是高产，推动水稻第一次绿色革命的矮秆育种，使之能在大量施用化肥情况下，植株不会过高而造成倒伏，从而在高肥下获得较高产量。然而，长期高肥下的育种导致一些重要基因资源的丢失，以致主栽水稻品种肥料利用效率普遍较低。
-
-为解决这一问题，中国科学院遗传与发育生物学研究所储成才研究组对过去100年间收集于全球不同地理区域52个国家（地区）的110份早期水稻农家种进行了全面的农艺性状鉴定，发现不同氮肥条件下，在众多农艺性状中，水稻分蘖（分枝）氮响应能力与氮肥利用效率变异间存在高度关联。研究组利用全基因组关联分析技术鉴定到一个水稻氮高效基因OsTCP19，其作为转录因子调控水稻分蘖。
-
-进一步研究发现，OsTCP19上游调控区一小段核酸片段（29-bp）的缺失与否是不同水稻品种分蘖氮响应差异的主要原因。氮高效品种OsTCP19调控区缺失该29-bp核酸序列，氮响应负调控因子LBD蛋白可以高效结合在该位点附近并抑制OsTCP19转录表达。通过多重转录组学分析，OsTCP19作为转录因子抑制分蘖促进基因DLT的表达，进而实现对水稻分蘖发育的调控。这项研究成果揭示了氮素调控水稻分蘖发育过程的分子基础。
-
-# 参考文献
-
-1. Liu Y#, Wang H#, Jiang Z, Wang W, Xu R, Wang Q, Zhang Z, Li A, Liang Y, Ou S, Liu X, Cao S, Tong H, Wang Y, Zhou F, Liao H, Hu B*, and ##Chu C##* (2021). Genomic basis of geographical adaptation to soil nitrogen in rice. ###Nature###, doi: 10.1038/s41586-020-03091-w.
-2. Hu B#*, Jiang Z#, Wang W#, Qiu Y#, Zhang Z, Liu Y, Gao X, Liu L, Qian Y, Huang X, Yu F, Li A, Kang S, Wang Y, Xie J, Cao S, Zhang L, Wang Y, Xie Q, Kopriva S, and ##Chu C##* (2019). Nitrate-NRT1.1B-SPX4 cascade integrates nitrogen and phosphorus signaling networks in plants. ###Nature Plants### 5, 401-413.
-3. Zhang J#, Liu Y-X#, Zhang N#, Hu B#, Jin T#, Xu H, Qin Y, Yan P, Zhang X, Guo X, Hui J, Cao S, Wang X, Wang C, Wang H, Qu B, Fan G, Yuan L, Garrido-Oter R, ##Chu C##*, and Bai Y* (2019). NRT1.1B is associated with root microbiota composition and nitrogen use in field-grown rice. ###Nature Biotechnology### 37,676-684.
-4. Wang H#, Xu X#, Vieira FG, Xiao Y, Li Z, Wang J*, Nielsen R*, and ##Chu C##*(2016). The power of inbreeding: NGS based GWAS of rice reveals convergent evolution during rice domestication. ###Molecular Plant### 9(7), 975-985.
-5. Hu B, Wang W, Ou S, Tang J, Li H, Che R, Zhang Z, Chai X, Wang H, Wang Y, Liang C,Liu L, Piao Z, Deng Q, Deng K, Xu C, Liang Y, Zhang L, Li L, and ##Chu C##* (2015). Variation in NRT1.1B contributes to nitrate-use divergence between rice subspecies. ###Nature Genetics### 47(7),834-838.
-6. Tong H, Liu L, Jin Y, Du L, Yin Y, Qian Q, Zhu L, and ##Chu C##*(2012). DWARF AND LOW-TILLERING acts as a direct downstream target of a GSK3/SHAGGY-like kinase to mediate brassinosteroid responses in rice. ###Plant Cell### 24(6), 2562–2577.
-
- 
-主题：CGM 第133期: 农业呼唤新的绿色革命
-
-时间：美国中部时间 2021年1月20日（星期三）6AM（北京时间1月20日 8PM）
-
-腾讯会议 ID：882 519 158
-腾讯会议链接：https://meeting.tencent.com/s/NAQf6vQH7lFR
