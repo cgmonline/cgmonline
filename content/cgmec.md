@@ -38,7 +38,7 @@ weight: 6
   
 - 09 - 12, 2020：ED4 狄晨露, 志愿者x3招募（联系微信beckyhao13)
 
-**曾任编辑部成员：**
+### 曾任编辑部成员：
 - 01 - 12, 2019：ED1 [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)，[郝樾](https://yueyvettehao.github.io/)，胡海飞，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b)   
 - 01 - 04, 2020：ED2 马省伟（组长、北京时区讲座预告），胡海飞（原创策划），[赵飞](https://kaopubear.top)（原创策划），袁梦（北美时区讲座预告），苏维佳（北美时区讲座预告）
 
