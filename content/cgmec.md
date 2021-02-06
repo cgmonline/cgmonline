@@ -26,6 +26,8 @@ weight: 6
 - 01 - 06 2020: EC CN2 武志强(组长），李德林，邱杰，李钊，任宁宁，赵汀，马省伟, 何逸建  
 - 07 - 12 2019: EC CN1 何逸建 (组长），武志强，李德林，邱杰，李钊，任宁宁，赵汀，马省伟  
 
+## CGM 执行委员会 (Executive Committee) Europe
+
 
 ## CGM 公众号编辑委员会 (Editorial Committee)
 
