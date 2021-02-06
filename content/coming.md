@@ -8,28 +8,7 @@ weight: 2
 - 题目：CGM 第136期: 玉米驯化和育种改良过程中非基因调控区的比较基因组学研究
 - 时间：美国中部时间 2021年2月03日（星期三）8PM（北京时间2月04日周四 10AM）
 - 地点：Zoom and Youtube live stream
-- 主讲人：史俊鹏博士，中山大学农学院副教授。分别于2012年和2017年在中国农业大学获得学士和博士学位，之后继续在中国农业大学国家玉米改良中心从事3年博士后研究，于2020年8月加入中山大学农学院。已在国际知名期刊发表论文10篇，引用超过450次，其中6篇以第一和共一作者发表在*Nature Communications、Nature Genetics、PNAS、Current Opinion in Plant Biology、Molecular Plant* 等杂志上。主持国家自然基金青年基金、中国博士后基金特别资助、中国博士后基金面上项目各一项。
+- 主讲人：
 
 
-<div align="center">
-<img src="https://i.loli.net/2021/01/31/Ne9dLnV1Z2EsxW6.jpg" height=250>
-</div>
-
-# 内容简介
-
-尽管非基因区被认为广泛参与了控制作物农艺性状以及参与驯化和育种改良过程，目前在玉米中对非基因区功能的研究，尤其是远离基因的distal non-genic区域的功能的研究还相对较少。在本研究中，我们利用大规模玉米群体重测序鉴定了玉米驯化、改良和现代育种三个关键过程中受选择的基因组区间，并发现超过70%的受选择区都定位于远离基因的distal non-genic区域。我们进一步利用三维基因组数据鉴定了这些distal non-genic区域的互作基因，并通过大刍草的基因组组装和三代测序数据，解析了一个候选非基因区的功能性变异。
-
-# 参考文献
-
-**Shi J**, Wang B, Liu Z, Liu Y, Gao X, ... & Lai J#. The distal regulatory regions and their interacting protein-coding genes underlying maize domestication and breeding. Unpublished.
-
-**Shi J** & Lai J#: Patterns of genomic changes with crop domestication and breeding. Current Opinion in Plant Biology 2015, 24:47-53. https://doi.org/10.1016/j.pbi.2015.01.008
-
- 
-主题：CGM 第136期: 玉米驯化和育种改良过程中非基因调控区的比较基因组学研究
-
-时间：美国中部时间 2021年2月03日（星期三）8PM（北京时间2月04日周四 10AM）
-
-Zoom会议 ID：969 5241 6991  密码：800653
-
-Zoom会议链接：https://zoom.us/j/96952416991?pwd=UUh3TjlieklxaWR2TnNtV0RxYW1Ddz09
+Coming ...
