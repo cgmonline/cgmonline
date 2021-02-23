@@ -5,6 +5,10 @@ menu: [top]
 weight: 2
 ---
 
+# 注意：本周CGM有两期活动，中国区一场，北美区一场 ！！
+
+## 中国区
+
 - 题目：CGM 第138期: 水稻数量性状变异图谱辅助水稻育种
 - 时间：美国中部时间 2021年2月24日（星期三）6AM（北京时间2月24日8PM）
 - 地点：Tecent and Bilibili live stream
@@ -43,3 +47,40 @@ Chen M#, Fan W#, Ji F#, Hua H, Liu J, Yan M, Ma Q, Fan J, Wan Q, Zhang S, Liu G,
 腾讯会议 ID：892 685 113
 
 腾讯会议链接：https://meeting.tencent.com/s/lMEAENcns1zr
+
+
+## 北美区
+
+- 题目：CGM 第139期: 法医基因组学介绍
+- 时间：美国中部时间 2021年2月24日（星期三）8PM（北京时间2月25日周四 10AM）
+- 地点：Zoom and Youtube live stream
+- 主讲人：葛建业，教授， 毕业于南开大学计算机科学系，获得学士学位和硕士学位。在美国辛辛辛那提大学获得生物信息学博士学位，后在北德克萨斯大学健康科学中心担任助理教授。葛教授还曾在赛默飞世尔科技公司人类识别部门担任算法主管，后任全球市场开发经理。葛教授目前是北德克萨斯大学健康科学中心个体识别中心(UNTCHI)副主任副教授。他在计算科学、生物信息学、基因组学和法庭科学有超过20年的科研经验。葛教授在学术期刊上发表了60多篇论文。他开发的软件程序被美国联邦和州政府机构采用并协助破获众多刑事案件，所做的多个成果也被采用为行业标准。
+
+<div align="center">
+<img src="https://i.loli.net/2021/02/24/yqhmiZHDKcjOlgu.jpg" height=250>
+</div>
+
+# 中文摘要
+
+法医基因组学是在传统法医遗传学基础上的进一步提升。经典的法医遗传学主要解决三个问题：个体识别，亲缘关系鉴定，以及混合样本解析。过去几十年法医遗传学在全球范围已经取得了巨大的成就，成功鉴定了几千万个亲缘关系，破获了数百万起案件。随着技术的进步和办案需求的进一步深化，基因组学及其相关多组学的相关技术被更多的应用到法庭科学当中，用以描述样本的各类特征以及推断个体死亡原因等等。基因高密度SNP的数据库可用以搜索罪犯的远亲而生成调查线索。犯罪现场样本的基因组信息可以用来推测该样本的来源人群，可能的外观，例如毛发颜色、眼睛颜色、甚至三维人脸头像等等。鉴定样本的组织来源可以辅助推断犯罪行为。检测药物代谢可以判断死亡原因。而更新一代的测序技术也为这些应用提供了很好的数据基础。
+
+# 参考文献
+
+**Ge J**, Budowle B. Forensic investigation approaches of searching relatives in DNA databases. Journal of Forensic Sciences. 2020 Nov 2.
+
+**Ge J**, Eisenberg A, Budowle B. Developing criteria and data to determine best options for expanding the core CODIS loci. Investigative Genetics. 2012 Dec;3(1):1-4.
+
+**Ge J**, Chakraborty R, Eisenberg A, Budowle B. Comparisons of familial DNA database searching strategies. Journal of forensic sciences. 2011 Nov;56(6):1448-56. 
+
+**Ge J**, Budowle B, Chakraborty R. DNA identification by pedigree likelihood ratio accommodating population substructure and mutations. Investigative genetics. 2010 Dec;1(1):1-9.
+
+**Ge J**, Budowle B, Chakraborty R. Interpreting Y chromosome STR haplotype mixture. Legal Medicine. 2010 May 1;12(3):137-43.
+
+
+主题：CGM 第139期: 法医基因组学介绍
+
+时间：美国中部时间 2021年2月24日（星期三）8PM（北京时间2月25日周四 10AM）
+
+Zoom会议 ID：936 3583 3781  密码：207409
+
+Zoom会议链接：https://zoom.us/j/93635833781?pwd=MDZtU2ZIa2twN0dIeUJ0UmdpUUs5Zz09
