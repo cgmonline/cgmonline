@@ -1,8 +1,8 @@
 ---
-title: "下期预告"
+title: "北美区预告"
 date: "2021-2-24"
 menu: [top]
-weight: 2
+weight: 3
 ---
 
 # 注意：本周CGM有两期活动，中国区一场，北美区一场 ！！
