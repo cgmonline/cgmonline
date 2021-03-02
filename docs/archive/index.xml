@@ -6,7 +6,7 @@
     <description>Recent content in Archive on 华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 24 Feb 2021 20:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Mar 2021 20:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cgmonline.co/archive/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title>2021</title>
       <link>https://cgmonline.co/archive/2021/</link>
-      <pubDate>Wed, 24 Feb 2021 20:00:00 +0000</pubDate>
+      <pubDate>Wed, 03 Mar 2021 20:00:00 +0000</pubDate>
       
       <guid>https://cgmonline.co/archive/2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2021-03</title>
+      <link>https://cgmonline.co/archive/2021-03/</link>
+      <pubDate>Wed, 03 Mar 2021 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/archive/2021-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2021-03-03</title>
+      <link>https://cgmonline.co/archive/2021-03-03/</link>
+      <pubDate>Wed, 03 Mar 2021 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/archive/2021-03-03/</guid>
       <description></description>
     </item>
     

@@ -5,48 +5,27 @@ menu: [top]
 weight: 3
 ---
 
-# 注意：本周CGM有两期活动，中国区一场，北美区一场 ！！
-
-主题：CGM 第138期: 水稻数量性状变异图谱辅助水稻育种
-
-时间：美国中部时间 2021年2月24日（星期三）6AM（北京时间2月24日8PM）
-
-腾讯会议 ID：892 685 113
-
-腾讯会议链接：https://meeting.tencent.com/s/lMEAENcns1zr
-
-
-## 北美区
-
-- 题目：CGM 第139期: 法医基因组学介绍
-- 时间：美国中部时间 2021年2月24日（星期三）8PM（北京时间2月25日周四 10AM）
+- 题目：CGM 第140期: 关于染色体结构和功能以及转录调控的多组学研究
+- 时间：美国中部时间 2021年3月03日（星期三）8PM（北京时间3月04日周四 10AM）
 - 地点：Zoom and Youtube live stream
-- 主讲人：葛建业，教授， 毕业于南开大学计算机科学系，获得学士学位和硕士学位。在美国辛辛辛那提大学获得生物信息学博士学位，后在北德克萨斯大学健康科学中心担任助理教授。葛教授还曾在赛默飞世尔科技公司人类识别部门担任算法主管，后任全球市场开发经理。葛教授目前是北德克萨斯大学健康科学中心个体识别中心(UNTCHI)副主任副教授。他在计算科学、生物信息学、基因组学和法庭科学有超过20年的科研经验。葛教授在学术期刊上发表了60多篇论文。他开发的软件程序被美国联邦和州政府机构采用并协助破获众多刑事案件，所做的多个成果也被采用为行业标准。
+- 主讲人：刁亚锐, 博士, 现任杜克大学细胞生物学系助理教授。刁亚锐博士于2006年从南京大学获得理学学士学位，并于2011年在香港科技大学获得理学博士学位。随后，刁博士在Human Frontier Science Program (HFSP) fellowship的资助下，加入加州大学圣迭戈分校，师从任兵教授进行博士后研究，并与2018年加入杜克大学开展独立研究。刁亚锐博士长期关注表观遗传，转录调控，以及干细胞生物学和组织再生，以第一作者或者共同第一作者在*Cell stem cell, Developmental cell, Nature Methods, Nature genetics, Genome research，PNAS*等期刊发表多篇研究论文。近年来，刁亚锐博士一直参与Epigenome Roadmap，ENCODE，和4D Nucleome consortium的工作，在开展独立研究之后之后获得NHGRI Genomic Innovator Awards, V Scholar for Cancer Research, American Federation for Aging Research Junior faculty awards以及杜克大学Whitehead scholar。刁亚锐课题组的主要研究方向为开发单细胞多组学，三维基因组学，以及和蛋白组学的新技术，并将这些新技术应用于胚胎干细胞，肌肉干细胞，以及横纹肌肉瘤的模型中，研究染色体高级结构和功能如何参与转录调控，干细胞稳态维持和发育，组织再生和肿瘤发生发展的过程。
 
 <div align="center">
-<img src="https://i.loli.net/2021/02/24/yqhmiZHDKcjOlgu.jpg" height=250>
+<img src="https://i.loli.net/2021/03/02/urakJ4oXvEZFLzQ.png" height=250>
 </div>
 
 # 中文摘要
 
-法医基因组学是在传统法医遗传学基础上的进一步提升。经典的法医遗传学主要解决三个问题：个体识别，亲缘关系鉴定，以及混合样本解析。过去几十年法医遗传学在全球范围已经取得了巨大的成就，成功鉴定了几千万个亲缘关系，破获了数百万起案件。随着技术的进步和办案需求的进一步深化，基因组学及其相关多组学的相关技术被更多的应用到法庭科学当中，用以描述样本的各类特征以及推断个体死亡原因等等。基因高密度SNP的数据库可用以搜索罪犯的远亲而生成调查线索。犯罪现场样本的基因组信息可以用来推测该样本的来源人群，可能的外观，例如毛发颜色、眼睛颜色、甚至三维人脸头像等等。鉴定样本的组织来源可以辅助推断犯罪行为。检测药物代谢可以判断死亡原因。而更新一代的测序技术也为这些应用提供了很好的数据基础。
+在人类基因组中，通过分析染色体的生物化学修饰，我们已经鉴定和发现了几百万的顺式调控元件(cis-regulatory elements)。这些顺式调控元件为包括启动子（promoter），增强子（enhancer），绝缘子（insulator）以及抑制子（repressor）。绝大部分的顺势调控元件位于基因组的非编码区的“开放”染色质(open chromatin)区域，并对基因转录的时空调控发挥着重要的作用。值得注意的是，过去十多年来，GWAS研究发现了大量的与人类疾病和性状（traits）相关的遗传突变，而其中超过90% 都位于非编码的顺式调控序列，并且显著富集在增强子序列。于是，这些非编码的顺式调控元件怎么调节基因表达以及人类疾病发生发展，就变成了一个非常有意思的研究方向。 越来越多的研究表明，染色体在细胞中并不是一维的线性的结构，而是形成复杂的三维高级结构，染色体的三维结构对于基因转录调控具有极其重要的作用。例如，在一维的染色体序列中，增强子（或者基因组的非编码有害突变）可以与它的靶基因相隔几十万甚至上百万个碱基对，但它们在三维的结构中却距离非常近，从而实现调控靶基因的转录表达。近年来，染色体高级结构的研究进展极大地丰富了我们对于转录调控的认识，同时也带来了更多的挑战：怎样才能系统地鉴定出人类细胞和组织特异性的三维顺式调控图谱（3D cis-regulatory landscape），来帮助我们更深入的理解人类基因组的非编码序列在生理和病理条件下的调控功能。本次报告将要介绍我们最近开发的一个高通量多组学的方法HiCAR，可以有效的检测细胞中染色体开放区域，顺势调控元件的远程相互作用，以及细胞中的转录组。我们将HiCAR应用于人类胚胎干细胞（human embryonic stem cell），发现了一些有趣的染色体三维结构特性。
 
 # 参考文献
 
-**Ge J**, Budowle B. Forensic investigation approaches of searching relatives in DNA databases. Journal of Forensic Sciences. 2020 Nov 2.
-
-**Ge J**, Eisenberg A, Budowle B. Developing criteria and data to determine best options for expanding the core CODIS loci. Investigative Genetics. 2012 Dec;3(1):1-4.
-
-**Ge J**, Chakraborty R, Eisenberg A, Budowle B. Comparisons of familial DNA database searching strategies. Journal of forensic sciences. 2011 Nov;56(6):1448-56. 
-
-**Ge J**, Budowle B, Chakraborty R. DNA identification by pedigree likelihood ratio accommodating population substructure and mutations. Investigative genetics. 2010 Dec;1(1):1-9.
-
-**Ge J**, Budowle B, Chakraborty R. Interpreting Y chromosome STR haplotype mixture. Legal Medicine. 2010 May 1;12(3):137-43.
+Xiaolin Wei, Yu Xiang, Ruocheng Shan, Derek T Peters, Tongyu Sun, Xin Lin, Wei Li and **Yarui Diao** (2020) Multi-omics analysis of chromatin accessibility and interactions with transcriptome by HiCAR. Doi: https://doi.org/10.1101/2020.11.02.366062
 
 
-主题：CGM 第139期: 法医基因组学介绍
+主题：CGM 第140期: 关于染色体结构和功能以及转录调控的多组学研究
 
-时间：美国中部时间 2021年2月24日（星期三）8PM（北京时间2月25日周四 10AM）
+时间：美国中部时间 2021年3月03日（星期三）8PM（北京时间3月04日周四 10AM）
 
 Zoom会议 ID：936 3583 3781  密码：207409
 
