@@ -6,10 +6,37 @@
     <description>Recent content in Tags on 华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 24 Feb 2021 20:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Mar 2021 20:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cgmonline.co/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>gene regulation</title>
+      <link>https://cgmonline.co/tags/gene-regulation/</link>
+      <pubDate>Wed, 03 Mar 2021 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/gene-regulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>high-order chromatin organization</title>
+      <link>https://cgmonline.co/tags/high-order-chromatin-organization/</link>
+      <pubDate>Wed, 03 Mar 2021 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/high-order-chromatin-organization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talks</title>
+      <link>https://cgmonline.co/tags/talks/</link>
+      <pubDate>Wed, 03 Mar 2021 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/tags/talks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bioinformatics</title>
@@ -44,15 +71,6 @@
       <pubDate>Wed, 24 Feb 2021 20:00:00 +0000</pubDate>
       
       <guid>https://cgmonline.co/tags/genomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talks</title>
-      <link>https://cgmonline.co/tags/talks/</link>
-      <pubDate>Wed, 24 Feb 2021 20:00:00 +0000</pubDate>
-      
-      <guid>https://cgmonline.co/tags/talks/</guid>
       <description></description>
     </item>
     
@@ -629,15 +647,6 @@
       <pubDate>Wed, 28 Oct 2020 20:00:00 +0000</pubDate>
       
       <guid>https://cgmonline.co/tags/evolution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gene regulation</title>
-      <link>https://cgmonline.co/tags/gene-regulation/</link>
-      <pubDate>Wed, 28 Oct 2020 20:00:00 +0000</pubDate>
-      
-      <guid>https://cgmonline.co/tags/gene-regulation/</guid>
       <description></description>
     </item>
     
