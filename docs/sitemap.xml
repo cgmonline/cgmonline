@@ -3,7 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cgmonline.co/coming/</loc>
+    <loc>https://cgmonline.co/coming_cn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/coming_us/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/coming_eu/</loc>
   </url>
   
   <url>
@@ -40,12 +48,197 @@
   
   <url>
     <loc>https://cgmonline.co/archive/2021/</loc>
-    <lastmod>2021-01-20T20:00:00+00:00</lastmod>
+    <lastmod>2021-02-24T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/archive/2021-02/</loc>
+    <lastmod>2021-02-24T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/archive/2021-02-24/</loc>
+    <lastmod>2021-02-24T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/archive/</loc>
+    <lastmod>2021-02-24T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/bioinformatics/</loc>
+    <lastmod>2021-02-24T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/categories/</loc>
+    <lastmod>2021-02-24T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/2021/02/cgm-%E7%AC%AC138%E6%9C%9F-%E6%B0%B4%E7%A8%BB%E6%95%B0%E9%87%8F%E6%80%A7%E7%8A%B6%E5%8F%98%E5%BC%82%E5%9B%BE%E8%B0%B1%E8%BE%85%E5%8A%A9%E6%B0%B4%E7%A8%BB%E8%82%B2%E7%A7%8D/</loc>
+    <lastmod>2021-02-24T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/2021/02/cgm-%E7%AC%AC139%E6%9C%9F-%E6%B3%95%E5%8C%BB%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%AD%A6%E4%BB%8B%E7%BB%8D/</loc>
+    <lastmod>2021-02-24T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/evidence-interpretation/</loc>
+    <lastmod>2021-02-24T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/forensics/</loc>
+    <lastmod>2021-02-24T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/genomics/</loc>
+    <lastmod>2021-02-24T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/post/</loc>
+    <lastmod>2021-02-24T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/</loc>
+    <lastmod>2021-02-24T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/talks/</loc>
+    <lastmod>2021-02-24T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</loc>
+    <lastmod>2021-02-24T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/%E6%95%B0%E9%87%8F%E6%80%A7%E7%8A%B6%E5%8F%98%E5%BC%82%E5%9B%BE%E8%B0%B1%E6%B0%B4%E7%A8%BB%E9%81%97%E4%BC%A0%E5%88%86%E5%AD%90%E8%AE%BE%E8%AE%A1%E8%82%B2%E7%A7%8D/</loc>
+    <lastmod>2021-02-24T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/archive/2021-02-17/</loc>
+    <lastmod>2021-02-17T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/breeding/</loc>
+    <lastmod>2021-02-17T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/2021/02/cgm-%E7%AC%AC137%E6%9C%9F-%E4%BD%9C%E7%89%A9%E9%A9%AF%E5%8C%96%E7%9A%84%E7%BE%A4%E4%BD%93%E9%81%97%E4%BC%A0%E5%AD%A6%E4%B8%8E%E8%82%B2%E7%A7%8D%E7%BB%93%E6%9E%84%E5%8F%98%E5%BC%82%E4%B8%8E%E6%9C%89%E5%AE%B3%E5%8F%98%E5%BC%82/</loc>
+    <lastmod>2021-02-17T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/domestication/</loc>
+    <lastmod>2021-02-17T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/grape/</loc>
+    <lastmod>2021-02-17T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/grapevine/</loc>
+    <lastmod>2021-02-17T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/population-genetic/</loc>
+    <lastmod>2021-02-17T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/population-genetics/</loc>
+    <lastmod>2021-02-17T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/str/</loc>
+    <lastmod>2021-02-17T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/structural-variation/</loc>
+    <lastmod>2021-02-17T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/archive/2021-02-03/</loc>
+    <lastmod>2021-02-03T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/2021/02/cgm-%E7%AC%AC136%E6%9C%9F-%E7%8E%89%E7%B1%B3%E9%A9%AF%E5%8C%96%E5%92%8C%E8%82%B2%E7%A7%8D%E6%94%B9%E8%89%AF%E8%BF%87%E7%A8%8B%E4%B8%AD%E9%9D%9E%E5%9F%BA%E5%9B%A0%E8%B0%83%E6%8E%A7%E5%8C%BA%E7%9A%84%E6%AF%94%E8%BE%83%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%AD%A6%E7%A0%94%E7%A9%B6/</loc>
+    <lastmod>2021-02-03T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/chromatin-interaction/</loc>
+    <lastmod>2021-02-03T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/maize/</loc>
+    <lastmod>2021-02-03T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/population-genomics/</loc>
+    <lastmod>2021-02-03T20:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://cgmonline.co/archive/2021-01/</loc>
-    <lastmod>2021-01-20T20:00:00+00:00</lastmod>
+    <lastmod>2021-01-27T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/archive/2021-01-27/</loc>
+    <lastmod>2021-01-27T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/2021/01/cgm-%E7%AC%AC135%E6%9C%9F-%E6%9D%82%E4%BA%A4%E7%89%A9%E7%A7%8D%E5%BD%A2%E6%88%90%E7%9A%84%E5%88%86%E5%AD%90%E9%81%97%E4%BC%A0%E6%9C%BA%E5%88%B6/</loc>
+    <lastmod>2021-01-27T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/%E4%BA%B2%E6%9C%AC%E7%89%A9%E7%A7%8D/</loc>
+    <lastmod>2021-01-27T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/%E5%88%86%E5%AD%90%E9%81%97%E4%BC%A0%E6%9C%BA%E5%88%B6/</loc>
+    <lastmod>2021-01-27T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/%E6%9D%82%E4%BA%A4%E7%89%A9%E7%A7%8D%E5%BD%A2%E6%88%90/</loc>
+    <lastmod>2021-01-27T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/%E7%94%9F%E6%AE%96%E9%9A%94%E7%A6%BB/</loc>
+    <lastmod>2021-01-27T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/%E7%AD%89%E4%BD%8D%E5%9F%BA%E5%9B%A0/</loc>
+    <lastmod>2021-01-27T20:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -59,12 +252,7 @@
   </url>
   
   <url>
-    <loc>https://cgmonline.co/archive/</loc>
-    <lastmod>2021-01-20T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/categories/</loc>
+    <loc>https://cgmonline.co/2021/01/cgm-%E7%AC%AC133%E6%9C%9F-%E5%86%9C%E4%B8%9A%E5%91%BC%E5%94%A4%E6%96%B0%E7%9A%84%E7%BB%BF%E8%89%B2%E9%9D%A9%E5%91%BD/</loc>
     <lastmod>2021-01-20T20:00:00+00:00</lastmod>
   </url>
   
@@ -74,7 +262,17 @@
   </url>
   
   <url>
+    <loc>https://cgmonline.co/tags/green-revolution/</loc>
+    <lastmod>2021-01-20T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cgmonline.co/tags/kinase-cascade/</loc>
+    <lastmod>2021-01-20T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/nitrogen-use-efficiency/</loc>
     <lastmod>2021-01-20T20:00:00+00:00</lastmod>
   </url>
   
@@ -84,7 +282,12 @@
   </url>
   
   <url>
-    <loc>https://cgmonline.co/post/</loc>
+    <loc>https://cgmonline.co/tags/r/</loc>
+    <lastmod>2021-01-20T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/rice/</loc>
     <lastmod>2021-01-20T20:00:00+00:00</lastmod>
   </url>
   
@@ -94,18 +297,33 @@
   </url>
   
   <url>
-    <loc>https://cgmonline.co/tags/</loc>
-    <lastmod>2021-01-20T20:00:00+00:00</lastmod>
+    <loc>https://cgmonline.co/archive/2021-01-13/</loc>
+    <lastmod>2021-01-13T20:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cgmonline.co/tags/talks/</loc>
-    <lastmod>2021-01-20T20:00:00+00:00</lastmod>
+    <loc>https://cgmonline.co/2021/01/cgm-%E7%AC%AC132%E6%9C%9F-%E9%A9%AC%E9%93%83%E8%96%AF%E8%87%AA%E4%BA%A4%E8%A1%B0%E9%80%80%E7%9A%84%E9%81%97%E4%BC%A0%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2021-01-13T20:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cgmonline.co/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</loc>
-    <lastmod>2021-01-20T20:00:00+00:00</lastmod>
+    <loc>https://cgmonline.co/tags/deleterious/</loc>
+    <lastmod>2021-01-13T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/diploid/</loc>
+    <lastmod>2021-01-13T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/inbreeding-depression/</loc>
+    <lastmod>2021-01-13T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/potato/</loc>
+    <lastmod>2021-01-13T20:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -124,22 +342,12 @@
   </url>
   
   <url>
-    <loc>https://cgmonline.co/tags/domestication/</loc>
-    <lastmod>2021-01-06T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cgmonline.co/tags/gossypium/</loc>
     <lastmod>2021-01-06T20:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://cgmonline.co/tags/polyploidy/</loc>
-    <lastmod>2021-01-06T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/tags/r/</loc>
     <lastmod>2021-01-06T20:00:00+00:00</lastmod>
   </url>
   
@@ -364,16 +572,6 @@
   </url>
   
   <url>
-    <loc>https://cgmonline.co/tags/str/</loc>
-    <lastmod>2020-11-11T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/tags/structural-variation/</loc>
-    <lastmod>2020-11-11T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cgmonline.co/tags/tomato/</loc>
     <lastmod>2020-11-11T20:00:00+00:00</lastmod>
   </url>
@@ -455,11 +653,6 @@
   
   <url>
     <loc>https://cgmonline.co/tags/gene-regulation/</loc>
-    <lastmod>2020-10-28T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/tags/maize/</loc>
     <lastmod>2020-10-28T20:00:00+00:00</lastmod>
   </url>
   
@@ -1334,11 +1527,6 @@
   </url>
   
   <url>
-    <loc>https://cgmonline.co/tags/genomics/</loc>
-    <lastmod>2020-03-25T17:15:22+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cgmonline.co/tags/polyploidexplainable/</loc>
     <lastmod>2020-03-25T17:15:22+00:00</lastmod>
   </url>
@@ -1394,11 +1582,6 @@
   </url>
   
   <url>
-    <loc>https://cgmonline.co/tags/population-genetic/</loc>
-    <lastmod>2020-03-11T17:15:22+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cgmonline.co/archive/2020-03-04/</loc>
     <lastmod>2020-03-04T17:15:22+00:00</lastmod>
   </url>
@@ -1419,17 +1602,7 @@
   </url>
   
   <url>
-    <loc>https://cgmonline.co/tags/deleterious/</loc>
-    <lastmod>2020-03-04T17:15:22+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cgmonline.co/tags/deleterious-variation/</loc>
-    <lastmod>2020-03-04T17:15:22+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/tags/population-genetics/</loc>
     <lastmod>2020-03-04T17:15:22+00:00</lastmod>
   </url>
   
@@ -1460,11 +1633,6 @@
   
   <url>
     <loc>https://cgmonline.co/tags/lncrna/</loc>
-    <lastmod>2020-02-26T17:15:22+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/tags/rice/</loc>
     <lastmod>2020-02-26T17:15:22+00:00</lastmod>
   </url>
   
@@ -1650,11 +1818,6 @@
   
   <url>
     <loc>https://cgmonline.co/archive/2019-12-04/</loc>
-    <lastmod>2019-12-04T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/tags/breeding/</loc>
     <lastmod>2019-12-04T20:00:00+00:00</lastmod>
   </url>
   
@@ -2414,11 +2577,6 @@
   </url>
   
   <url>
-    <loc>https://cgmonline.co/tags/bioinformatics/</loc>
-    <lastmod>2018-09-05T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cgmonline.co/2018/09/cgm-%E7%AC%AC37%E6%9C%9Fmy-experience-of-facilitating-both-hypothesis-driven-and-data-driven-research-as-a-bioinformatician/</loc>
     <lastmod>2018-09-05T20:00:00+00:00</lastmod>
   </url>
@@ -2879,11 +3037,6 @@
   </url>
   
   <url>
-    <loc>https://cgmonline.co/tags/grape/</loc>
-    <lastmod>2017-12-20T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cgmonline.co/archive/2017-11/</loc>
     <lastmod>2017-11-22T20:00:00+00:00</lastmod>
   </url>
@@ -3236,46 +3389,6 @@
   <url>
     <loc>https://cgmonline.co/tags/gs/</loc>
     <lastmod>2017-03-01T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/archive/2021-1/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/archive/2021-1-13/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/archive/2021-1-20/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/1/01/cgm-%E7%AC%AC132%E6%9C%9F-%E9%A9%AC%E9%93%83%E8%96%AF%E8%87%AA%E4%BA%A4%E8%A1%B0%E9%80%80%E7%9A%84%E9%81%97%E4%BC%A0%E5%9F%BA%E7%A1%80/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/1/01/cgm-%E7%AC%AC133%E6%9C%9F-%E5%86%9C%E4%B8%9A%E5%91%BC%E5%94%A4%E6%96%B0%E7%9A%84%E7%BB%BF%E8%89%B2%E9%9D%A9%E5%91%BD/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/tags/diploid/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/tags/green-revolution/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/tags/inbreeding-depression/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/tags/nitrogen-use-efficiency/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/tags/potato/</loc>
   </url>
   
   <url>

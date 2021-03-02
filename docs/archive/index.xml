@@ -6,7 +6,7 @@
     <description>Recent content in Archive on 华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 20 Jan 2021 20:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Feb 2021 20:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cgmonline.co/archive/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,18 +14,63 @@
     <item>
       <title>2021</title>
       <link>https://cgmonline.co/archive/2021/</link>
-      <pubDate>Wed, 20 Jan 2021 20:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Feb 2021 20:00:00 +0000</pubDate>
       
       <guid>https://cgmonline.co/archive/2021/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>2021-02</title>
+      <link>https://cgmonline.co/archive/2021-02/</link>
+      <pubDate>Wed, 24 Feb 2021 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/archive/2021-02/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2021-02-24</title>
+      <link>https://cgmonline.co/archive/2021-02-24/</link>
+      <pubDate>Wed, 24 Feb 2021 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/archive/2021-02-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2021-02-17</title>
+      <link>https://cgmonline.co/archive/2021-02-17/</link>
+      <pubDate>Wed, 17 Feb 2021 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/archive/2021-02-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2021-02-03</title>
+      <link>https://cgmonline.co/archive/2021-02-03/</link>
+      <pubDate>Wed, 03 Feb 2021 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/archive/2021-02-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>2021-01</title>
       <link>https://cgmonline.co/archive/2021-01/</link>
-      <pubDate>Wed, 20 Jan 2021 20:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Jan 2021 20:00:00 +0000</pubDate>
       
       <guid>https://cgmonline.co/archive/2021-01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2021-01-27</title>
+      <link>https://cgmonline.co/archive/2021-01-27/</link>
+      <pubDate>Wed, 27 Jan 2021 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/archive/2021-01-27/</guid>
       <description></description>
     </item>
     
@@ -35,6 +80,15 @@
       <pubDate>Wed, 20 Jan 2021 20:00:00 +0000</pubDate>
       
       <guid>https://cgmonline.co/archive/2021-01-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2021-01-13</title>
+      <link>https://cgmonline.co/archive/2021-01-13/</link>
+      <pubDate>Wed, 13 Jan 2021 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/archive/2021-01-13/</guid>
       <description></description>
     </item>
     
@@ -1700,33 +1754,6 @@
       <pubDate>Wed, 01 Mar 2017 20:00:00 +0000</pubDate>
       
       <guid>https://cgmonline.co/archive/2017-03-01/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2021-1</title>
-      <link>https://cgmonline.co/archive/2021-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cgmonline.co/archive/2021-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2021-1-13</title>
-      <link>https://cgmonline.co/archive/2021-1-13/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cgmonline.co/archive/2021-1-13/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2021-1-20</title>
-      <link>https://cgmonline.co/archive/2021-1-20/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cgmonline.co/archive/2021-1-20/</guid>
       <description></description>
     </item>
     

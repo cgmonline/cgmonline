@@ -6,10 +6,19 @@
     <description>Recent content in Bioinformatics on 华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 05 Sep 2018 20:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Feb 2021 20:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cgmonline.co/tags/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CGM 第139期: 法医基因组学介绍</title>
+      <link>https://cgmonline.co/2021/02/cgm-%E7%AC%AC139%E6%9C%9F-%E6%B3%95%E5%8C%BB%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%AD%A6%E4%BB%8B%E7%BB%8D/</link>
+      <pubDate>Wed, 24 Feb 2021 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/2021/02/cgm-%E7%AC%AC139%E6%9C%9F-%E6%B3%95%E5%8C%BB%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%AD%A6%E4%BB%8B%E7%BB%8D/</guid>
+      <description>题目：CGM 第139期: 法医基因组学介绍 时间：美国中部时间 2021年02月24日（星期三）8PM（北京时间02月25日 星期四 10AM） 地点：</description>
+    </item>
     
     <item>
       <title>CGM 第37期：My experience of facilitating both hypothesis-driven and data-driven research as a bioinformatician</title>
