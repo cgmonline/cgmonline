@@ -7,7 +7,7 @@ weight: 6
 ## CGM 指导委员会 (Steering Committee)
 - [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)(评奖委员会主席)，[郝樾](https://yueyvettehao.github.io/) (编辑部， Meeting Minutes)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b) (EC China，CGM Business)，[雷栗](https://twitter.com/lilei0051)（Special Project，HR)， [祁新帅](https://www.linkedin.com/in/xinshuaiqi/) (CGM Business，NGO， Finance)，[刘三震](https://www.plantgenomics.ksu.edu/liulab/)(SC general)，[武志强](http://agis.caas.cn/rctd/yjtd/226826.htm) (EC China)，[杨金良](http://jyanglab.com/)(EC general，website)
 
-## CGM 执行委员会 (Executive Committee) US
+## CGM 北美区执行委员会 (Executive Committee) US
 
 - **01 - 04, 2021：EC NA11 解少俊（组长），陈雨露（联络+主持），端韵成（邀请嘉宾和视频直播），袁玉轩（网站和公众号预告更新）**
 - 09 - 12, 20200：EC NA10 周鹏（组长），[袁梦](https://imengyuan.github.io/)(邀请嘉宾和视频直播），彭浩然（联络+主持），王凯(网站和公众号预告更新)
@@ -21,12 +21,12 @@ weight: 6
 - 01 - 04, 2018：EC NA2 [黄璞](https://scholar.google.com/citations?user=r5cGFI8AAAAJ&hl=en)（组长），[梅文彬](https://wenbinmei.github.io/)（视频直播），[郝樾](https://yueyvettehao.github.io/)（网站）
 - 09 - 12, 2017：EC NA1 [刘三震](http://plantgenomics.ksu.edu/liulab)（组长），邓斯文（网站），安宏（视频直播）
 
-## CGM 执行委员会 (Executive Committee) China
+## CGM 中国区执行委员会 (Executive Committee) China
 - **07 - 12 2020: EC CN3 武志强(组长）李钊 候壮伟 李爱富 魏嘉璐**  
 - 01 - 06 2020: EC CN2 武志强(组长），李德林，邱杰，李钊，任宁宁，赵汀，马省伟, 何逸建  
 - 07 - 12 2019: EC CN1 何逸建 (组长），武志强，李德林，邱杰，李钊，任宁宁，赵汀，马省伟  
 
-## CGM 执行委员会 (Executive Committee) Europe
+## CGM 欧洲区执行委员会 (Executive Committee) Europe
 - **03 - 08 2021: EC EU1  陈春龙（组长），邓斯文（组长），刘海军（排期统筹+联络），刘远龙（排期统筹+联络），马校丽（宣传–公众号），彭浩然（宣传–网站），孙燕（宣传–网站），王天鹏（视频直播+主持），张盼盼（视频直播+主持），邹小晴（宣传–公众号）**
 
 ## CGM 公众号编辑委员会 (Editorial Committee)
