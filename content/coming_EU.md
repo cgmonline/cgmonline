@@ -7,7 +7,7 @@ weight: 4
 
 - 题目：CGM 第142期: 植物学中的新型研究手段 - 光遗传学工具
 - 时间：欧洲中部时间 2021年3月10日（星期三）8PM（北京时间 3月11日 3AM，美国中部时间 3月10日 12PM）
-- 地点：Zoom and Youtube live stream
+- Zoom会议 ID： 密码： Zoom会议链接：
 - 主讲人：丁美琪（Meiqi Ding），德国维尔茨堡大学植物学专业博士生。2010-2014年就读于吉林大学生物技术专业并获得理学学士学位; 2014-2017年就读于吉林大学植物学专业并获得理学硕士学位; 现于德国维尔茨堡大学Georg Nagel教授课题组攻读博士学位，从事光遗传学工具开发工作，包括植物光遗传学工具的改造与应用。其中部分工作及光遗传学工具控制花粉管以及植株生长方面的工作已于今年发表于Nature plants。2019年受郑州大学邀请作为海外邀请教师参与光遗传学课程教学（百门专业课程聘海外教师讲授项目）。
 
 <div align="center">
@@ -48,10 +48,4 @@ Govorunova, E.G., Sineshchekov, O.A., Janz, R., Liu, X. & Spudich, J.L. NEUROSCI
 
 Zhou, Y. et al. Optogenetic control of plant growth by a microbial rhodopsin. Nature plants 7, 144-151 (2021).
 
-
-
-
-Zoom会议 ID： 密码：
-
-Zoom会议链接：
 
