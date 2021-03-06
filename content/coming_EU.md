@@ -50,9 +50,6 @@ Zhou, Y. et al. Optogenetic control of plant growth by a microbial rhodopsin. Na
 
 
 
-主题：CGM 第142期: 植物学中的新型研究手段 - 光遗传学工具
-
-时间：欧洲中部时间 2021年3月10日（星期三）8PM（北京时间 3月11日 3AM，美国中部时间 3月10日 12PM）
 
 Zoom会议 ID： 密码：
 
