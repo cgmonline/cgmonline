@@ -40,22 +40,22 @@ CGM Business Meetup 申请表 QR code：
 # 往期活动
 https://cgmonline.co/categories/企业沙龙/
 
-|期次|时间|策划主持 |Topic 2|
-| -- | ----- | --------- | ---------------------------------------------------------------------------------- |
-| 1  | 9/17/19  | 祁新帅       | 自我介绍和活动形式的头脑风暴                                                                     |
-| 2  | 10/17/19 | 祁新帅       | Effective communication 如何在企业内部进行有效沟通？                                             |
-| 3  | 11/14/19 | 祁新帅 杜鹃    | Project Management Tools的选择和使用                                                     |
-| 4  | 2/12/20  | 祁新帅 卞杨    | Year end performance review                                                        |
-| 5  | 3/26/20  | 祁新帅       | 如何提高工作成果的曝光度Visiability                                                            |
-| 6  | 4/16/20  | 卞扬        | 疫情对我们的影响Covid-19线上讨论                                                               |
-| 7  | 5/14/20  | 张世晨       | 未来农业产业方向                                                                           |
-| 8  | 6/18/20  | 祁新帅       | 未来医药产业方向                                                                           |
-| 9  | 8/4/20   | Susan Liu | 投资理财                                                                               |
-| 10 | 9/17/20  | 祁新帅       | 好书推荐                                                                               |
-| 11 | 10/15/20 | 祁新帅       | breeding design                                                                    |
-| 12 | 11/19/20 | 祁新帅       | 2020年基因组领域有哪些重要的进展和里程碑                                                             |
-| 13 | 12/30/20 | Linda Qiaoni Jing      | what is the next desruptive (genomic) technology in Ag industry? |
-| 14 | 2/17/21  | 祁新帅       | ARKG- ARK Genomic Revolution                                                                               |
+期次|时间|策划主持 |Topic 2|
+ -- | ----- | --------- | ---------------------------------------------------------------------------------- |
+ 1  | 9/17/19  | 祁新帅       | 自我介绍和活动形式的头脑风暴                                                                     |
+ 2  | 10/17/19 | 祁新帅       | Effective communication 如何在企业内部进行有效沟通？                                             |
+ 3  | 11/14/19 | 祁新帅 杜鹃    | Project Management Tools的选择和使用                                                     |
+ 4  | 2/12/20  | 祁新帅 卞杨    | Year end performance review                                                        |
+ 5  | 3/26/20  | 祁新帅       | 如何提高工作成果的曝光度Visiability                                                            |
+ 6  | 4/16/20  | 卞扬        | 疫情对我们的影响Covid-19线上讨论                                                               |
+ 7  | 5/14/20  | 张世晨       | 未来农业产业方向                                                                           |
+ 8  | 6/18/20  | 祁新帅       | 未来医药产业方向                                                                           |
+ 9  | 8/4/20   | Susan Liu | 投资理财                                                                               |
+ 10 | 9/17/20  | 祁新帅       | 好书推荐                                                                               |
+ 11 | 10/15/20 | 祁新帅       | breeding design                                                                    |
+ 12 | 11/19/20 | 祁新帅       | 2020年基因组领域有哪些重要的进展和里程碑                                                             |
+ 13 | 12/30/20 | Linda Qiaoni Jing      | what is the next desruptive (genomic) technology in Ag industry? |
+ 14 | 2/17/21  | 祁新帅       | ARKG- ARK Genomic Revolution                                                                               |
 
 
 
