@@ -52,9 +52,9 @@ Zhou, Y. et al. Optogenetic control of plant growth by a microbial rhodopsin. Na
 
 # YouTube
 
-{{< youtube id="TjostvBqp9w" autoplay="false" >}}
+{{< youtube id="" autoplay="false" >}}
 
 # Bilibili
 
-{{< bilibili id="458262263" autoplay="false" >}}
+{{< bilibili id="" autoplay="false" >}}
 
