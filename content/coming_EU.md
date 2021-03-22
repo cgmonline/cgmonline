@@ -25,7 +25,7 @@ weight: 4
 
 1. Campilho A, Nieminen K, Ragni L. 2020. The development of the periderm: The final frontier between a plant and its environment. Curr Opin Plant Biol. 53: 10-14.
 
-2.Wunderling A, Ripper D, Barra-Jimenez A, Mahn S, Sajak K, Targem MB, Ragni L. 2018. A molecular framework to study periderm formation in Arabidopsis. New Phytol. 219(1):216-229.
+2. Wunderling A, Ripper D, Barra-Jimenez A, Mahn S, Sajak K, Targem MB, Ragni L. 2018. A molecular framework to study periderm formation in Arabidopsis. New Phytol. 219(1):216-229.
 
 3. Xiao W, Molina D, Wunderling A, Ripper D, Vermeer J, Ragni L. 2020. Pluripotent pericycle cells trigger different growth outputs by integrating developmental cues into distinct regulatory modules. Curr Biol. 30(22): 4384-4398.
 
