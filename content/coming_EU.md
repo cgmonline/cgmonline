@@ -7,8 +7,8 @@ weight: 4
 
 - 题目：CGM 第145期: 植物器官形成的奥义——转录因子调控中柱鞘细胞的分化
 - 时间：欧洲中部时间 2021年3月24日（星期三）08PM（美国中部时间 3月24日 01PM，北京时间 3月25日 03AM）
-- Zoom会议 ID：966 1035 6904 密码：829379 
-- Zoom会议链接：https://zoom.us/j/96610356904?pwd=MmhiV0s0ZCtoaG0wRjlFQ0UzL2xsZz09
+- Zoom会议 ID：861 0146 4725 密码：269044 
+- Zoom会议链接：https://us06web.zoom.us/j/86101464725?pwd=bXphV2NYdGRZeVRaZys0WnNjczF4Zz09
 - 主讲人：肖威（Wei Xiao），2011-2015年就读于西南大学生物技术专业并获得理学学士学位; 2015-2018年就读于中山大学发育生物学专业并获得理学硕士学位; 现于德国图宾根大学Dr. Laura Ragni 课题组攻读博士学位。
 
 <div align="center">
