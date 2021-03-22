@@ -13,7 +13,6 @@ weight: 4
 
 <div align="center">
 <img src="https://i.ibb.co/C8NkntZ/1.png" height=250>
-肖威（左二）及同事合影
 </div>
 
 # 中文摘要
