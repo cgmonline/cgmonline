@@ -1,32 +1,31 @@
 ---
 title: "欧洲区预告"
-date: "2021-3-24"
+date: "2021-04-08"
 menu: [top]
 weight: 4
 ---
 
-- 题目：CGM 第145期: 植物器官形成的奥义——转录因子调控中柱鞘细胞的分化
-- 时间：欧洲中部时间 2021年3月24日（星期三）08PM（美国中部时间 3月24日 01PM，北京时间 3月25日 03AM）
+- 题目：CGM 第148期: Systematic inference and comparison of multi-scale chromatin sub-compartments connects spatial organization to cell phenotypes
+- 时间：欧洲中部时间 2021年4月8日（星期四）08PM（美国中部时间 4月8日 12PM，北京时间 4月9日 02AM）
 - Zoom会议 ID：861 0146 4725 密码：269044 
 - Zoom会议链接：https://us06web.zoom.us/j/86101464725?pwd=bXphV2NYdGRZeVRaZys0WnNjczF4Zz09
-- 主讲人：肖威（Wei Xiao），2011-2015年就读于西南大学生物技术专业并获得理学学士学位; 2015-2018年就读于中山大学发育生物学专业并获得理学硕士学位; 现于德国图宾根大学Dr. Laura Ragni 课题组攻读博士学位。
+- 主讲人：刘远龙（Yuanlong LIU），2010-2013：中国科学技术大学，概率论与数理统计，理学硕士；2013-2017：法国国家医学健康研究院（巴黎七大），计算基因组学 PhD，导师 Prof. Florence Dememais；2018-至今：计算基因组学 Postdoc, 导师 Prof. Giovanni Ciriello （瑞士洛桑大学)， Prof. Elisa Oricchio (瑞士洛桑联邦理工学院)
+
 
 <div align="center">
-<img src="https://i.ibb.co/C8NkntZ/1.png" height=250>
+<img src="https://i.ibb.co/hmtx8PW/1617351888382.jpg" height=250>
 </div>
 
-# 中文摘要
+# 摘要
 
-在植物中，裸子植物和大多数双子叶植物的发育过程，包括了初生生长和次生生长。植物的初生生长来源于茎或者根尖的分生组织，可使植物器官的长度增加，并形成具有潜在分化能力的中柱鞘。植物的次生生长，来源于可发育成周皮的栓木形成层和可发育成次生维管束的维管形成层，可使植物体的直径逐年增加。植物中的中柱鞘可以分化形成不同的植物器官，例如：侧根、次生维管束和周皮。植物的周皮作为其外部屏障，可以保护植物免受生物和非生物的胁迫。目前，关于中柱鞘是如何分化并形成不同植物器官的研究很少，有许多空白需要填补。因此，我们课题组使用拟南芥根作为模式生物，研究植物的中柱鞘分化、形成不同植物器官的过程。我们发现生长素会富集在中柱鞘中，并且通过激活下游不同的生长调控模块，使中柱鞘分化并形成不同的植物器官，例如：侧根、维管束或周皮。除此之外，我们还发现，在中柱鞘分化的过程中，这三种植物器官具有复杂的竞争与合作关系，抑制侧根的形成可加速周皮和维管束的发育；而周皮正常发育的先决条件是维管束的正常发育。与此同时，生长素下游的调控因子WUSCHEL 基因家族成员WOX4和KNOX基因家族成员KNAT1/BREVIPEDICELLUS(BP），参与了周皮发育过程。总之，在生长素调控中柱鞘分化的同时，生长素也会通过激活不同的下游因子，影响中柱鞘的细胞发育过程，从而形成不同的植物器官。
+Chromatin compartmentalization reflects biological activity. However, inference of chromatin sub-compartments  and  compartment  domains  from  chromosome  conformation  capture (Hi-C) experiments is limited by data resolution. As a result, these have been characterized only in a few cell types and systematic comparisons across multiple tissues and conditions are missing. Here, we present Calder, an algorithmic approach that enables the identification of multi-scale sub-compartments at variable data resolution. Calder allows to infer and compare chromatin sub-compartments and compartment domains in >100 cell lines. Our results reveal sub-compartments enriched for poised chromatin states and undergoing spatial repositioning during lineage differentiation and oncogenic transformation.
 
 
 
 # 参考文献
 
-1. Campilho A, Nieminen K, Ragni L. 2020. The development of the periderm: The final frontier between a plant and its environment. Curr Opin Plant Biol. 53: 10-14.
+Rao, S. S., Huntley, M. H., Durand, N. C., Stamenova, E. K., Bochkov, I. D., Robinson, J. T., ... & Aiden, E. L. (2014). A 3D map of the human genome at kilobase resolution reveals principles of chromatin looping. Cell, 159(7), 1665-1680.
 
-2. Wunderling A, Ripper D, Barra-Jimenez A, Mahn S, Sajak K, Targem MB, Ragni L. 2018. A molecular framework to study periderm formation in Arabidopsis. New Phytol. 219(1):216-229.
-
-3. Xiao W, Molina D, Wunderling A, Ripper D, Vermeer J, Ragni L. 2020. Pluripotent pericycle cells trigger different growth outputs by integrating developmental cues into distinct regulatory modules. Curr Biol. 30(22): 4384-4398.
+Xiong, K., & Ma, J. (2019). Revealing Hi-C subcompartments by imputing inter-chromosomal chromatin interactions. Nature communications, 10(1), 1-12.
 
 
