@@ -91,18 +91,19 @@
 
 <main>
 <ul>
-<li>题目：CGM 第140期: 关于染色体结构和功能以及转录调控的多组学研究</li>
-<li>时间：美国中部时间 2021年3月03日（星期三）8PM（北京时间3月04日周四 10AM）</li>
+<li>题目：CGM 第143期: 高速高效全基因组关联分析软件BLINK</li>
+<li>时间：美国中部时间 2021年3月17日（星期三）8PM（北京时间3月18日周四 10AM）</li>
 <li>地点：Zoom and Youtube live stream</li>
-<li>主讲人：刁亚锐, 博士, 现任杜克大学细胞生物学系助理教授。刁亚锐博士于2006年从南京大学获得理学学士学位，并于2011年在香港科技大学获得理学博士学位。随后，刁博士在Human Frontier Science Program (HFSP) fellowship的资助下，加入加州大学圣迭戈分校，师从任兵教授进行博士后研究，并与2018年加入杜克大学开展独立研究。刁亚锐博士长期关注表观遗传，转录调控，以及干细胞生物学和组织再生，以第一作者或者共同第一作者在<em>Cell stem cell, Developmental cell, Nature Methods, Nature genetics, Genome research，PNAS</em>等期刊发表多篇研究论文。近年来，刁亚锐博士一直参与Epigenome Roadmap，ENCODE，和4D Nucleome consortium的工作，在开展独立研究之后之后获得NHGRI Genomic Innovator Awards, V Scholar for Cancer Research, American Federation for Aging Research Junior faculty awards以及杜克大学Whitehead scholar。刁亚锐课题组的主要研究方向为开发单细胞多组学，三维基因组学，以及和蛋白组学的新技术，并将这些新技术应用于胚胎干细胞，肌肉干细胞，以及横纹肌肉瘤的模型中，研究染色体高级结构和功能如何参与转录调控，干细胞稳态维持和发育，组织再生和肿瘤发生发展的过程。</li>
+<li>主讲人：黄萌, 博士, 目前在University of Colorado Boulder 任职 Research Associate，从事人类遗传及统计遗传学方面的研究。黄博士在西北农林科技大学动物科技学院获得学士、硕士和博士学位。毕业后在Washington State University从事博士后研究，开发了BLINK软件，该软件已被WSU商业化，用于大型数据的GWAS分析。</li>
 </ul>
 <!-- raw HTML omitted -->
 <h1 id="中文摘要">中文摘要</h1>
-<p>在人类基因组中，通过分析染色体的生物化学修饰，我们已经鉴定和发现了几百万的顺式调控元件(cis-regulatory elements)。这些顺式调控元件为包括启动子（promoter），增强子（enhancer），绝缘子（insulator）以及抑制子（repressor）。绝大部分的顺势调控元件位于基因组的非编码区的“开放”染色质(open chromatin)区域，并对基因转录的时空调控发挥着重要的作用。值得注意的是，过去十多年来，GWAS研究发现了大量的与人类疾病和性状（traits）相关的遗传突变，而其中超过90% 都位于非编码的顺式调控序列，并且显著富集在增强子序列。于是，这些非编码的顺式调控元件怎么调节基因表达以及人类疾病发生发展，就变成了一个非常有意思的研究方向。 越来越多的研究表明，染色体在细胞中并不是一维的线性的结构，而是形成复杂的三维高级结构，染色体的三维结构对于基因转录调控具有极其重要的作用。例如，在一维的染色体序列中，增强子（或者基因组的非编码有害突变）可以与它的靶基因相隔几十万甚至上百万个碱基对，但它们在三维的结构中却距离非常近，从而实现调控靶基因的转录表达。近年来，染色体高级结构的研究进展极大地丰富了我们对于转录调控的认识，同时也带来了更多的挑战：怎样才能系统地鉴定出人类细胞和组织特异性的三维顺式调控图谱（3D cis-regulatory landscape），来帮助我们更深入的理解人类基因组的非编码序列在生理和病理条件下的调控功能。本次报告将要介绍我们最近开发的一个高通量多组学的方法HiCAR，可以有效的检测细胞中染色体开放区域，顺势调控元件的远程相互作用，以及细胞中的转录组。我们将HiCAR应用于人类胚胎干细胞（human embryonic stem cell），发现了一些有趣的染色体三维结构特性。</p>
+<p>GAPIT作为一款基于R语言的GWAS软件，在多个领域，尤其是动植物育种行业，收获了众多的用户。FarmCPU是GAPIT工具箱中的最新的模型，具有统计效力高，速度快的特点。BLINK作为FarmCPU的C语言升级版，对关联位点具有更灵敏的探测能力，而且具备分析超大型数据集的能力，可以使用CPU和GPU进行异构运算。本报告主要介绍FarmCPU和BLINK的模型、原理、实际表现以及使用方法。</p>
 <h1 id="参考文献">参考文献</h1>
-<p>Xiaolin Wei, Yu Xiang, Ruocheng Shan, Derek T Peters, Tongyu Sun, Xin Lin, Wei Li and <strong>Yarui Diao</strong> (2020) Multi-omics analysis of chromatin accessibility and interactions with transcriptome by HiCAR. Doi: <a href="https://doi.org/10.1101/2020.11.02.366062">https://doi.org/10.1101/2020.11.02.366062</a></p>
-<p>主题：CGM 第140期: 关于染色体结构和功能以及转录调控的多组学研究</p>
-<p>时间：美国中部时间 2021年3月03日（星期三）8PM（北京时间3月04日周四 10AM）</p>
+<p><strong>Meng Huang</strong>, Xiaolei Liu, Yao Zhou, Ryan M. Summers, Zhiwu Zhang. BLINK: A Package for Next Level of Genome Wide Association Studies with Both Individuals and Markers in Millions. GigaScience, 2019, 8(2).</p>
+<p>Xiaolei Liu, <strong>Meng Huang</strong>, Bin Fan, Edward S. Buckler, and Zhiwu Zhang. Iterative Usage of Fixed and Random Effect Models for Powerful and Efficient Genome-Wide Association Studies. Plos Genetics, 2016, 12: e1005767.</p>
+<p>主题：CGM 第143期: 高速高效全基因组关联分析软件BLINK</p>
+<p>时间：美国中部时间 2021年3月17日（星期三）8PM（北京时间3月18日周四 10AM）</p>
 <p>Zoom会议 ID：936 3583 3781  密码：207409</p>
 <p>Zoom会议链接：https://zoom.us/j/93635833781?pwd=MDZtU2ZIa2twN0dIeUJ0UmdpUUs5Zz09</p>
 
