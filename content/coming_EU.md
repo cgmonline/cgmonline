@@ -14,7 +14,7 @@ weight: 4
 
 
 <div align="center">
-<img src="https://ibb.co/g6YvW16" height=250>
+<img src="https://i.ibb.co/GFmsMwF/1.jpg" height=250>
 </div>
 
 # 中文摘要
