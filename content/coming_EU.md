@@ -1,31 +1,30 @@
 ---
 title: "欧洲区预告"
-date: "2021-04-08"
+date: "2021-04-21"
 menu: [top]
 weight: 4
 ---
 
-- 题目：CGM 第148期: Systematic inference and comparison of multi-scale chromatin sub-compartments connects spatial organization to cell phenotypes
-- 时间：欧洲中部时间 2021年4月8日（星期四）08PM（美国中部时间 4月8日 12PM，北京时间 4月9日 02AM）
+- 题目：CGM 第151期: From mutations to macroevolution, what we learned from biodiversity genomics
+- 时间：欧洲中部时间 2021年4月21日（星期三）08PM（美国中部时间 4月21日 12PM，北京时间 4月22日 02AM）
 - Zoom会议 ID：861 0146 4725 密码：269044 
 - Zoom会议链接：https://us06web.zoom.us/j/86101464725?pwd=bXphV2NYdGRZeVRaZys0WnNjczF4Zz09
-- 主讲人：刘远龙（Yuanlong LIU），2010-2013：中国科学技术大学，概率论与数理统计，理学硕士；2013-2017：法国国家医学健康研究院（巴黎七大），计算基因组学 PhD，导师 Prof. Florence Dememais；2018-至今：计算基因组学 Postdoc, 导师 Prof. Giovanni Ciriello （瑞士洛桑大学)， Prof. Elisa Oricchio (瑞士洛桑联邦理工学院)
+- 主讲人：张国捷（Guojie ZHANG），2017.09-present: Professor, Department of Biology, University of Copenhagen; 2017.03-2017.08: Associate Professor, Department of Biology, University of Copenhagen; 2015-present: Adjunct Professor, Kunming Institute of Zoology, Chinese Academy of Sciences; 2015-2017: Tenure track Assistant Professor, Department of Biology, University of Copenhagen; 2012-2015: Assistant Professor (Marie Curie International Fellow), Centre for Social Evolution, University of Copenhagen; 2012-2018: Adjunct Associate Director of the China National Genebank, Shenzhen, China
+
 
 
 <div align="center">
-<img src="https://i.ibb.co/hmtx8PW/1617351888382.jpg" height=250>
+<img src="https://ibb.co/g6YvW16" height=250>
 </div>
 
-# 摘要
+# 中文摘要
 
-Chromatin compartmentalization reflects biological activity. However, inference of chromatin sub-compartments  and  compartment  domains  from  chromosome  conformation  capture (Hi-C) experiments is limited by data resolution. As a result, these have been characterized only in a few cell types and systematic comparisons across multiple tissues and conditions are missing. Here, we present Calder, an algorithmic approach that enables the identification of multi-scale sub-compartments at variable data resolution. Calder allows to infer and compare chromatin sub-compartments and compartment domains in >100 cell lines. Our results reveal sub-compartments enriched for poised chromatin states and undergoing spatial repositioning during lineage differentiation and oncogenic transformation.
+生命演化历史横跨40亿年，期间种群更新迭代，最终造就了当今繁茂的生物多样性格局。基因组上的微观变异如何推动生物演化历史和生物多样性格局的形成是演化生物学里重要的问题。微进化和宏进化之间的鸿沟是20世纪前中期演化生物学理论大综合后留下的一道重要疑问。比较基因组学为解决达尔文提出的渐变理论和古生物学提出的间断平衡理论之间的矛盾提供了重要手段。近几年宏观尺度的物种比较基因组学的发展极大的丰富了我们对物种大类群的演化过程和适应性性状产生机制的理解。在此报告中，我将介绍课题组近几年在谱系基因组学上的研究成果，并与大家一起探讨该领域未来发展的可能。
 
 
 
 # 参考文献
 
-Rao, S. S., Huntley, M. H., Durand, N. C., Stamenova, E. K., Bochkov, I. D., Robinson, J. T., ... & Aiden, E. L. (2014). A 3D map of the human genome at kilobase resolution reveals principles of chromatin looping. Cell, 159(7), 1665-1680.
+1.	X. Bi*, K. Wang*, L. Yang*, H. Pan*, H. Jiang*, Q. Wei*, M. Fang, H. Yu, C. Zhu, Y. Cai, Y. He, X. Gan, H. Zeng, D. Yu, Y. Zhu, H. Jiang, Q. Qiu, H. Yang, Y. E. Zhang, W. Wang#, M. Zhu#, S. He#, G. Zhang#. Tracing the molecular footprints of vertebrate terrestrial adaptation in basal ray-fins. Cell, 184, 1377-1391 (2021)
 
-Xiong, K., & Ma, J. (2019). Revealing Hi-C subcompartments by imputing inter-chromosomal chromatin interactions. Nature communications, 10(1), 1-12.
-
-
+2.	S. Feng*, J. Stiller*,  Y. Deng*, J. Armstrong*, et al. Dense sampling of bird diversity increases power of comparative genomics. Nature, 587, 7833 (252-257). (2020).
