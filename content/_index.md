@@ -13,7 +13,7 @@ CGM学术沙龙每周邀请一到两位学者就自己的研究课题进行学�
 
 # About us:
 
-Chinese Genomics Meet-up online (CGM) was launched by several  Chinese scientists in January 2017.  The goal of CGM is to promote communication and collaboration among Chinese researchers whose primary research interest is focusing on genomics. We welcome people from all walks of life interested in (but not limited to) Molecular Biology, Genetics, Genomics, Bioinformatics, Biostatistics, and Evolutionary Biology. 
+Chinese Genomics Meet-up online (CGM) was initiated by several  Chinese scientists in January 2017.  The goal of CGM is to promote communication and collaboration among Chinese researchers whose primary research interest is focusing on genomics. We welcome people from all walks of life interested in (but not limited to) Molecular Biology, Genetics, Genomics, Bioinformatics, Biostatistics, and Evolutionary Biology. 
 
 CGM is an online meet-up activity mainly presented in Chinese; you can follow us by subscribing to our [WeChat Group](https://cgmonline.co/subscribe/) or follow us on [YouTube](https://www.youtube.com/channel/UCk4tsPZOzGkP2IaU4YvUG_g/videos) or [Bilibili](https://space.bilibili.com/298768313) by scanning the below QR code. 
 
