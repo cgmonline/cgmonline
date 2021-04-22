@@ -9,7 +9,7 @@ menu: [main]
 
 华人基因组学在线沙龙(CGM)，由几位在从事基因组学研究的华人学者于2017年1月份发起。旨在增进从事基因组学研究的华人之间的交流、学习和合作。欢迎从事分子生物学、遗传学、基因组学、生物信息学、生物统计学、进化生物学，或其他相关领域的同学（包括本、硕、博和博后）和老师参与。
 
-CGM学术沙龙每周邀请一到两位学者就自己的研究课题进行学术汇报。汇报主要以中文的形式在[YouTube](https://www.youtube.com/channel/UCk4tsPZOzGkP2IaU4YvUG_g/videos) Channel和[Bilibili](https://space.bilibili.com/298768313)播放。**[欢迎加入我们的微信群](http://cgmonline.co/subscribe/)**
+CGM学术沙龙每周邀请一到两位学者就自己的研究课题进行学术汇报。汇报主要以中文的形式在[YouTube](https://www.youtube.com/channel/UCk4tsPZOzGkP2IaU4YvUG_g/videos) Channel和[Bilibili](https://space.bilibili.com/298768313)播放。**[欢迎加入我们的微信群!](http://cgmonline.co/subscribe/)**
 
 # About us:
 
