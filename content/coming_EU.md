@@ -6,7 +6,7 @@ weight: 4
 ---
 
 - 题目：CGM 第151期: From mutations to macroevolution, what we learned from biodiversity genomics
-- 时间：欧洲中部时间 2021年4月21日（星期三）08PM（美国中部时间 4月21日 12PM，北京时间 4月22日 02AM）
+- 时间：欧洲中部时间 2021年4月21日（星期三）08PM（美国中部时间 4月21日 01PM，北京时间 4月22日 02AM）
 - Zoom会议 ID：861 0146 4725 密码：269044 
 - Zoom会议链接：https://us06web.zoom.us/j/86101464725?pwd=bXphV2NYdGRZeVRaZys0WnNjczF4Zz09
 - 主讲人：张国捷（Guojie ZHANG），2017.09-present: Professor, Department of Biology, University of Copenhagen; 2017.03-2017.08: Associate Professor, Department of Biology, University of Copenhagen; 2015-present: Adjunct Professor, Kunming Institute of Zoology, Chinese Academy of Sciences; 2015-2017: Tenure track Assistant Professor, Department of Biology, University of Copenhagen; 2012-2015: Assistant Professor (Marie Curie International Fellow), Centre for Social Evolution, University of Copenhagen; 2012-2018: Adjunct Associate Director of the China National Genebank, Shenzhen, China
