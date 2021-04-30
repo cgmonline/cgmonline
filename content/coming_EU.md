@@ -1,31 +1,28 @@
 ---
 title: "欧洲区预告"
-date: "2021-04-21"
+date: "2021-05-05"
 menu: [top]
 weight: 4
 ---
 
-- 题目：CGM 第151期: From mutations to macroevolution, what we learned from biodiversity genomics
-- 时间：欧洲中部时间 2021年4月21日（星期三）08PM（美国中部时间 4月21日 01PM，北京时间 4月22日 02AM）
+- 题目：CGM 第154期: 单细胞RNA组原位测序技术
+- 时间：欧洲中部时间 2021年5月5日（星期三）8PM（美国中部时间 5月5日 1PM，北京时间 5月6日 2AM）
 - Zoom会议 ID：861 0146 4725 密码：269044 
 - Zoom会议链接：https://us06web.zoom.us/j/86101464725?pwd=bXphV2NYdGRZeVRaZys0WnNjczF4Zz09
-- 主讲人：张国捷（Guojie ZHANG），2017.09-present: Professor, Department of Biology, University of Copenhagen; 2017.03-2017.08: Associate Professor, Department of Biology, University of Copenhagen; 2015-present: Adjunct Professor, Kunming Institute of Zoology, Chinese Academy of Sciences; 2015-2017: Tenure track Assistant Professor, Department of Biology, University of Copenhagen; 2012-2015: Assistant Professor (Marie Curie International Fellow), Centre for Social Evolution, University of Copenhagen; 2012-2018: Adjunct Associate Director of the China National Genebank, Shenzhen, China
-
-
+- 主讲人：千晓雁（Xiaoyan QIAN），2012年于复旦大学获理学学士学位；2014年于瑞典乌普萨拉大学获硕士学位；2019年获博士学位。2017年参与创办新创公司Cartana AB。公司提供原位测序（in situ sequencing）相关试剂盒及服务。博士及Cartana任职期间主攻原位测序影像及数据分析。自Cartana被10x Genomics收购以后，加入10xGenomics，任职高级计算生物学家。
 
 <div align="center">
-<img src="https://i.ibb.co/GFmsMwF/1.jpg" height=250>
+<img src="https://i.ibb.co/0VdgXr1/image.jpg" height=250>
 </div>
 
 # 中文摘要
 
-生命演化历史横跨40亿年，期间种群更新迭代，最终造就了当今繁茂的生物多样性格局。基因组上的微观变异如何推动生物演化历史和生物多样性格局的形成是演化生物学里重要的问题。微进化和宏进化之间的鸿沟是20世纪前中期演化生物学理论大综合后留下的一道重要疑问。比较基因组学为解决达尔文提出的渐变理论和古生物学提出的间断平衡理论之间的矛盾提供了重要手段。近几年宏观尺度的物种比较基因组学的发展极大的丰富了我们对物种大类群的演化过程和适应性性状产生机制的理解。在此报告中，我将介绍课题组近几年在谱系基因组学上的研究成果，并与大家一起探讨该领域未来发展的可能。
+介绍原位测序技术，以及其与目前获得广泛应用的单细胞测序如何互补，将位于组织中的不同细胞进行细胞类型及亚型归类。
+近年来，单细胞测序获得广泛的应用，以期利用细胞相关信息更深入了解复杂生演讲摘要物体。但是单细胞技术要求单个细胞的分离，于是丢失了细胞原来所在位置信息。相反，原位测序在组织原位上对RNA分子进行分析，能保有原来的位置信息。此次演讲将着重于我们如何利用单细胞测序数据获得与细胞类型紧密相关的 RNA分子标记，利用原位测序检测上述分子标记于组织中的分布，并利用新型分析方法将位于组织中的细胞归类为已知细胞类型及亚型。演讲中也会提到其他 Cartana曾参与的项目中，如何采用不同的分析方法可以最大化利用单细胞以及原位测序。
 
-应张老师要求，本期演讲结束后视频不会上传 YouTube 或 Bilibili 等线上平台，欢迎大家观看直播参与活动并禁止录像。
+应千博士要求，本期演讲结束后视频不会上传 YouTube 或 Bilibili 等线上平台，欢迎大家观看直播参与活动并禁止录像。
 
 
 # 参考文献
 
-1.	X. Bi*, K. Wang*, L. Yang*, H. Pan*, H. Jiang*, Q. Wei*, M. Fang, H. Yu, C. Zhu, Y. Cai, Y. He, X. Gan, H. Zeng, D. Yu, Y. Zhu, H. Jiang, Q. Qiu, H. Yang, Y. E. Zhang, W. Wang#, M. Zhu#, S. He#, G. Zhang#. Tracing the molecular footprints of vertebrate terrestrial adaptation in basal ray-fins. Cell, 184, 1377-1391 (2021)
-
-2.	S. Feng*, J. Stiller*,  Y. Deng*, J. Armstrong*, et al. Dense sampling of bird diversity increases power of comparative genomics. Nature, 587, 7833 (252-257). (2020).
+Qian, X., Harris, K.D., Hauling, T. et al. Probabilistic cell typing enables fine mapping of closely related cell types in situ. Nat Methods 17, 101–106 (2020). 
