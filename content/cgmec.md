@@ -8,8 +8,8 @@ weight: 6
 - [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)(评奖委员会主席)，[郝樾](https://yueyvettehao.github.io/) (编辑部， Meeting Minutes)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b) (EC China，CGM Business)，[雷栗](https://twitter.com/lilei0051)（Special Project，HR)， [祁新帅](https://www.linkedin.com/in/xinshuaiqi/) (CGM Business，NGO， Finance)，[刘三震](https://www.plantgenomics.ksu.edu/liulab/)(SC general)，[武志强](http://agis.caas.cn/rctd/yjtd/226826.htm) (EC China)，[杨金良](http://jyanglab.com/)(EC general，website)
 
 ## CGM 北美区执行委员会 (Executive Committee) US
-
-- **01 - 04, 2021：EC NA11 解少俊（组长），陈雨露（联络+主持），端韵成（邀请嘉宾和视频直播），袁玉轩（网站和公众号预告更新）**
+- **05 - 08, 2021：EC NA12 XX（组长），XX（联络+主持），XX（邀请嘉宾和视频直播），XX（网站和公众号预告更新）**
+- 01 - 04, 2021：EC NA11 解少俊（组长），陈雨露（联络+主持），端韵成（邀请嘉宾和视频直播），袁玉轩（网站和公众号预告更新）
 - 09 - 12, 20200：EC NA10 周鹏（组长），[袁梦](https://imengyuan.github.io/)(邀请嘉宾和视频直播），彭浩然（联络+主持），王凯(网站和公众号预告更新)
 - 05 - 08, 2020：EC NA9 郑子豪（组长），杨小灵（联络+主持），吕菁（公众号协调），周鹏（技术）
 - 01 - 04, 2020：EC NA8 狄晨露（组长），苏维佳（公众号协调），郑子豪（联络），[袁梦](https://imengyuan.github.io/)（技术）
