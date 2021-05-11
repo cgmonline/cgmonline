@@ -10,10 +10,6 @@ weight: 3
 - 地点：Zoom and Youtube live stream
 
 
-<div align="center">
-<img src="https://i.loli.net/2021/04/27/uYPogGDCZM6zREl.jpg" height=250>
-</div>
-
 # 中文摘要
 
 作为学术新人的你，面对回国求职是否手足无措？是否对疫情下的很多不定因素感觉担忧? 是否手足无措？如何开始准备材料? 如何联系国内的单位? 如何在不同的offer中进行选择?
