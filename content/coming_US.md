@@ -18,9 +18,7 @@ weight: 3
 
 神经细胞是人体内寿命最长的有丝分裂后体细胞， 它们不进行DNA复制，只能依靠DNA修复机制来维持基因组保真度。这些修复机制随着年龄的增长而下降，可以导致基因组功能受损，引起认知能力下降和神经退行性疾病。然而目前对于神经细胞的基因组不稳定性以及是如何进行修复的知识仍然非常有限。我们开发了两个高通量测序技术SAR-seq和ddN S1-END-seq来对神经细胞的内源性DNA损伤及修复过程进行检测，来研究几个问题：神经细胞内源的DNA损伤在基因组上什么位置，损伤的类型是什么，是如何被修复的以及来源。
 
-##### 关键词
-
-Single strand breaks (SSBs), Base excision repair (BER),  Neurodegenerative diseases
+**关键词**: Single strand breaks (SSBs), Base excision repair (BER),  Neurodegenerative diseases
 
 # 参考文献
 
