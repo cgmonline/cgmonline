@@ -22,6 +22,6 @@ weight: 3
 
 # 参考文献
 
-Wu, W.#, Hill, S. E.#, Nathan, W.#, ..., Caldecott, K.\*, Ward, M.\* & André Nussenzweig\*. Neuronal enhancers are hotspots for DNA single-strand break repair. 2021. Nature. 1-5. (DOI[https://doi.org/10.1038/s41586-021-03468-5])
+Wu, W.#, Hill, S. E.#, Nathan, W.#, ..., Caldecott, K.\*, Ward, M.\* & André Nussenzweig\*. Neuronal enhancers are hotspots for DNA single-strand break repair. Nature. 2021: 1-5. https://doi.org/10.1038/s41586-021-03468-5
 
 *(# 共同一作；\* 共同通讯作者)*
