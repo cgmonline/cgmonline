@@ -11,7 +11,7 @@ weight: 3
 - 主讲人：吴薇博士，2012年毕业于华中科技大学，2017年于中国科学院生物物理研究所获得生信博士学位，师从陈润生院士，目前在美国癌症研究中心André Nussenzweig(美国医学院院士)课题组进行博士后研究，研究方向主要为DNA损伤修复。
 
 <div align="center">
-<img src="https://ibb.co/gWwsHKN" height=250>
+<img src="https://i.ibb.co/nzYp9TC/1.jpg" height=250>
 </div>
 
 # 中文摘要
