@@ -1,27 +1,26 @@
 ---
 title: "欧洲区预告"
-date: "2021-05-19"
+date: "2021-06-02"
 menu: [top]
 weight: 4
 ---
 
-- 题目：CGM 第157期: 肠道菌群与心血管健康
-- 时间：欧洲中部时间 2021年5月19日（星期三）8PM（美国中部时间 5月19日 1PM，北京时间 5月20日 2AM）
+- 题目：CGM 第161期: 通过空间转录组学和原位测序研究阿尔茨海默氏病
+- 时间：欧洲中部时间 2021年6月2日（星期三）8PM（美国中部时间 6月2日 1PM，北京时间 6月3日 2AM）
 - Zoom会议 ID：861 0146 4725 密码：269044 
 - Zoom会议链接：https://us06web.zoom.us/j/86101464725?pwd=bXphV2NYdGRZeVRaZys0WnNjczF4Zz09
-- 主讲人：陈连民，2014年于扬州大学获学士学位；2017年于扬州大学获硕士学位；2021年于格罗宁根大学获博士学位。当前于南京医科大学&江苏省人民医院任职，主要从事肠道菌群在心血管病中作用机制研究。
+- 主讲人：陳暐婷（Wei-Ting Chen）2008年于 National Taiwan University 获学士学位；2010年于 National Yang-Ming University 获硕士学位；2014年于 Academia Sinica 获博士学位。2015年在 National Yang-Ming University 从事博士后工作（师从 Prof. Irene Han-Juo Cheng），主要研究方向为 Neuroinflammation in Alzheimer's disease 以及 Induced pluripotent stem cells (iPS cell)；2016年至2020年在 Belgium Leuven 从事博士后工作（师从 Prof. Bart De Strooper)，主要研究方向为 Spatial Transcriptomics, In-situ sequencing 以及 Single cell RNA-Seq。2020年6月至今在 Belgium VIB-KU 从事 Staff scientist。
 
 <div align="center">
-<img src="https://i.ibb.co/Sn0hHhj/1.jpg" height=250>
+<img src="https://i.ibb.co/hBggfm2/1622055988078.jpg" height=250>
 </div>
 
 # 中文摘要
 
-心血管等代谢性疾病影响超20%全球人口，其引起的心、脑、肾和血管等损伤严重危害患者生活质量。作为复杂性疾病中的重要类别之一，早期对影响心血管健康因素的研究主要集中在遗传方面，即染色体特定位点遗传变异是否与心血管病发病风险相关，从而开发靶向遗传缺陷的药物以缓解病症。而基于大型人群队列研究发现人体遗传变异对心血管病的贡献率普遍低于10%，意味着仍有其他因素在心血管健康中起重要角色。除自身遗传因素外，近来研究表明肠道中定殖的与人体细胞数量相当的菌群，且个体间肠道菌群差异与宿主心血管健康相关。此报告将介绍本人所在课题组近年来在肠道菌群影响宿主心血管健康的研究进展，并与大家探讨该领域的未来发展方向。
+以最新的前沿技术探讨类淀粉乙型蛋白在阿兹海默症中扮演的角色，我们假设类淀粉蛋白仅仅是疾病的启动者并非是最终的驱动者，类淀粉蛋白的沉积会引发多细胞协同的病理机制，而此机制最终可独立于蛋白沉积而存在，因此即便在晚期移除蛋白沉积，细胞的病变仍旧驱动疾病的进程。此研究结果找出由类淀粉蛋白沉积所引发的多细胞共组病理机制，此机制由57基因组成，代表着补体系统的活化、溶解酶失调以及氧化压力的反应。这项研究结果第一次将两种前沿技术结合，并用于回答阿兹海默症一世纪以来无法用传统技术回答的问题，在产学界皆获得注目。
 
-应陈博士要求，本期演讲结束后视频不会上传 YouTube 或 Bilibili 等线上平台，欢迎大家观看直播参与活动并禁止录像。
 
 
 # 参考文献
 
-Chen et al. The long-term genetic stability and individual specificity of the human gut microbiome. Cell, 2021, 184(9):2302–2315.
+Chen W-T, Lu A, Craessaerts K, Pavie B, Sala Frigerio C, Corthout N, Qian X, Laláková J, Kühnemund M, Voytyuk I, et al. (2020) Spatial Transcriptomics and In Situ Sequencing to Study Alzheimer’s Disease. Cell 182: 976-991.e19.
