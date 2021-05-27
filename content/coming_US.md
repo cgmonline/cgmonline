@@ -11,7 +11,7 @@ weight: 3
 - 主讲人：TBA
 
 <div align="center">
-<img src="https://i.ibb.co/khgRkpD/1.jpg" height=250>
+<img src="" height=250>
 </div>
 
 # 中文摘要
