@@ -30,5 +30,5 @@ Chunlong Xu et al, Programmable RNA editing with compact CRISPR-Cas13 systems fr
 
 ### 参加方式
 
-- Zoom会议ID：890 6369 1477
-- 密码：681174
+- Zoom会议ID：936 3583 3781
+- 密码：207409
