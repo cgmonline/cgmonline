@@ -16,7 +16,7 @@ weight: 9
 
 ## 2020年度Silver赞助伙伴：未来组
 
-[![未来组](https://www.grandomics.com/wp-content/themes/grandomics/images/layout/logo.png)](https://www.nextomics.cn/)
+[![未来组](https://imgur.com/7rlx9A6.png)](https://www.nextomics.cn/)
 
 ----------------
 
