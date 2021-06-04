@@ -8,7 +8,7 @@ weight: 4
 - 题目：CGM 第161期 新型CRISPR/Cas13 RNA编辑系统的挖掘与改造
 - 时间：美国中部时间 2021年06月09日（星期三）8PM（北京时间06月10日 星期四 9AM）
 - 地点：Zoom and YouTube live stream
-- Zoom会议链接: https://us06web.zoom.us/j/89063691477?pwd=aHlvSmU0MFJFcDUrMHZwK0tQOVFodz09
+- Zoom会议链接: https://us06web.zoom.us/j/93635833781?pwd=MDZtU2ZIa2twN0dIeUJ0UmdpUUs5Zz09
 - 主讲人：胥春龙博士，2011年毕业于江西农业大学，2018于中国农业大学获得博士学位，2015-2017年分别在美国俄勒冈健康与科学大学和斯隆-凯特琳癌症研究中心进行研究生联合培养，目前在中国科学院脑科学与智能技术卓越创新中心灵长类疾病模型研究组进行博士后研究，研究方向为基因编辑工具开发与应用。
 
 <div align="center">
