@@ -12,7 +12,7 @@ weight: 4
 - 主讲人：管栋印博士，2015年于美国凯斯西储大学（Case Western Reserve University）获得博士学位，2015-2021年在美国宾夕法尼亚大学（University of Pennsylvania）进行博士后研究，师从美国科学院院士Mitchell A Lazar, 2021年贝勒医学院（Baylor College of Medicine）Assistant Professor。过去五年以第一作者在Science，Cell, PNAS等杂志上发表多篇高水平论文。主要从事代谢，肿瘤，节律相关的功能基因组学。
 
 <div align="center">
-<img src="https://ibb.co/kxmyHB9.png" height=250>
+<img src="https://i.ibb.co/2yZ6nhs/dongyin.jpg" height=250>
 </div>
 
 # 中文摘要
