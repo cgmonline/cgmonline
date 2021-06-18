@@ -6,7 +6,7 @@ weight: 4
 ---
 
 - 题目：CGM 第164期 生物钟中的表观遗传学和转录组学
-- 时间：美国中部时间 2021年06月23日（星期三）8PM（北京时间06月23日 星期四 9AM）
+- 时间：美国中部时间 2021年06月23日（星期三）8PM（北京时间06月24日 星期四 9AM）
 - 地点：Zoom and YouTube live stream
 - Zoom会议链接: https://us06web.zoom.us/j/93635833781?pwd=MDZtU2ZIa2twN0dIeUJ0UmdpUUs5Zz09
 - 主讲人：管栋印博士，2015年于美国凯斯西储大学（Case Western Reserve University）获得博士学位，2015-2021年在美国宾夕法尼亚大学（University of Pennsylvania）进行博士后研究，师从美国科学院院士Mitchell A Lazar, 2021年贝勒医学院（Baylor College of Medicine）Assistant Professor。过去五年以第一作者在Science，Cell, PNAS等杂志上发表多篇高水平论文。主要从事代谢，肿瘤，节律相关的功能基因组学。
