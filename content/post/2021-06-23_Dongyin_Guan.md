@@ -1,11 +1,15 @@
 ---
-title: "北美区预告"
+title: "CGM 第165期 生物钟中的表观遗传学和转录组学"
 date: "2021-06-23"
-menu: [top]
-weight: 4
+archive: ["2021","2021-06","2021-06-23"]
+categories:
+  - 学术报告
+tags: [circadian rhythm, epigenomics, transcriptome, metabolism]
+show_comments: true
+thumbnail: ""
 ---
 
-- 题目：CGM 第164期 生物钟中的表观遗传学和转录组学
+- 题目：CGM 第165期 生物钟中的表观遗传学和转录组学
 - 时间：美国中部时间 2021年06月23日（星期三）8PM（北京时间06月24日 星期四 9AM）
 - 地点：Zoom and YouTube live stream
 - Zoom会议链接: https://us06web.zoom.us/j/93635833781?pwd=MDZtU2ZIa2twN0dIeUJ0UmdpUUs5Zz09
@@ -20,16 +24,16 @@ weight: 4
 为了适应地球自转引起的每天的环境变化（例如光照和温度），各类生物进化一种保守性的生物钟。这些生物钟存在于几乎每个细胞中。但是生物钟对周边组织代谢的调控和外在的环境对生物钟的影响仍然是领域的热点问题。这次讲座，主讲人将从表观遗传学和转录组学的角度来回答这些问题。
 
 
-**关键词**: 
-
-circadian rhythm, epigenomics, transcriptome, metabolism  
 
 # 参考文献
 
 1.	Guan D, Xiong Y, Trinh TM, Xiao Y, Hu W, Jiang C, Dierickx P, Jang C, Rabinowitz JD, Lazar MA. The Hepatocyte Clock and Feeding Control Chronophysiology of Multiple Liver Cell Types. Science. 2020 Sep 11; 369(6509):1388-1394.
 2.	Guan D, Xiong Y, Borck PC, Jang C, Doulias PT, Papazyan R, Fang B, Jiang C, Zhang Y, Briggs ER, Hu W, Steger D, Ischiropoulos H3, Rabinowitz JD, Lazar MA. Diet-induced circadian enhancer remodeling synchronizes opposing hepatic lipid metabolic processes. Cell. 2018 Aug 9;174(4):831-842. (Highlighted in the same issue of Cell)	
 
-### 参加方式
+# YouTube
 
-- Zoom会议ID：936 3583 3781
-- 密码：207409
+{{< youtube id="q3_8xpfkIgg" autoplay="false" >}}
+
+# Bilibili
+
+{{< bilibili id="BV1FV411x7fn" autoplay="false" >}}
