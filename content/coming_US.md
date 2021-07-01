@@ -11,7 +11,7 @@ weight: 4
 - 主讲人：蔡黎明博士，2020年毕业于哈佛大学进化生物学系，目前在加州大学河滨分校从事有关虫瘿形成机制的博士后研究。个人网站：[https://lmcai.weebly.com/](https://lmcai.weebly.com/)
 
 <div align="center">
-<img src="https://i.ibb.co/2yZ6nhs/" height=250>
+<img src="https://i.ibb.co/khMSxgL/US168-Cailiming.jpg" height=250>
 </div>
 
 # 中文摘要
