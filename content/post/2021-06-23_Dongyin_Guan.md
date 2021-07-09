@@ -4,7 +4,7 @@ date: "2021-06-23"
 archive: ["2021","2021-06","2021-06-23"]
 categories:
   - 学术报告
-tags: [circadian rhythm, epigenomics, transcriptome, metabolism]
+tags: [talks, circadian rhythm, epigenomics, transcriptome, metabolism]
 show_comments: true
 thumbnail: ""
 ---
