@@ -1,43 +1,52 @@
 ---
 title: "中国区预告"
-date: "2021-06-30"
+date: "2021-07-14"
 menu: [top]
 weight: 3
 ---
 
-- 题目：CGM 第167期: 高质量喜树基因组揭示喜树碱合成通路的进化
-- 时间：美国中部时间 2021年6月30日（星期三）7AM（北京时间6月30日9PM）
+- 题目：CGM 第170期: 人类基因组遗传总效应评估
+- 时间：美国中部时间 2021年7月14日（星期三）7AM（北京时间7月14日9PM）
 - 地点：Tecent and Bilibili live stream
-- 主讲人：康明辉，2013年至2017年于四川大学生物科学专业获得学士学位。2017年至今于四川大学生物学专业生物信息学方向攻读博士学位。主要研究方向为药用植物基因组学与进化。
-
+- 主讲人：黎婷，2018年至今于中山大学生命科学学院攻读生物信息学博士学位（硕博连读）。主要研究方向为统计遗传学、数量遗传学。
 
 <div align="center">
-<img src="https://i.loli.net/2021/06/30/xfWOY9bv6JKVaQD.jpg" height=250>
+<img src="https://i.loli.net/2021/07/10/LUvyxjPAbRqw3nc.png" height=250>
 </div>
 
 # 中文摘要
 
-喜树碱（Camptothecin）及其衍生物是一类被广泛用作治疗多种恶性肿瘤的单萜吲哚生物碱，是仅次于紫杉醇的第二大木本类抗肿瘤药物。1966年首次从喜树（Camptotheca acuminata）中分离出来。喜树碱通过选择性地与拓扑异构酶I结合并阻止DNA链的重新连接，从而有效抑制肿瘤细胞的增殖。由于具有较高的经济价值和药用价值，喜树碱及其衍生物的生物合成和化学合成途径也成为了近年来研究的热点问题。但由于缺乏高质量的基因组序列，通路相关的候选基因筛选和喜树中喜树碱生物合成通路进化相关的研究受到了一定的限制。
-我们首先通过PacBio和HiC技术组装注释了高质量染色体级别的喜树基因组，在准确性、连续性和基因注释上均优于先前发表的基于Illumina平台的二代基因组版本。进化分析显示，在与马缨杜鹃分化之后，喜树在约70百万年前经历了一次独立的全基因组复制事件。该全基因组复制和串联重复也是喜树中基因家族扩张的主要原因，其中包括一些与喜树碱合成相关的关键酶编码基因，例如7-脱氧葡萄糖酸 7-羟化酶（7-DLH），断马钱子酸合酶（SLAS）等。
-为了进一步研究喜树中喜树碱生物合成通路的进化，我们基于功能注释和基因家族分析鉴定了更为完整的喜树碱合成相关候选基因集，包括可能与后续合成相关的细胞色素P450（CYP450）酶家族编码基因。与吲哚生物碱合成代表物种长春花（Catharanthus roseus）的生物合成通路相比，两种途径都使用相似的酶生成复杂的中间有机分子，但在生成马钱苷酸（loganic acid）之后，两者出现了分歧。在长春花中，马钱苷酸（loganic acid）首先通过马钱苷酸甲基转移酶（LAMT）转化为马钱苷（loganin），进一步通过断马钱子苷合酶（SLS）生成断马钱子苷（secologanin），而喜树中马钱苷酸（loganic acid）直接被断马钱子酸合酶（SLAS）转化为断马钱子酸（secologanic acid），出现这种差异的原因可能就是喜树中LAMT和SLAS出现了功能分化。
-为了研究出现这种进化分歧的分子机制，我们首先模拟了喜树中CaLAMT的蛋白三维结构，比较发现，CaLAMT中特有的与马钱苷酸结合相关关键位点的突变可能导致其无法稳定的结合底物，酶活实验也表明这些位点的突变会严重影响LAMT的活性。另外，喜树中的两个SLAS在先前研究中被证明同时具有SLS和SLAS的活性，结合与其他物种SLS编码基因的序列比对和选择压力分析结果，研究人员发现，这可能是喜树的SLAS编码基因经历了较强的正选择，导致功能结构域突变的结果，而两个SLAS之间的活性差异可能是由于全基因组复制之后的亚功能化导致的。因此，LAMT的功能差异和SLAS编码基因的正向进化都对喜树中的喜树碱高效生物合成具有很大贡献。
-综上所述，该研究揭示了喜树中喜树碱生物合成通路可能的分子进化机制，发现高质量基因组组装在识别新次级代谢物进化起源中的遗传变化具有十分关键的作用(Kang et al., 2021)。
+遗传多效性（Pleiotropy）是有着超过一个多世纪历史的遗传学概念【1】，描述一个DNA变异或基因同时影响多个性状的现象。近十五年，大量的全基因组关联研究（Genome-Wide Association Studies，GWAS）表明人类的复杂性状普遍具有“微效多基因”的遗传图谱——即受许多基因及变异的影响，而每个基因及变异对复杂性状的效应十分微小【2】。从而，基因组中大量的变异普遍具有遗传多效性。那么，对于我们所研究的各种人类性状，哪个变异或基因对我们的影响最大呢？
+现有的GWAS结果可以帮助我们回答这一问题，但却并非易事。在综合考虑遗传变异或基因对很多性状的影响时，如何将微小的遗传效应（Genetic Effect）与数据中的噪声（Noise）区别开有很大难度。我们通常可以对GWAS结果根据其统计学显著性人为设定一个阈值，但这样简单的手段并不能有效地区分遗传效应的有无。GWAS是典型的多重检验问题，使用宽松的阈值（如P < 0.05）显然会导致过多的假阳性，而严格的阈值（例如常用的基因组显著性水平P < 5×10−8）则会导致过多的假阴性【3】。然而，若直接舍弃显著性阈值，直接将所有表型的遗传效应直接相加也会引入过多的来自无遗传效应变异的噪声【4】。此外，不同性状之间的相关性也需要被合理地考虑。
+本研究开发了一种不依赖统计阈值来估计单个变异总遗传效应的新方法（Total Genetic Contribution Assessment, TGCA)【5】，解决了上述困难，并对 UK Biobank 中各类性状进行了全基因组各个变异遗传总效应评估。
 
-
+这项研究中，作者运用混合分布模型对单个遗传变异在多个性状上的遗传效应进行统计建模，将遗传效应分为正遗传效应、无遗传效应、以及负遗传效应三个部分。该模型在区分有无遗传效应的同时，同时考虑了遗传效应影响的广度（即遗传多效性）和遗传效应影响的深度（即遗传效应的大小）。通过对混合分布模型的拟合，作者利用估计得到的正负遗传效应的比例及均值，设计出一个新的总遗传效应统计量（TGCA Θ），并通过大量的模拟计算证明了TGCA方法可以在各种情况下有效地估计总遗传效应。
+作者运用TGCA方法评估了全基因组各个遗传变异对UK Biobank中五类复杂性状或疾病的总遗传效应，包括医疗健康情况（122个性状）、体格特征（117个性状）、生活方式（172个性状）、心理健康情况（189个性状）、以及饮食状况（139个性状），提供了全基因组遗传变异对五种类型性状总贡献的图谱。研究发现，人类HLA位点对健康相关性状有最突出的遗传效应，骨密度位点WNT16对体格特征性状有最突出效应，而皮肤着色位点MC1R和吸烟易感位点CHRNA3对生活方式相关性状有突出的遗传效应。
+此外，作者通过将遗传变异对各类性状的总遗传效应与GTEx中48个人体组织的基因表达数据进行整合，检验了总遗传效应在组织器官中的富集程度，从而将总遗传效应关联到组织器官水平。例如，研究发现，心理健康相关性状的整体遗传效应在大脑特异表达的基因中富集，而其他类型性状的整体遗传效应在大脑中无显著富集。已有研究表明基因和蛋白质表达的顺式调控元件集中在转录起始位点附近【6】，而这些区域富集了复杂性状的遗传力【7】。研究发现，如果一个特定的组织富集了某一类型性状的总遗传效应，则在这一组织特异表达的基因的顺式调控位点（cis-eQTL）也同样富集这一类型性状的总遗传效应，从而说明总遗传效应与人体组织的关联是由组织特异表达基因的顺式调控元件驱动的。
 
 
 # 参考文献
 
-Kang M, Fu R, Zhang P, et al. A chromosome-level Camptotheca acuminata genome assembly provides insights into the evolutionary origin of camptothecin biosynthesis[J]. Nature Communications, 2021, 12(1): 1-12.
+1. Plate, L. Genetics and Evolution (Festschrift Zum Sechzigsten Geburtstag Richard Hertwigs (in German)) (Fischer, 1910).
 
+2. Visscher, P. M. et al. 10 years of GWAS discovery: biology, function, and translation. Am. J. Hum. Genet. 101, 5–22 (2017).
 
+3. Yang, C., Li, C., Wang, Q., Chung, D. & Zhao, H. Implications of pleiotropy: challenges and opportunities for mining Big Data in biomedicine. Front. Genet. 6, 229 (2015).
 
-主题：CGM 第167期: 高质量喜树基因组揭示喜树碱合成通路的进化
+4.  Jordan, D. M., Verbanck, M. & Do, R. HOPS: a quantitative score reveals pervasive horizontal pleiotropy in human genetic variation is driven by extreme polygenicity of human traits and diseases. Genome Biol.20, 222 (2019).
 
-时间：美国中部时间 2021年6月30日（星期三）7AM（北京时间6月30日9PM）
+5. Li, T., Ning, Z., Yang, Z. et al. Total genetic contribution assessment across the human genome. Nat Commun 12, 2845 (2021).
 
-腾讯会议 ID：724 213 085
+6. Sun, B. B. et al. Genomic atlas of the human plasma proteome. Nature 558, 73–79 (2018).
 
-腾讯会议链接：https://meeting.tencent.com/s/iZr92SewYWjt
+7. Hilary Finucane, Brendan Bulik-Sullivan, et al. Partitioning heritability by functional category using GWAS summary statistics. Nature Genetics, 47, 1228–1235 (2015).
+
+主题：CGM 第170期: 人类基因组遗传总效应评估
+
+时间：美国中部时间 2021年7月14日（星期三）7AM（北京时间7月14日9PM）
+
+腾讯会议 ID：439 296 925
+
+腾讯会议链接：https://meeting.tencent.com/s/6avVbH06kVVR
 
 
