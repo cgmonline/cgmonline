@@ -1,27 +1,25 @@
 ---
 title: "欧洲区预告"
-date: "2021-07-14"
+date: "2021-07-28"
 menu: [top]
 weight: 4
 ---
 
-- 题目：CGM 第169期: 合成表观遗传学：利用合成生物学解析组蛋白变体密码
-- 时间：欧洲中部时间 2021年7月14日（星期三）8PM（美国中部时间 7月14日 1PM，北京时间 7月15日 2AM）
+- 题目：CGM 第172期: 细胞表面和胞内受体相互促进增强植物免疫力
+- 时间：欧洲中部时间 2021年7月28日（星期三）8PM（美国中部时间 7月28日 1PM，北京时间 7月29日 2AM）
 - Zoom会议 ID：861 0146 4725 密码：269044 
 - Zoom会议链接：https://us06web.zoom.us/j/86101464725?pwd=bXphV2NYdGRZeVRaZys0WnNjczF4Zz09
-- 主讲人：雷秉坤，目前在奥地利科学院孟德尔研究所（GMI）从事博士后研究工作。2004至2008年于陕西师范大学获得学士学位，2008至2014年于复旦大学获得博士学位，2014至2021年在奥地利科学院孟德尔研究所（GMI）从事博士后研究工作。雷秉坤博士的主要研究内容是以H2A.W组蛋白变体作为研究模型，使用裂殖酵母（染色质天然不含 H2A.W）来研究将将酵母H2A 与 KSPK 基序结合的工程嵌合体的影响，从而利用合成生物学解析组蛋白变体密码。
+- 主讲人：敖博文(Bruno Pok Man Ngou)，Previous PhD student from The Sainsbury Laboratory, currently a post-doc.
 
 <div align="center">
-<img src="https://i.ibb.co/jgKWh7Y/oznorWO.jpg" height=250>
+<img src="https://i.ibb.co/Bsn9bKf/1.jpg" height=250>
 </div>
 
-# 中文摘要
+# 摘要
 
-染色质结构和功能的动态调控网络是由多种表观遗传修饰因子协同作用完成，包括组蛋白变体、组蛋白翻译后修饰、DNA/RNA修饰、染色质重塑复合物等。这其中，随着“组蛋白变体密码”假说的提出，越来越多的研究表明组蛋白变体序列进行快速进化，赋予染色质结构和功能的多样性，完成对遗传信息的编码存储和读取表达过程，在细胞命运决定和重大疾病进展中发挥重要作用。我们通过对酵母染色体的人工改造，证实了组蛋白变体H2A.W的进化起源序列，特异性引起异染色质的功能重建，这项工作进一步加快了合成生物学新技术在染色质功能改造中的应用研究，为组蛋白变体的功能解析提供新的研究思路。
-
+The plant immune system involves cell-surface receptors that detect intercellular pathogen-derived molecules, and intracellular receptors that activate immunity upon detection of pathogen-secreted effector proteins that act inside the plant cell. Immunity mediated by surface receptors has been extensively studied, but that mediated by intracellular receptors has rarely been investigated in the absence of surface-receptor-mediated immunity. Furthermore, interactions between these two immune pathways are poorly understood. Here, by activating intracellular receptors without inducing surface-receptor-mediated immunity, we analyse interactions between these two distinct immune systems in Arabidopsis. Pathogen recognition by surface receptors activates multiple protein kinases and NADPH oxidases, and we find that intracellular receptors primarily potentiate the activation of these proteins by increasing their abundance through several mechanisms. Likewise, the hypersensitive response that depends on intracellular receptors is strongly enhanced by the activation of surface receptors. Activation of either immune system alone is insufficient to provide effective resistance against the bacterial pathogen Pseudomonas syringae. Thus, immune pathways activated by cell-surface and intracellular receptors in plants mutually potentiate to activate strong defences against pathogens. These findings reshape our understanding of plant immunity and have broad implications for crop improvement.
 
 
 # 参考文献
-Lei B, Capella M, Montgomery SA, Borg M, Osakabe A, Goiser M, et al. A Synthetic Approach to Reconstruct the Evolutionary and Functional Innovations of the Plant Histone Variant H2A.W. Current Biology. 2021;31(1):182–91.e5
-Schmücker A#, Lei B#, Lorković ZJ, Capella M, Braun S, et al. (2021) Crosstalk between H2A variant-specific modifications impacts vital cell functions. PLoS Genetics 17(6): e1009601.
+Ngou, B.P.M., Ahn, HK., Ding, P. et al. Mutual potentiation of plant immunity by cell-surface and intracellular receptors. Nature 592, 110–115 (2021). https://doi.org/10.1038/s41586-021-03315-7
 
