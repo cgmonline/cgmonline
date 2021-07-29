@@ -5,25 +5,37 @@ menu: [top]
 weight: 4
 ---
 
-- 题目：CGM 第174期 TBA
+- 题目：CGM 第174期 无膜细胞器——液液相分离在植物免疫中的调控作用
 - 时间：美国中部时间 2021年08月04日（星期三）8AM（北京时间08月04日 星期三 9PM）
 - 地点：Zoom and YouTube live stream
-- 主讲人：TBA
+- 主讲人：黄帅博士，2016年毕业于加拿大英属哥伦比亚大学植物系，目前在耶鲁大学/霍华德·休斯医学研究所从事博士后工作，研究方向为生物体自发免疫。
+
+- 
 
 <div align="center">
-<img src="https://i.ibb.co/" height=250>
+<img src="https://i.ibb.co/DGbc4kh/photo-Copy-2.jpg" height=250>
 </div>
 
 # 中文摘要
+细胞是生命体的基本结构，为个体生存提供物质保障。然而细胞内的环境是非常拥堵的。为了行使正常的活动，细胞通过生物膜
+包裹的细胞器分隔胞内的环境和各种生化反应。然而并不是所有的细胞活动都是膜介导的。细胞生物学领域的一个新兴方向发现细胞
+可以通过液液相分离形成“无膜细胞器”，而对他们的功能性研究才刚刚开始。
+
+通过生物信息学、分子生物学、细胞生物学、生物化学以及结构生物学研究，我们筛选出了一个新的植物免疫蛋白家族。这一
+蛋白家族成员可以进行液液相分离并形成一种新的“无膜细胞器”。这一新的结构类似多聚物胶体，可以形成一种保护机制促进抗病基因的表达和调控。
+
 
 
 
 **关键词**:
 
-
+Plant immunity, liquid-liquid phase separation, membraneless organelles, immune circuit, gene expression
 
 # 参考文献
 
+Huang, S., et al. A phase-separated nuclear GBPL circuit controls immunity in plants. (2021) Nature. 594: 424–429. DOI: 10.1038/s41586-021-03572-6.
+
+Huang, S., et al. Cell-autonomous immunity by IFN-induced GBPs in animals and plants. (2019) Current Opinion in Immunology. 60:71-80. DOI:10.1016/j.coi. 2019.04.017.
 
 
 # 参加方式
