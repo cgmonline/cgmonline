@@ -1,25 +1,25 @@
 ---
 title: "欧洲区预告"
-date: "2021-07-28"
+date: "2021-08-12"
 menu: [top]
 weight: 4
 ---
 
-- 题目：CGM 第172期: 细胞表面和胞内受体相互促进增强植物免疫力
-- 时间：欧洲中部时间 2021年7月28日（星期三）8PM（美国中部时间 7月28日 1PM，北京时间 7月29日 2AM）
+- 题目：CGM 第175期: Nurse cell-derived small RNAs define paternal epigenetic inheritance in Arabidopsis
+- 时间：欧洲中部时间 2021年8月12日（星期四）2PM（美国中部时间 8月12日 7AM，北京时间 8月12日 8PM）
 - Zoom会议 ID：861 0146 4725 密码：269044 
 - Zoom会议链接：https://us06web.zoom.us/j/86101464725?pwd=bXphV2NYdGRZeVRaZys0WnNjczF4Zz09
-- 主讲人：敖博文(Bruno Pok Man Ngou)，Previous PhD student from The Sainsbury Laboratory, currently a post-doc.
+- 主讲人：龙金成(Jincheng Long)，2008至2012年于中国农业大学获得学士学位；2012-2018年于中国农业大学获得博士学位；2018年至今在英国John Innes Centre（约翰英纳斯研究所）从事博士后研究工作。博士后主要专注于研究模式植物拟南芥中雄性生殖细胞DNA甲基化重编程发生的分子机理。
 
 <div align="center">
-<img src="https://i.ibb.co/Bsn9bKf/1.jpg" height=250>
+<img src="https://i.ibb.co/jZ5BQxZ/Jincheng-Long.jpg" height=250>
 </div>
 
-# 摘要
+# 中文摘要
 
-The plant immune system involves cell-surface receptors that detect intercellular pathogen-derived molecules, and intracellular receptors that activate immunity upon detection of pathogen-secreted effector proteins that act inside the plant cell. Immunity mediated by surface receptors has been extensively studied, but that mediated by intracellular receptors has rarely been investigated in the absence of surface-receptor-mediated immunity. Furthermore, interactions between these two immune pathways are poorly understood. Here, by activating intracellular receptors without inducing surface-receptor-mediated immunity, we analyse interactions between these two distinct immune systems in Arabidopsis. Pathogen recognition by surface receptors activates multiple protein kinases and NADPH oxidases, and we find that intracellular receptors primarily potentiate the activation of these proteins by increasing their abundance through several mechanisms. Likewise, the hypersensitive response that depends on intracellular receptors is strongly enhanced by the activation of surface receptors. Activation of either immune system alone is insufficient to provide effective resistance against the bacterial pathogen Pseudomonas syringae. Thus, immune pathways activated by cell-surface and intracellular receptors in plants mutually potentiate to activate strong defences against pathogens. These findings reshape our understanding of plant immunity and have broad implications for crop improvement.
+拟南芥雄性生殖发育过程中，生殖细胞需经历DNA甲基化重编程：除了整体DNA甲基化的变化外，局部一些位点出现生殖细胞特异的从头DNA甲基化（De novo DNA methylation），它们除了发生在转座子上，也会发生在蛋白编码基因上，从而调控转座子的活性以及基因的表达。虽然已知生殖细胞特异的从头DNA甲基化是由RdDM 途径介导的，然而，RdDM主要作用于转座子上，很少会发生在基因上。因此RdDM如何作用在生殖细胞基因上仍然是一个谜。解决这个问题有助于加深我们对植物的跨代表观遗传的理解。我们通过分离减数分裂细胞以及构建sRNA 文库，发现出现在生殖细胞基因上DNA甲基化是由转座子来源的24-nt siRNA通过不完全匹配的方式介导的。我们还发现，这些siRNA并非由生殖细胞本身产生，而是来自于环绕在减数分裂细胞周边的绒毡层细胞（Tapetal nurse cells），并且由花药中绒毡层细胞特异表达的染色质重塑因子CLSY3负责催化产生的。这项工作揭示了一个全新的概念，即绒毡层细胞来源的24-nt siRNA塑造了生殖细胞独特的DNA甲基组。
 
 
 # 参考文献
-Ngou, B.P.M., Ahn, HK., Ding, P. et al. Mutual potentiation of plant immunity by cell-surface and intracellular receptors. Nature 592, 110–115 (2021). https://doi.org/10.1038/s41586-021-03315-7
+Long J, Walker J, She W, Aldridge B, Gao H, Deans S, Vickers M, Feng X. Nurse cell--derived small RNAs define paternal epigenetic inheritance in Arabidopsis. Science. 2021 Jul 2;373(6550):eabh0556. doi: 10.1126/science.abh0556. PMID: 34210850.
 
