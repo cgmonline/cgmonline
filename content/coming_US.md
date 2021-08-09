@@ -1,41 +1,42 @@
 ---
 title: "北美区预告"
-date: "2021-08-04"
+date: "2021-08-18"
 menu: [top]
 weight: 4
 ---
 
-- 题目：CGM 第174期 无膜细胞器——液液相分离在植物免疫中的调控作用
-- 时间：美国中部时间 2021年08月04日（星期三）8AM（北京时间08月04日 星期三 9PM）
+- 题目：CGM 第176期 枝、刺、花：柑橘世界的“三国演义”
+- 时间：美国中部时间 2021年08月18日（星期三）8PM（北京时间08月19日 星期四 9AM）
 - 地点：Zoom and YouTube live stream
-- 主讲人：黄帅博士，2016年毕业于加拿大英属哥伦比亚大学植物系，目前在耶鲁大学/霍华德·休斯医学研究所从事博士后工作，研究方向为生物体自发免疫。
+- 主讲人：2010年博士毕业于上海交通大学，先后在俄克拉荷马州立大学和耶鲁大学从事博士后工作，聚焦在植物分生组织干细胞活性调控研究。2021年4月入职华中农业大学园艺林学学院，担任教授，博士生导师，主要研究方向为柑橘树型调控机理。
+
 
 - 
 
 <div align="center">
-<img src="https://i.ibb.co/DGbc4kh/photo-Copy-2.jpg" height=250>
+<img src="https://i.ibb.co/W2FYgzw/1.png" height=250>
 </div>
 
 # 中文摘要
-细胞是生命体的基本结构，为个体生存提供物质保障。然而细胞内的环境是非常拥堵的。为了行使正常的活动，细胞通过生物膜
-包裹的细胞器分隔胞内的环境和各种生化反应。然而并不是所有的细胞活动都是膜介导的。细胞生物学领域的一个新兴方向发现细胞
-可以通过液液相分离形成“无膜细胞器”，而对他们的功能性研究才刚刚开始。
+当我们出去游玩，跋山涉水的时候，难免被荆棘所刺，疼痛不已。带刺植物在自然界广泛存在，刺为植物提供了“防御武器”。
+刺是如何长出来的呢？
 
-通过生物信息学、分子生物学、细胞生物学、生物化学以及结构生物学研究，我们筛选出了一个新的植物免疫蛋白家族。这一
-蛋白家族成员可以进行液液相分离并形成一种新的“无膜细胞器”。这一新的结构类似多聚物胶体，可以形成一种保护机制促进抗病基因的表达和调控。
+在柑橘中，刺是枝的变态；枝、刺、花都是由茎分生组织分化而来。我们的研究发现，控制三者发育的关键基因相爱相杀，
+上演一出柑橘世界的“三国演义”。欲知详情如何，且听张飞分解！
 
 
 
 
 **关键词**:
 
-Plant immunity, liquid-liquid phase separation, membraneless organelles, immune circuit, gene expression
+Citrus, shoot meristem, stem cell, determinacy
 
 # 参考文献
+F. Zhang et al. (2021). CENTRORADIALIS maintains shoot meristem indeterminacy by antagonizing THORN IDENTITY1 in Citrus. Curr. Biol., 31 (10): 2237-2242. https://doi.org/10.1016/j.cub.2021.02.051
 
-Huang, S., et al. A phase-separated nuclear GBPL circuit controls immunity in plants. (2021) Nature. 594: 424–429. DOI: 10.1038/s41586-021-03572-6.
+F. Zhang et al. (2020). Reprogramming of stem cell activity to convert thorns into branches. Curr. Biol., 30 (15):2951-2961. https://doi.org/10.1016/j.cub.2020.05.068
 
-Huang, S., et al. Cell-autonomous immunity by IFN-induced GBPs in animals and plants. (2019) Current Opinion in Immunology. 60:71-80. DOI:10.1016/j.coi. 2019.04.017.
+
 
 
 # 参加方式
