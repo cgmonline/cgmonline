@@ -1,52 +1,40 @@
 ---
 title: "中国区预告"
-date: "2021-07-14"
+date: "2021-08-11"
 menu: [top]
 weight: 3
 ---
 
-- 题目：CGM 第170期: 人类基因组遗传总效应评估
-- 时间：美国中部时间 2021年7月14日（星期三）7AM（北京时间7月14日9PM）
+- 题目：CGM 第176期:买麻藤类植物——百岁兰的适应性进化 
+- 时间：美国中部时间 2021年8月11日（星期三）9AM（北京时间8月11日9PM）
 - 地点：Tecent and Bilibili live stream
-- 主讲人：黎婷，2018年至今于中山大学生命科学学院攻读生物信息学博士学位（硕博连读）。主要研究方向为统计遗传学、数量遗传学。
+- 主讲人：万涛，武汉大学植物学博士，教授级高级工程师，现任深圳市中国科学院仙湖植物园植物研究中心副主管，深圳市南亚热带生物多样性重点实验室副主任，中国科学院中-非联合研究中心骨干科学家，中国科学院武汉植物园客座教授，武汉大学，湖北民族大学校外硕士生导师。九三学社深圳市委委员，九三罗湖区基层委副主委，罗湖区政协委员。
+
+2016年获深圳市高层次专业人才认定，获2017年度深圳市青年科技奖。主持参与国家、省、市和区级项目15余项。其中主持国家基金2项，省市级4项，其他地区级项目5项。近5年发表SCI论文25余篇，代表性论文发表于Nature Plants, Nature Communications, Ecology等。参主编专著1部，参与专著编写2卷。主要研究方向为植物功能基因组进化、植物进化生态等。
 
 <div align="center">
-<img src="https://i.loli.net/2021/07/10/LUvyxjPAbRqw3nc.png" height=250>
+<img src="https://i.loli.net/2021/08/15/jyqKYht54T3Nuwp.png" height=250>
 </div>
 
 # 中文摘要
 
-遗传多效性（Pleiotropy）是有着超过一个多世纪历史的遗传学概念【1】，描述一个DNA变异或基因同时影响多个性状的现象。近十五年，大量的全基因组关联研究（Genome-Wide Association Studies，GWAS）表明人类的复杂性状普遍具有“微效多基因”的遗传图谱——即受许多基因及变异的影响，而每个基因及变异对复杂性状的效应十分微小【2】。从而，基因组中大量的变异普遍具有遗传多效性。那么，对于我们所研究的各种人类性状，哪个变异或基因对我们的影响最大呢？
-现有的GWAS结果可以帮助我们回答这一问题，但却并非易事。在综合考虑遗传变异或基因对很多性状的影响时，如何将微小的遗传效应（Genetic Effect）与数据中的噪声（Noise）区别开有很大难度。我们通常可以对GWAS结果根据其统计学显著性人为设定一个阈值，但这样简单的手段并不能有效地区分遗传效应的有无。GWAS是典型的多重检验问题，使用宽松的阈值（如P < 0.05）显然会导致过多的假阳性，而严格的阈值（例如常用的基因组显著性水平P < 5×10−8）则会导致过多的假阴性【3】。然而，若直接舍弃显著性阈值，直接将所有表型的遗传效应直接相加也会引入过多的来自无遗传效应变异的噪声【4】。此外，不同性状之间的相关性也需要被合理地考虑。
-本研究开发了一种不依赖统计阈值来估计单个变异总遗传效应的新方法（Total Genetic Contribution Assessment, TGCA)【5】，解决了上述困难，并对 UK Biobank 中各类性状进行了全基因组各个变异遗传总效应评估。
+种子植物（Spermatophyta）是现今地球表面上绿色的主体，是植物界最为进化的种群。依据种子是否有果皮包裹，人们将超过40余万种种子植物分为裸子植物和被子植物，根据系统演化关系，进一步将其分为五条相对孤立的传代线：苏铁类、银杏类、松柏类、买麻藤类以及被子植物。
 
-这项研究中，作者运用混合分布模型对单个遗传变异在多个性状上的遗传效应进行统计建模，将遗传效应分为正遗传效应、无遗传效应、以及负遗传效应三个部分。该模型在区分有无遗传效应的同时，同时考虑了遗传效应影响的广度（即遗传多效性）和遗传效应影响的深度（即遗传效应的大小）。通过对混合分布模型的拟合，作者利用估计得到的正负遗传效应的比例及均值，设计出一个新的总遗传效应统计量（TGCA Θ），并通过大量的模拟计算证明了TGCA方法可以在各种情况下有效地估计总遗传效应。
-作者运用TGCA方法评估了全基因组各个遗传变异对UK Biobank中五类复杂性状或疾病的总遗传效应，包括医疗健康情况（122个性状）、体格特征（117个性状）、生活方式（172个性状）、心理健康情况（189个性状）、以及饮食状况（139个性状），提供了全基因组遗传变异对五种类型性状总贡献的图谱。研究发现，人类HLA位点对健康相关性状有最突出的遗传效应，骨密度位点WNT16对体格特征性状有最突出效应，而皮肤着色位点MC1R和吸烟易感位点CHRNA3对生活方式相关性状有突出的遗传效应。
-此外，作者通过将遗传变异对各类性状的总遗传效应与GTEx中48个人体组织的基因表达数据进行整合，检验了总遗传效应在组织器官中的富集程度，从而将总遗传效应关联到组织器官水平。例如，研究发现，心理健康相关性状的整体遗传效应在大脑特异表达的基因中富集，而其他类型性状的整体遗传效应在大脑中无显著富集。已有研究表明基因和蛋白质表达的顺式调控元件集中在转录起始位点附近【6】，而这些区域富集了复杂性状的遗传力【7】。研究发现，如果一个特定的组织富集了某一类型性状的总遗传效应，则在这一组织特异表达的基因的顺式调控位点（cis-eQTL）也同样富集这一类型性状的总遗传效应，从而说明总遗传效应与人体组织的关联是由组织特异表达基因的顺式调控元件驱动的。
-
+本课题组长期关注买麻藤类植物的系统演化、生态适应及传粉生物学特征等方面，利用比较基因组学、分子生物学、细胞生物学等学科交叉研究，旨在探讨早期种子植物基因组演化规律及其适应性的进化意义。百岁兰（Welwitschia）作为裸子植物里非常特殊的一类，从被发现命名开始，便受到了植物学界的广泛关注，聚焦于其奇特的表型和惊人的逆境适应。本研究通过全基因组测序、甲基化测序等手段，对百岁兰起源演化历史进行了研究，对其两片叶子‘千年不落’的可能分子机制进行了讨论。
 
 # 参考文献
 
-1. Plate, L. Genetics and Evolution (Festschrift Zum Sechzigsten Geburtstag Richard Hertwigs (in German)) (Fischer, 1910).
+Tao Wan, et al. The Welwitschia genome reveals a unique biology underpinning extreme longevity in deserts. Nature Communications. 2021. 12(1): 4247
+Tao Wan, et al. A genome for gnetophytes and early evolution of seed plants. Nature Plants. 2018. 4: 82-89.
 
-2. Visscher, P. M. et al. 10 years of GWAS discovery: biology, function, and translation. Am. J. Hum. Genet. 101, 5–22 (2017).
+M.Yang§, Tao Wan§, C. Dai, X.C. Zhou, F. Liu, Y.B. Gong. Modern honeybees disrupt the pollination of an ancient gymnosperm, Gnetum luofuense. Ecology. 2021 https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3497.
 
-3. Yang, C., Li, C., Wang, Q., Chung, D. & Zhao, H. Implications of pleiotropy: challenges and opportunities for mining Big Data in biomedicine. Front. Genet. 6, 229 (2015).
+主题：CGM 第176期: 买麻藤类植物——百岁兰的适应性进化
 
-4.  Jordan, D. M., Verbanck, M. & Do, R. HOPS: a quantitative score reveals pervasive horizontal pleiotropy in human genetic variation is driven by extreme polygenicity of human traits and diseases. Genome Biol.20, 222 (2019).
+时间：美国中部时间 2021年8月11日（星期三）7AM（北京时间8月11日9PM）
 
-5. Li, T., Ning, Z., Yang, Z. et al. Total genetic contribution assessment across the human genome. Nat Commun 12, 2845 (2021).
+腾讯会议 ID：523 220 812
 
-6. Sun, B. B. et al. Genomic atlas of the human plasma proteome. Nature 558, 73–79 (2018).
-
-7. Hilary Finucane, Brendan Bulik-Sullivan, et al. Partitioning heritability by functional category using GWAS summary statistics. Nature Genetics, 47, 1228–1235 (2015).
-
-主题：CGM 第170期: 人类基因组遗传总效应评估
-
-时间：美国中部时间 2021年7月14日（星期三）7AM（北京时间7月14日9PM）
-
-腾讯会议 ID：439 296 925
-
-腾讯会议链接：https://meeting.tencent.com/s/6avVbH06kVVR
+腾讯会议链接：https://meeting.tencent.com/s/uVpJqHkMA8bs
 
 
