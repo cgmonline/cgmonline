@@ -30,12 +30,21 @@ weight: 4
 
 # 参考文献
 Baek, K., Krist, D.T., Prabu, J.R., Hill, S., Klugel, M., Neumaier, L.M., von Gronau, S., Kleiger, G., and Schulman, B.A. (2020). NEDD8 nucleates a multivalent cullin-RING-UBE2D ubiquitin ligation assembly. Nature 578, 461-466.
+
 Baretic, D., Jenkyn-Bedford, M., Aria, V., Cannone, G., Skehel, M., and Yeeles, J.T.P. (2020). Cryo-EM Structure of the Fork Protection Complex Bound to CMG at a Replication Fork. Mol Cell 78, 926-940 e913.
+
 Deegan, T.D., Mukherjee, P.P., Fujisawa, R., Polo Rivera, C., and Labib, K. (2020). CMG helicase disassembly is controlled by replication fork DNA, replisome components and a ubiquitin threshold. Elife 9.
+
 Dewar, J.M., Low, E., Mann, M., Raschle, M., and Walter, J.C. (2017). CRL2Lrr1 promotes unloading of the vertebrate replisome from chromatin during replication termination. Genes Dev 31, 275-290.
+
 O'Donnell, M., Langston, L., and Stillman, B. (2013). Principles and concepts of DNA replication in bacteria, archaea, and eukarya. Cold Spring Harb Perspect Biol 5.
+
 Scott, D.C., Rhee, D.Y., Duda, D.M., Kelsall, I.R., Olszewski, J.L., Paulo, J.A., de Jong, A., Ovaa, H., Alpi, A.F., Harper, J.W., et al. (2016). Two Distinct Types of E3 Ligases Work in Unison to Regulate Substrate Ubiquitylation. Cell 166, 1198-1214 e1124.
+
 Sonneville, R., Moreno, S.P., Knebel, A., Johnson, C., Hastie, C.J., Gartner, A., Gambus, A., and Labib, K. (2017). CUL-2LRR-1 and UBXN-3 drive replisome disassembly during DNA replication termination and mitosis. Nat Cell Biol 19, 468-479.
+
 Xia, Y., Fujisawa, R., Deegan, T.D., Sonneville, R., and Labib, K. (2021). TIMELESS-TIPIN and UBXN-3 promote replisome disassembly during DNA replication termination in C. elegans. EMBO J. In press. 40:e108053.
+
 Yeeles, J.T., Deegan, T.D., Janska, A., Early, A., and Diffley, J.F. (2015). Regulated eukaryotic DNA replication origin firing with purified proteins. Nature 519, 431-435.
+
 Yuan, Z., Georgescu, R., Bai, L., Zhang, D., Li, H., and O'Donnell, M.E. (2020). DNA unwinding mechanism of a eukaryotic replicative CMG helicase. Nat Commun 11, 688.
