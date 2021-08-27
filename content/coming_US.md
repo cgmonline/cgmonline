@@ -27,7 +27,7 @@ weight: 4
 microbiome, bioinformatics, phylogenetics
 
 # 参考文献
-Zhu, Q., Mai, U., Pfeiffer, W. et al. Phylogenomics of 10,575 genomes reveals evolutionary proximity between domains Bacteria and Archaea. Nature Communications. 2019, 10(5477). https://doi.org/10.1038/s41467-019-13443-4
+Zhu, Q., Mai, U., Pfeiffer, W. et al. Phylogenomics of 10,575 genomes reveals evolutionary proximity between domains Bacteria and Archaea. Nature Communications. 2019, 10:5477. https://doi.org/10.1038/s41467-019-13443-4
 
 (其余见：https://qiyunlab.github.io/)
 
