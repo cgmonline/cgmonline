@@ -11,7 +11,6 @@ weight: 4
 - 主讲人：诸奇赟博士，本科毕业于上海复旦大学生命科学学院，于布法罗大学（University at Buffalo）生物科学系获得硕士与博士学位，先后于克雷格·文特尔研究所（J. Craig Venter Institute）和加州大学圣地亚哥分校（University of California San Diego）从事博士后训练。目前在亚利桑那州立大学（Arizona State University）生命科学学院和生物设计研究所担任助理教授，从事微生物组数据科学的研究与教学工作。
 
 
-- 
 
 <div align="center">
 <img src="https://i.ibb.co/zQzzMry/zyq.jpg" height=250>
@@ -29,6 +28,7 @@ microbiome, bioinformatics, phylogenetics
 
 # 参考文献
 Zhu, Q., Mai, U., Pfeiffer, W. et al. Phylogenomics of 10,575 genomes reveals evolutionary proximity between domains Bacteria and Archaea. Nature Communications, 10, 5477 (2019). https://doi.org/10.1038/s41467-019-13443-4
+
 (其余见：https://qiyunlab.github.io/)
 
 
