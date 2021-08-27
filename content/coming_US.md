@@ -1,42 +1,35 @@
 ---
 title: "北美区预告"
-date: "2021-08-18"
+date: "2021-09-01"
 menu: [top]
 weight: 4
 ---
 
-- 题目：CGM 第177期 枝、刺、花：柑橘世界的“三国演义”
-- 时间：美国中部时间 2021年08月18日（星期三）8PM（北京时间08月19日 星期四 9AM）
+- 题目：CGM 第180期 基于树结构的微生物组学研究
+- 时间：美国中部时间 2021年09月01日（星期三）8PM（北京时间09月02日 星期四 9AM）
 - 地点：Zoom and YouTube live stream
-- 主讲人：2010年博士毕业于上海交通大学，先后在俄克拉荷马州立大学和耶鲁大学从事博士后工作，聚焦在植物分生组织干细胞活性调控研究。2021年4月入职华中农业大学园艺林学学院，担任教授，博士生导师，主要研究方向为柑橘树型调控机理。
+- 主讲人：诸奇赟博士，本科毕业于上海复旦大学生命科学学院，于布法罗大学（University at Buffalo）生物科学系获得硕士与博士学位，先后于克雷格·文特尔研究所（J. Craig Venter Institute）和加州大学圣地亚哥分校（University of California San Diego）从事博士后训练。目前在亚利桑那州立大学（Arizona State University）生命科学学院和生物设计研究所担任助理教授，从事微生物组数据科学的研究与教学工作。
 
 
-- 
 
 <div align="center">
-<img src="https://i.ibb.co/W2FYgzw/1.png" height=250>
+<img src="https://i.ibb.co/zQzzMry/zyq.jpg" height=250>
 </div>
 
+
 # 中文摘要
-当我们出去游玩，跋山涉水的时候，难免被荆棘所刺，疼痛不已。带刺植物在自然界广泛存在，刺为植物提供了“防御武器”。
-刺是如何长出来的呢？
 
-在柑橘中，刺是枝的变态；枝、刺、花都是由茎分生组织分化而来。我们的研究发现，控制三者发育的关键基因相爱相杀，
-上演一出柑橘世界的“三国演义”。欲知详情如何，且听张飞分解！
-
-
+微生物组是指生活在同一生态环境中的全体微生物。微生物组学的研究对于人类健康、公共卫生、环境保护、农业生产等都有重大意义。但是，微生物组数据的分析是一个艰难的生物信息学话题。众多的微生物成员使得数据集具有很高的维度。如果不对高维数据作进一步的结构化的区分，而把所有特征一视同仁地输入分析工具，就很难准确把握微生物组的变化规律。围绕着结构化分析这一主旨，我们创造和发展了一系列微生物组数据分析的方法、工具和资源。我们构建了高度精确的进化树，以之量化微生物基因组之间的进化距离，使得数学模型能够基于微生物的进化关系来估计微生物群落结构间的关系。我们开发了灵活的分析方法，可以使用任意树结构来提取微生物组的特征，而不局限于传统的分类学。我们开发了高质量的开源软件，使科研社区能够便利地运用这些分析方法。与传统方法对比，我们的方法能够揭示更显著的生物学意义。我们的成果正在帮助众多科研团队提高其微生物组数据分析的质量，以使人类更好地理解微生物组和它们对环境和健康的价值。
 
 
 **关键词**:
 
-Citrus, shoot meristem, stem cell, determinacy
+microbiome, bioinformatics, phylogenetics
 
 # 参考文献
-F. Zhang et al. (2021). CENTRORADIALIS maintains shoot meristem indeterminacy by antagonizing THORN IDENTITY1 in Citrus. Curr. Biol., 31 (10): 2237-2242. https://doi.org/10.1016/j.cub.2021.02.051
+Zhu, Q., Mai, U., Pfeiffer, W. et al. Phylogenomics of 10,575 genomes reveals evolutionary proximity between domains Bacteria and Archaea. Nature Communications. 2019, 10:5477. https://doi.org/10.1038/s41467-019-13443-4
 
-F. Zhang et al. (2020). Reprogramming of stem cell activity to convert thorns into branches. Curr. Biol., 30 (15):2951-2961. https://doi.org/10.1016/j.cub.2020.05.068
-
-
+(其余见：https://qiyunlab.github.io/)
 
 
 # 参加方式
