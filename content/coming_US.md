@@ -12,7 +12,7 @@ weight: 4
 - 主讲人：朱杨博士，本科于浙江大学。2015年于新加坡国立大学 (NUS)获得博士学位，师从Hao Yu院士。2016年在新加坡淡马锡生命科学研究院 (TLL)任研究助理，师从Liang-hui Ji资深研究员。2017年在美国宾夕法尼亚大学 (UPenn)做博士后，师从Doris Wagner资深教授。目前在浙江大学作物科学研究所以及新农村发展研究院担任研究员（浙江大学“百人计划研究员”）。以第一作者身份在Nature Plants, Nature Communications等杂志上发表多篇高水平论文。主要研究方向为功能基因组学和设计育种、植物发育和表观遗传、基因编辑和生物合成以及生物多组学分析。
 
 <div align="center">
-<img src="https://ibb.co/FDV1n5y/yang.jpb" height=250>
+<img src="https://i.ibb.co/tJX63qv/yang.jpg" height=250>
 </div>
 
 # 中文摘要
