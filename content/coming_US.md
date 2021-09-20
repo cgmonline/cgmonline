@@ -45,7 +45,7 @@ weight: 4
 Academic job, Faculty position, Covid-19 pandemic, Discussion
 
 # 问题收集
-点击[链接](https://forms.gle/yXp641ggUAL1dMch6)提交你想问的问题吧！
+点击[链接](https://docs.google.com/forms/d/e/1FAIpQLScSM6uuOJ9fw_wDVM7FHq7oYoGyvibkiqqC-A5PECcHSpbHTA/viewform?usp=sf_link)提交你想问的问题吧！
 
 # 参加方式
 - Zoom会议链接: https://us06web.zoom.us/j/93635833781?pwd=MDZtU2ZIa2twN0dIeUJ0UmdpUUs5Zz09
