@@ -11,7 +11,7 @@ weight: 4
 
 
 <div align="center">
-<img src="https://github.com/qli/qli.github.io/blob/main/images/US186-flyer.png" height=800>
+<img src="https://github.com/qli/qli.github.io/blob/main/images/US186-flyer.png" height=600>
 </div>
  
 # 特邀嘉宾：
