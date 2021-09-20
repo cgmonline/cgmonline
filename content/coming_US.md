@@ -35,7 +35,7 @@ weight: 4
 
 [彭佛恩](https://www.haverford.edu/users/fpeng)， 哈弗福德学院 (Haverford College) 生物系助理教授，主要研究花对传粉昆虫适应性进化的遗传基础（the genetic basis of plant flowers' adaption to animal pollinators）。
 
-[茹苏珊](https://agriculture.auburn.edu/about/directory/faculty/sushan-ru/)，奥本大学（Auburn University）农学院助理教授，主要研究方向为small fruit breeding and genetics, mainly focusing on blueberry and strawberry（蓝莓/草莓遗传育种）。
+[茹苏珊](https://agriculture.auburn.edu/about/directory/faculty/sushan-ru/)，奥本大学（Auburn University）园艺学院助理教授，主要研究方向为small fruit breeding and genetics, mainly focusing on blueberry and strawberry（蓝莓/草莓遗传育种）。
 
 [魏娜](https://wei-lab.org/)，霍顿植物园 (Holden Arboretum) 研究员，主要研究方向为植物适应的进化生态学和基因组学, 包括功能生态学、基因组学和微生物组的的视角。
 
