@@ -27,13 +27,13 @@ weight: 4
 
 
 # 特邀嘉宾：
-*(按姓排序)*
+*(按姓氏排序)*
 
-[何其欣](www.qixinhe.net)，普渡大学（Purdue University）生物系助理教授，主要研究方向为进化生物学，课题包括疾病传播的进化模型、抗原进化、起源地回溯、种群分布及迁徙路线的推演等。
+[何其欣](https://www.qixinhe.net)，普渡大学（Purdue University）生物系助理教授，主要研究方向为进化生物学，课题包括疾病传播的进化模型、抗原进化、起源地回溯、种群分布及迁徙路线的推演等。
 
 [李显然](https://scholar.google.com/citations?user=Oaii0dQAAAAJ&hl=en)，美国农业部（USDA-ARS，Wheat Health, Genetics, and Quality Research Unit）研究员（Research Biologist on Computational Bioinformatics），主要研究基因、环境和两者的互作对作物表型的影响，以及作物驯化。
 
-[彭佛恩](https://www.haverford.edu/users/fpeng): 哈弗福德学院 (Haverford College) 生物系助理教授，主要研究花对传粉昆虫适应性进化的遗传基础（the genetic basis of plant flowers' adaption to animal pollinators）。
+[彭佛恩](https://www.haverford.edu/users/fpeng)， 哈弗福德学院 (Haverford College) 生物系助理教授，主要研究花对传粉昆虫适应性进化的遗传基础（the genetic basis of plant flowers' adaption to animal pollinators）。
 
 [茹苏珊](https://agriculture.auburn.edu/about/directory/faculty/sushan-ru/)，奥本大学（Auburn University）农学院助理教授，主要研究方向为small fruit breeding and genetics, mainly focusing on blueberry and strawberry（蓝莓/草莓遗传育种）。
 
