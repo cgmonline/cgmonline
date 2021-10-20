@@ -1,35 +1,39 @@
 ---
 title: "北美区预告"
-date: "2021-10-13"
+date: "2021-10-27"
 menu: [top]
 weight: 4
 ---
 
-- 题目：CGM 第189期 叶儿黄，冬将至——能量代谢系统调节植物冬季响应机制
+- 题目：CGM 第192期 食无味、涩有理: 高梁驯化中的人谷鸟
 
-- 时间：美国中部时间 2021年10月13日（星期三）8PM（北京时间10月14日 星期四 9AM）
+- 时间：美国中部时间 2021年10月27日（星期三）8PM（北京时间10月28日 星期四 9AM）
 - 地点：Zoom and YouTube live stream
 # 主讲人
-刘伟博士，2013年博士毕业于中山大学生命科学学院，后在耶鲁大学继续从事博士后和研究助理工作至今。主要从事植物光周期整合生物钟和能量代谢进而调控植物季节性生长发育的研究。
+李显然博士，目前于USDA ARS Wheat Health从事 Genetics, and Quality Research.
+北京理工大学学士，中国农业大学博士。Kansas State University和Iowa State university博士后，其后在Iowa State university任Research Assistant Professor和Adjunct Associate Professor。
+
 <div align="center">
-<img src="https://i.ibb.co/n3f6Zc3/Wei1.jpg" height=250>
+<img src="https://i.ibb.co/p3fZs0K/1.jpg" height=250>
 </div>
 
 # 中文摘要
 
-植物终生处在每天24小时白天黑暗的交替，也处在四季不同光长的更迭之中。植物是如何细数这些时间和季节的变化的呢？如何按时调控不同基因的表达来分配自身能量水平，从而来应对这些外界环境的变化的呢？
-通过生物信息分析，我们发现了一群冬季高表达的基因，该基因群的多数基因会在冬季夜间大量表达。进一步的研究发现这群基因整合了光周期信号和植物能量水平，在生物钟的协调下有条不紊的按时按需表达，从容应对季节变化。
+民以食为天。酸甜苦辣咸，唯苦涩难以下咽。去涩是主粮驯化的关键步骤之一。单宁是植物合成的高效苦涩诱导物。驯化后，栽培水稻，玉米，小麦的种子全部成功脱“单”，只有谜一样的高梁有一半的栽培品种仍有单宁。是非洲老祖先的万年不作为，还是神秘的非洲大陆另有隐情？
+
+从美国小镇实验田的偶发事件起，我们放眼整个非洲大陆，在农业生态系统的层次探索了高粱驯化之谜。两个关键单宁调控基因，世上最多的小鸟，再到人的味觉受体，这人、谷、鸟的互动演绎了非洲主粮驯化过程中的“涩之有理”。
+
 <div align="center">
-<img src="https://i.ibb.co/3Rsbq5g/clock-1.jpg" height=250>
+<img src="https://i.ibb.co/GM7wLnh/2.png" height=250>
 </div>
 
 # 参考文献
-Liu, W., Feke, A., Leung, C.C., Tarté, D.A., Yuan, W., Vanderwall, M., Sager, G., Wu, X., Schear, A., Clark, D.A., et al. (2021). A metabolic daylength measurement system mediates winter photoperiodism in plants. Dev. Cell.
-
+Wu Y, Guo T, Mu Q, Wang J, Li X, Wu Y, Tian B, Wang ML, Bai G, Perumal R et al. 2019. Allelochemicals targeted to balance competing selections in African agroecosystems. Nat Plants 5: 1229-1236.
 
 # 参加方式
 - Zoom会议链接: https://us06web.zoom.us/j/87870509801?pwd=SGpvdEc3YVRQL2twTmJyenhnTDFrZz09
 - Zoom会议ID：878 7050 9801
 - 密码：207409
 
-**关键词**: circadian rhythm, photoperiod, energy metabolism, plant development
+**关键词**: Sorghum domestication, condensed tannins, bitter taste receptors, bird threats
+
