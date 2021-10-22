@@ -10,7 +10,7 @@ weight: 4
 - 时间：美国中部时间 2021年10月27日（星期三）8PM（北京时间10月28日 星期四 9AM）
 - 地点：Zoom and YouTube live stream
 # 主讲人
-李显然博士，目前于USDA ARS Wheat Health从事 Genetics, and Quality Research.
+李显然博士，目前任职于USDA ARS Wheat Health Genetics, and Quality Research unit.
 北京理工大学学士，中国农业大学博士。Kansas State University和Iowa State university博士后，其后在Iowa State university任Research Assistant Professor和Adjunct Associate Professor。
 
 <div align="center">
