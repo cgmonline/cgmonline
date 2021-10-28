@@ -10,14 +10,14 @@ weight: 9
 
 # 2021-2022年度Gold赞助伙伴：
 
-[![迈维代谢](https://imgur.com/8QVlMzz)](https://www.metware.cn/)
+[![迈维代谢](https://imgur.com/8QVlMzz.png)](https://www.metware.cn/)
 
 ---------------
 
 ## 2021-2022年度Silver赞助伙伴：
-[![武汉贝纳科技](https://imgur.com/H69jhAT)](http://www.benagen.com/)
+[![武汉贝纳科技](https://imgur.com/H69jhAT.png)](http://www.benagen.com/)
 
-[![未来组](https://imgur.com/l0GKYOd)](https://www.nextomics.cn/)
+[![未来组](https://imgur.com/l0GKYOd.png)](https://www.nextomics.cn/)
 
 ----------------
 
