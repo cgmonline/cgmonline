@@ -11,7 +11,7 @@ weight: 9
 # 2021-2022年度Gold赞助伙伴：
 <a href="https://www.metware.cn/">
    <img alt="迈维代谢" src="https://imgur.com/cegOTpQ.jpg"
-   width="30%">
+   width="50%">
 </a>
 
 ---------------
