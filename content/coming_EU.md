@@ -1,28 +1,29 @@
 ---
 title: "欧洲区预告"
-date: "2021-10-15"
+date: "2021-11-18"
 menu: [top]
 weight: 4
 ---
 
-- 题目：CGM 第190期: 癌症早诊／早筛前沿进展和创新技术方案
-- 时间：欧洲中部时间 2021年10月15日（星期五）2PM（美国中部时间 10月15日 7AM，北京时间 10月15日 8PM）
+- 题目：CGM 第198期: 跨物种分析揭示幕上室管膜瘤的致癌依赖性
+- 时间：欧洲中部时间 2021年11月18日（星期四）2PM（美国中部时间 11月18日 7AM，北京时间 11月18日 9PM）
 - Zoom会议 ID：861 0146 4725 密码：269044 
 - Zoom会议链接：https://us06web.zoom.us/j/86101464725?pwd=bXphV2NYdGRZeVRaZys0WnNjczF4Zz09
-- 主讲人：汪宇盈（Yuying Wang）, 北京大学 学士, 乔治亚理工学院 计算机科学硕士, 伊利诺伊大学 细胞生物学博士, 科罗拉多大学医学院 博士后, ArcherDX（美国）资深研发科学家, 华大数极生物科技（深圳）有限公司CTO
+- 主讲人：郑途昱（Tuyu Zheng），贡比涅技术大学生物工程师及硕士 (2018) ，海德堡大学 德国癌症研究中心 博士生
 
 
 <div align="center">
-<img src="https://i.ibb.co/YXwPQ2n/EU16-wang.jpg" height=250>
+<img src="https://i.ibb.co/Gc659L7/Zheng-6b.jpg" height=250>
 </div>
 
 # 中文摘要
 
-癌症早筛／早诊是近年来基因组学临床应用的热点。近年来，由于液体活检等技术的快速进步，研究者们开始积极探索基于新型分子检测技术的癌症早筛／早诊方法并取得了一些积极的研究成果。本次演讲将分享癌症早诊／早筛分子检测技术的前沿进展和创新技术方案。
+幕上室管膜瘤 （Supratentorial ependymoma，ST- EPN）是一种罕见的儿童脑癌，目前的治疗手段仅限于手术切除以及化疗。郑博士结合DNA甲基化分类和RNA测序的方法观测到了新的ST-EPN癌症亚型并且使用宫内电穿孔技术将这些新亚型建模，然后应用跨物种分析法锁定癌症相关的下游调控基因并在老鼠模型中验证。
 
-汪宇盈博士自2017年起就职于华大基因，负责癌症早筛产品管线研发，现任华大数极首席技术官（CTO）。长期从事细胞生物学和肿瘤基因组学研究，以第一作者或通讯作者身份在国际一流学术期刊发表多项学术成果，在肿瘤标志物，肿瘤诊断及筛查技术，高通量测序，液体活检等前沿领域积累了丰富的经验，申请多项发明专利。
+其重要的研究成果赋予了一个未知基因C11orf95新名字：Zinc Finger Translocation Associated (ZFTA)，为室管膜瘤临床前研究提供了可靠的动物模型并且促使世界卫生组织将一个新的脑癌亚型更名为ZFTA-fusion positive ependymoma。
 
-
+郑途昱（Tuyu Zheng），2018年于法国贡比涅技术大学 （Université de Technologie de Compiègne）获得生物工程师及硕士双文凭，目前于海德堡大学/德国癌症研究中心进行博士课题研究。主要使用宫内电穿孔技术，同种异体移植和神经干细胞原位移植等技术在儿童脑癌领域进行老鼠建模以及癌症机制研究。其博士课题的研究成果已发表于Cancer Discovery。
 
 
 # 参考文献
+Zheng T*, Ghasemi DR*, Okonechnikov K*, ... Sahm F#, Kawauchi D#, Pajtler KW# (2021). Cross-species genomics reveals oncogenic dependencies in ZFTA fusion-positive supratentorial ependymomas. Cancer Discovery Pages candisc.0963.2020 (*/# = equal contribution)
