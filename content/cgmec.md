@@ -8,7 +8,8 @@ weight: 6
 - [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)(评奖委员会主席)，[郝樾](https://yueyvettehao.github.io/) (编辑部， Meeting Minutes)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b) (EC China，CGM Business)，[雷栗](https://twitter.com/lilei0051)（Special Project，HR)， [祁新帅](https://www.linkedin.com/in/xinshuaiqi/) (CGM Business，NGO， Finance)，[刘三震](https://www.plantgenomics.ksu.edu/liulab/)(SC general)，[武志强](http://agis.caas.cn/rctd/yjtd/226826.htm) (EC China)，[杨金良](http://jyanglab.com/)(EC general，website)
 
 ## CGM 北美区执行委员会 (Executive Committee) US
-- **05 - 08, 2021：EC NA12 [李勤](https://qli.github.io/)（组长），江纯阶（联络+主持），黄義竣（邀请嘉宾和视频直播），XX（网站和公众号预告更新）**
+- **09 - 12, 2021：EC NA13 黄義竣（组长）**
+- 05 - 08, 2021：EC NA12 [李勤](https://qli.github.io/)（组长），江纯阶（联络+主持），黄義竣（邀请嘉宾和视频直播）
 - 01 - 04, 2021：EC NA11 解少俊（组长），陈雨露（联络+主持），端韵成（邀请嘉宾和视频直播），袁玉轩（网站和公众号预告更新）
 - 09 - 12, 20200：EC NA10 周鹏（组长），[袁梦](https://imengyuan.github.io/)(邀请嘉宾和视频直播），彭浩然（联络+主持），王凯(网站和公众号预告更新)
 - 05 - 08, 2020：EC NA9 郑子豪（组长），杨小灵（联络+主持），吕菁（公众号协调），周鹏（技术）
@@ -33,6 +34,11 @@ weight: 6
 ## CGM 公众号编辑委员会 (Editorial Committee)
 
 ### 现任编辑部成员：
+- **2021**
+  - 北美时区讲座预告：狄晨露  
+  - 中国时区讲座预告：魏嘉璐，李方平  
+  - 欧洲时区讲座预告：杨壮，张文刚
+
 - **05 - 08, 2020 ED3**
   - 组长、排期统筹：马省伟  
   - 原创策划：胡海飞，[赵飞](https://kaopubear.top)，杨雪蓉  

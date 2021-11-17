@@ -1,34 +1,38 @@
 ---
 title: "北美区预告"
-date: "2021-09-15"
+date: "2021-11-24"
 menu: [top]
 weight: 4
 ---
 
-- 题目：CGM 第183期 开花与花开：模式植物和大田作物中有应用前景的基础研究
-- 时间：美国中部时间 2021年09月15日（星期三）8PM（北京时间09月15日 星期四 9AM）
+- 题目：CGM 第198期 基于比较混合线性模型揭示慢性肾脏病致病基因及致病机制和潛在治療方法
+
+- 时间：美国中部时间 2021年11月24日（星期三）8PM（北京时间11月25日 星期四 10AM, 欧中时间 星期四 3AM）
 - 地点：Zoom and YouTube live stream
-- Zoom会议链接: https://us06web.zoom.us/j/93635833781?pwd=MDZtU2ZIa2twN0dIeUJ0UmdpUUs5Zz09
-- 主讲人：朱杨博士，本科毕业于浙江大学。2015年于新加坡国立大学 (NUS)获得博士学位，师从Hao Yu院士。2016年在新加坡淡马锡生命科学研究院 (TLL)任研究助理，师从Liang-hui Ji资深研究员。2017年开始在美国宾夕法尼亚大学 (UPenn)做博士后，师从Doris Wagner资深教授。目前在浙江大学作物科学研究所以及新农村发展研究院担任研究员（浙江大学“百人计划研究员”）。过去五年以第一作者身份在Nature Plants, Nature Communications等杂志上发表多篇高水平论文。主要研究方向为功能基因组学和设计育种、植物发育和表观遗传、基因编辑和生物合成以及生物多组学分析。
+- 
+# 主讲人
+盛欣博士，良渚实验室/浙江大学医学中心“百人计划”研究员，博士生导师。近五年来，以第一作者与共同第一作者身份在Nature Genetics, Science Translational Medicine, PNAS, Nucleic Acids Research, Briefings in Bioinformatics等国际知名期刊发表多篇论文；并以合作者身份在Nature Genetics, Cell Metabolism, J Clin Invest等国际知名期刊共发表论文20余篇。2021年9月，盛欣博士加入良渚实验室/浙江大学医学中心，成立独立课题组。
+
+
 
 <div align="center">
-<img src="https://i.ibb.co/tJX63qv/yang.jpg" height=250>
+<img src="https://i.ibb.co/mDZDcHZ/1.jpg" height=250>
 </div>
 
 # 中文摘要
+肾脏在维持机体内环境稳定中发挥重要作用。慢性肾脏病表现为肾脏结构的改变和功能的下降，最终导致终末期肾衰竭而危及患者生命。世界上有8亿多人患有慢性肾脏病，而其治疗方法却十分有限。GWAS研究虽已识别约300个与肾功能相关的SNPs，但是大多数位于非编码区。它们在何种类型的细胞中，通过调控何种基因，最终引起肾功能的变化，对慢性肾脏病的新疗法的研发非常重要。本研究开发了识别cell type interaction eQTL的新方法，通过与GWAS数据的整合分析揭示了200多个慢性肾脏病与高血压的潜在药物靶点，并注释了肾脏中各类细胞所承担的生物学功能，从单细胞水平解析了最常用的治疗慢性肾脏病的头号药物作用靶点所受到的潜在分子调控机制，为治疗慢性肾脏病与高血压的相关药物研发指明方向。
 
-“一庭春雨瓢儿菜，满架秋风扁豆花”是郑板桥的诗句，朱杨研究员带领的植物遗传和作物改良研究室，即 Plant epi-genomics and Crop improvement (PegaXi, 沛阁希) Lab，主要利用多维组学、分子生物学和基因编辑等方法研究植物和作物的开花时间、花序发育和地上部分株型建成的分子机制，以此来精准设计作物关键性状，实现提升作物适应性、产量和品质的初衷。报告人将从自己博士、博后、超博到独立研究员的经历，讲述科研人员如何在不同阶段适应新的角色，逐渐成为国内外有一定认可度的青年科学家。
 
-**关键词**: 
-
-Flowering Time, Onset of Flowers, Application-oriented Basic Research 
 
 # 参考文献
+Xin Sheng#, Yuting Guan#, Ziyuan Ma, Junnan Wu, Hongbo Liu, Chengxiang Qiu, Steven Vitale, Zhen Miao, Matthew J. Seasock, Matthew Palmer, Myung K. Shin, Kevin L. Duffin, Steven S. Pullen, Todd L. Edwards, Jacklyn N. Hellwege, Adriana M. Hung, Mingyao Li, Benjamin Voight, Thomas Coffman, Christopher D. Brown, Katalin Susztak. Mapping the genetic architecture of human traits to cell types in the kidney identifies mechanisms of disease and potential treatments. Nature Genetics, doi:10.1038/s41588-021-00909-9. Epub. (2021). 
 
-1.	Y Zhu, S Klasfeld, CW Jeong, R Jin, K Goto, N Yamaguchi, D Wagner. TERMINAL FLOWER 1-FD complex target genes and competition with FLOWERING LOCUS T. Nat Commun. 2020 Oct 12;11(1):5118.
-2.	Y Zhu, L Liu, L Shen, H Yu. NaKR1 regulates long-distance movement of FLOWERING LOCUS T in Arabidopsis. Nat Plants. 2016 May 27;2(6):16075
 
-### 参加方式
 
-- Zoom会议ID：936 3583 3781
+
+# 参加方式
+- Zoom会议链接: https://us06web.zoom.us/j/87870509801?pwd=SGpvdEc3YVRQL2twTmJyenhnTDFrZz09
+- Zoom会议ID：878 7050 9801
 - 密码：207409
+
+**关键词**: eQTL, genetic architecture,  cell types in the kidney

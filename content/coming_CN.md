@@ -1,40 +1,34 @@
 ---
 title: "中国区预告"
-date: "2021-08-11"
+date: "2021-11-10"
 menu: [top]
 weight: 3
 ---
 
-- 题目：CGM 第176期:买麻藤类植物——百岁兰的适应性进化 
-- 时间：美国中部时间 2021年8月11日（星期三）9AM（北京时间8月11日9PM）
+- 题目：CGM 第196期:三个染色体级别罂粟属物种基因组揭示吗啡喃类物质合成通路的补丁式跳跃演化
+- 时间：美国中部时间 2021年11月10日（星期三）9AM（北京时间11月10日9PM）
 - 地点：Tecent and Bilibili live stream
-- 主讲人：万涛，武汉大学植物学博士，教授级高级工程师，现任深圳市中国科学院仙湖植物园植物研究中心副主管，深圳市南亚热带生物多样性重点实验室副主任，中国科学院中-非联合研究中心骨干科学家，中国科学院武汉植物园客座教授，武汉大学，湖北民族大学校外硕士生导师。九三学社深圳市委委员，九三罗湖区基层委副主委，罗湖区政协委员。
-
-2016年获深圳市高层次专业人才认定，获2017年度深圳市青年科技奖。主持参与国家、省、市和区级项目15余项。其中主持国家基金2项，省市级4项，其他地区级项目5项。近5年发表SCI论文25余篇，代表性论文发表于Nature Plants, Nature Communications, Ecology等。参主编专著1部，参与专著编写2卷。主要研究方向为植物功能基因组进化、植物进化生态等。
+- 主讲人：
+杨晓飞，男，博士，副教授，博士生导师。2016年毕业于西安电子科技大学计算机学院，计算机应用技术专业，师从高琳教授。2017年至今在西安交通大学电信学部工作，研究方向为基因组学和生物信息学。2018年10月至2019年10月以国家公派访问学者的身份赴美国杰克逊实验室进行为期一年的访问学习。主持国家自然科学基金面上项目、青年科学基金项目、国家科技重大专项（子课题负责人）等，共发表学术论文20余篇（第一或通讯作者共11篇），包括Science, Nature Communications, Genome Biology, Briefings in Bioinformatics, Bioinformatics等期刊。
 
 <div align="center">
-<img src="https://i.loli.net/2021/08/15/jyqKYht54T3Nuwp.png" height=250>
+<img src="https://i.loli.net/2021/11/08/f79cEZ6xuFLWRYU.png" height=250>
 </div>
 
 # 中文摘要
+罂粟属植物是非常重要的药用植物，其合成的那可丁、吗啡喃类物质等代谢产物具有显著的止疼、止咳及抗癌功效，在临床医疗中广泛使用。2018年，西安交通大学信息与生物医学交叉团队首席科学家叶凯教授带领的中英联合研究团队在国际上首次公布鸦片罂粟全基因组序列，并发现了那可丁及吗啡喃类物质合成超级基因簇。
 
-种子植物（Spermatophyta）是现今地球表面上绿色的主体，是植物界最为进化的种群。依据种子是否有果皮包裹，人们将超过40余万种种子植物分为裸子植物和被子植物，根据系统演化关系，进一步将其分为五条相对孤立的传代线：苏铁类、银杏类、松柏类、买麻藤类以及被子植物。
-
-本课题组长期关注买麻藤类植物的系统演化、生态适应及传粉生物学特征等方面，利用比较基因组学、分子生物学、细胞生物学等学科交叉研究，旨在探讨早期种子植物基因组演化规律及其适应性的进化意义。百岁兰（Welwitschia）作为裸子植物里非常特殊的一类，从被发现命名开始，便受到了植物学界的广泛关注，聚焦于其奇特的表型和惊人的逆境适应。本研究通过全基因组测序、甲基化测序等手段，对百岁兰起源演化历史进行了研究，对其两片叶子‘千年不落’的可能分子机制进行了讨论。
+为了进一步探索该基因簇的演化机制，本课题选择了那可丁及吗啡喃类物质产量各不相同的虞美人、渥美罂粟和鸦片罂粟三个罂粟属物种，并综合利用二代和三代测序及组装技术，完成了虞美人及渥美罂粟高质量基因组，提高了鸦片罂粟基因组组装质量。针对罂粟属多物种不同加倍次数的复杂进化场景，从头设计祖先基因组推断算法、通路演化模型推断策略等基因组深度挖掘及分析计算方法，成功构建了三个物种多个演化时间点的祖先基因组状态，阐明了三个物种演化历史，揭示了那可丁及吗啡喃类物质合成通路的补丁式（patchwork）跳跃演化奥秘。
 
 # 参考文献
+Yang,X., Gao, S., Guo, L. et al. Three chromosome-scale Papaver genomes revealpunctuated patchwork evolution of the morphinan and noscapine biosynthesispathway. Nat Commun 12, 6030 (2021). https://doi.org/10.1038/s41467-021-26330-8
 
-Tao Wan, et al. The Welwitschia genome reveals a unique biology underpinning extreme longevity in deserts. Nature Communications. 2021. 12(1): 4247
-Tao Wan, et al. A genome for gnetophytes and early evolution of seed plants. Nature Plants. 2018. 4: 82-89.
+主题：CGM 第196期: 三个染色体级别罂粟属物种基因组揭示吗啡喃类物质合成通路的补丁式跳跃演化
 
-M.Yang§, Tao Wan§, C. Dai, X.C. Zhou, F. Liu, Y.B. Gong. Modern honeybees disrupt the pollination of an ancient gymnosperm, Gnetum luofuense. Ecology. 2021 https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecy.3497.
+时间：美国中部时间 2021年11月10日（星期三）7AM（北京时间11月10日9PM）
 
-主题：CGM 第176期: 买麻藤类植物——百岁兰的适应性进化
+腾讯会议 ID：353 247 352
 
-时间：美国中部时间 2021年8月11日（星期三）7AM（北京时间8月11日9PM）
-
-腾讯会议 ID：523 220 812
-
-腾讯会议链接：https://meeting.tencent.com/s/uVpJqHkMA8bs
+腾讯会议链接：https://meeting.tencent.com/dm/JIYqAkQPqPoe
 
 
