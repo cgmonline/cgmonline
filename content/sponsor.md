@@ -17,7 +17,7 @@ weight: 9
 ---------------
 
 ## 2021-2022年度Silver赞助伙伴：
-<a href="http://www.benagen.com/">
+<a href="http://www.benagene.com/">
    <img alt="武汉贝纳科技" src="https://imgur.com/H69jhAT.png"
    width="50%">
 </a>
