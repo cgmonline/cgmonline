@@ -5,7 +5,7 @@ menu: [top]
 weight: 4
 ---
 
-- 题目：CGM 第198期 基于比较混合线性模型揭示慢性肾脏病致病基因及致病机制和潛在治療方法
+- 题目：CGM 第198期 跨种族全基因组关联meta分析的可重复性评估
 
 - 时间：美国中部时间 2021年12月8日（星期三）8PM（北京时间12月9日 星期四 10AM, 欧中时间 星期四 3AM）
 - 地点：Zoom and YouTube live stream
@@ -13,7 +13,6 @@ weight: 4
 # 主讲人
 王晨博士，宾夕法尼亚州立大学 生物信息学与基因组学 博士在读。研究方向: 统计遗传学计算方法的开发与应用
 中国农业大学 生物科学 学士
-
 
 <div align="center">
 <img src="https://i.ibb.co/9Gk54tP/1.png" height=250>
@@ -25,6 +24,10 @@ weight: 4
 了一项严峻的挑战。本项研究开发了一种基于高斯混合模型的方法，能够对跨种族GWAS meta-analysis的关联信号进行可重复性评估。
 
 
+<div align="center">
+<img src="https://i.ibb.co/YWGLTVY/1.png" height=250>
+</div>
+
 # 参考文献
 
 
@@ -33,6 +36,6 @@ weight: 4
 - Zoom会议ID：878 7050 9801
 - 密码：207409
 
-**关键词**: 关键词：（3~5个，英文）
+**关键词**: 
 GWAS, meta-analysis, trans-ancestry, replicability, Gaussian mixture model
 
