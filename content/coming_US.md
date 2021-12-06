@@ -5,7 +5,7 @@ menu: [top]
 weight: 4
 ---
 
-- 题目：CGM 第198期 跨种族全基因组关联meta分析的可重复性评估
+- 题目：CGM 第202期 跨种族全基因组关联meta分析的可重复性评估
 
 - 时间：美国中部时间 2021年12月8日（星期三）8PM（北京时间12月9日 星期四 10AM, 欧中时间 星期四 3AM）
 - 地点：Zoom and YouTube live stream
