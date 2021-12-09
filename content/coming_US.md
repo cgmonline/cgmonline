@@ -1,34 +1,40 @@
 ---
 title: "北美区预告"
-date: "2021-12-08"
+date: "2021-12-15"
 menu: [top]
 weight: 4
 ---
 
-- 题目：CGM 第202期 跨种族全基因组关联meta分析的可重复性评估
+- 题目：CGM 第204期 染色质三维结构对神经发育基因表达的时空调控
 
-- 时间：美国中部时间 2021年12月8日（星期三）8PM（北京时间12月9日 星期四 10AM, 欧中时间 星期四 3AM）
+- 时间：美国中部时间 2021年12月15日（星期三）8PM（北京时间12月9日 星期四 10AM, 欧中时间 星期四 3AM）
 - 地点：Zoom and YouTube live stream
 - 
 # 主讲人
-王晨博士，宾夕法尼亚州立大学 生物信息学与基因组学 博士在读。研究方向: 统计遗传学计算方法的开发与应用
-中国农业大学 生物科学 学士
+陈大宏博士
+2014年博士毕业于俄克拉荷马大学后在美国国立卫生院从事博后研究，利用果蝇和小鼠作为模式动物，专注于发育过程中进化保守的、神经元特异的染色质三维结构对基因表达的时空调控。
+
+个人网站: https://dahongchen.weebly.com/
+
+
+
 
 <div align="center">
-<img src="https://i.ibb.co/9Gk54tP/1.png" height=250>
+<img src="https://i.ibb.co/bRm0DRy/Dahong-Chen.jpg" height=250>
 </div>
 
 # 中文摘要
-全基因组关联meta分析 (GWAS meta-analysis) 能够通过整合多个GWAS 研究来找到基因型和表型之间的关联。meta分析相较于单个研究
-通常有着更高的统计功效(statistical power)。近年来，GWAS 研究的样本数量和种族多样性越来越高。重现和验证识别到的关联信号成为
-了一项严峻的挑战。本项研究开发了一种基于高斯混合模型的方法，能够对跨种族GWAS meta-analysis的关联信号进行可重复性评估。
+神经细胞在发育过程中会进行强烈的退行和再生长，最终使幼体神经细胞获得全新的成体特征，成为完全成熟的神经系统。不难想象，此一重塑过程依赖对基因表达进行精确且动态的调控，而异常的神经重塑则会导致神经疾病，如自闭症、精神分裂症、致盲等疾病的发生，不同程度地影响了1/6儿童人口的身心健康（CDC, 2019）。 通过遗传学研究人们已经鉴定出数百个疾病相关的基因和转录因子，但这些转录因子如何在染色质三维结构中精确地对特定基因进行动态调控，还未曾在任何生物系统中被揭示过。
+
+陈大宏博士在博士后的研究延续了其博士论文中未解的问题，透过从果蝇体内分离得到的神经细胞进行实验，填补了神经重塑领域中基因动态表达特征的空白（Chen et al., Development, 2018），并首次阐明了染色质三维结构如何在神经重塑中起到关键性作用以保证特定时空下基因的精确表达（Chen et al., Nat. Comms., 2021）。研究揭示了精确的、神经细胞特异的表观遗传学机理，对基础生物学研究和临床医学应用具有重要的借鉴意义。
 
 
 <div align="center">
-<img src="https://i.ibb.co/YWGLTVY/1.png" height=250>
+<img src="https://i.ibb.co/swxRZcr/Neuronal-remodeling-cshldroso21.jpg" height=250>
 </div>
 
 # 参考文献
+Chen, D., C. E. McManus, B. Radmanesh, L. Matzat and E. P. Lei, 2021, Temporal inhibition of chromatin looping and enhancer accessibility during neuronal remodeling. Nature Communications
 
 
 # 参加方式
@@ -37,5 +43,6 @@ weight: 4
 - 密码：207409
 
 **关键词**: 
-GWAS, meta-analysis, trans-ancestry, replicability, Gaussian mixture model
+neuronal development, epigenetics, temporal chromatin 3D structure
+
 
