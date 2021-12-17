@@ -1,40 +1,38 @@
 ---
 title: "北美区预告"
-date: "2021-12-15"
+date: "2021-12-22"
 menu: [top]
 weight: 4
 ---
 
-- 题目：CGM 第204期 染色质三维结构对神经发育基因表达的时空调控
-
-- 时间：美国中部时间 2021年12月15日（星期三）8PM（北京时间12月16日 星期四 10AM, 欧中时间 星期四 3AM）
+- 题目：CGM 第205期 基于全球生物数据库的多基因风险评分在不同群体中的经验分析
+- 时间：美国中部时间 2021年12月22日（星期三）8PM（北京时间12月23日 星期四 10AM, 欧中时间 星期四 3AM）
 - 地点：Zoom and YouTube live stream
 - 
 # 主讲人
-陈大宏博士
-2014年博士毕业于俄克拉荷马大学后在美国国立卫生院从事博后研究，利用果蝇和小鼠作为模式动物，专注于发育过程中进化保守的、神经元特异的染色质三维结构对基因表达的时空调控。
-
-个人网站: https://dahongchen.weebly.com/
-
-
+王瑛博士
+麻省总医院和Broad研究所博士后，现阶段主要研究方向为多基因风险评分在人类不同种群的预测和应用。2021年博士毕业于昆士兰大学，统计遗传学方向。2008-2016年，就读于中山大学中山医学院，取得本科和硕士医学学位。
 
 
 <div align="center">
-<img src="https://i.ibb.co/bRm0DRy/Dahong-Chen.jpg" height=250>
+<img src="https://i.ibb.co/vBTF42t/1.jpg" height=250>
 </div>
 
 # 中文摘要
-神经细胞在发育过程中会进行强烈的退行和再生长，最终使幼体神经细胞获得全新的成体特征，成为完全成熟的神经系统。不难想象，此一重塑过程依赖对基因表达进行精确且动态的调控，而异常的神经重塑则会导致神经疾病，如自闭症、精神分裂症、致盲等疾病的发生，不同程度地影响了1/6儿童人口的身心健康（CDC, 2019）。 通过遗传学研究人们已经鉴定出数百个疾病相关的基因和转录因子，但这些转录因子如何在染色质三维结构中精确地对特定基因进行动态调控，还未曾在任何生物系统中被揭示过。
+多基因风险评分（PRS）目前广泛地应用于预测复杂性状的遗传组分以及复杂
+疾病的遗传风险等方面。本文基于对来自不同人类种群的全球数据库的meta
+分析，用不同的方法构建PRS，探索PRS在不同群体中的预测效能以及实践
+方法。
 
-陈大宏博士在博士后的研究延续了其博士论文中未解的问题，透过从果蝇体内分离得到的神经细胞进行实验，填补了神经重塑领域中基因动态表达特征的空白（Chen et al., Development, 2018），并首次阐明了染色质三维结构如何在神经重塑中起到关键性作用以保证特定时空下基因的精确表达（Chen et al., Nat. Comms., 2021）。研究揭示了精确的、神经细胞特异的表观遗传学机理，对基础生物学研究和临床医学应用具有重要的借鉴意义。
 
 
 <div align="center">
-<img src="https://i.ibb.co/swxRZcr/Neuronal-remodeling-cshldroso21.jpg" height=250>
+<img src="https://i.ibb.co/0Fkzw7Y/2.png" height=250>
 </div>
 
 # 参考文献
-Chen, D., C. E. McManus, B. Radmanesh, L. Matzat and E. P. Lei, 2021, Temporal inhibition of chromatin looping and enhancer accessibility during neuronal remodeling. Nature Communications
+Wang, Y., Namba, S., Lopera-Maya, E.A., Kerminen, S., Tsuo, K., Lall, K., Kanai, M., Zhou, W., Wu, K.-H.H., Fave, M.-J., et al. (2021). Global biobank analyses provide lessons for computing polygenic risk scores across diverse cohorts. medRxiv, https://www.medrxiv.org/content/10.1101/2021.11.18.21266545v2
+
 
 
 # 参加方式
@@ -43,6 +41,7 @@ Chen, D., C. E. McManus, B. Radmanesh, L. Matzat and E. P. Lei, 2021, Temporal i
 - 密码：207409
 
 **关键词**: 
-neuronal development, epigenetics, temporal chromatin 3D structure
+Global-biobank meta-analysis initiative (GBMI), polygenic risk scores (PRS), multi-ancestry genetic prediction, accuracy heterogeneity
+
 
 
