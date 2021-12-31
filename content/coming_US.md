@@ -1,38 +1,32 @@
 ---
 title: "北美区预告"
-date: "2021-12-22"
+date: "2022-01-05"
 menu: [top]
 weight: 4
 ---
 
-- 题目：CGM 第205期 基于全球生物数据库的多基因风险评分在不同群体中的经验分析
-- 时间：美国中部时间 2021年12月22日（星期三）8PM（北京时间12月23日 星期四 10AM, 欧中时间 星期四 3AM）
+- 题目：CGM 第208期 新書分享《植物学家的野外考察手记》-东南亚之旅
+
+- 时间：美国中部时间 2022年01月05日（星期三）8PM（北京时间01月06日 星期四 10AM, 欧中时间 星期四 3AM）
 - 地点：Zoom and YouTube live stream
 - 
 # 主讲人
-王瑛博士
-麻省总医院和Broad研究所博士后，现阶段主要研究方向为多基因风险评分在人类不同种群的预测和应用。2021年博士毕业于昆士兰大学，统计遗传学方向。2008-2016年，就读于中山大学中山医学院，取得本科和硕士医学学位。
+张丽兵博士
+兰州大学学士，中科院成都生物所硕士，德国美因茨（Mainz）大学博士，美国密苏里植物园研究员
+张丽兵博士，世界著名植物学家，国际植物命名法规的维也纳法规和墨尔本法规中文译者，发现和发表蕨类植物新科2个，新属12个，新种230多个，完成了40个植物大类群的系统发育重建。是近十年来世界上活跃，高产的蕨类植物学家。现任或曾任一些国际主流期刊主编、副主编和栏目编辑。其部分研究被美、英、法主流媒体报道。
 
 
 <div align="center">
-<img src="https://i.ibb.co/vBTF42t/1.jpg" height=250>
+<img src="https://i.ibb.co/TH2tK8K/1.jpg" height=250>
 </div>
 
 # 中文摘要
-多基因风险评分（PRS）目前广泛地应用于预测复杂性状的遗传组分以及复杂
-疾病的遗传风险等方面。本文基于对来自不同人类种群的全球数据库的meta
-分析，用不同的方法构建PRS，探索PRS在不同群体中的预测效能以及实践
-方法。
+《植物学家的野外考察手记》的作者，多年来在五大洲的20多个国家野外考察，探索人类未知的植物新种、植物多样性和演化。作者用日记真实记述了一个个植物新种的发现过程——走过泥泞的小路、穿过2米多高的草丛、蹚过湍急的河流、在几十米的峭壁上靠一根绳索攀爬、……摔伤、碰到毒蛇、被蚂蟥叮咬而血流不止、受蜱虫威胁、遭遇毒贩都是家常便饭。他也用日记真实地记述了大山中山民的真实生活，为他们的美食感叹，也思考自己可以为大山中的孩子做些什么，在见到遭破坏的生境时更是痛心疾首。书中有大量真实的物种和生境的高清图片，让读者仿佛跟随作者的脚步进行了一场又一场身临其境般的探险。对人与自然关系的深刻思考，是贯穿这本书的暗线。该书也是实用的深度旅游的指南，有很多关于当地风俗、文化的记述，里面记载的泰国美食就有100多种。
 
 
 
-<div align="center">
-<img src="https://i.ibb.co/0Fkzw7Y/2.png" height=250>
-</div>
-
-# 参考文献
-Wang, Y., Namba, S., Lopera-Maya, E.A., Kerminen, S., Tsuo, K., Lall, K., Kanai, M., Zhou, W., Wu, K.-H.H., Fave, M.-J., et al. (2021). Global biobank analyses provide lessons for computing polygenic risk scores across diverse cohorts. medRxiv, https://www.medrxiv.org/content/10.1101/2021.11.18.21266545v2
-
+# 新书链结
+https://zhongchou.modian.com/item/117836.html
 
 
 # 参加方式
@@ -41,7 +35,7 @@ Wang, Y., Namba, S., Lopera-Maya, E.A., Kerminen, S., Tsuo, K., Lall, K., Kanai,
 - 密码：207409
 
 **关键词**: 
-Global-biobank meta-analysis initiative (GBMI), polygenic risk scores (PRS), multi-ancestry genetic prediction, accuracy heterogeneity
+Caves, Exploration, Fern Diversity, Forest, Asia
 
 
 
