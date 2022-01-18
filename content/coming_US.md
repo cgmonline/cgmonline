@@ -1,33 +1,32 @@
 ---
 title: "北美区预告"
-date: "2021-11-24"
+date: "2022-01-19"
 menu: [top]
 weight: 4
 ---
 
-- 题目：CGM 第198期 基于比较混合线性模型揭示慢性肾脏病致病基因及致病机制和潛在治療方法
+- 题目：CGM 第211期 人类常见性状和疾病的遗传特征和基因定位研究
 
-- 时间：美国中部时间 2021年11月24日（星期三）8PM（北京时间11月25日 星期四 10AM, 欧中时间 星期四 3AM）
+
+- 时间：美国中部时间 2022年01月19日（星期三）8PM（北京时间01月20日 星期四 10AM, 欧中时间 星期四 3AM）
 - 地点：Zoom and YouTube live stream
 - 
 # 主讲人
-盛欣博士，良渚实验室/浙江大学医学中心“百人计划”研究员，博士生导师。近五年来，以第一作者与共同第一作者身份在Nature Genetics, Science Translational Medicine, PNAS, Nucleic Acids Research, Briefings in Bioinformatics等国际知名期刊发表多篇论文；并以合作者身份在Nature Genetics, Cell Metabolism, J Clin Invest等国际知名期刊共发表论文20余篇。2021年9月，盛欣博士加入良渚实验室/浙江大学医学中心，成立独立课题组。
+杨剑博士，西湖大学教授。2003年毕业于浙江大学生物科学系，2008年于浙江大学获得数量遗传学博士学位，同年赴澳大利亚昆士兰医学研究所从事博士后研究工作。2012年加入澳大利亚昆士兰大学，历任研究员、高级研究员、副教授、教授。2020年加入西湖大学生命科学学院。主要致力于统计遗传学以及人类常见性状和疾病的基因组学大数据研究。曾获得澳大利亚Centenary Institute劳伦斯创新奖（2012年）、澳大利亚科学院Ruth Stephens Gani奖章（2015年）、澳大利亚总理科学奖-Frank Fenner年度生命科学家奖（2017年）。2018年入选中组部国家海外高层次人才引进计划（创新长期项目）。2018至2021连续四年被列入科睿唯安“高被引学者”。
 
 
 
 <div align="center">
-<img src="https://i.ibb.co/mDZDcHZ/1.jpg" height=250>
+<img src="https://i.ibb.co/bRwL784/1.jpg" height=250>
 </div>
 
 # 中文摘要
-肾脏在维持机体内环境稳定中发挥重要作用。慢性肾脏病表现为肾脏结构的改变和功能的下降，最终导致终末期肾衰竭而危及患者生命。世界上有8亿多人患有慢性肾脏病，而其治疗方法却十分有限。GWAS研究虽已识别约300个与肾功能相关的SNPs，但是大多数位于非编码区。它们在何种类型的细胞中，通过调控何种基因，最终引起肾功能的变化，对慢性肾脏病的新疗法的研发非常重要。本研究开发了识别cell type interaction eQTL的新方法，通过与GWAS数据的整合分析揭示了200多个慢性肾脏病与高血压的潜在药物靶点，并注释了肾脏中各类细胞所承担的生物学功能，从单细胞水平解析了最常用的治疗慢性肾脏病的头号药物作用靶点所受到的潜在分子调控机制，为治疗慢性肾脏病与高血压的相关药物研发指明方向。
+人类的形态和行为特征以及疾病风险往往都受到许多遗传和环境因素的影响，从而表现出复杂的遗传特征，因而也被称为复杂性状。破解复杂性状的遗传机制对于人类健康至关重要。在本次演讲中，我将展示如何利用人群大队列数据来揭示人类复杂性状和疾病的遗传特征，并从进化生物学的角度解释这种遗传机制形成的原因。我还将展示如何通过整合人群大队列遗传学和多组学数据，定位影响复杂性状和疾病的基因，并推断可能遗传调控机制。
 
 
 
 # 参考文献
-Xin Sheng#, Yuting Guan#, Ziyuan Ma, Junnan Wu, Hongbo Liu, Chengxiang Qiu, Steven Vitale, Zhen Miao, Matthew J. Seasock, Matthew Palmer, Myung K. Shin, Kevin L. Duffin, Steven S. Pullen, Todd L. Edwards, Jacklyn N. Hellwege, Adriana M. Hung, Mingyao Li, Benjamin Voight, Thomas Coffman, Christopher D. Brown, Katalin Susztak. Mapping the genetic architecture of human traits to cell types in the kidney identifies mechanisms of disease and potential treatments. Nature Genetics, doi:10.1038/s41588-021-00909-9. Epub. (2021). 
-
-
+https://yanglab.westlake.edu.cn/publications.html
 
 
 # 参加方式
@@ -35,4 +34,9 @@ Xin Sheng#, Yuting Guan#, Ziyuan Ma, Junnan Wu, Hongbo Liu, Chengxiang Qiu, Stev
 - Zoom会议ID：878 7050 9801
 - 密码：207409
 
-**关键词**: eQTL, genetic architecture,  cell types in the kidney
+**关键词**: 
+Common traits and diseases, Genetic Architecture, Gene Mapping
+
+
+
+
