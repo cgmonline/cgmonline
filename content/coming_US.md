@@ -13,16 +13,9 @@ weight: 4
 # 主讲人
 靳文菲, 郑州大学 本科, 中科院上海生科院 博士, NIH 博士后，南方科技大学副教授，博士生导师。（主页：https://faculty.sustech.edu.cn/jinwf/）
 
-
-<div align="center">
-<img src="https://github.com/cgmonline/cgmonline/blob/master/image/2022_Wenfei_Jin.jpg" height=250>
-</div>
-
 <div align="center">
 <img src="https://github.com/cgmonline/cgmonline/blob/master/image/2022_Wenfei_Jin.jpg?raw=true" height=250>
 </div>
-
-![2](../image/2022_Wenfei_Jin.jpg)
 
 
 # 中文摘要
