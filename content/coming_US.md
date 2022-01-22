@@ -18,6 +18,12 @@ weight: 4
 <img src="https://github.com/cgmonline/cgmonline/blob/master/image/2022_Wenfei_Jin.jpg" height=250>
 </div>
 
+<div align="center">
+<img src="https://github.com/cgmonline/cgmonline/blob/master/image/2022_Wenfei_Jin.jpg?raw=true" height=250>
+</div>
+
+![2](../image/2022_Wenfei_Jin.jpg)
+
 
 
 # 中文摘要
