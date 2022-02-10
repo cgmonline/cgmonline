@@ -1,9 +1,10 @@
 ---
 title: "北美区预告"
-date: '2022-02-17 星期四 Beijing 10AM'
+date: '2022-02-17'
 menu: [top]
 weight: 4
 ---
+
 - 题目：CGM-216 通过双重先导编辑技术实现大片段DNA序列删除,替换, 倒置及新一代基因疗法。
 - 地点：Zoom and YouTube live stream
 # 主讲人
