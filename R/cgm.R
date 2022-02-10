@@ -3,10 +3,10 @@ args = commandArgs(trailingOnly=TRUE)
 library("tidyverse")
 library("openxlsx")
 Sys.setlocale(category="LC_ALL",locale="chinese")
-data<-read.xlsx(".//R//CGM_SpeakerInfoRequest.xlsx",sheet = 1,colNames = F)
+data<-read.xlsx(".//R//",sheet = 1,colNames = F)
 data
-firstname<-data[9,1]
-lastname<-data[10,1]
+firstname<-data[9,2]
+lastname<-data[10,2]
 
 l1<-"---"
 l2<-"title: \"北美区预告\""
@@ -60,7 +60,8 @@ l22 <-"# 关键词"
 l23<-data[4,2]
 ll<-rbind(l1,l2,l3,l4,l5,l6,l7,l8,l9,l10,l11,l12,l13,l14,l15,l16,l17,l18,l19,l20,l21,l22,l23)
 datex<-unlist(strsplit(data[3,2]," "))[1]
-opt<-paste0("./content/post/",datex,"-",firstname,lastname,".md")
+opt<-paste0("./content/post/",datex,"-",firstname,"_",lastname,".md")
+opt
 write.table(ll,file=opt,sep="",quote=F,col.names = F,row.names = F)
 
 
