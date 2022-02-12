@@ -8,7 +8,7 @@ weight: 6
 - [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)(评奖委员会主席)，[郝樾](https://yueyvettehao.github.io/) (编辑部， Meeting Minutes)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b) (EC China，CGM Business)，[雷栗](https://twitter.com/lilei0051)（Special Project，HR)， [祁新帅](https://www.linkedin.com/in/xinshuaiqi/) (CGM Business，NGO， Finance)，[刘三震](https://www.plantgenomics.ksu.edu/liulab/)(SC general)，[武志强](http://agis.caas.cn/rctd/yjtd/226826.htm) (EC China)，[杨金良](http://jyanglab.com/)(EC general，website), [陈春龙](https://science.institut-curie.org/team-chen)
 
 ## CGM 北美区执行委员会 (Executive Committee) US
-- **02 - 04, 2022：EC NA14 [郭士成](https://shicheng-guo.github.io/about)（组长），狄晨露(联络，协调)，杨其元（联络，网站），孙畅（公众号）
+- **02 - 04, 2022：EC NA14 [郭士成](https://shicheng-guo.github.io/about)（组长），狄晨露(联络，协调)，杨其元（联络，网站），孙畅（公众号）**
 - 09 - 12, 2021：EC NA13 黄義竣（组长)， 郭士成（联络+主持），狄晨露（公众号）
 - 05 - 08, 2021：EC NA12 [李勤](https://qli.github.io/)（组长），江纯阶（联络+主持），黄義竣（邀请嘉宾和视频直播）
 - 01 - 04, 2021：EC NA11 解少俊（组长），陈雨露（联络+主持），端韵成（邀请嘉宾和视频直播），袁玉轩（网站和公众号预告更新）
