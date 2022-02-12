@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>CGM 第170期: 人类基因组遗传总效应评估 | 华人基因组学在线沙龙</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    <link href="//cdn.bootcss.com/highlight.js/9.12.0/styles/github.min.css" rel="stylesheet">
+<link href="/css/custom.css" rel="stylesheet">
+<script async src="//yihui.name/js/no-highlight.js"></script>
+<script async src="/js/pangu.js"></script>
+
+  </head>
+
+  <body class="page">
+    <nav class="header">
+      <div class="banner-wrapper">
+<div class="banner">
+<div class="banner-image"><a href="/">
+<picture>
+  <source media="(min-width: 715px)" srcset="/img/new-logo-wide2020.png"><source media="(max-width: 380px)" srcset="/img/new-logo-wide2020.png">
+  <img src="/img/logo.png" alt="CGM标志">
+</picture>
+</a></div>
+<ul class="menu-top">
+  
+  <li><a href="/"><span data-hover="首页">首页</span></a></li>
+  
+  <li><a href="/coming_cn/"><span data-hover="中国区预告">中国区预告</span></a></li>
+  
+  <li><a href="/2021-06-23_dongyin_guan/"><span data-hover="北美区预告">北美区预告</span></a></li>
+  
+  <li><a href="/coming_eu/"><span data-hover="欧洲区预告">欧洲区预告</span></a></li>
+  
+  <li><a href="/tags/talks/"><span data-hover="往期活动">往期活动</span></a></li>
+  
+  <li><a href="/wechat/"><span data-hover="公众号">公众号</span></a></li>
+  
+  <li><a href="/cgmec/"><span data-hover="组织管理">组织管理</span></a></li>
+  
+  <li><a href="/business/"><span data-hover="企业沙龙">企业沙龙</span></a></li>
+  
+  <li><a href="/timeline/"><span data-hover="大事记">大事记</span></a></li>
+  
+  <li><a href="/subscribe/"><span data-hover="加入我们">加入我们</span></a></li>
+  
+  <li><a href="/archives/"><span data-hover="讨论列表">讨论列表</span></a></li>
+  
+</ul>
+</div>
+</div>
+
+      <div class="head-meta">
+      
+        <span><a href="/">&larr; 返回首页</a></span>
+        <span class="date">2021-07-14</span>
+        
+        
+        
+          
+        
+        
+        <span><a href="https://github.com/cgmonline/cgmonline/edit/master/content/post/2021/2021-07-14_LT.md">编辑本页 &rarr;</a></span>
+        
+        
+      
+      </div>
+    </nav>
+
+<div class="container">
+<article>
+<div class="article-meta">
+
+  <div class="categories">
+  
+    <a href="/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A">学术报告</a>
+  
+  </div>
+
+  <h1><span class="title">CGM 第170期: 人类基因组遗传总效应评估</span></h1>
+
+  
+
+  
+  <p>关键词：<a href="/tags/talks">talks</a>; <a href="/tags/pleiotropy">pleiotropy</a>; <a href="/tags/mixture-model">mixture model</a>; <a href="/tags/gwas">GWAS</a>; <a href="/tags/genetic-architecture">genetic architecture</a>
+  </p>
+  
+  
+
+
+</div>
+
+
+
+<main>
+<ul>
+<li>题目：CGM 第170期: 人类基因组遗传总效应评</li>
+<li>时间：美国中部时间 2021年7月14日（星期三）7AM（北京时间7月14日9PM）</li>
+<li>地点：Tecent and Bilibili live stream</li>
+<li>主讲人：黎婷，2018年至今于中山大学生命科学学院攻读生物信息学博士学位（硕博连读）。主要研究方向为统计遗传学、数量遗传学。</li>
+</ul>
+<!-- raw HTML omitted -->
+<h1 id="中文摘要">中文摘要</h1>
+<p>遗传多效性（Pleiotropy）是有着超过一个多世纪历史的遗传学概念【1】，描述一个DNA变异或基因同时影响多个性状的现象。近十五年，大量的全基因组关联研究（Genome-Wide Association Studies，GWAS）表明人类的复杂性状普遍具有“微效多基因”的遗传图谱——即受许多基因及变异的影响，而每个基因及变异对复杂性状的效应十分微小【2】。从而，基
+因组中大量的变异普遍具有遗传多效性。那么，对于我们所研究的各种人类性状，哪个变异或基因对我们的影响最大呢？
+现有的GWAS结果可以帮助我们回答这一问题，但却并非易事。在综合考虑遗传变异或基因对很多性状的影响时，如何将微小的遗传效应（Genetic Effect）与数据中的噪声（Noise&gt;）区别开有很大难度。我们通常可以对GWAS结果根据其统计学显著性人为设定一个阈值，但这样简单的手段并不能有效地区分遗传效应的有无。GWAS是典型的多重检验问题，使用宽
+松的阈值（如P &lt; 0.05）显然会导致过多的假阳性，而严格的阈值（例如常用的基因组显著性水平P &lt; 5×10−8）则会导致过多的假阴性【3】。然而，若直接舍弃显著性阈值，直接&gt;将所有表型的遗传效应直接相加也会引入过多的来自无遗传效应变异的噪声【4】。此外，不同性状之间的相关性也需要被合理地考虑。
+本研究开发了一种不依赖统计阈值来估计单个变异总遗传效应的新方法（Total Genetic Contribution Assessment, TGCA)【5】，解决了上述困难，并对 UK Biobank 中各类性状&gt;进行了全基因组各个变异遗传总效应评估。</p>
+<p>这项研究中，作者运用混合分布模型对单个遗传变异在多个性状上的遗传效应进行统计建模，将遗传效应分为正遗传效应、无遗传效应、以及负遗传效应三个部分。该模型在区分有
+无遗传效应的同时，同时考虑了遗传效应影响的广度（即遗传多效性）和遗传效应影响的深度（即遗传效应的大小）。通过对混合分布模型的拟合，作者利用估计得到的正负遗传效
+应的比例及均值，设计出一个新的总遗传效应统计量（TGCA Θ），并通过大量的模拟计算证明了TGCA方法可以在各种情况下有效地估计总遗传效应。
+作者运用TGCA方法评估了全基因组各个遗传变异对UK Biobank中五类复杂性状或疾病的总遗传效应，包括医疗健康情况（122个性状）、体格特征（117个性状）、生活方式（172个&gt;性状）、心理健康情况（189个性状）、以及饮食状况（139个性状），提供了全基因组遗传变异对五种类型性状总贡献的图谱。研究发现，人类HLA位点对健康相关性状有最突出的&gt;遗传效应，骨密度位点WNT16对体格特征性状有最突出效应，而皮肤着色位点MC1R和吸烟易感位点CHRNA3对生活方式相关性状有突出的遗传效应。
+此外，作者通过将遗传变异对各类性状的总遗传效应与GTEx中48个人体组织的基因表达数据进行整合，检验了总遗传效应在组织器官中的富集程度，从而将总遗传效应关联到组织器
+官水平。例如，研究发现，心理健康相关性状的整体遗传效应在大脑特异表达的基因中富集，而其他类型性状的整体遗传效应在大脑中无显著富集。已有研究表明基因和蛋白质表达
+的顺式调控元件集中在转录起始位点附近【6】，而这些区域富集了复杂性状的遗传力【7】。研究发现，如果一个特定的组织富集了某一类型性状的总遗传效应，则在这一组织特异
+表达的基因的顺式调控位点（cis-eQTL）也同样富集这一类型性状的总遗传效应，从而说明总遗传效应与人体组织的关联是由组织特异表达基因的顺式调控元件驱动的。</p>
+<h1 id="参考文献">参考文献</h1>
+<ol>
+<li>
+<p>Plate, L. Genetics and Evolution (Festschrift Zum Sechzigsten Geburtstag Richard Hertwigs (in German)) (Fischer, 1910).</p>
+</li>
+<li>
+<p>Visscher, P. M. et al. 10 years of GWAS discovery: biology, function, and translation. Am. J. Hum. Genet. 101, 5–22 (2017).</p>
+</li>
+<li>
+<p>Yang, C., Li, C., Wang, Q., Chung, D. &amp; Zhao, H. Implications of pleiotropy: challenges and opportunities for mining Big Data in biomedicine. Front. Genet. 6, 229 (2015).</p>
+</li>
+<li>
+<p>Jordan, D. M., Verbanck, M. &amp; Do, R. HOPS: a quantitative score reveals pervasive horizontal pleiotropy in human genetic variation is driven by extreme polygenicity of human traits and diseases. Genome Biol.20, 222 (2019).</p>
+</li>
+<li>
+<p>Li, T., Ning, Z., Yang, Z. et al. Total genetic contribution assessment across the human genome. Nat Commun 12, 2845 (2021).</p>
+</li>
+<li>
+<p>Sun, B. B. et al. Genomic atlas of the human plasma proteome. Nature 558, 73–79 (2018).</p>
+</li>
+<li>
+<p>Hilary Finucane, Brendan Bulik-Sullivan, et al. Partitioning heritability by functional category using GWAS summary statistics. Nature Genetics, 47, 1228–1235 (2015).</p>
+</li>
+</ol>
+<h1 id="youtube">YouTube</h1>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h1 id="bilibili">Bilibili</h1>
+
+<div class="embed-container">
+	<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+
+
+</main>
+
+
+
+<section class="article-meta article-footer">
+
+</section>
+
+
+<nav class="post-nav">
+  <span class="nav-prev"><a href="/2021/07/cgm-%E7%AC%AC169%E6%9C%9F-%E5%90%88%E6%88%90%E8%A1%A8%E8%A7%82%E9%81%97%E4%BC%A0%E5%AD%A6%E5%88%A9%E7%94%A8%E5%90%88%E6%88%90%E7%94%9F%E7%89%A9%E5%AD%A6%E8%A7%A3%E6%9E%90%E7%BB%84%E8%9B%8B%E7%99%BD%E5%8F%98%E4%BD%93%E5%AF%86%E7%A0%81/">&larr; CGM 第169期: 合成表观遗传学：利用合成生物学解析组蛋白变体密码</a></span>
+  <span class="nav-next"><a href="/2021/07/cgm-%E7%AC%AC168%E6%9C%9F-%E5%AF%84%E7%94%9F%E7%9A%84%E4%BB%A3%E4%BB%B7-%E5%AF%84%E7%94%9F%E8%8A%B1%E5%9F%BA%E5%9B%A0%E4%B8%A2%E5%A4%B1%E4%B8%8E%E6%B0%B4%E5%B9%B3%E5%9F%BA%E5%9B%A0%E8%BD%AC%E7%A7%BB%E7%BB%84%E5%AD%A6%E5%88%86%E6%9E%90/">CGM 第168期 寄生的代价--寄生花基因丢失与水平基因转移组学分析 &rarr;</a></span>
+</nav>
+
+
+
+
+
+<div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "cgmonline-co" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+
+</article>
+</div>
+
+<script async src="//yihui.name/js/center-img.js"></script>
+
+<footer>
+<script src="/js/article-titles.js"></script>
+
+<div class="footer">
+  <ul class="menu">
+    
+    <li><a href="/categories/%E4%BA%BA%E7%89%A9%E4%B8%93%E8%AE%BF/"><span data-hover="人物专访">人物专访</span></a></li>
+    
+    <li><a href="/categories/%E4%B8%93%E9%A2%98%E8%AE%A8%E8%AE%BA/"><span data-hover="专题讨论">专题讨论</span></a></li>
+    
+    <li><a href="/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/"><span data-hover="学术报告">学术报告</span></a></li>
+    
+    <li><a href="/tags/"><span data-hover="关键词">关键词</span></a></li>
+    
+    <li><a href="/categories/%E4%BC%81%E4%B8%9A%E7%BE%A4/"><span data-hover="企业群">企业群</span></a></li>
+    
+    <li><a href="/search/"><span data-hover="搜索CGM">搜索CGM</span></a></li>
+    
+    <li><a href="/calendar/"><span data-hover="活动日历">活动日历</span></a></li>
+    
+    <li><a href="/sponsor/"><span data-hover="赞助伙伴">赞助伙伴</span></a></li>
+    
+    <li><a href="/jobinfo/"><span data-hover="工作信息">工作信息</span></a></li>
+    
+    <li><a href="/"><span data-hover="关于我们">关于我们</span></a></li>
+    
+    <li><a href="/knowledgebase/"><span data-hover="知识库">知识库</span></a></li>
+    
+  </ul>
+  
+  <div class="copyright">© 华人基因组学在线沙龙 2021 | <a href="https://github.com/cgmonline">Github</a> | <a href="https://www.youtube.com/channel/UCk4tsPZOzGkP2IaU4YvUG_g">YouTube</a></div>
+  
+</div>
+</footer>
+
+
+
+
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-48206713-4', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+</body>
+</html>
+
