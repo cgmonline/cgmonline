@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://cgmonline.co/coming_us/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
+    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -47,6 +47,11 @@
   
   <url>
     <loc>https://cgmonline.co/jobinfo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/</loc>
+    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -176,11 +181,6 @@
   
   <url>
     <loc>https://cgmonline.co/tags/gwas/</loc>
-    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/</loc>
     <lastmod>2022-01-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -3242,6 +3242,31 @@
   <url>
     <loc>https://cgmonline.co/tags/lncrna/</loc>
     <lastmod>2020-02-26T17:15:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/2020/02/217-%E5%9F%BA%E4%BA%8E%E5%8D%95%E7%BB%86%E8%83%9E%E7%94%B2%E5%9F%BA%E5%8C%96%E7%9A%84%E5%B0%8F%E9%BC%A0%E8%84%91%E7%BB%86%E8%83%9E%E5%9B%BE%E8%B0%B1/</loc>
+    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/cell-type-specific-enhancer/</loc>
+    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/mouse-brain-atlas/</loc>
+    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/neuroscience/</loc>
+    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/single-cell-epigenomics/</loc>
+    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
