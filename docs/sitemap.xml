@@ -8,11 +8,6 @@
   </url>
   
   <url>
-    <loc>https://cgmonline.co/coming_us/</loc>
-    <lastmod>2022-02-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cgmonline.co/coming_eu/</loc>
     <lastmod>2022-01-20T00:00:00+00:00</lastmod>
   </url>
@@ -20,6 +15,11 @@
   <url>
     <loc>https://cgmonline.co/2021-06-23_dongyin_guan/</loc>
     <lastmod>2021-06-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/coming_us/</loc>
+    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -52,11 +52,6 @@
   
   <url>
     <loc>https://cgmonline.co/jobinfo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/</loc>
-    <lastmod>2022-02-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -186,6 +181,11 @@
   
   <url>
     <loc>https://cgmonline.co/tags/gwas/</loc>
+    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/</loc>
     <lastmod>2022-01-20T00:00:00+00:00</lastmod>
   </url>
   
