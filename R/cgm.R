@@ -3,7 +3,7 @@ args = commandArgs(trailingOnly=TRUE)
 library("tidyverse")
 library("openxlsx")
 Sys.setlocale(category="LC_ALL",locale="chinese")
-data<-read.xlsx(".//R//",sheet = 1,colNames = F)
+data<-read.xlsx("R/Hanqing_Liu_CGM_SpeakerInfoRequest.xlsx",sheet = 1,colNames = F)
 data
 firstname<-data[9,2]
 lastname<-data[10,2]
