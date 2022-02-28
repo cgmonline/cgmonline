@@ -1,30 +1,32 @@
 ---
-title: "åŒ—ç¾åŒºé¢„å‘Š"
-date: '2022-02-24'
+title: "±±ÃÀÇøÔ¤¸æ"
+date: '2022-03-03 ĞÇÆÚËÄ 10AM'
 menu: [top]
 weight: 2
 ---
-- é¢˜ç›®ï¼šCGM-217 åŸºäºå•ç»†èƒç”²åŸºåŒ–çš„å°é¼ è„‘ç»†èƒå›¾è°±
-- æ—¶é—´ï¼šåŒ—äº¬æ—¶é—´ 2 æœˆ 24 å·ï¼Œæ—©ä¸Š 10ï¼š00-11ï¼š00
-- åœ°ç‚¹ï¼šZoom and YouTube live stream
-- ä¸»è®²äºº
+- ÌâÄ¿£ºCGM-218 Éñ¾­Ôª³ÉÊìµÄ±í¹ÛÒÅ´«µ÷¿Ø»úÖÆ¡£
+- µØµã£ºZoom and YouTube live stream
+- Ö÷½²ÈË
 
-åˆ˜ç¿°é’ï¼Œç”·ï¼Œæœ¬ç§‘æ¯•ä¸šäºæµ™æ±Ÿå¤§å­¦ç«ºå¯æ¡¢å­¦é™¢ï¼Œç›®å‰ä¸ºåŠ å·å¤§å­¦åœ£åœ°äºšå“¥åˆ†æ ¡ç”Ÿç‰©åšå£«ï¼ˆåœ¨è¯»ï¼‰ï¼Œå¯¼å¸ˆä¸ºç´¢å°”å…‹ç ”ç©¶æ‰€ Joseph Ecker æ•™æˆã€‚ä¸»è¦ç ”ç©¶æ–¹å‘ä¸ºåˆ†å­ç¥ç»ç”Ÿç‰©å­¦å’Œå•ç»†èƒè¡¨è§‚åŸºå› ç»„å­¦ã€‚åšå£«æœŸé—´å‚ä¸æ•°é¡¹ BRAIN Initiative è¯¾é¢˜ï¼Œç ”ç©¶å’Œå¼€å‘å•ç»†èƒè¡¨è§‚é—ä¼ ç»„å­¦æŠ€æœ¯åŠå…¶åˆ†ææ–¹æ³•ï¼Œå¹¶ä»¥æ­¤æ„å»ºå°é¼ è„‘ç»†èƒå›¾è°±ï¼Œç†è§£å¤§è„‘ç»†èƒç±»å‹å¤šæ ·æ€§çš„åˆ†å­ç”Ÿç‰©å­¦åŸºç¡€ã€‚å¤šé¡¹ç ”ç©¶æˆæœè¿‘æ—¥å‘è¡¨äº Nature è„‘è®¡åˆ’ä¸“åˆŠã€‚
+Ô¬ÎÄ£¬ÄĞ£¬ÉîÛÚÍåÊµÑéÊÒÌØÆ¸ÑĞ¾¿Ô±¡£2010Äê»ñÖĞ¹úÅ©Òµ´óÑ§/±±¾©ÉúÃü¿ÆÑ§ÑĞ¾¿ËùÁªºÏÅàÑøÏîÄ¿²©Ê¿Ñ§Î»£»Ö®ºó£¬Ç°ÍùÃÀ¹ú¹ş·ğ´óÑ§¸ÉÏ¸°ûÓëÔÙÉúÒ½Ñ§ÑĞ¾¿ÖĞĞÄ£¬ÀúÈÎ²©Ê¿ºóÑĞ¾¿Ô±¡¢ÖúÀíÑĞ¾¿Ô±£»2021Äê10ÔÂ½øÈëÉîÛÚÍåÊµÑéÊÒÈÎÌØÆ¸ÑĞ¾¿Ô±¡£³¤ÆÚ´ÓÊÂ±í¹ÛÒÅ´«Ñ§ºÍÉñ¾­ÉúÎïÑ§ÑĞ¾¿£¬ÔÚ¹ú¼ÊÖªÃûÆÚ¿¯·¢±íSCIÑĞ¾¿ÂÛÎÄ¶àÆª£¬ÆäÖĞ°üÀ¨ScienceµÈÖªÃûÔÓÖ¾¡£
 
 <div align="center">
-<img src="https://github.com/cgmonline/cgmonline/blob/master/image/2022_Hanqing_Liu.jpg?raw=true" height=250>
+<img src="https://github.com/cgmonline/cgmonline/blob/master/image/2022_Wen_Yuan.jpg?raw=true" height=250>
 </div>
 
-# ä¸­æ–‡æ‘˜è¦
-Mammalian brain cells show remarkable diversity in gene expression, anatomy and function, yet the regulatory DNA landscape underlying this extensive heterogeneity is poorly understood. Here we carry out a comprehensive assessment of the epigenomes of mouse brain cell types by applying single-nucleus DNA methylation sequencing1,2 to profile 103,982 nuclei (including 95,815 neurons and 8,167 non-neuronal cells) from 45 regions of the mouse cortex, hippocampus, striatum, pallidum and olfactory areas. We identified 161 cell clusters with distinct spatial locations and projection targets. We constructed taxonomies of these epigenetic types, annotated with signature genes, regulatory elements and transcription factors. These features indicate the potential regulatory landscape supporting the assignment of putative cell types and reveal repetitive usage of regulators in excitatory and inhibitory cells for determining subtypes. The DNA methylation landscape of excitatory neurons in the cortex and hippocampus varied continuously along spatial gradients. Using this deep dataset, we constructed an artificial neural network model that precisely predicts single neuron cell-type identity and brain area spatial location. Integration of high-resolution DNA methylomes with single-nucleus chromatin accessibility data3 enabled prediction of high-confidence enhancerâ€“gene interactions for all identified cell types, which were subsequently validated by cell-type-specific chromatin conformation capture experiments4. By combining multi-omic datasets (DNA methylation, chromatin contacts, and open chromatin) from single nuclei and annotating the regulatory genome of hundreds of cell types in the mouse brain, our DNA methylation atlas establishes the epigenetic basis for neuronal diversity and spatial organization throughout the mouse cerebrum.
+# ÖĞÎÄÕªÒª
 
-# å‚è€ƒæ–‡çŒ®
-Liu, Hanqing, Jingtian Zhou, Wei Tian, Chongyuan Luo, Anna Bartlett, Andrew Aldridge, Jacinta Lucero, et al. 2021. â€œDNA Methylation Atlas of the Mouse Brain at Single-Cell Resolution.â€ Nature 598 (7879): 120â€“28.
+²¸Èé¶¯ÎïµÄĞÂÆ¤²ãÉñ¾­Ôª¾ßÓĞ×î¶àÑù»¯µÄÏ¸°ûÀàĞÍ¡£Éñ¾­ÔªÔÚ·¢ÓıºÍ³ÉÊì¹ı³ÌÖĞÊ¹ÓÃµÄµ÷½Ú²ßÂÔÈ´ÈÔ²»Çå³ş¡£<U+00A0>ÎÒÃÇ¶ÔÀ´×ÔĞ¡ÊóºÍáõºïĞÂÆ¤²ãµÄÉñ¾­Ôª½øĞĞÁËÕûºÏµÄµ¥Ï¸°û±í¹Û»ùÒò×éºÍ×ªÂ¼×é·ÖÎö¡£<U+00A0>ÎÒÃÇ·¢ÏÖ£¬ÔÚÕâÁ½¸öÎïÖÖÖĞ£¬¿ØÖÆÉñ¾­Ôª·¢ÓıÔçÆÚºÍÍíÆÚµÄµ÷¿Ø²ßÂÔ´æÔÚ²îÒì¡£ÎÒÃÇµÄÑĞ¾¿½ÒÊ¾ÁËĞÂÆ¤²ãÉñ¾­Ôª·¢ÓıµÄ²»Í¬½×¶Î£¬²ÉÈ¡²»Í¬µÄ²ßÂÔÎ¬³ÖÉñ¾­ÔªµÄÃüÔËÒÔ¼°¹¦ÄÜ£¬ÇÒÕâÖÖ²ßÂÔµÄÑ¡ÔñÔÚ½ø»¯ÉÏÊÇ±£ÊØµÄ¡£ <U+00A0>
 
-# å…³é”®è¯
-DNA methylation, single-cell epigenomics, neuroscience, mouse brain atlas, cell-type-specific enhancer
+# ²Î¿¼ÎÄÏ×
 
-å‚åŠ æ–¹å¼
-- Zoomä¼šè®®é“¾æ¥: https://us06web.zoom.us/j/87870509801?pwd=SGpvdEc3YVRQL2twTmJyenhnTDFrZz09
-- Zoomä¼šè®®IDï¼š878 7050 9801
-- å¯†ç ï¼š207409
+Wen Yuan, Sai Ma, Juliana R Brown, Kwanho Kim, Vanessa Murek, Lucia Trastulla, Alexander Meissner, Simona Lodato, Ashwin Shetty, Joshua Z Levin, Jason D Buenrostro, Michael J Ziller, Paola Arlotta. 2020. Temporally-Divergent Regulatory Mechanisms Govern Neuronal Development and Diversification in the Neocortex
+
+# ¹Ø¼ü´Ê
+
+Epigenetic; Neuron; Cortex; single cell RNA-seq; single cell ATAC-seq; DNA methylation.
+
+²Î¼Ó·½Ê½
+- Zoom»áÒéÁ´½Ó: https://us06web.zoom.us/j/87870509801?pwd=SGpvdEc3YVRQL2twTmJyenhnTDFrZz09
+- Zoom»áÒéID£º878 7050 9801
+- ÃÜÂë£º207409
