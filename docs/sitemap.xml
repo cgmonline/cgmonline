@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://cgmonline.co/coming_us/</loc>
-    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cgmonline.co/coming_cn/</loc>
     <lastmod>2021-11-10T00:00:00+00:00</lastmod>
   </url>
@@ -15,6 +10,10 @@
   <url>
     <loc>https://cgmonline.co/coming_eu/</loc>
     <lastmod>2022-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/coming_us/</loc>
   </url>
   
   <url>
@@ -50,32 +49,102 @@
   </url>
   
   <url>
-    <loc>https://cgmonline.co/</loc>
-    <lastmod>2022-02-24T00:00:00+00:00</lastmod>
+    <loc>https://cgmonline.co/2022/03/03-30-2022-%E5%9F%BA%E4%BA%8E%E5%8D%95%E7%BB%86%E8%83%9E%E7%94%B2%E5%9F%BA%E5%8C%96%E7%9A%84%E5%B0%8F%E9%BC%A0%E8%84%91%E7%BB%86%E8%83%9E%E5%9B%BE%E8%B0%B1/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://cgmonline.co/archive/2022/</loc>
-    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cgmonline.co/archive/2022-02/</loc>
-    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
+    <loc>https://cgmonline.co/archive/2022-03/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cgmonline.co/archive/2022-02-02/</loc>
-    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
+    <loc>https://cgmonline.co/archive/2022-03-30/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://cgmonline.co/archive/</loc>
-    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://cgmonline.co/categories/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/cell-type-specific-enhancer/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/dna/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/dna-methylation/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/mouse-brain-atlas/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/neuroscience/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/post/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/single-cell-epigenomics/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/tags/talks/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/archive/2022-02/</loc>
+    <lastmod>2022-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/archive/2022-02-23/</loc>
+    <lastmod>2022-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/2022/02/217-%E5%9F%BA%E4%BA%8E%E5%8D%95%E7%BB%86%E8%83%9E%E7%94%B2%E5%9F%BA%E5%8C%96%E7%9A%84%E5%B0%8F%E9%BC%A0%E8%84%91%E7%BB%86%E8%83%9E%E5%9B%BE%E8%B0%B1/</loc>
+    <lastmod>2022-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/archive/2022-02-02/</loc>
     <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -111,26 +180,6 @@
   
   <url>
     <loc>https://cgmonline.co/tags/phenotypic-convergence/</loc>
-    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/post/</loc>
-    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/tags/</loc>
-    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/tags/talks/</loc>
-    <lastmod>2022-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/</loc>
     <lastmod>2022-02-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -181,6 +230,11 @@
   
   <url>
     <loc>https://cgmonline.co/tags/gwas/</loc>
+    <lastmod>2022-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cgmonline.co/</loc>
     <lastmod>2022-01-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -910,11 +964,6 @@
   </url>
   
   <url>
-    <loc>https://cgmonline.co/tags/dna/</loc>
-    <lastmod>2021-08-25T20:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cgmonline.co/tags/ginger/</loc>
     <lastmod>2021-08-25T20:00:00+00:00</lastmod>
   </url>
@@ -961,11 +1010,6 @@
   
   <url>
     <loc>https://cgmonline.co/2021/08/cgm-%E7%AC%AC175%E6%9C%9F-nurse-cell-derived-small-rnas-define-paternal-epigenetic-inheritance-in-arabidopsis/</loc>
-    <lastmod>2021-08-12T14:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/tags/dna-methylation/</loc>
     <lastmod>2021-08-12T14:00:00+00:00</lastmod>
   </url>
   
@@ -3242,31 +3286,6 @@
   <url>
     <loc>https://cgmonline.co/tags/lncrna/</loc>
     <lastmod>2020-02-26T17:15:22+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/2020/02/217-%E5%9F%BA%E4%BA%8E%E5%8D%95%E7%BB%86%E8%83%9E%E7%94%B2%E5%9F%BA%E5%8C%96%E7%9A%84%E5%B0%8F%E9%BC%A0%E8%84%91%E7%BB%86%E8%83%9E%E5%9B%BE%E8%B0%B1/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/tags/cell-type-specific-enhancer/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/tags/mouse-brain-atlas/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/tags/neuroscience/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cgmonline.co/tags/single-cell-epigenomics/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
