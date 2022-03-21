@@ -1,14 +1,13 @@
 ---
 title: '217 基于单细胞甲基化的小鼠脑细胞图谱'
-date: '2020-02-23'
-archive: ["2021","2021-12","2021-12-22"]
+date: '2022-02-23'
+archive: ["2022","2022-02","2022-02-23"]
 categories:
   - 学术报告
-tags: [talks,DNA methylation, single-cell epigenomics, neuroscience, mouse brain atlas, cell-type-specific enhancer]
+tags: [talks, DNA methylation, single-cell epigenomics, neuroscience, mouse brain atlas, cell-type-specific enhancer]
 show_comments: true
 thumbnail: ""
 ---
-
 - 题目：217-基于单细胞甲基化的小鼠脑细胞图谱
 - 地点：- Zoom会议 ID：861 0146 4725 密码：269044
 - Zoom会议链接：https://us06web.zoom.us/j/86101464725?pwd=bXphV2NYdGRZeVRaZys0WnNjczF4Zz09
