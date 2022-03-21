@@ -1,14 +1,18 @@
 ---
-title: "北美区预告"
-date: "03-30-2022"
-menu: [top]
-weight: 4
+title: '03-30-2022 基于单细胞甲基化的小鼠脑细胞图谱'
+date: '2022-03-30'
+archive: ["2022", "2022-03", "2022-03-30"]
+categories:
+  - 学术报告
+tags: [talks, DNA methylation, single-cell epigenomics, neuroscience, mouse brain atlas, cell-type-specific enhancer]
+show_comments: true
+thumbnail: ""
 ---
 
-- 题目：03-30-2022 基于单细胞甲基化的小鼠脑细胞图谱
-- 地点：Zoom and YouTube live stream
-# 主讲人
-刘翰青，男，本科毕业于浙江大学竺可桢学院，目前为加州大学圣地亚哥分校生物博士（在读），导师为索尔克研究所 Joseph Ecker 教授。主要研究方向为分子神经生物学和单细胞表观基因组学。博士期间参与数项 BRAIN Initiative 课题，研究和开发单细胞表观遗传组学技术及其分析方法，并以此构建小鼠脑细胞图谱，理解大脑细胞类型多样性的分子生物学基础。多项研究成果近日发表于 Nature 脑计划专刊。
+- 题目：基于单细胞甲基化的小鼠脑细胞图谱
+- 地点：- Zoom会议 ID：861 0146 4725 密码：269044
+- Zoom会议链接：https://us06web.zoom.us/j/86101464725?pwd=bXphV2NYdGRZeVRaZys0WnNjczF4Zz09
+- 主讲人刘翰青，男，本科毕业于浙江大学竺可桢学院，目前为加州大学圣地亚哥分校生物博士（在读），导师为索尔克研究所 Joseph Ecker 教授。主要研究方向为分子神经生物学和单细胞表观基因组学。博士期间参与数项 BRAIN Initiative 课题，研究和开发单细胞表观遗传组学技术及其分析方法，并以此构建小鼠脑细胞图谱，理解大脑细胞类型多样性的分子生物学基础。多项研究成果近日发表于 Nature 脑计划专刊。
 
 <div align="center">
 <img src="https://github.com/cgmonline/cgmonline/blob/master/image/2022_Hanqing_Liu.jpg?raw=true" height=250>
@@ -22,8 +26,3 @@ Liu, Hanqing, Jingtian Zhou, Wei Tian, Chongyuan Luo, Anna Bartlett, Andrew Aldr
 
 # 关键词
 DNA methylation, single-cell epigenomics, neuroscience, mouse brain atlas, cell-type-specific enhancer
-
-参加方式
-- Zoom会议链接: https://us06web.zoom.us/j/87870509801?pwd=SGpvdEc3YVRQL2twTmJyenhnTDFrZz09
-- Zoom会议ID：878 7050 9801
-- 密码：207409
