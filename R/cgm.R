@@ -1,9 +1,10 @@
 args = commandArgs(trailingOnly=TRUE)
 #devtools::install_github("Shicheng-Guo/openxlsx")
+#setwd("C:\\Users\\Shich\\Documents\\cgmonline")
 library("tidyverse")
 library("openxlsx")
 Sys.setlocale(category="LC_ALL",locale="chinese")
-data <- read.xlsx("R/Hanqing_Liu_CGM_SpeakerInfoRequest.xlsx",sheet = 1,colNames = F)
+data <- read.xlsx("R/Zhongshang_Yuan_SpeakerInfoRequest.xlsx",sheet = 1,colNames = F)
 data[,2] <- as.character(data[,2])
 firstname<-data[9,2]
 lastname<-data[10,2]
@@ -20,7 +21,7 @@ l1<-"---"
 l2<-"title: \"北美区预告\""
 l3<- paste0("date: \"", day, "-", year, "\"")
 l4<-"menu: [top]"
-l5<-"weight: 4"
+l5<-"weight: 2"
 l6<-"---"
 
 l7<- paste0("- 题目：", day, "-", year, " ", data[2,2])
@@ -48,6 +49,10 @@ l23<-"- 密码：207409"
 
 ll<-rbind(l1,l2,l3,l4,l5,l6,blank, l7,l8,l9,l10,blank, l11,l12,l13,blank, l14,l15, blank,
           l16,l17, blank, l18,l19, blank,l20,l21,l22,l23)
+
+
+write.table(ll,file="C:/Users/Shich/Documents/CGM/coming_US.md",sep="",quote=F,col.names = F,row.names = F)
+
 write.table(ll,file="./content/coming_US.md",sep="",quote=F,col.names = F,row.names = F)
 
 
