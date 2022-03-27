@@ -1,5 +1,5 @@
 ---
-title: '03-31-2022 Likelihood based Mendelian randomization analysis with automated instrument selection and horizontal pleiotropic modeling'
+title: '03-31-2022 两样本孟德尔随机化(Mendelian randomization, MR)联合似然MRAID统计方法进行因果分析推断'
 date: '2022-03-31'
 archive: ["2022", "2022-03", "2022-03-31"]
 categories:
