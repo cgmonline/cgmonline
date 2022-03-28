@@ -50,11 +50,7 @@ l23<-"- 密码：207409"
 ll<-rbind(l1,l2,l3,l4,l5,l6,blank, l7,l8,l9,l10,blank, l11,l12,l13,blank, l14,l15, blank,
           l16,l17, blank, l18,l19, blank,l20,l21,l22,l23)
 
-
-write.table(ll,file="C:/Users/Shich/Documents/CGM/coming_US.md",sep="",quote=F,col.names = F,row.names = F)
-
 write.table(ll,file="./content/coming_US.md",sep="",quote=F,col.names = F,row.names = F)
-
 
 
 l1<-"---"

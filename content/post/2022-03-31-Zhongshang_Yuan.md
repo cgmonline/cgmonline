@@ -1,28 +1,28 @@
 ---
-title: '03-31-2022 Á½Ñù±¾ÃÏµÂ¶ûËæ»ú»¯(Mendelian randomization, MR)ÁªºÏËÆÈ»MRAIDÍ³¼Æ·½·¨½øĞĞÒò¹û·ÖÎöÍÆ¶Ï'
+title: '03-31-2022 ä¸¤æ ·æœ¬å­Ÿå¾·å°”éšæœºåŒ–(Mendelian randomization, MR)è”åˆä¼¼ç„¶MRAIDç»Ÿè®¡æ–¹æ³•è¿›è¡Œå› æœåˆ†ææ¨æ–­'
 date: '2022-03-31'
 archive: ["2022", "2022-03", "2022-03-31"]
 categories:
-  - Ñ§Êõ±¨¸æ
+  - å­¦æœ¯æŠ¥å‘Š
 tags: [talks, Mendelian randomization, horizontal pleiotropic effects, automated instrument selection, joint likelihood framework, Gibbs sampling]
 show_comments: true
 thumbnail: ""
 ---
 
-- ÌâÄ¿£ºLikelihood based Mendelian randomization analysis with automated instrument selection and horizontal pleiotropic modeling
-- µØµã£º- Zoom»áÒé ID£º861 0146 4725 ÃÜÂë£º269044
-- Zoom»áÒéÁ´½Ó£ºhttps://us06web.zoom.us/j/86101464725?pwd=bXphV2NYdGRZeVRaZys0WnNjczF4Zz09
-- Ö÷½²ÈËÔ¬ÖĞÉĞ£¬É½¶«´óÑ§ÉúÎïÍ³¼ÆÑ§Ïµ½ÌÊÚ£¬²©µ¼£¬ÆëÂ³ÇàÄêÑ§Õß£¬¹ú¼Ò½¡¿µÒ½ÁÆ´óÊı¾İÑĞ¾¿Ôº¿ç×éÑ§ÑĞ¾¿ÖĞĞÄPI£¬²©Ê¿±ÏÒµÓÚÎäºº´óÑ§¸ÅÂÊÂÛÓëÊıÀíÍ³¼Æ×¨Òµ£¬¹ú¼ÊÉúÎïÍ³¼ÆÑ§»áÖĞ¹ú·Ö»á¸±ÃØÊé³¤£¬ÖĞ¹úÎÀÉúĞÅÏ¢Óë½¡¿µÒ½ÁÆ´óÊı¾İÑ§»áÍ³¼ÆÀíÂÛÓë·½·¨×¨Î¯»áÎ¯Ô±£¬ÖĞ¹úÊıÑ§»áÒ½Ñ§ÊıÑ§×¨Î¯»áÎ¯Ô±¡£ÏÈºó·ÃÎÊÃÀ¹ú±±¿¨´óÑ§(UNC-CH)ÉúÎïÍ³¼ÆÑ§Ïµ¡¢ÃÜĞª¸ù´óÑ§ÉúÎïÍ³¼ÆÑ§Ïµ/Í³¼ÆÒÅ´«ÖĞĞÄ£¬Ö÷ÒªÑĞ¾¿·½ÏòÎª¿ç×éÑ§Êı¾İÕûºÏÓëÏµÍ³Á÷ĞĞ²¡Ñ§Í³¼ÆÀíÂÛ·½·¨£¬ÏÈºóÖ÷³Ö¹ú¼Ò×ÔÈ»¿ÆÑ§»ù½ğÏîÄ¿4Ïî¡¢Ê¡»ù½ğÖØ´ó»ù´¡ÑĞ¾¿1Ïî£¬¹ú¼ÒÖØµãÑĞ·¢¼Æ»®×Ó¿ÎÌâµÈ£¬³É¹ûÒÔ·½·¨Ñ§ÂÛÎÄÏÈºó·¢±íÔÚScience advances¡¢Nature Communications¡¢American Journal of Human Genetics¡¢Statistics in MedicineµÈÔÓÖ¾, ²Î±à×¨Öø1²¿¡£
+- é¢˜ç›®ï¼šLikelihood based Mendelian randomization analysis with automated instrument selection and horizontal pleiotropic modeling
+- åœ°ç‚¹ï¼š- Zoomä¼šè®® IDï¼š861 0146 4725 å¯†ç ï¼š269044
+- Zoomä¼šè®®é“¾æ¥ï¼šhttps://us06web.zoom.us/j/86101464725?pwd=bXphV2NYdGRZeVRaZys0WnNjczF4Zz09
+- ä¸»è®²äººè¢ä¸­å°šï¼Œå±±ä¸œå¤§å­¦ç”Ÿç‰©ç»Ÿè®¡å­¦ç³»æ•™æˆï¼Œåšå¯¼ï¼Œé½é²é’å¹´å­¦è€…ï¼Œå›½å®¶å¥åº·åŒ»ç–—å¤§æ•°æ®ç ”ç©¶é™¢è·¨ç»„å­¦ç ”ç©¶ä¸­å¿ƒPIï¼Œåšå£«æ¯•ä¸šäºæ­¦æ±‰å¤§å­¦æ¦‚ç‡è®ºä¸æ•°ç†ç»Ÿè®¡ä¸“ä¸šï¼Œå›½é™…ç”Ÿç‰©ç»Ÿè®¡å­¦ä¼šä¸­å›½åˆ†ä¼šå‰¯ç§˜ä¹¦é•¿ï¼Œä¸­å›½å«ç”Ÿä¿¡æ¯ä¸å¥åº·åŒ»ç–—å¤§æ•°æ®å­¦ä¼šç»Ÿè®¡ç†è®ºä¸æ–¹æ³•ä¸“å§”ä¼šå§”å‘˜ï¼Œä¸­å›½æ•°å­¦ä¼šåŒ»å­¦æ•°å­¦ä¸“å§”ä¼šå§”å‘˜ã€‚å…ˆåè®¿é—®ç¾å›½åŒ—å¡å¤§å­¦(UNC-CH)ç”Ÿç‰©ç»Ÿè®¡å­¦ç³»ã€å¯†æ­‡æ ¹å¤§å­¦ç”Ÿç‰©ç»Ÿè®¡å­¦ç³»/ç»Ÿè®¡é—ä¼ ä¸­å¿ƒï¼Œä¸»è¦ç ”ç©¶æ–¹å‘ä¸ºè·¨ç»„å­¦æ•°æ®æ•´åˆä¸ç³»ç»Ÿæµè¡Œç—…å­¦ç»Ÿè®¡ç†è®ºæ–¹æ³•ï¼Œå…ˆåä¸»æŒå›½å®¶è‡ªç„¶ç§‘å­¦åŸºé‡‘é¡¹ç›®4é¡¹ã€çœåŸºé‡‘é‡å¤§åŸºç¡€ç ”ç©¶1é¡¹ï¼Œå›½å®¶é‡ç‚¹ç ”å‘è®¡åˆ’å­è¯¾é¢˜ç­‰ï¼Œæˆæœä»¥æ–¹æ³•å­¦è®ºæ–‡å…ˆåå‘è¡¨åœ¨Science advancesã€Nature Communicationsã€American Journal of Human Geneticsã€Statistics in Medicineç­‰æ‚å¿—, å‚ç¼–ä¸“è‘—1éƒ¨ã€‚
 
 <div align="center">
 <img src="https://github.com/cgmonline/cgmonline/blob/master/image/2022_Zhongshang_Yuan.jpg?raw=true" height=250>
 </div>
 
-# ÖĞÎÄÕªÒª
+# ä¸­æ–‡æ‘˜è¦
 Mendelian randomization (MR) is a common tool for identifying causal risk factors underlying diseases. Here, we present a method, MRAID, for effective MR analysis. MRAID borrows ideas from fine mapping analysis to model an initial set of candidate SNPs that are in potentially high linkage disequilibrium with each other and automatically selects among them the suitable instruments for causal inference. MRAID also explicitly models both uncorrelated and correlated horizontal pleiotropic effects that are widespread for complex trait analysis. MRAID achieves both tasks through a joint likelihood framework and relies on a scalable sampling-based algorithm to compute calibrated p-values. Comprehensive and realistic simulations show MRAID can provide calibrated type I error control, reduce false positives, while being more powerful than existing approaches. We illustrate the benefits of MRAID for an MR screening analysis across 645 trait pairs in UK Biobank, identifying multiple lifestyle causal risk factors of cardiovascular disease-related traits.
 
-# ²Î¿¼ÎÄÏ×
+# å‚è€ƒæ–‡çŒ®
 Yuan Z, Liu L, Guo P, Yan R, Xue F, Zhou X. Likelihood-based Mendelian randomization analysis with automated instrument selection and horizontal pleiotropic modeling. Sci Adv 2022.
 
-# ¹Ø¼ü´Ê
+# å…³é”®è¯
 Mendelian randomization, horizontal pleiotropic effects, automated instrument selection, joint likelihood framework, Gibbs sampling
