@@ -1,26 +1,26 @@
 ---
 title: "欧洲区预告"
-date: "2022-01-20"
+date: "2022-04-08"
 menu: [top]
 weight: 4
 ---
 
-- 题目：Farm animal Genotype-Tissue Expression (FarmGTEx) Project
-- 时间：欧洲中部时间 2022 年 1 月 20 号（星期四）08 PM（美国中部时间 1 月 20 号 11AM，北京时间 1 月 21 号 03AM）
+- 题目：Pluripotency factors determine gene expression repertoire at zygotic genome activation
+- 时间：欧洲中部时间 2022 年 4 月 8 号（星期五）02 PM（美国中部时间 4 月 8 号 8 AM，北京时间 4 月 8 号 8 PM）
 - Zoom会议 ID：861 0146 4725 密码：269044 
 - Zoom会议链接：https://us06web.zoom.us/j/86101464725?pwd=bXphV2NYdGRZeVRaZys0WnNjczF4Zz09
-- 主讲人：房灵昭 2019.01-至今  英国 爱丁堡大学 人类遗传中心; 2017.02-2019.01  美国 马里兰大学和 USDA-ARS 定量遗传学和生物信息学 博士后; 2013.03-2017.05  丹麦 奥胡斯大学和中国农业大学定量遗传学和生物信息学 博士
+- 主讲人：高美江 2016.1—2021.12 德国弗赖堡大学 博士; 2013.10—2015.12 德国弗赖堡大学 硕士; 2009.10—2013.7  中山大学 学士
 
 
 <div align="center">
-<img src="https://i.ibb.co/6DNzDrN/flz.png" height=250>
+<img src="https://i.imgur.com/GbR2tSc.png" height=250>
 </div>
 
 # 中文摘要
 
-在过去的十几年里，全基因组关联分析（GWAS）为我们揭示了大量影响复杂性状和疾病的遗传变异位点。然而，这些位点大多数落在了基因组的调控区域，影响了下游分子机制的解析。因此，需要我们从系统遗传学（system/integrative genetics）的角度去研究遗传变异是如何通过调控一系列中间分子表型（基因表达，可变剪切，蛋白，代谢物和微生物），从而影响最终表型 （复杂性状或疾病）。Farm animal Genotype-Tissue Expression (FarmGTEx) 项目致力于通过全球科学家的合作，为家养动物构建一个全面的分子表型QTL数据库，从而帮助我们更好地解析重要经济性状以及环境适应性的分子遗传机制，同时促进新的育种手段（比如基因编辑）和比较基因组学的发展。
+动物胚胎的早期发育起始于母源-合子转换(Maternal to Zygotic Transition, MZT)，卵细胞中积累的母源mRNA和蛋白质让胚胎发育经历了一段转录沉默的阶段。随后母源的特殊转录因子会激活合子的转录。这些特殊的转录因子被称为先驱转录因子。斑马鱼胚胎的母源-合子转换需要母源转录因子Pou5f3和Sox19b，我们通过分析它们的单突变体和Pou5f3和Sox19b的双突变体，揭示了它们如何精准调节合子基因在时间上的表达的，我们发现它们的调控在很大程度上相互独立。Pou5f3和Sox19b 通过改变染色质的打开程度来调节合子基因表达，以此来决定原肠胚形成过程中腹背轴的发生。同时Pou5f3 和 Sox19b也抑制了器官发生和分化的基因的过早表达。
 
 
 
 # 参考文献
-https://www.biorxiv.org/content/10.1101/2020.12.01.406280v2 
+https://www.nature.com/articles/s41467-022-28434-1
