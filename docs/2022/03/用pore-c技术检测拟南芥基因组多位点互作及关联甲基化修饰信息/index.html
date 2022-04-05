@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>用Pore-C技术检测拟南芥基因组多位点互作及关联甲基化修饰信息 | 华人基因组学在线沙龙</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    <link href="//cdn.bootcss.com/highlight.js/9.12.0/styles/github.min.css" rel="stylesheet">
+<link href="/css/custom.css" rel="stylesheet">
+<script async src="//yihui.name/js/no-highlight.js"></script>
+<script async src="/js/pangu.js"></script>
+
+  </head>
+
+  <body class="page">
+    <nav class="header">
+      <div class="banner-wrapper">
+<div class="banner">
+<div class="banner-image"><a href="/">
+<picture>
+  <source media="(min-width: 715px)" srcset="/img/new-logo-wide2020.png"><source media="(max-width: 380px)" srcset="/img/new-logo-wide2020.png">
+  <img src="/img/logo.png" alt="CGM标志">
+</picture>
+</a></div>
+<ul class="menu-top">
+  
+  <li><a href="/"><span data-hover="首页">首页</span></a></li>
+  
+  <li><a href="/coming_us/"><span data-hover="北美区预告">北美区预告</span></a></li>
+  
+  <li><a href="/coming_cn/"><span data-hover="中国区预告">中国区预告</span></a></li>
+  
+  <li><a href="/coming_eu/"><span data-hover="欧洲区预告">欧洲区预告</span></a></li>
+  
+  <li><a href="/tags/talks/"><span data-hover="往期活动">往期活动</span></a></li>
+  
+  <li><a href="/wechat/"><span data-hover="公众号">公众号</span></a></li>
+  
+  <li><a href="/cgmec/"><span data-hover="组织管理">组织管理</span></a></li>
+  
+  <li><a href="/business/"><span data-hover="企业沙龙">企业沙龙</span></a></li>
+  
+  <li><a href="/timeline/"><span data-hover="大事记">大事记</span></a></li>
+  
+  <li><a href="/subscribe/"><span data-hover="加入我们">加入我们</span></a></li>
+  
+  <li><a href="/archives/"><span data-hover="讨论列表">讨论列表</span></a></li>
+  
+</ul>
+</div>
+</div>
+
+      <div class="head-meta">
+      
+        <span><a href="/">&larr; 返回首页</a></span>
+        <span class="date">2022-03-16</span>
+        
+        
+        
+          
+        
+        
+        <span><a href="https://github.com/cgmonline/cgmonline/edit/master/content/post/2022-03-16_ZWL.md">编辑本页 &rarr;</a></span>
+        
+        
+      
+      </div>
+    </nav>
+
+<div class="container">
+<article>
+<div class="article-meta">
+
+  <div class="categories">
+  
+    <a href="/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A">学术报告</a>
+  
+  </div>
+
+  <h1><span class="title">用Pore-C技术检测拟南芥基因组多位点互作及关联甲基化修饰信息</span></h1>
+
+  
+
+  
+  <p>关键词：<a href="/tags/pore-c">Pore-C</a>; <a href="/tags/multi-way-interaction">multi-way interaction</a>; <a href="/tags/dna-methylation">DNA methylation</a>; <a href="/tags/long-read-sequencing">long-read sequencing</a>
+  </p>
+  
+  
+
+
+</div>
+
+
+
+<main>
+<ul>
+<li>题目：用Pore-C技术检测拟南芥基因组多位点互作及关联甲基化修饰信息</li>
+<li>时间：美国中部时间 2022年03月16日（星期三）7AM（北京时间03月16日9PM）</li>
+<li>地点：Tecent and Bilibili live stream</li>
+<li>主讲人:李卓雯, 本科毕业于中国农业大学；博士就读于南方科技大学生物学专业翟继先课题组。
+目前主要的关注领域是Nanopore测序技术，植物基因组学，转录组学。</li>
+</ul>
+<!-- raw HTML omitted -->
+<h1 id="heading">中文摘要</h1>
+<p>随着高通量测序技术的发展，大量基于二代测序的组学研究技术被陆续开发，人们得以从多个层面了解基因组的组成、结构与功能。染色质捕获技术（Chromosome  conformation capture）通过对染色质进行酶切和邻近连接得到的嵌合体序列进行测序，获得染色质互作信息，从而解析基因组的三维结构。其中，Hi-C和ChIA-PET是应用最广的基因组水平染色质捕获技术。Hi-C和ChIA-PET技术在植物中的应用，为我们提供了丰富的植物基因组结构信息，解析了包括拟南芥、水稻、番茄、玉米等在内的多种植物的染色体互作图谱。然而，由于二代测序读长的限制以及其双端测序的特点，Hi-C和ChIA-PET技术只能提供染色体位点两两互作的信息（two-way interaction），而染色质多位点之间的互作信息 (multi-way  interaction) 只能由多个细胞的两位点互作信息推理得出。由于细胞间的差异性，这种推论并不一定准确。另外，Hi-C和ChIA-PET技术也无法保留序列上的表观修饰信息。其他捕获染色质多位点互作的技术，如SPRITE和ChIA-Drop，操作难度较大，难以在植物中应用推广。
+Nanopore测序技术是一种长读长、单分子的测序技术。使用对过孔电流信号的解析，Nanopore技术可以读出平均长达30kb的碱基序列信息，并获得分子上包括m5C, hm5C, and m6A在内的表观修饰信息。2019年，Ulahannan等人开发了Pore-C技术，使用Nanopore对染色质酶切、连接后形成的多片段嵌合体序列进行长读段测序，成功地解析了哺乳动物细胞中的染色质多位点互作情况。本研究在拟南芥中应用Pore-C技术，首次对植物基因组的多位点互作情况进行解析，探讨了包括KNOT组成元件（KNOT ENGAGED  ELEMENTs， KEEs）和端粒区在内的多位点互作情况。在Pore-C技术基础上，我们解析并讨论了Nanopore读段上与互作信息偶联的甲基化修饰信息。与Hi-C技术相比，Pore-C技术的建库流程也简洁许多。我们的研究证实了Pore-C是一种简单、准确、高效的植物基因组多位点互作捕获工具，能帮助我们对植物基因组的三维结构有进一步的理解。</p>
+<h1 id="heading-1">参考文献</h1>
+<p>Zhuowen Li1,2,3,#, Yanping Long1,2,3,#, Yiming Yu1,2,3, Fei Zhang1,2,3,Hong Zhang1,2,3, Zhijian Liu1,2,3, Jinbu Jia1,2,3, Weipeng Mo1,2,3, Simon Zhongyuan Tian1, Meizhen Zheng1, and Jixian Zhai1,2,3,* 2022. Pore-C Simultaneously Captures Genome-wide Multi-way Chromatin Interaction and Associated DNA Methylation Status in Arabidopsis. Plant Biotechnology Journal. (Under review)</p>
+<h1 id="youtube">Youtube</h1>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h1 id="bilibili">Bilibili</h1>
+
+<div class="embed-container">
+	<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+</div>
+
+
+
+</main>
+
+
+
+<section class="article-meta article-footer">
+
+</section>
+
+
+<nav class="post-nav">
+  <span class="nav-prev"><a href="/2022/03/%E7%BB%BC%E5%90%88%E5%A4%9A%E7%BB%84%E5%AD%A6%E6%95%B0%E6%8D%AE%E5%92%8C%E5%88%86%E6%9E%90%E6%8F%AD%E7%A4%BA%E5%BA%B7%E4%B9%83%E9%A6%A8%E5%85%B3%E9%94%AE%E8%A7%82%E8%B5%8F%E6%80%A7%E7%8A%B6%E7%9A%84%E8%B0%83%E6%8E%A7%E9%80%9A%E8%B7%AF/">&larr; 综合多组学数据和分析揭示康乃馨关键观赏性状的调控通路</a></span>
+  <span class="nav-next"><a href="/2022/03/%E6%B8%A9%E5%B8%A6%E7%A6%BE%E8%8D%89%E6%97%A9%E7%86%9F%E7%A6%BE%E4%BA%9A%E7%A7%91%E7%B3%BB%E7%BB%9F%E5%8F%91%E8%82%B2%E5%85%B3%E7%B3%BB%E5%8F%8A%E5%85%B6%E9%80%82%E5%BA%94%E6%80%A7%E6%BC%94%E5%8C%96/">温带禾草（早熟禾亚科）系统发育关系及其适应性演化 &rarr;</a></span>
+</nav>
+
+
+
+
+
+<div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "cgmonline-co" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+
+</article>
+</div>
+
+<script async src="//yihui.name/js/center-img.js"></script>
+
+<footer>
+<script src="/js/article-titles.js"></script>
+
+<div class="footer">
+  <ul class="menu">
+    
+    <li><a href="/categories/%E4%BA%BA%E7%89%A9%E4%B8%93%E8%AE%BF/"><span data-hover="人物专访">人物专访</span></a></li>
+    
+    <li><a href="/categories/%E4%B8%93%E9%A2%98%E8%AE%A8%E8%AE%BA/"><span data-hover="专题讨论">专题讨论</span></a></li>
+    
+    <li><a href="/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/"><span data-hover="学术报告">学术报告</span></a></li>
+    
+    <li><a href="/tags/"><span data-hover="关键词">关键词</span></a></li>
+    
+    <li><a href="/categories/%E4%BC%81%E4%B8%9A%E7%BE%A4/"><span data-hover="企业群">企业群</span></a></li>
+    
+    <li><a href="/search/"><span data-hover="搜索CGM">搜索CGM</span></a></li>
+    
+    <li><a href="/calendar/"><span data-hover="活动日历">活动日历</span></a></li>
+    
+    <li><a href="/sponsor/"><span data-hover="赞助伙伴">赞助伙伴</span></a></li>
+    
+    <li><a href="/jobinfo/"><span data-hover="工作信息">工作信息</span></a></li>
+    
+    <li><a href="/"><span data-hover="关于我们">关于我们</span></a></li>
+    
+    <li><a href="/knowledgebase/"><span data-hover="知识库">知识库</span></a></li>
+    
+  </ul>
+  
+  <div class="copyright">© 华人基因组学在线沙龙 2021 | <a href="https://github.com/cgmonline">Github</a> | <a href="https://www.youtube.com/channel/UCk4tsPZOzGkP2IaU4YvUG_g">YouTube</a></div>
+  
+</div>
+</footer>
+
+
+
+
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-48206713-4', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+</body>
+</html>
+
