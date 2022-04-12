@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>03-31-2022 Likelihood based Mendelian randomization analysis with automated instrument selection and horizontal pleiotropic modeling | 华人基因组学在线沙龙</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    <link href="//cdn.bootcss.com/highlight.js/9.12.0/styles/github.min.css" rel="stylesheet">
+<link href="/css/custom.css" rel="stylesheet">
+<script async src="//yihui.name/js/no-highlight.js"></script>
+<script async src="/js/pangu.js"></script>
+
+  </head>
+
+  <body class="page">
+    <nav class="header">
+      <div class="banner-wrapper">
+<div class="banner">
+<div class="banner-image"><a href="/">
+<picture>
+  <source media="(min-width: 715px)" srcset="/img/new-logo-wide2020.png"><source media="(max-width: 380px)" srcset="/img/new-logo-wide2020.png">
+  <img src="/img/logo.png" alt="CGM标志">
+</picture>
+</a></div>
+<ul class="menu-top">
+  
+  <li><a href="/"><span data-hover="首页">首页</span></a></li>
+  
+  <li><a href="/coming_us/"><span data-hover="北美区预告">北美区预告</span></a></li>
+  
+  <li><a href="/coming_cn/"><span data-hover="中国区预告">中国区预告</span></a></li>
+  
+  <li><a href="/coming_eu/"><span data-hover="欧洲区预告">欧洲区预告</span></a></li>
+  
+  <li><a href="/tags/talks/"><span data-hover="往期活动">往期活动</span></a></li>
+  
+  <li><a href="/wechat/"><span data-hover="公众号">公众号</span></a></li>
+  
+  <li><a href="/cgmec/"><span data-hover="组织管理">组织管理</span></a></li>
+  
+  <li><a href="/business/"><span data-hover="企业沙龙">企业沙龙</span></a></li>
+  
+  <li><a href="/timeline/"><span data-hover="大事记">大事记</span></a></li>
+  
+  <li><a href="/subscribe/"><span data-hover="加入我们">加入我们</span></a></li>
+  
+  <li><a href="/archives/"><span data-hover="讨论列表">讨论列表</span></a></li>
+  
+</ul>
+</div>
+</div>
+
+      <div class="head-meta">
+      
+        <span><a href="/">&larr; 返回首页</a></span>
+        <span class="date">2022-03-31</span>
+        
+        
+        
+          
+        
+        
+        <span><a href="https://github.com/cgmonline/cgmonline/edit/master/content/post/2022-03-31-Zhongshang_Yuan.md">编辑本页 &rarr;</a></span>
+        
+        
+      
+      </div>
+    </nav>
+
+<div class="container">
+<article>
+<div class="article-meta">
+
+  <div class="categories">
+  
+    <a href="/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A">学术报告</a>
+  
+  </div>
+
+  <h1><span class="title">03-31-2022 Likelihood based Mendelian randomization analysis with automated instrument selection and horizontal pleiotropic modeling</span></h1>
+
+  
+
+  
+  <p>关键词：<a href="/tags/talks">talks</a>; <a href="/tags/mendelian-randomization">Mendelian randomization</a>; <a href="/tags/horizontal-pleiotropic-effects">horizontal pleiotropic effects</a>; <a href="/tags/automated-instrument-selection">automated instrument selection</a>; <a href="/tags/joint-likelihood-framework">joint likelihood framework</a>; <a href="/tags/gibbs-sampling">Gibbs sampling</a>
+  </p>
+  
+  
+
+
+</div>
+
+
+
+<main>
+<ul>
+<li>题目：Likelihood based Mendelian randomization analysis with automated instrument selection and horizontal pleiotropic modeling</li>
+<li>地点：- Zoom会议 ID：861 0146 4725 密码：269044</li>
+<li>Zoom会议链接：https://us06web.zoom.us/j/86101464725?pwd=bXphV2NYdGRZeVRaZys0WnNjczF4Zz09</li>
+<li>主讲人袁中尚，山东大学生物统计学系教授，博导，齐鲁青年学者，国家健康医疗大数据研究院跨组学研究中心PI，博士毕业于武汉大学概率论与数理统计专业，国际生物统计学会中国分会副秘书长，中国卫生信息与健康医疗大数据学会统计理论与方法专委会委员，中国数学会医学数学专委会委员。先后访问美国北卡大学(UNC-CH)生物统计学系、密歇根大学生物统计学系/统计遗传中心，主要研究方向为跨组学数据整合与系统流行病学统计理论方法，先后主持国家自然科学基金项目4项、省基金重大基础研究1项，国家重点研发计划子课题等，成果以方法学论文先后发表在Science advances、Nature Communications、American Journal of Human Genetics、Statistics in Medicine等杂志, 参编专著1部。</li>
+</ul>
+<!-- raw HTML omitted -->
+<h1 id="heading">中文摘要</h1>
+<p>Mendelian randomization (MR) is a common tool for identifying causal risk factors underlying diseases. Here, we present a method, MRAID, for effective MR analysis. MRAID borrows ideas from fine mapping analysis to model an initial set of candidate SNPs that are in potentially high linkage disequilibrium with each other and automatically selects among them the suitable instruments for causal inference. MRAID also explicitly models both uncorrelated and correlated horizontal pleiotropic effects that are widespread for complex trait analysis. MRAID achieves both tasks through a joint likelihood framework and relies on a scalable sampling-based algorithm to compute calibrated p-values. Comprehensive and realistic simulations show MRAID can provide calibrated type I error control, reduce false positives, while being more powerful than existing approaches. We illustrate the benefits of MRAID for an MR screening analysis across 645 trait pairs in UK Biobank, identifying multiple lifestyle causal risk factors of cardiovascular disease-related traits.</p>
+<h1 id="heading-1">参考文献</h1>
+<p>Yuan Z, Liu L, Guo P, Yan R, Xue F, Zhou X. Likelihood-based Mendelian randomization analysis with automated instrument selection and horizontal pleiotropic modeling. Sci Adv 2022.</p>
+<h1 id="heading-2">关键词</h1>
+<p>Mendelian randomization, horizontal pleiotropic effects, automated instrument selection, joint likelihood framework, Gibbs sampling</p>
+
+</main>
+
+
+
+<section class="article-meta article-footer">
+
+</section>
+
+
+<nav class="post-nav">
+  <span class="nav-prev"></span>
+  <span class="nav-next"><a href="/2022/03/%E6%A4%8D%E7%89%A9%E6%B2%A1%E6%9C%89dna%E7%94%B2%E5%9F%BA%E5%8C%96%E5%90%8E%E4%BC%9A%E5%8F%98%E6%88%90%E4%BB%80%E4%B9%88%E6%A0%B7/">植物没有DNA甲基化后，会变成什么样? &rarr;</a></span>
+</nav>
+
+
+
+
+
+<div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "cgmonline-co" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+
+</article>
+</div>
+
+<script async src="//yihui.name/js/center-img.js"></script>
+
+<footer>
+<script src="/js/article-titles.js"></script>
+
+<div class="footer">
+  <ul class="menu">
+    
+    <li><a href="/categories/%E4%BA%BA%E7%89%A9%E4%B8%93%E8%AE%BF/"><span data-hover="人物专访">人物专访</span></a></li>
+    
+    <li><a href="/categories/%E4%B8%93%E9%A2%98%E8%AE%A8%E8%AE%BA/"><span data-hover="专题讨论">专题讨论</span></a></li>
+    
+    <li><a href="/categories/%E5%AD%A6%E6%9C%AF%E6%8A%A5%E5%91%8A/"><span data-hover="学术报告">学术报告</span></a></li>
+    
+    <li><a href="/tags/"><span data-hover="关键词">关键词</span></a></li>
+    
+    <li><a href="/categories/%E4%BC%81%E4%B8%9A%E7%BE%A4/"><span data-hover="企业群">企业群</span></a></li>
+    
+    <li><a href="/search/"><span data-hover="搜索CGM">搜索CGM</span></a></li>
+    
+    <li><a href="/calendar/"><span data-hover="活动日历">活动日历</span></a></li>
+    
+    <li><a href="/sponsor/"><span data-hover="赞助伙伴">赞助伙伴</span></a></li>
+    
+    <li><a href="/jobinfo/"><span data-hover="工作信息">工作信息</span></a></li>
+    
+    <li><a href="/"><span data-hover="关于我们">关于我们</span></a></li>
+    
+    <li><a href="/knowledgebase/"><span data-hover="知识库">知识库</span></a></li>
+    
+  </ul>
+  
+  <div class="copyright">© 华人基因组学在线沙龙 2021 | <a href="https://github.com/cgmonline">Github</a> | <a href="https://www.youtube.com/channel/UCk4tsPZOzGkP2IaU4YvUG_g">YouTube</a></div>
+  
+</div>
+</footer>
+
+
+
+
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-48206713-4', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+</body>
+</html>
+
