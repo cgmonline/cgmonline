@@ -5,24 +5,22 @@ menu: [top]
 weight: 4
 ---
 
-- 题目：单细胞核转录本测序揭示大脑中复杂外显子连接谱
-- 时间：欧洲中部时间 2022 年 4 月 15 号（星期五）03 PM（美国中部时间 4 月 15 号 8 AM，北京时间 4 月 8 号 9 PM）
+- 题目：BarBIQ：菌群高通量单细胞分析新方法
+- 时间：欧洲中部时间 2022 年 5 月 13 号（星期五）01 PM（美国中部时间 5 月 13 号 6 AM，北京时间 5 月 13 号 7 PM）
 - Zoom会议 ID：861 0146 4725 密码：269044
 - Zoom会议链接：https://us06web.zoom.us/j/86101464725?pwd=bXphV2NYdGRZeVRaZys0WnNjczF4Zz09
-- 主讲人：胡雯, 美国康奈尔医学院 博士后。2018—2019 德国马普所 博士后; 2016—2017 北京生命科学研究所 研究助理; 2010—2015 北京生命科学研究所 博士
+- 主讲人：金坚石, 日本理化学研究所BDR中心 资深科学家。2016至今 日本理化学研究所BDR中心，历任JSPS博士后，研究科学家，资深科学家; 2014—2016 北京大学生命科学学院，博士后; 2009-2014 北京大学BIOPIC和前沿交叉学科研究院，博士; 2010-2011 哈佛大学化学与化学生物学系，访问学生;2005-2009 南京大学化学化工学院，本科
 
 
 <div align="center">
-<img src="https://i.imgur.com/Nfg27Tl.png" height=250>
+<img src="https://i.imgur.com/OrBcsRt.jpg" height=250>
 </div>
 
 # 中文摘要
 
-单细胞核RNA测序技术已广泛应用于不同物种的不同组织器官的单细胞研究，其不依赖于活细胞的特性对于冷冻保存以及难以分离出单细胞的样品显得尤为重要。然而与单细胞测序技术相比，其转录组中所含有的大量未剪切以及缺少barcode的cDNA分子序列会对于剪切异构体（isoform）研究产生不可忽略的影响。为了解决上述问题，我们通过结合目标性扩增包含有barcode的cDNA序列、外显子组富集以及高通量长片段测序技术，开发了可显著提高对于目标cDNA分子测序效率的SnISOr-Seq 技术，用于单细胞RNA 测序的剪切异构体水平定量。同时，我们将SnISOr-Seq 技术应用于冻存的人类额叶皮层样品，发现包含有与孤独症相关的外显子的剪切变体，其存在的频率在不同细胞类型中有着显著差异，其表现形式为exon-TSS，exon-polyA-sites，以及非邻近exon-exon之间的不同组合模式。此外，我们还发现人类特有的外显子通常会以组合形式出现在剪切异构体中，这也意味着其协同关系在进化过程中是快速建立并得以保留的。 
+人类的肠道居住着约500~1000种细菌，近100万亿个细菌，这种细菌组成的群体被称为“菌群”。肠内菌群的平衡与肠内免疫以及健康密切相关，所以准确测量各种细菌的分布情况是极为重要的。但是，现有方法还无法对菌群中的细菌个体进行高通量鉴定和定量分析。因此，金坚石等最近开发了一种名为BarBIQ的高通量菌群单细胞分析新方法，将细菌逐一封入液滴，并对每个细菌的16S rRNA基因标记上唯一的被称为条形码的DNA序列，从而实现了一次性对10万个以上细菌种类的鉴定和各种类细菌的定量。并且，BarBIQ对单细胞中16S rRNA序列的鉴定可以同时达到单碱基正确性和单碱基分辨率。可以说，BarBIQ是首个既见“森林”（菌群整体）又见树木（细菌个体）的菌群分析方法，是菌群研究的基石。利用这种方法，他们对比了维他命A充足和缺乏食物喂养小鼠的肠道菌群并发现在盲肠近端位置的菌群受到维他命A的影响大于盲肠远端位置，捕捉到了菌群的微小变化。并且，这一现象无法用传统方法准确识别，说明BarBIQ相比传统方法更准确且全面。
 
 
 
 # 参考文献
-1. Single-nuclei isoform RNA sequencing unlocks barcoded exon connectivity in frozen brain tissue. Nat Biotechnol. 2022 Mar 7. doi: 10.1038/s41587-022-01231-3. PMID: 35256815.  
-
-2. A spatially resolved brain region- and cell type-specific isoform atlas of the postnatal mouse brain. Nat Commun. 2021 Jan 19;12(1):463. doi: 10.1038/s41467-020-20343-5. PMID: 33469025.https://www.nature.com/articles/s41467-022-28434-1
+Jianshi Jin, Reiko Yamamoto, Tadashi Takeuchi, Guangwei Cui, Eiji Miyauchi, Nozomi Hojo, Koichi Ikuta, Hiroshi Ohno, Katsuyuki Shiroguchi, High-throughput identification and quantification of single bacterial cells in the microbiota. <i>Nature communications</i>, 13:863, 2022. https://doi.org/10.1038/s41467-022-28426-1
