@@ -27,6 +27,11 @@ CGM每次活动的YouTube线上直播是通过Zoom实现的。
 - CGM第五群 群主 ll68551551 [已满]
 - CGM第六群 群主 GT08032015 [人类学专群，450/500]
 
+# CGM-Telegram(电报)群
+- 生物制药telegram交流群：  [https://t.me/+TQVRsqEBaShkYTgx](https://t.me/+TQVRsqEBaShkYTgx)
+- 基因组学telegram交流群：  [https://t.me/+I-znfj47I-5mMDZh](https://t.me/+I-znfj47I-5mMDZh)
+- CGM工业界telegram交流群： [https://t.me/+P7Q_DMDLltJmOTgx](https://t.me/+P7Q_DMDLltJmOTgx)
+
 # 讨论组和活动群
 CGM已经建立了多个专题讨论组和活动群，如果感兴趣，可以联系群主加入：
 
