@@ -25,7 +25,7 @@ weight: 7
 
 如果你有兴趣参与我们的下一次活动，请打开下面的网址填写申请表:
 https://forms.gle/7E5Xwe5i3bc4DkGp7
-然后微信联系管理员：qxs718、e-jan、ll68551551、ybian2。并注明“CGM business”。
+然后微信联系管理员：GT08032015、qxs718、e-jan、ll68551551、ybian2。并注明“CGM business”。
 
 
 CGM Business Meetup 主页 QR code：
