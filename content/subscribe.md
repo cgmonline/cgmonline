@@ -39,7 +39,7 @@ CGM已经建立了多个专题讨论组和活动群，如果感兴趣，可以�
  ------ | -------------- | ------ 
 CGM北京时区 | e--jan |
 PAG20XX              | qxs718          | [Plant and Animal Genome conference](http://www.intlpag.org) 
-CGM-人类遗传学专场 | GT08032015 | [AJHG](https://www.cell.com/ajhg/home) and [Nature Genetics](https://www.nature.com/ng/)
+CGM-人类遗传学专场 | GT08032015 | [AJHG](https://www.cell.com/ajhg/home) and [Nature Genetics](https://www.nature.com/ng/), DeepLearning and Omics
 CGM-Biomedicine | GT08032015 | [Nature Medicine](https://www.nature.com/nm/) and [Science Translational Science](https://www.science.org/journal/stm)
 CGM-DeepLearning | GT08032015 | [Nature Machine Intelligence](https://www.nature.com/natmachintell/) and [Foundations and Trends in Machine Learning]([https://www.science.org/journal/stm](https://www.scimagojr.com/journalsearch.php?q=19300156903&tip=sid&clean=0))
 CGM EVOLUTION | TTUCSUISU |
