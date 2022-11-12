@@ -5,7 +5,7 @@ weight: 6
 ---
 
 ## CGM 指导委员会 (Steering Committee)
-- 2022 - 2023 [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)(评奖委员会主席)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b) (CGM Business)，[雷栗](https://twitter.com/lilei0051)（Special Project，微信群)， [祁新帅](https://www.linkedin.com/in/xinshuaiqi/) (秘书处)，[武志强](http://agis.caas.cn/rctd/yjtd/226826.htm) (EC China，赞助)，[杨金良](http://jyanglab.com/)(EC general，website)，[陈春龙](https://science.institut-curie.org/team-chen)(学术委员会)， [郭士成](https://shicheng-guo.github.io/about)
+- 2022 - 2023 [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)(评奖委员会主席)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b) (CGM Business)，[雷栗](https://twitter.com/lilei0051)（Special Project，微信群)， [祁新帅](https://www.linkedin.com/in/xinshuaiqi/) (秘书处)，[武志强](http://agis.caas.cn/rctd/yjtd/226826.htm) (EC China，赞助)，[杨金良](http://jyanglab.com/)(EC general，website)，[陈春龙](https://science.institut-curie.org/team-chen)(学术委员会)， [郭士成](https://shicheng-guo.github.io/about)（学术及商务拓展）
 
 - 2019-2021 [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)(评奖委员会主席)，[郝樾](https://yueyvettehao.github.io/) (编辑部， Meeting Minutes)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b) (EC China，CGM Business)，[雷栗](https://twitter.com/lilei0051)（Special Project，HR)， [祁新帅](https://www.linkedin.com/in/xinshuaiqi/) (CGM Business，NGO， Finance)，[刘三震](https://www.plantgenomics.ksu.edu/liulab/)(SC general)，[武志强](http://agis.caas.cn/rctd/yjtd/226826.htm) (EC China)，[杨金良](http://jyanglab.com/)(EC general，website)，[陈春龙](https://science.institut-curie.org/team-chen)
 
