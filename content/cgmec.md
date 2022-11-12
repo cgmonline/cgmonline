@@ -10,7 +10,7 @@ weight: 6
 - 2019-2021 [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)(评奖委员会主席)，[郝樾](https://yueyvettehao.github.io/) (编辑部， Meeting Minutes)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b) (EC China，CGM Business)，[雷栗](https://twitter.com/lilei0051)（Special Project，HR)， [祁新帅](https://www.linkedin.com/in/xinshuaiqi/) (CGM Business，NGO， Finance)，[刘三震](https://www.plantgenomics.ksu.edu/liulab/)(SC general)，[武志强](http://agis.caas.cn/rctd/yjtd/226826.htm) (EC China)，[杨金良](http://jyanglab.com/)(EC general，website)，[陈春龙](https://science.institut-curie.org/team-chen)
 
 ## CGM 秘书处 （Secretariat)
-- 01-06, 2022: 祁新帅（秘书长），胡海飞(Operation office)，郭士成(EC Admin office)，李勤(Volunteers’ office/HR)，刘海军，狄晨露，解少俊，呼焕，侯壮伟，黃義竣
+- 01-06, 2022: 祁新帅（秘书长），胡海飞(Operation office)，[郭士成]((https://shicheng-guo.github.io/about))(EC Admin office)，李勤(Volunteers’ office/HR)，刘海军，狄晨露，解少俊，呼焕，侯壮伟，黃義竣
 
 
 ## CGM 北美区执行委员会 (Executive Committee) US
