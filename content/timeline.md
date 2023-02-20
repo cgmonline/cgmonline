@@ -4,12 +4,35 @@ menu: [top]
 weight: 7
 ---
 
+
+## 02/2023 
+- CGM 年会成功举办
+
+## 01/2023
+- CGM 恢复举办 PAG meeting线下聚会活动。雷栗主持
+
+
+## 12/2022 
+- 完成三个大区排期的统一规划管理。Credit: 周翰林
+- CGM会员福利：CGM Logo T-shirt 颁发给了100+ volunteers
+- CGM 微信公众号和B站关注人数突破1万人
+
+## 11/2022
+- CGM and [Open Box Science](https://openboxscience.org/) 达成合作意向
+
 ## 08/2022
 - CGM-2022年年中会议将于8月7号，周日，线上举行，届时CGM主要负责人，志愿者将参与活动总结过去半年的主要工作。
 - CGM北美区５名新志愿者加入，欢迎郑冰，樊丹丹，贾玉涵，刘文禹，张常龙
 
+## 04/2022
+- CGM and [US Heartland China Association](https://usheartlandchina.org/) 达成合作意向
+
+## 03/2022
+- 建立CGM-人类学，人工智能，空间转录组群
+
 ## 02/2022
 - 筹办CGM秘书处 加强统一管理
+- 建立CGM主讲嘉宾交流群
 
 ## 12/2021
 - CGM第200期直播活动
