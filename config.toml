@@ -43,17 +43,17 @@ disableKinds = ["section"]
   url = "/tags/talks/"
   weight = 2
 
-[[menu.main]]
+[[menu.top]]
   name = "人物专访"
   url = "/categories/人物专访/"
   weight = 3
 
-[[menu.main]]
+[[menu.top]]
   name = "专题讨论"
   url = "/categories/专题讨论/"
   weight = 4
 
-[[menu.main]]
+[[menu.top]]
   name = "学术报告"
   url = "/categories/学术报告/"
   weight = 5
