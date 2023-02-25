@@ -1,6 +1,6 @@
 ---
 title: 企业沙龙
-menu: [top]
+menu: [main]
 weight: 7
 ---
 
