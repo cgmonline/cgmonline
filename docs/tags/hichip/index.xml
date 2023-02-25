@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HiChIP on 华人基因组学在线沙龙</title>
+    <link>https://cgmonline.co/tags/hichip/</link>
+    <description>Recent content in HiChIP on 华人基因组学在线沙龙</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 28 Apr 2021 20:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cgmonline.co/tags/hichip/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CGM 第153期: 三维基因组学的技术实现与应用研究</title>
+      <link>https://cgmonline.co/2021/04/cgm-%E7%AC%AC153%E6%9C%9F-%E4%B8%89%E7%BB%B4%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%AD%A6%E7%9A%84%E6%8A%80%E6%9C%AF%E5%AE%9E%E7%8E%B0%E4%B8%8E%E5%BA%94%E7%94%A8%E7%A0%94%E7%A9%B6/</link>
+      <pubDate>Wed, 28 Apr 2021 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/2021/04/cgm-%E7%AC%AC153%E6%9C%9F-%E4%B8%89%E7%BB%B4%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%AD%A6%E7%9A%84%E6%8A%80%E6%9C%AF%E5%AE%9E%E7%8E%B0%E4%B8%8E%E5%BA%94%E7%94%A8%E7%A0%94%E7%A9%B6/</guid>
+      <description>题目：CGM 第153期: 三维基因组学的技术实现与应用研究 时间：美国中部时间 2021年04月28日（星期三）8PM（北京时间04月29日 星期四</description>
+    </item>
+    
+  </channel>
+</rss>
