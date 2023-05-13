@@ -38,6 +38,7 @@ CGM-Biomedicine | GT08032015 | [Nature Medicine](https://www.nature.com/nm/) and
 CGM-DeepLearning | GT08032015 | [Nature Machine Intelligence](https://www.nature.com/natmachintell/) and [Foundations and Trends in Machine Learning]([https://www.science.org/journal/stm](https://www.scimagojr.com/journalsearch.php?q=19300156903&tip=sid&clean=0))
 CGM-Neuroscience |GT08032015 | Nature Neuroscience, Nature Reviews Neuroscience
 CGM EVOLUTION | TTUCSUISU |
+CGM-遗传育种| fengfukangning | Nature Plants
 CGM-SMBE2019|beckyhao13|
 CGM-Botany2019|beckyhao13|
 CGM 三代测序技术交流群  | DongliangDu1983 |   
