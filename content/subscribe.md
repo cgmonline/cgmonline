@@ -35,7 +35,7 @@ CGM北京时区 | e--jan |
 PAG20XX              | qxs718          | [Plant and Animal Genome conference](http://www.intlpag.org) 
 CGM-人类遗传学专场 | GT08032015 | [AJHG](https://www.cell.com/ajhg/home) and [Nature Genetics](https://www.nature.com/ng/), DeepLearning and Omics
 CGM-Biomedicine | GT08032015 | [Nature Medicine](https://www.nature.com/nm/) and [Science Translational Science](https://www.science.org/journal/stm)
-CGM-肿瘤及微环境讨论群 | GT08032015 | Nature Cancer
+CGM-肿瘤及微环境讨论群 | GT08032015 | Nature Cancer, Nature Immunology, and Nature Drug Discovery
 CGM-DeepLearning | GT08032015 | [Nature Machine Intelligence](https://www.nature.com/natmachintell/) and [Foundations and Trends in Machine Learning]([https://www.science.org/journal/stm](https://www.scimagojr.com/journalsearch.php?q=19300156903&tip=sid&clean=0))
 CGM-Neuroscience |GT08032015 | Nature Neuroscience, Nature Reviews Neuroscience
 CGM EVOLUTION | TTUCSUISU |
@@ -46,7 +46,7 @@ CGM 三代测序技术交流群  | DongliangDu1983 |
 CGM Machine Learning | qxs718          |   
 CGM Microbiome|linking_mumu|
 CGM CGM Multiomics|ll68551551|
-CGM_湾区 |ll68551551|
+CGM_旧金山湾区小分队 |ll68551551|
 CGM_东北小分队|mwb_njnuuf|
 
 欢迎其他CGM成员创建相关的讨论组和活动群，新建的群请保持 “CGM XXX”的格式。
