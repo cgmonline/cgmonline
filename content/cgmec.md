@@ -5,16 +5,17 @@ weight: 6
 ---
 
 ## CGM 指导委员会 (Steering Committee)
-- 2022 - [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)(评奖委员会主席)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b) (CGM Business)，[雷栗](https://twitter.com/lilei0051)（Special Project，微信群)， [祁新帅](https://www.linkedin.com/in/xinshuaiqi/) (秘书处)，[武志强](http://agis.caas.cn/rctd/yjtd/226826.htm) (EC China，赞助)，[杨金良](http://jyanglab.com/)(EC general，website), [陈春龙](https://science.institut-curie.org/team-chen)(学术委员会)
+- 2022 - 2023 [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)(评奖委员会主席)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b) (CGM Business)，[雷栗](https://twitter.com/lilei0051)（Special Project，微信群)， [祁新帅](https://www.linkedin.com/in/xinshuaiqi/) (秘书处)，[武志强](http://agis.caas.cn/rctd/yjtd/226826.htm) (EC China，赞助)，[杨金良](http://jyanglab.com/)(EC general，website)，[陈春龙](https://science.institut-curie.org/team-chen)(学术委员会)， [郭士成](https://shicheng-guo.github.io/about)（学术及商务拓展）
 
-- 2019-2021 [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)(评奖委员会主席)，[郝樾](https://yueyvettehao.github.io/) (编辑部， Meeting Minutes)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b) (EC China，CGM Business)，[雷栗](https://twitter.com/lilei0051)（Special Project，HR)， [祁新帅](https://www.linkedin.com/in/xinshuaiqi/) (CGM Business，NGO， Finance)，[刘三震](https://www.plantgenomics.ksu.edu/liulab/)(SC general)，[武志强](http://agis.caas.cn/rctd/yjtd/226826.htm) (EC China)，[杨金良](http://jyanglab.com/)(EC general，website), [陈春龙](https://science.institut-curie.org/team-chen)
+- 2019-2021 [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)(评奖委员会主席)，[郝樾](https://yueyvettehao.github.io/) (编辑部， Meeting Minutes)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b) (EC China，CGM Business)，[雷栗](https://twitter.com/lilei0051)（Special Project，HR)， [祁新帅](https://www.linkedin.com/in/xinshuaiqi/) (CGM Business，NGO， Finance)，[刘三震](https://www.plantgenomics.ksu.edu/liulab/)(SC general)，[武志强](http://agis.caas.cn/rctd/yjtd/226826.htm) (EC China)，[杨金良](http://jyanglab.com/)(EC general，website)，[陈春龙](https://science.institut-curie.org/team-chen)
 
 ## CGM 秘书处 （Secretariat)
-- 01-06, 2022: 祁新帅（秘书长），胡海飞(Operation office)，郭士成(EC Admin office)，李勤(Volunteers’ office/HR)，刘海军，狄晨露，解少俊，呼焕，侯壮伟，黃義竣
+- 01-06, 2022: 祁新帅（秘书长），胡海飞(Operation office)，[郭士成]((https://shicheng-guo.github.io/about))(EC Admin office)，李勤(Volunteers’ office/HR)，刘海军，狄晨露，解少俊，呼焕，侯壮伟，黃義竣
 
 
 ## CGM 北美区执行委员会 (Executive Committee) US
-- 02 - 04, 2022：EC NA14 [郭士成](https://shicheng-guo.github.io/about)（组长），狄晨露(联络，协调)，杨其元（联络，网站），孙畅（公众号）
+- __09 - 06, 2023：EC NA15 孙畅（组长)，郑冰晗（联络+主持), 刘文禹（联络+主持), 樊丹丹（联络+主持), 张常龙（联络+主持+网站), 贾玉涵（联络+主持+公众号), 龚婧雯（联络+主持）, 司一辰（联络+主持), 洪永佳（联络+主持), 狄晨露 (邀请嘉宾+统筹), 郭士成 (邀请嘉宾+统筹)__  
+- 02 - 08, 2022：EC NA14 [郭士成](https://shicheng-guo.github.io/about)（组长），狄晨露(联络，协调)，杨其元（联络，网站），孙畅（公众号）
 - 09 - 12, 2021：EC NA13 黄義竣（组长)， 郭士成（联络+主持），狄晨露（公众号）
 - 05 - 08, 2021：EC NA12 [李勤](https://qli.github.io/)（组长），江纯阶（联络+主持），黄義竣（邀请嘉宾和视频直播）
 - 01 - 04, 2021：EC NA11 解少俊（组长），陈雨露（联络+主持），端韵成（邀请嘉宾和视频直播），袁玉轩（网站和公众号预告更新）
@@ -37,8 +38,9 @@ weight: 6
 - 07 - 12 2019: EC CN1 何逸建(组长)，武志强，李德林，邱杰，李钊，任宁宁，赵汀，马省伟  
 
 ## CGM 欧洲区执行委员会 (Executive Committee) Europe
-- **03 - 08 2021: EC EU1  [陈春龙](https://science.institut-curie.org/team-chen)（组长），邓斯文（组长），刘海军（排期统筹+联络），刘远龙（排期统筹+联络），马校丽（宣传–公众号），彭浩然（宣传–网站），孙燕（宣传–网站），王天鹏（视频直播+主持），张盼盼（视频直播+主持），邹小晴（宣传–公众号）**
-- **09 - 10 2021: EC EU2  王天鹏（组长、直播），[李雪莹](https://xueyingcli.weebly.com/)（联络+主持），冼文飞（联络+主持），陈焱森（视频直播），张文刚（网站+公众号），杨壮（网站+公众号），刘海军（联络+主持），陈春龙（统筹）**
+- **03 - 26 2022: EC EU3**  冼文飞（组长、直播），[李雪莹](https://xueyingcli.weebly.com/)（联络+主持），任明磊（联络+主持），翁晨春（联络+主持），刘益华（视频直播），张上哲（宣传-网站），江晨阳（宣传-公众号），曹昱（宣传-公众号），刘海军（统筹），陈春龙（统筹）
+- **09 - 10 2021: EC EU2**  王天鹏（组长、直播），[李雪莹](https://xueyingcli.weebly.com/)（联络+主持），冼文飞（联络+主持），陈焱森（视频直播），张文刚（网站+公众号），杨壮（网站+公众号），刘海军（联络+主持），陈春龙（统筹）
+- **03 - 08 2021: EC EU1**  [陈春龙](https://science.institut-curie.org/team-chen)（组长），邓斯文（组长），刘海军（排期统筹+联络），刘远龙（排期统筹+联络），马校丽（宣传–公众号），彭浩然（宣传–网站），孙燕（宣传–网站），王天鹏（视频直播+主持），张盼盼（视频直播+主持），邹小晴（宣传–公众号）
 
 ## CGM 公众号编辑委员会 (Editorial Committee)
 

@@ -6,10 +6,19 @@
     <description>Recent content in genome editing on 华人基因组学在线沙龙</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 18 Mar 2020 17:15:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jan 2022 20:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://cgmonline.co/tags/genome-editing/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>胞嘧啶碱基编辑器脱靶检测技术的开发</title>
+      <link>https://cgmonline.co/2022/01/%E8%83%9E%E5%98%A7%E5%95%B6%E7%A2%B1%E5%9F%BA%E7%BC%96%E8%BE%91%E5%99%A8%E8%84%B1%E9%9D%B6%E6%A3%80%E6%B5%8B%E6%8A%80%E6%9C%AF%E7%9A%84%E5%BC%80%E5%8F%91/</link>
+      <pubDate>Thu, 06 Jan 2022 20:00:00 +0000</pubDate>
+      
+      <guid>https://cgmonline.co/2022/01/%E8%83%9E%E5%98%A7%E5%95%B6%E7%A2%B1%E5%9F%BA%E7%BC%96%E8%BE%91%E5%99%A8%E8%84%B1%E9%9D%B6%E6%A3%80%E6%B5%8B%E6%8A%80%E6%9C%AF%E7%9A%84%E5%BC%80%E5%8F%91/</guid>
+      <description>题目：胞嘧啶碱基编辑器脱靶检测技术的开发 时间：美国中部时间 2022年01月06日（星期四）7AM（北京时间01月06日9PM） 地点：Tece</description>
+    </item>
     
     <item>
       <title>CGM 第86期：机器学习在基因组工程和生物技术中的应用</title>

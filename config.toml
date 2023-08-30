@@ -41,34 +41,32 @@ disableKinds = ["section"]
 [[menu.top]]
   name = "往期活动"
   url = "/tags/talks/"
-  weight = 5
+  weight = 2
 
+[[menu.top]]
+  name = "人物专访"
+  url = "/categories/人物专访/"
+  weight = 3
+
+[[menu.top]]
+  name = "专题讨论"
+  url = "/categories/专题讨论/"
+  weight = 4
+
+[[menu.top]]
+  name = "学术报告"
+  url = "/categories/学术报告/"
+  weight = 5
 
 [[menu.main]]
   name = "关键词"
   url = "/tags/"
-  weight = 5
-
-[[menu.main]]
-  name = "人物专访"
-  url = "/categories/人物专访/"
   weight = 1
-
-[[menu.main]]
-  name = "专题讨论"
-  url = "/categories/专题讨论/"
-  weight = 2
-
-[[menu.main]]
-  name = "学术报告"
-  url = "/categories/学术报告/"
-  weight = 3
-
 
 [[menu.main]]
   name = "企业群"
   url = "/categories/企业群/"
-  weight = 6
+  weight = 2
 
 [params.banner]
   src = "/img/logo.png"

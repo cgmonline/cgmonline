@@ -1,6 +1,6 @@
 ---
 title: "公众号"
-menu: [top]
+menu: [main]
 weight: 6
 ---
 
