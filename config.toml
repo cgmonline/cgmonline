@@ -37,11 +37,16 @@ disableKinds = ["section"]
   url = "/"
   weight = 1
 
+# [[menu.top]]
+#  name = "往期活动"
+#  url = "/tags/talks/"
+#  weight = 2
 
 [[menu.top]]
-  name = "往期活动"
-  url = "/tags/talks/"
+  name = "学术报告"
+  url = "/categories/学术报告/"
   weight = 2
+
 
 [[menu.top]]
   name = "人物专访"
@@ -53,10 +58,6 @@ disableKinds = ["section"]
   url = "/categories/专题讨论/"
   weight = 4
 
-[[menu.top]]
-  name = "学术报告"
-  url = "/categories/学术报告/"
-  weight = 5
 
 [[menu.main]]
   name = "关键词"
