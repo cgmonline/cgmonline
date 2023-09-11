@@ -39,6 +39,7 @@ CGM-肿瘤及微环境讨论群 | GT08032015 | Nature Cancer, Nature Immunology,
 CGM-DeepLearning | GT08032015 | [Nature Machine Intelligence](https://www.nature.com/natmachintell/) and [Foundations and Trends in Machine Learning]([https://www.science.org/journal/stm](https://www.scimagojr.com/journalsearch.php?q=19300156903&tip=sid&clean=0))
 CGM-Neuroscience |GT08032015 | Nature Neuroscience, Nature Reviews Neuroscience
 CGM EVOLUTION | TTUCSUISU |
+CGM Workflow/Pipeline | GT08032015 | [Bioinformatics](https://academic.oup.com/bioinformatics), [Nature Method](https://www.nature.com/nmeth/), [Nature Protocol](https://www.nature.com/nprot/)
 CGM-遗传育种| fengfukangning | Nature Plants
 CGM-SMBE2019|beckyhao13|
 CGM-Botany2019|beckyhao13|
