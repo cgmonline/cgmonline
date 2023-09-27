@@ -10,7 +10,7 @@ weight: 6
 - 2019-2021 [邓斯文](http://plantandmicrobiology.berkeley.edu/profile/sdeng)(评奖委员会主席)，[郝樾](https://yueyvettehao.github.io/) (编辑部， Meeting Minutes)，[何逸建](https://www.linkedin.com/in/yijian-he-72a7548b) (EC China，CGM Business)，[雷栗](https://twitter.com/lilei0051)（Special Project，HR)， [祁新帅](https://www.linkedin.com/in/xinshuaiqi/) (CGM Business，NGO， Finance)，[刘三震](https://www.plantgenomics.ksu.edu/liulab/)(SC general)，[武志强](http://agis.caas.cn/rctd/yjtd/226826.htm) (EC China)，[杨金良](http://jyanglab.com/)(EC general，website)，[陈春龙](https://science.institut-curie.org/team-chen)
 
 ## CGM 秘书处 （Secretariat)
-- 01-06, 2022: 祁新帅（秘书长），胡海飞(Operation office)，[郭士成]((https://shicheng-guo.github.io/about))(EC Admin office)，李勤(Volunteers’ office/HR)，刘海军，狄晨露，解少俊，呼焕，侯壮伟，黃義竣
+- 01-06, 2022: 祁新帅（秘书长），胡海飞(Operation office)，[郭士成]((https://shicheng-guo.github.io/about))(EC Admin office)，李勤(Volunteers’ office/HR)，刘海军，狄晨露，解少俊，呼焕，侯壮伟，黃義竣，张丹
 
 
 ## CGM 北美区执行委员会 (Executive Committee) US
@@ -31,7 +31,7 @@ weight: 6
 - 09 - 12, 2017：EC NA1 [刘三震](http://plantgenomics.ksu.edu/liulab)（组长），邓斯文（网站），安宏（视频直播）
 
 ## CGM 中国区执行委员会 (Executive Committee) China
-- **11 - 04 2022: EC CN5 [胡冠菁](https://huguanjing.github.io/)（组长，主持，召集报告人)，李方平（公众号编辑，召集报告人)，呼焕（YouTube视频搬运；哔哩哔哩直播)，徐鹏（主持)，吴浩然（视频转播)，[庞志强](https://www.researchgate.net/profile/Zhiqiang-Pang)（腾讯会议，B站上传)，刘潜（网站更新）**  
+- **11 - 04 2022: EC CN5 [胡冠菁](https://huguanjing.github.io/)（组长，主持，召集报告人)，李方平（公众号编辑，召集报告人)，呼焕（YouTube视频搬运；哔哩哔哩直播)，徐鹏（主持)，吴浩然（视频转播)，[庞志强](https://www.researchgate.net/profile/Zhiqiang-Pang)（腾讯会议，B站上传)，刘潜（网站更新），张丹** 
 - 01 - 10 2021: EC CN4 武志强(组长)，侯壮伟(主持，召集报告人，视频转播)，李德林(视频转播)，魏嘉璐(公众号编辑)，李钊(主持，网站更新)，徐鹏(主持)，吴浩然(视频转播）  
 - 07 - 12 2020: EC CN3 武志强(组长)，李钊，候壮伟，李爱富，魏嘉璐  
 - 01 - 06 2020: EC CN2 武志强(组长)，李德林，邱杰，李钊，任宁宁，赵汀，马省伟， 何逸建  
