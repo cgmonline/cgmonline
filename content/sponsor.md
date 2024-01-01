@@ -14,7 +14,7 @@ GrandOmics 希望组
 
 ## Silver赞助伙伴：
 
-BENAGEN 贝纳基因
+BENAGEN 贝纳基因  
 Kindstar Global 康圣环球
 
 <div align="center">
