@@ -1,0 +1,11 @@
+# Netlify build config for cgmonline.co
+# -F/--buildFuture is required so upcoming-talk announcements (posts dated in the
+# future) are published before the talk date. HUGO_VERSION is pinned to the version
+# the site has always built with; do not bump it without testing (newer Hugo defaults
+# to the Goldmark renderer, which drops the raw <img> speaker-photo HTML).
+[build]
+  command = "hugo -F"
+  publish = "docs"
+
+[build.environment]
+  HUGO_VERSION = "0.25.1"
