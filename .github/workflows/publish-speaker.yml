@@ -1,0 +1,45 @@
+name: Publish speaker talk
+
+# When a speaker markdown file is pushed into speaker/, convert it into a
+# 学术报告 post under content/post/ and commit it back. Netlify (which builds
+# this site from source) then rebuilds and deploys cgmonline.co automatically.
+on:
+  push:
+    branches: [master]
+    paths:
+      - "speaker/**.md"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-speaker
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install pyyaml
+
+      - name: Convert speaker/*.md -> content/post/
+        run: python3 scripts/build_speaker.py
+
+      - name: Commit generated posts
+        run: |
+          git config user.name "Shicheng Guo"
+          git config user.email "Shicheng.Guo@hotmail.com"
+          git add content/post
+          if git diff --cached --quiet; then
+            echo "No new/changed posts; nothing to commit."
+            exit 0
+          fi
+          git commit -m "Auto-publish speaker talk [skip ci]"
+          git push origin HEAD:master
