@@ -10,7 +10,7 @@ CGM五年来，秉持学术优先(Science First)的原则，持续的呈现给�
 
 ## 微信群
 
-要加入我们的微信群，请添加以下任意一位为微信好友 jinliangy97, qxs718，e-jan, Siven-D, beckyhao13 并注明"CGM"。
+要加入我们的微信群，请添加以下任意一位为微信好友 jinliangy97, qxs718，e-jan, Siven-D, beckyhao13, GT08032015并注明"CGM"。
 
 
 # 如何参与CGM Hangouts在线讨论
